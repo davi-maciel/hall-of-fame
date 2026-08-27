@@ -1,0 +1,101 @@
+{
+  "olympiadId": "nbpho",
+  "description": "Independent web sources confirming Brazilian NBPhO participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "nbpho.ee official results PDFs.",
+    "primary": "SBF articles, schools (Etapa), Brazilian press (O Povo, NE9).",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "All three official nbpho.ee PDFs verified live 2026-08-22.",
+    "Official PDFs use short/truncated name forms; SBF's 2025 article is the full-name authority for that year.",
+    "Brazil's absences 2021–2024 are documented — no participation to source."
+  ],
+  "years": [
+    {
+      "year": 2020,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://nbpho.ee/wp-content/uploads/2020/05/NB_final_results_publish.pdf",
+          "domain": "nbpho.ee",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "17th NBPhO (online) final results — G Antonio Italo, S Felipe Farias + Lucas Shoji, B Lucas Takayasu + 'Maria Freitas'",
+          "needle": "Lucas Takayasu"
+        },
+        {
+          "url": "https://blog.etapa.com.br/noticias/olimpiada-de-fisica-dos-paises-balticos",
+          "domain": "blog.etapa.com.br",
+          "cls": "primary",
+          "coverage": "2/5",
+          "confirms": "Etapa (04/06/2020): prata+bronze, 17ª NBPhO online, 'primeira participação do Brasil'",
+          "needle": "Lucas Shoji"
+        }
+      ],
+      "note": "nbpho.ee/nbpho-2020/ is 404 — the real page is nbpho.ee/nbpho2020/ (no hyphen). NOIC's NBPhO info page wrongly claims Brazil debuted in 2021; the official 2020 PDF + Etapa post prove 2020."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://nbpho.ee/wp-content/uploads/2025/04/NBPhO-2025-grading-Final-for-web.pdf",
+          "domain": "nbpho.ee",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "grading/results PDF (short-form names; medals match dataset)",
+          "needle": "Mateus Sussia"
+        },
+        {
+          "url": "https://www1.fisica.org.br/olimpiada/2025/index.php/15-soif/367-desempenho-de-destaque-na-nbpho-2025",
+          "domain": "fisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF: full names + schools + medals, Tallinn 25–27 Apr",
+          "needle": "Tobias Gabriel Utz"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://nbpho.ee/wp-content/uploads/2026/04/NBPhO-2026-results.pdf",
+          "domain": "nbpho.ee",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "results PDF (surname column truncated: 'Carneiro Bitten', 'Ulisses Fonsec')",
+          "needle": "Benny Pereira"
+        },
+        {
+          "url": "https://mais.opovo.com.br/jornal/cidades/2026/05/03/aluno-cearense-se-destaca-em-olimpiada-internacional-de-fisica-na-estonia.html",
+          "domain": "opovo.com.br",
+          "cls": "primary",
+          "coverage": "1/5",
+          "confirms": "O Povo (03/05/2026): prata, Tallinn, best Brazilian",
+          "needle": "Matheus Facó"
+        },
+        {
+          "url": "https://ne9.com.br/conheca-o-aluno-cearense-vice-campeao-da-olimpiada-de-fisica-na-europa/",
+          "domain": "ne9.com.br",
+          "cls": "primary",
+          "coverage": "1/5",
+          "confirms": "NE9 (30/04/2026): prata, Colégio 7 de Setembro",
+          "needle": "Matheus Facó"
+        }
+      ],
+      "note": "PDF spells 'Leonardo Facó' vs dataset 'Faco' — accent variant, same person (Matheus Leonardo Faco)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hall da Fama — estudante</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <p class="sub"><a href="./" id="back">← Todos os estudantes</a></p>
+  <h1 id="p-name">Carregando…</h1>
+  <p class="sub" id="p-variants" hidden></p>
+  <p class="sub" id="p-summary"></p>
+</header>
+
+<main>
+  <div class="table-wrap">
+    <table id="table">
+      <thead>
+        <tr><th class="num">Ano</th><th>Olimpíada</th><th>Resultado</th><th>Equipe</th></tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+</main>
+
+<section class="sources" id="p-sources" hidden>
+  <h2>Fontes</h2>
+  <div id="p-sources-list"></div>
+</section>
+
+<script src="person.js"></script>
+</body>
+</html>

@@ -1,0 +1,4192 @@
+{
+  "students": {
+    "enzo-ivamoto-hirota": {
+      "id": "enzo-ivamoto-hirota",
+      "name": "Enzo Ivamoto Hirota",
+      "searchKey": "enzo ivamoto hirota",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gustavo-nogueira-mendes": {
+      "id": "gustavo-nogueira-mendes",
+      "name": "Gustavo Nogueira Mendes",
+      "searchKey": "gustavo nogueira mendes",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-paulo-campos-de-oliveira": {
+      "id": "joao-paulo-campos-de-oliveira",
+      "name": "João Paulo Campos de Oliveira",
+      "searchKey": "joao paulo campos de oliveira",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "joao-pedro-gomes-cordeiro-de-castro": {
+      "id": "joao-pedro-gomes-cordeiro-de-castro",
+      "name": "João Pedro Gomes Cordeiro de Castro",
+      "searchKey": "joao pedro gomes cordeiro de castro",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "julia-galdino-tiosso-lopez": {
+      "id": "julia-galdino-tiosso-lopez",
+      "name": "Julia Galdino Tiosso Lopez",
+      "searchKey": "julia galdino tiosso lopez",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "leonardo-de-faria-pottes": {
+      "id": "leonardo-de-faria-pottes",
+      "name": "Leonardo de Faria Pottes",
+      "searchKey": "leonardo de faria pottes",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "maria-clara-fontes-silva": {
+      "id": "maria-clara-fontes-silva",
+      "name": "Maria Clara Fontes Silva",
+      "searchKey": "maria clara fontes silva",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "matheus-moreira-cabral": {
+      "id": "matheus-moreira-cabral",
+      "name": "Matheus Moreira Cabral",
+      "searchKey": "matheus moreira cabral",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "pedro-suyama-leston-rey": {
+      "id": "pedro-suyama-leston-rey",
+      "name": "Pedro Suyama Leston Rey",
+      "searchKey": "pedro suyama leston rey",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "sofia-torres-de-paula-cintra": {
+      "id": "sofia-torres-de-paula-cintra",
+      "name": "Sofia Torres de Paula Cintra",
+      "searchKey": "sofia torres de paula cintra",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "caique-paiva": {
+      "id": "caique-paiva",
+      "name": "Caique Paiva",
+      "searchKey": "caique paiva",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "carlos-cabral-de-menezes-filho": {
+      "id": "carlos-cabral-de-menezes-filho",
+      "name": "Carlos Cabral de Menezes Filho",
+      "searchKey": "carlos cabral de menezes filho",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "fernando-graminholi-goncalves": {
+      "id": "fernando-graminholi-goncalves",
+      "name": "Fernando Graminholi Gonçalves",
+      "searchKey": "fernando graminholi goncalves",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "lucas-cardoso-garcia": {
+      "id": "lucas-cardoso-garcia",
+      "name": "Lucas Cardoso Garcia",
+      "searchKey": "lucas cardoso garcia",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "murilo-maeda-kataoka": {
+      "id": "murilo-maeda-kataoka",
+      "name": "Murilo Maeda Kataoka",
+      "searchKey": "murilo maeda kataoka",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "pedro-henrique-assuncao": {
+      "id": "pedro-henrique-assuncao",
+      "name": "Pedro Henrique Assunção",
+      "searchKey": "pedro henrique assuncao",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "arthur-lobo-leite-lopes": {
+      "id": "arthur-lobo-leite-lopes",
+      "name": "Arthur Lobo Leite Lopes",
+      "searchKey": "arthur lobo leite lopes",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "enzo-dantas-de-britto-monte-araujo": {
+      "id": "enzo-dantas-de-britto-monte-araujo",
+      "name": "Enzo Dantas de Britto Monte Araújo",
+      "searchKey": "enzo dantas de britto monte araujo",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "filipe-de-souza-lalic": {
+      "id": "filipe-de-souza-lalic",
+      "name": "Filipe de Souza Lalic",
+      "searchKey": "filipe de souza lalic",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "leandro-marcos-checchio-de-souza": {
+      "id": "leandro-marcos-checchio-de-souza",
+      "name": "Leandro Marcos Checchio de Souza",
+      "searchKey": "leandro marcos checchio de souza",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gabriel-lucas-costa-martins": {
+      "id": "gabriel-lucas-costa-martins",
+      "name": "Gabriel Lucas Costa Martins",
+      "searchKey": "gabriel lucas costa martins",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    },
+    "leonardo-valente-nascimento": {
+      "id": "leonardo-valente-nascimento",
+      "name": "Leonardo Valente Nascimento",
+      "searchKey": "leonardo valente nascimento",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "luiz-felipe-funaki-bigarelli": {
+      "id": "luiz-felipe-funaki-bigarelli",
+      "name": "Luiz Felipe Funaki Bigarelli",
+      "searchKey": "luiz felipe funaki bigarelli",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    },
+    "marcos-paulo-evers-cordeiro": {
+      "id": "marcos-paulo-evers-cordeiro",
+      "name": "Marcos Paulo Evers Cordeiro",
+      "searchKey": "marcos paulo evers cordeiro",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-nascimento-soares": {
+      "id": "rafael-nascimento-soares",
+      "name": "Rafael Nascimento Soares",
+      "searchKey": "rafael nascimento soares",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "vladimir-arauzo-huisa": {
+      "id": "vladimir-arauzo-huisa",
+      "name": "Vladimir Arauzo Huisa",
+      "searchKey": "vladimir arauzo huisa",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2023,
+          "medal": null
+        }
+      ]
+    },
+    "brunno-rezende-dos-santos": {
+      "id": "brunno-rezende-dos-santos",
+      "name": "Brunno Rezende dos Santos",
+      "searchKey": "brunno rezende dos santos",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "carolina-moura-valle-costa": {
+      "id": "carolina-moura-valle-costa",
+      "name": "Carolina Moura Valle Costa",
+      "searchKey": "carolina moura valle costa",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "erik-cruz-morbach": {
+      "id": "erik-cruz-morbach",
+      "name": "Erik Cruz Morbach",
+      "searchKey": "erik cruz morbach",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "leonardo-de-andrade-paes": {
+      "id": "leonardo-de-andrade-paes",
+      "name": "Leonardo de Andrade Paes",
+      "searchKey": "leonardo de andrade paes",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "silver"
+        }
+      ]
+    },
+    "luca-dantas-de-britto-monte-araujo": {
+      "id": "luca-dantas-de-britto-monte-araujo",
+      "name": "Luca Dantas de Britto Monte Araujo",
+      "searchKey": "luca dantas de britto monte araujo",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "lucio-cardoso-dias-de-figueiredo-filho": {
+      "id": "lucio-cardoso-dias-de-figueiredo-filho",
+      "name": "Lúcio Cardoso Dias de Figueiredo Filho",
+      "searchKey": "lucio cardoso dias de figueiredo filho",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "silver"
+        }
+      ]
+    },
+    "pedro-shinzato-chen": {
+      "id": "pedro-shinzato-chen",
+      "name": "Pedro Shinzato Chen",
+      "searchKey": "pedro shinzato chen",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "kenzo-yves-yamashita-nobre": {
+      "id": "kenzo-yves-yamashita-nobre",
+      "name": "Kenzo Yves Yamashita Nobre",
+      "searchKey": "kenzo yves yamashita nobre",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "klaus-augustus-ramos-reiniger": {
+      "id": "klaus-augustus-ramos-reiniger",
+      "name": "Klaus Augustus Ramos Reiniger",
+      "searchKey": "klaus augustus ramos reiniger",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "luiz-henrique-yuji-delgado-oda": {
+      "id": "luiz-henrique-yuji-delgado-oda",
+      "name": "Luiz Henrique Yuji Delgado Oda",
+      "searchKey": "luiz henrique yuji delgado oda",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "willian-miura-mori": {
+      "id": "willian-miura-mori",
+      "name": "Willian Miura Mori",
+      "searchKey": "willian miura mori",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": null
+        }
+      ]
+    },
+    "yan-matheus-tavares-e-silva": {
+      "id": "yan-matheus-tavares-e-silva",
+      "name": "Yan Matheus Tavares e Silva",
+      "searchKey": "yan matheus tavares e silva",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "alan-hahn-pereira": {
+      "id": "alan-hahn-pereira",
+      "name": "Alan Hahn Pereira",
+      "searchKey": "alan hahn pereira",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "cirilo-max-macedo-de-morais-filho": {
+      "id": "cirilo-max-macedo-de-morais-filho",
+      "name": "Cirilo Max Macedo de Morais Filho",
+      "searchKey": "cirilo max macedo de morais filho",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": null
+        },
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "igor-brito-andrade": {
+      "id": "igor-brito-andrade",
+      "name": "Igor Brito Andrade",
+      "searchKey": "igor brito andrade",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-victor-teixeira-degelo": {
+      "id": "joao-victor-teixeira-degelo",
+      "name": "João Victor Teixeira Degelo",
+      "searchKey": "joao victor teixeira degelo",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "willian-wang": {
+      "id": "willian-wang",
+      "name": "Willian Wang",
+      "searchKey": "willian wang",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": null
+        },
+        {
+          "olympiad": "oii",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "frederico-bulhoes-de-sousa-ribeiro": {
+      "id": "frederico-bulhoes-de-sousa-ribeiro",
+      "name": "Frederico Bulhões de Sousa Ribeiro",
+      "searchKey": "frederico bulhoes de sousa ribeiro",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-victor-soares-aleixo": {
+      "id": "joao-victor-soares-aleixo",
+      "name": "João Victor Soares Aleixo",
+      "searchKey": "joao victor soares aleixo",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": null
+        }
+      ]
+    },
+    "pedro-lucas-lanaro-sponchiado": {
+      "id": "pedro-lucas-lanaro-sponchiado",
+      "name": "Pedro Lucas Lanaro Sponchiado",
+      "searchKey": "pedro lucas lanaro sponchiado",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "thiago-mota-martins": {
+      "id": "thiago-mota-martins",
+      "name": "Thiago Mota Martins",
+      "searchKey": "thiago mota martins",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "tiago-domingos-almeida-souza": {
+      "id": "tiago-domingos-almeida-souza",
+      "name": "Tiago Domingos Almeida Souza",
+      "searchKey": "tiago domingos almeida souza",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "yan-victor-souza-guimaraes": {
+      "id": "yan-victor-souza-guimaraes",
+      "name": "Yan Victor Souza Guimarães",
+      "searchKey": "yan victor souza guimaraes",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "beatriz-cunha-freire": {
+      "id": "beatriz-cunha-freire",
+      "name": "Beatriz Cunha Freire",
+      "searchKey": "beatriz cunha freire",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriel-silva-simoes": {
+      "id": "gabriel-silva-simoes",
+      "name": "Gabriel Silva Simões",
+      "searchKey": "gabriel silva simoes",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "ivan-de-avila-ribeiro-carvalho": {
+      "id": "ivan-de-avila-ribeiro-carvalho",
+      "name": "Ivan de Ávila Ribeiro Carvalho",
+      "searchKey": "ivan de avila ribeiro carvalho",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "joao-guilherme-madeira-araujo": {
+      "id": "joao-guilherme-madeira-araujo",
+      "name": "João Guilherme Madeira Araújo",
+      "searchKey": "joao guilherme madeira araujo",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "matheus-leal-viana": {
+      "id": "matheus-leal-viana",
+      "name": "Matheus Leal Viana",
+      "searchKey": "matheus leal viana",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "carlos-vinicios-ferreira-santos": {
+      "id": "carlos-vinicios-ferreira-santos",
+      "name": "Carlos Vinícios Ferreira Santos",
+      "searchKey": "carlos vinicios ferreira santos",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2016,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gustavo-nunes-de-oliveira": {
+      "id": "gustavo-nunes-de-oliveira",
+      "name": "Gustavo Nunes de Oliveira",
+      "searchKey": "gustavo nunes de oliveira",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "pedro-henrique-sacramento-de-oliveira": {
+      "id": "pedro-henrique-sacramento-de-oliveira",
+      "name": "Pedro Henrique Sacramento de Oliveira",
+      "searchKey": "pedro henrique sacramento de oliveira",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2016,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "rogerio-aristida-guimaraes-junior": {
+      "id": "rogerio-aristida-guimaraes-junior",
+      "name": "Rogério Aristida Guimarães Junior",
+      "searchKey": "rogerio aristida guimaraes junior",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2016,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "thiago-sena-de-queiroz": {
+      "id": "thiago-sena-de-queiroz",
+      "name": "Thiago Sena de Queiroz",
+      "searchKey": "thiago sena de queiroz",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "william-hideki-kondo": {
+      "id": "william-hideki-kondo",
+      "name": "William Hideki Kondo",
+      "searchKey": "william hideki kondo",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2017,
+          "medal": "silver"
+        }
+      ]
+    },
+    "lucca-morais-de-arruda-siaudzionis": {
+      "id": "lucca-morais-de-arruda-siaudzionis",
+      "name": "Lucca Morais de Arruda Siaudzionis",
+      "searchKey": "lucca morais de arruda siaudzionis",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2015,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2016,
+          "medal": "gold"
+        }
+      ]
+    },
+    "victor-agnez-lima": {
+      "id": "victor-agnez-lima",
+      "name": "Victor Agnez Lima",
+      "searchKey": "victor agnez lima",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2016,
+          "medal": "gold"
+        }
+      ]
+    },
+    "arthur-pratti-dadalto": {
+      "id": "arthur-pratti-dadalto",
+      "name": "Arthur Pratti Dadalto",
+      "searchKey": "arthur pratti dadalto",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2014,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "mateus-bezrutchka": {
+      "id": "mateus-bezrutchka",
+      "name": "Mateus Bezrutchka",
+      "searchKey": "mateus bezrutchka",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2014,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2015,
+          "medal": "gold"
+        }
+      ]
+    },
+    "murilo-corato-zanarella": {
+      "id": "murilo-corato-zanarella",
+      "name": "Murilo Corato Zanarella",
+      "searchKey": "murilo corato zanarella",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2015,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "arthur-ferreira-do-nascimento": {
+      "id": "arthur-ferreira-do-nascimento",
+      "name": "Arthur Ferreira do Nascimento",
+      "searchKey": "arthur ferreira do nascimento",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2014,
+          "medal": "silver"
+        }
+      ]
+    },
+    "michel-rozenberg-zelazny": {
+      "id": "michel-rozenberg-zelazny",
+      "name": "Michel Rozenberg Zelazny",
+      "searchKey": "michel rozenberg zelazny",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2013,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "oii",
+          "year": 2014,
+          "medal": "gold"
+        }
+      ]
+    },
+    "mateus-carvalho-dantas": {
+      "id": "mateus-carvalho-dantas",
+      "name": "Mateus Carvalho Dantas",
+      "searchKey": "mateus carvalho dantas",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2013,
+          "medal": "gold"
+        }
+      ]
+    },
+    "ramon-silva-de-lima": {
+      "id": "ramon-silva-de-lima",
+      "name": "Ramon Silva de Lima",
+      "searchKey": "ramon silva de lima",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2013,
+          "medal": "silver"
+        }
+      ]
+    },
+    "andre-amaral-de-sousa": {
+      "id": "andre-amaral-de-sousa",
+      "name": "André Amaral de Sousa",
+      "searchKey": "andre amaral de sousa",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "caique-porto-lira": {
+      "id": "caique-porto-lira",
+      "name": "Caique Porto Lira",
+      "searchKey": "caique porto lira",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2012,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "marcos-massayuki-kawakami": {
+      "id": "marcos-massayuki-kawakami",
+      "name": "Marcos Massayuki Kawakami",
+      "searchKey": "marcos massayuki kawakami",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "renato-ferreira-pinto-junior": {
+      "id": "renato-ferreira-pinto-junior",
+      "name": "Renato Ferreira Pinto Junior",
+      "searchKey": "renato ferreira pinto junior",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2012,
+          "medal": "gold"
+        }
+      ]
+    },
+    "ricardo-hahn-pereira": {
+      "id": "ricardo-hahn-pereira",
+      "name": "Ricardo Hahn Pereira",
+      "searchKey": "ricardo hahn pereira",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2007,
+          "medal": "silver"
+        }
+      ]
+    },
+    "andre-slepetys": {
+      "id": "andre-slepetys",
+      "name": "André Slepetys",
+      "searchKey": "andre slepetys",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bruno-jose-da-costa-medeiros": {
+      "id": "bruno-jose-da-costa-medeiros",
+      "name": "Bruno José da Costa Medeiros",
+      "searchKey": "bruno jose da costa medeiros",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "cesario-bruno-de-barros-martins": {
+      "id": "cesario-bruno-de-barros-martins",
+      "name": "Cesario Bruno de Barros Martins",
+      "searchKey": "cesario bruno de barros martins",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "helder-toshiro-suzuki": {
+      "id": "helder-toshiro-suzuki",
+      "name": "Helder Toshiro Suzuki",
+      "searchKey": "helder toshiro suzuki",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "joel-silva-uchoa": {
+      "id": "joel-silva-uchoa",
+      "name": "Joel Silva Uchoa",
+      "searchKey": "joel silva uchoa",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "marcelo-busana": {
+      "id": "marcelo-busana",
+      "name": "Marcelo Busana",
+      "searchKey": "marcelo busana",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "paulo-roberto-almeida-costa": {
+      "id": "paulo-roberto-almeida-costa",
+      "name": "Paulo Roberto Almeida Costa",
+      "searchKey": "paulo roberto almeida costa",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "silver"
+        }
+      ]
+    },
+    "raphael-bergson-de-araujo-carneiro": {
+      "id": "raphael-bergson-de-araujo-carneiro",
+      "name": "Raphael Bergson de Araújo Carneiro",
+      "searchKey": "raphael bergson de araujo carneiro",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "raphael-henrique-ribas": {
+      "id": "raphael-henrique-ribas",
+      "name": "Raphael Henrique Ribas",
+      "searchKey": "raphael henrique ribas",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rudy-matela-braquehais": {
+      "id": "rudy-matela-braquehais",
+      "name": "Rudy Matela Braquehais",
+      "searchKey": "rudy matela braquehais",
+      "participations": [
+        {
+          "olympiad": "oii",
+          "year": 2004,
+          "medal": "silver"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "andre-slepetys",
+      "target": "bruno-jose-da-costa-medeiros",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "cesario-bruno-de-barros-martins",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "helder-toshiro-suzuki",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "joel-silva-uchoa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "marcelo-busana",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "paulo-roberto-almeida-costa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "cesario-bruno-de-barros-martins",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "helder-toshiro-suzuki",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "joel-silva-uchoa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "marcelo-busana",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "paulo-roberto-almeida-costa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "bruno-jose-da-costa-medeiros",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "helder-toshiro-suzuki",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "joel-silva-uchoa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "marcelo-busana",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "paulo-roberto-almeida-costa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "cesario-bruno-de-barros-martins",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "helder-toshiro-suzuki",
+      "target": "joel-silva-uchoa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "helder-toshiro-suzuki",
+      "target": "marcelo-busana",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "helder-toshiro-suzuki",
+      "target": "paulo-roberto-almeida-costa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "helder-toshiro-suzuki",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "helder-toshiro-suzuki",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "helder-toshiro-suzuki",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "joel-silva-uchoa",
+      "target": "marcelo-busana",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "joel-silva-uchoa",
+      "target": "paulo-roberto-almeida-costa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "joel-silva-uchoa",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "joel-silva-uchoa",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "joel-silva-uchoa",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "marcelo-busana",
+      "target": "paulo-roberto-almeida-costa",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "marcelo-busana",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "marcelo-busana",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "marcelo-busana",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "paulo-roberto-almeida-costa",
+      "target": "raphael-bergson-de-araujo-carneiro",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "paulo-roberto-almeida-costa",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "paulo-roberto-almeida-costa",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "raphael-bergson-de-araujo-carneiro",
+      "target": "raphael-henrique-ribas",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "raphael-bergson-de-araujo-carneiro",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "raphael-henrique-ribas",
+      "target": "rudy-matela-braquehais",
+      "olympiad": "oii",
+      "year": 2004
+    },
+    {
+      "source": "andre-amaral-de-sousa",
+      "target": "caique-porto-lira",
+      "olympiad": "oii",
+      "year": 2012
+    },
+    {
+      "source": "andre-amaral-de-sousa",
+      "target": "marcos-massayuki-kawakami",
+      "olympiad": "oii",
+      "year": 2012
+    },
+    {
+      "source": "andre-amaral-de-sousa",
+      "target": "renato-ferreira-pinto-junior",
+      "olympiad": "oii",
+      "year": 2012
+    },
+    {
+      "source": "caique-porto-lira",
+      "target": "marcos-massayuki-kawakami",
+      "olympiad": "oii",
+      "year": 2012
+    },
+    {
+      "source": "caique-porto-lira",
+      "target": "renato-ferreira-pinto-junior",
+      "olympiad": "oii",
+      "year": 2012
+    },
+    {
+      "source": "marcos-massayuki-kawakami",
+      "target": "renato-ferreira-pinto-junior",
+      "olympiad": "oii",
+      "year": 2012
+    },
+    {
+      "source": "mateus-carvalho-dantas",
+      "target": "michel-rozenberg-zelazny",
+      "olympiad": "oii",
+      "year": 2013
+    },
+    {
+      "source": "mateus-carvalho-dantas",
+      "target": "ramon-silva-de-lima",
+      "olympiad": "oii",
+      "year": 2013
+    },
+    {
+      "source": "michel-rozenberg-zelazny",
+      "target": "ramon-silva-de-lima",
+      "olympiad": "oii",
+      "year": 2013
+    },
+    {
+      "source": "arthur-ferreira-do-nascimento",
+      "target": "arthur-pratti-dadalto",
+      "olympiad": "oii",
+      "year": 2014
+    },
+    {
+      "source": "arthur-ferreira-do-nascimento",
+      "target": "mateus-bezrutchka",
+      "olympiad": "oii",
+      "year": 2014
+    },
+    {
+      "source": "arthur-ferreira-do-nascimento",
+      "target": "michel-rozenberg-zelazny",
+      "olympiad": "oii",
+      "year": 2014
+    },
+    {
+      "source": "arthur-pratti-dadalto",
+      "target": "mateus-bezrutchka",
+      "olympiad": "oii",
+      "year": 2014
+    },
+    {
+      "source": "arthur-pratti-dadalto",
+      "target": "michel-rozenberg-zelazny",
+      "olympiad": "oii",
+      "year": 2014
+    },
+    {
+      "source": "mateus-bezrutchka",
+      "target": "michel-rozenberg-zelazny",
+      "olympiad": "oii",
+      "year": 2014
+    },
+    {
+      "source": "arthur-pratti-dadalto",
+      "target": "lucca-morais-de-arruda-siaudzionis",
+      "olympiad": "oii",
+      "year": 2015
+    },
+    {
+      "source": "arthur-pratti-dadalto",
+      "target": "mateus-bezrutchka",
+      "olympiad": "oii",
+      "year": 2015
+    },
+    {
+      "source": "arthur-pratti-dadalto",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "oii",
+      "year": 2015
+    },
+    {
+      "source": "lucca-morais-de-arruda-siaudzionis",
+      "target": "mateus-bezrutchka",
+      "olympiad": "oii",
+      "year": 2015
+    },
+    {
+      "source": "lucca-morais-de-arruda-siaudzionis",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "oii",
+      "year": 2015
+    },
+    {
+      "source": "mateus-bezrutchka",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "oii",
+      "year": 2015
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "lucca-morais-de-arruda-siaudzionis",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "victor-agnez-lima",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "lucca-morais-de-arruda-siaudzionis",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "lucca-morais-de-arruda-siaudzionis",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "lucca-morais-de-arruda-siaudzionis",
+      "target": "victor-agnez-lima",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "victor-agnez-lima",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "rogerio-aristida-guimaraes-junior",
+      "target": "victor-agnez-lima",
+      "olympiad": "oii",
+      "year": 2016
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "gabriel-silva-simoes",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "gustavo-nunes-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "ivan-de-avila-ribeiro-carvalho",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "carlos-vinicios-ferreira-santos",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "gustavo-nunes-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "ivan-de-avila-ribeiro-carvalho",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gustavo-nunes-de-oliveira",
+      "target": "ivan-de-avila-ribeiro-carvalho",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gustavo-nunes-de-oliveira",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gustavo-nunes-de-oliveira",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gustavo-nunes-de-oliveira",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gustavo-nunes-de-oliveira",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "gustavo-nunes-de-oliveira",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "matheus-leal-viana",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "matheus-leal-viana",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "matheus-leal-viana",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "matheus-leal-viana",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "rogerio-aristida-guimaraes-junior",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "rogerio-aristida-guimaraes-junior",
+      "target": "thiago-sena-de-queiroz",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "rogerio-aristida-guimaraes-junior",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "thiago-sena-de-queiroz",
+      "target": "william-hideki-kondo",
+      "olympiad": "oii",
+      "year": 2017
+    },
+    {
+      "source": "beatriz-cunha-freire",
+      "target": "frederico-bulhoes-de-sousa-ribeiro",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "beatriz-cunha-freire",
+      "target": "gabriel-silva-simoes",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "beatriz-cunha-freire",
+      "target": "ivan-de-avila-ribeiro-carvalho",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "beatriz-cunha-freire",
+      "target": "joao-guilherme-madeira-araujo",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "beatriz-cunha-freire",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "beatriz-cunha-freire",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "gabriel-silva-simoes",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "ivan-de-avila-ribeiro-carvalho",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "joao-guilherme-madeira-araujo",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "ivan-de-avila-ribeiro-carvalho",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "joao-guilherme-madeira-araujo",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-silva-simoes",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "joao-guilherme-madeira-araujo",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "ivan-de-avila-ribeiro-carvalho",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "joao-guilherme-madeira-araujo",
+      "target": "matheus-leal-viana",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "joao-guilherme-madeira-araujo",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "matheus-leal-viana",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2018
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "cirilo-max-macedo-de-morais-filho",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "frederico-bulhoes-de-sousa-ribeiro",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "igor-brito-andrade",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "joao-victor-soares-aleixo",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "thiago-mota-martins",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "frederico-bulhoes-de-sousa-ribeiro",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "igor-brito-andrade",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "joao-victor-soares-aleixo",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "thiago-mota-martins",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "igor-brito-andrade",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "joao-victor-soares-aleixo",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "thiago-mota-martins",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "frederico-bulhoes-de-sousa-ribeiro",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "joao-victor-soares-aleixo",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "thiago-mota-martins",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "joao-victor-soares-aleixo",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "joao-victor-soares-aleixo",
+      "target": "thiago-mota-martins",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "joao-victor-soares-aleixo",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "joao-victor-soares-aleixo",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "joao-victor-soares-aleixo",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "pedro-lucas-lanaro-sponchiado",
+      "target": "thiago-mota-martins",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "pedro-lucas-lanaro-sponchiado",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "pedro-lucas-lanaro-sponchiado",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "pedro-lucas-lanaro-sponchiado",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "thiago-mota-martins",
+      "target": "tiago-domingos-almeida-souza",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "thiago-mota-martins",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "thiago-mota-martins",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "tiago-domingos-almeida-souza",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "tiago-domingos-almeida-souza",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "willian-wang",
+      "target": "yan-victor-souza-guimaraes",
+      "olympiad": "oii",
+      "year": 2019
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "carolina-moura-valle-costa",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "cirilo-max-macedo-de-morais-filho",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "igor-brito-andrade",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "joao-victor-teixeira-degelo",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "alan-hahn-pereira",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "cirilo-max-macedo-de-morais-filho",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "igor-brito-andrade",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "joao-victor-teixeira-degelo",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "igor-brito-andrade",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "joao-victor-teixeira-degelo",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "cirilo-max-macedo-de-morais-filho",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "joao-victor-teixeira-degelo",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "igor-brito-andrade",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "joao-victor-teixeira-degelo",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "joao-victor-teixeira-degelo",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "joao-victor-teixeira-degelo",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "joao-victor-teixeira-degelo",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "joao-victor-teixeira-degelo",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "luiz-henrique-yuji-delgado-oda",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "luiz-henrique-yuji-delgado-oda",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "luiz-henrique-yuji-delgado-oda",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "willian-miura-mori",
+      "target": "willian-wang",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "willian-miura-mori",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "willian-wang",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "erik-cruz-morbach",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "kenzo-yves-yamashita-nobre",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "klaus-augustus-ramos-reiniger",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "kenzo-yves-yamashita-nobre",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "klaus-augustus-ramos-reiniger",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "klaus-augustus-ramos-reiniger",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "kenzo-yves-yamashita-nobre",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "klaus-augustus-ramos-reiniger",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "klaus-augustus-ramos-reiniger",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "klaus-augustus-ramos-reiniger",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "klaus-augustus-ramos-reiniger",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "klaus-augustus-ramos-reiniger",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "klaus-augustus-ramos-reiniger",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "lucio-cardoso-dias-de-figueiredo-filho",
+      "target": "luiz-henrique-yuji-delgado-oda",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "lucio-cardoso-dias-de-figueiredo-filho",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "lucio-cardoso-dias-de-figueiredo-filho",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "lucio-cardoso-dias-de-figueiredo-filho",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luiz-henrique-yuji-delgado-oda",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luiz-henrique-yuji-delgado-oda",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "luiz-henrique-yuji-delgado-oda",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "pedro-shinzato-chen",
+      "target": "willian-miura-mori",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "pedro-shinzato-chen",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "willian-miura-mori",
+      "target": "yan-matheus-tavares-e-silva",
+      "olympiad": "oii",
+      "year": 2021
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "brunno-rezende-dos-santos",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "carolina-moura-valle-costa",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "erik-cruz-morbach",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "carolina-moura-valle-costa",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "erik-cruz-morbach",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "brunno-rezende-dos-santos",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "erik-cruz-morbach",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "leonardo-de-andrade-paes",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "erik-cruz-morbach",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-de-andrade-paes",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "luca-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "lucio-cardoso-dias-de-figueiredo-filho",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "luca-dantas-de-britto-monte-araujo",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "lucio-cardoso-dias-de-figueiredo-filho",
+      "target": "pedro-shinzato-chen",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "lucio-cardoso-dias-de-figueiredo-filho",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "pedro-shinzato-chen",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2022
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "carlos-cabral-de-menezes-filho",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "gabriel-lucas-costa-martins",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "luiz-felipe-funaki-bigarelli",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "marcos-paulo-evers-cordeiro",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "gabriel-lucas-costa-martins",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "luiz-felipe-funaki-bigarelli",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "marcos-paulo-evers-cordeiro",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "gabriel-lucas-costa-martins",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "luiz-felipe-funaki-bigarelli",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "marcos-paulo-evers-cordeiro",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "gabriel-lucas-costa-martins",
+      "target": "leonardo-valente-nascimento",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "gabriel-lucas-costa-martins",
+      "target": "luiz-felipe-funaki-bigarelli",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "gabriel-lucas-costa-martins",
+      "target": "marcos-paulo-evers-cordeiro",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "gabriel-lucas-costa-martins",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "gabriel-lucas-costa-martins",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "gabriel-lucas-costa-martins",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "luiz-felipe-funaki-bigarelli",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "marcos-paulo-evers-cordeiro",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "leonardo-valente-nascimento",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "luiz-felipe-funaki-bigarelli",
+      "target": "marcos-paulo-evers-cordeiro",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "luiz-felipe-funaki-bigarelli",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "luiz-felipe-funaki-bigarelli",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "luiz-felipe-funaki-bigarelli",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "marcos-paulo-evers-cordeiro",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "marcos-paulo-evers-cordeiro",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "marcos-paulo-evers-cordeiro",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "pedro-suyama-leston-rey",
+      "target": "rafael-nascimento-soares",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "pedro-suyama-leston-rey",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "rafael-nascimento-soares",
+      "target": "vladimir-arauzo-huisa",
+      "olympiad": "oii",
+      "year": 2023
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "caique-paiva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "carlos-cabral-de-menezes-filho",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "enzo-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "fernando-graminholi-goncalves",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "leandro-marcos-checchio-de-souza",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "arthur-lobo-leite-lopes",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "carlos-cabral-de-menezes-filho",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "enzo-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "fernando-graminholi-goncalves",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "leandro-marcos-checchio-de-souza",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "enzo-dantas-de-britto-monte-araujo",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "fernando-graminholi-goncalves",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "leandro-marcos-checchio-de-souza",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "enzo-dantas-de-britto-monte-araujo",
+      "target": "fernando-graminholi-goncalves",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "enzo-dantas-de-britto-monte-araujo",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "enzo-dantas-de-britto-monte-araujo",
+      "target": "leandro-marcos-checchio-de-souza",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "enzo-dantas-de-britto-monte-araujo",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "enzo-dantas-de-britto-monte-araujo",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "enzo-dantas-de-britto-monte-araujo",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "filipe-de-souza-lalic",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "leandro-marcos-checchio-de-souza",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "leandro-marcos-checchio-de-souza",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "filipe-de-souza-lalic",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "leandro-marcos-checchio-de-souza",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "leandro-marcos-checchio-de-souza",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "leandro-marcos-checchio-de-souza",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "pedro-henrique-assuncao",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2024
+    },
+    {
+      "source": "caique-paiva",
+      "target": "carlos-cabral-de-menezes-filho",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "fernando-graminholi-goncalves",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "gustavo-nogueira-mendes",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "lucas-cardoso-garcia",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "caique-paiva",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "fernando-graminholi-goncalves",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "gustavo-nogueira-mendes",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "lucas-cardoso-garcia",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "carlos-cabral-de-menezes-filho",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "gustavo-nogueira-mendes",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "lucas-cardoso-garcia",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "fernando-graminholi-goncalves",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "lucas-cardoso-garcia",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "lucas-cardoso-garcia",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "lucas-cardoso-garcia",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "lucas-cardoso-garcia",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "lucas-cardoso-garcia",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "lucas-cardoso-garcia",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "murilo-maeda-kataoka",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "murilo-maeda-kataoka",
+      "target": "pedro-henrique-assuncao",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "murilo-maeda-kataoka",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "pedro-henrique-assuncao",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2025
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "gustavo-nogueira-mendes",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "joao-paulo-campos-de-oliveira",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "julia-galdino-tiosso-lopez",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "leonardo-de-faria-pottes",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "enzo-ivamoto-hirota",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "joao-paulo-campos-de-oliveira",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "julia-galdino-tiosso-lopez",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "leonardo-de-faria-pottes",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "gustavo-nogueira-mendes",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "joao-pedro-gomes-cordeiro-de-castro",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "julia-galdino-tiosso-lopez",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "leonardo-de-faria-pottes",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-campos-de-oliveira",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "julia-galdino-tiosso-lopez",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "leonardo-de-faria-pottes",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "joao-pedro-gomes-cordeiro-de-castro",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "leonardo-de-faria-pottes",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "leonardo-de-faria-pottes",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "leonardo-de-faria-pottes",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "leonardo-de-faria-pottes",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "leonardo-de-faria-pottes",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "matheus-moreira-cabral",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "matheus-moreira-cabral",
+      "target": "pedro-suyama-leston-rey",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "matheus-moreira-cabral",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    },
+    {
+      "source": "pedro-suyama-leston-rey",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "oii",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-08-22T17:11:22.215676+00:00",
+    "studentCount": 84,
+    "edgeCount": 493
+  }
+}

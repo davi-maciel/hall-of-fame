@@ -1,0 +1,563 @@
+{
+  "method": "Per-year reconciliation of the official IOI statistics database (stats.ioinformatics.org) against the independent OBI/Unicamp national-body IOI page (olimpiada.ic.unicamp.br/competicoes/ioi). A year is \"consistent\" when the competitor count, the medal multiset, and every name (matched by token overlap) agree.",
+  "sources": {
+    "official": "https://stats.ioinformatics.org/results/BRA",
+    "obi": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "wikipedia": "https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics"
+  },
+  "years": {
+    "1999": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "null": 4
+      },
+      "obi_medals": {
+        "null": 4
+      }
+    },
+    "2000": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "null": 4
+      },
+      "obi_medals": {
+        "null": 4
+      }
+    },
+    "2001": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 1,
+        "bronze": 1,
+        "null": 2
+      },
+      "obi_medals": {
+        "silver": 1,
+        "null": 2,
+        "bronze": 1
+      }
+    },
+    "2002": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "bronze": 2
+      }
+    },
+    "2003": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 1,
+        "null": 3
+      },
+      "obi_medals": {
+        "null": 3,
+        "bronze": 1
+      }
+    },
+    "2004": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "bronze": 2,
+        "null": 2
+      }
+    },
+    "2005": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "bronze": 2
+      }
+    },
+    "2006": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "bronze": 2
+      }
+    },
+    "2007": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 1,
+        "bronze": 2,
+        "null": 1
+      },
+      "obi_medals": {
+        "bronze": 2,
+        "silver": 1,
+        "null": 1
+      }
+    },
+    "2008": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 4
+      },
+      "obi_medals": {
+        "bronze": 4
+      }
+    },
+    "2009": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 1,
+        "bronze": 2,
+        "null": 1
+      },
+      "obi_medals": {
+        "bronze": 2,
+        "silver": 1,
+        "null": 1
+      }
+    },
+    "2010": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 1,
+        "bronze": 2,
+        "null": 1
+      },
+      "obi_medals": {
+        "bronze": 2,
+        "null": 1,
+        "silver": 1
+      }
+    },
+    "2011": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "gold": 1,
+        "bronze": 3
+      },
+      "obi_medals": {
+        "bronze": 3,
+        "gold": 1
+      }
+    },
+    "2012": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "silver": 2
+      }
+    },
+    "2013": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "gold": 1,
+        "bronze": 1,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "bronze": 1,
+        "gold": 1
+      }
+    },
+    "2014": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 3,
+        "bronze": 1
+      },
+      "obi_medals": {
+        "silver": 3,
+        "bronze": 1
+      }
+    },
+    "2015": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "bronze": 2,
+        "null": 2
+      }
+    },
+    "2016": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "silver": 2
+      }
+    },
+    "2017": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "gold": 1,
+        "bronze": 1,
+        "null": 2
+      },
+      "obi_medals": {
+        "null": 2,
+        "gold": 1,
+        "bronze": 1
+      }
+    },
+    "2018": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 1,
+        "null": 3
+      },
+      "obi_medals": {
+        "silver": 1,
+        "null": 3
+      }
+    },
+    "2019": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 1,
+        "null": 3
+      },
+      "obi_medals": {
+        "bronze": 1,
+        "null": 3
+      }
+    },
+    "2020": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 2,
+        "null": 2
+      },
+      "obi_medals": {
+        "bronze": 2,
+        "null": 2
+      }
+    },
+    "2021": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 2,
+        "bronze": 2
+      },
+      "obi_medals": {
+        "silver": 2,
+        "bronze": 2
+      }
+    },
+    "2022": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 3,
+        "bronze": 1
+      },
+      "obi_medals": {
+        "silver": 3,
+        "bronze": 1
+      }
+    },
+    "2023": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 1,
+        "bronze": 3
+      },
+      "obi_medals": {
+        "silver": 1,
+        "bronze": 3
+      }
+    },
+    "2024": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "bronze": 3,
+        "null": 1
+      },
+      "obi_medals": {
+        "bronze": 3,
+        "null": 1
+      }
+    },
+    "2025": {
+      "official_n": 4,
+      "obi_n": 4,
+      "count_match": true,
+      "medal_multiset_match": true,
+      "name_match": true,
+      "consistent": true,
+      "official_medals": {
+        "silver": 2,
+        "bronze": 1,
+        "honorable-mention": 1
+      },
+      "obi_medals": {
+        "silver": 2,
+        "bronze": 1,
+        "honorable-mention": 1
+      }
+    }
+  },
+  "all_years_consistent": true,
+  "name_variants_obi_vs_official": [
+    {
+      "year": 2001,
+      "official": "Lincoln Silva",
+      "obi": "Lincoln David Nery e Silva"
+    },
+    {
+      "year": 2001,
+      "official": "Edans Sandes",
+      "obi": "Edans Flavius de Oliveira Sandes"
+    },
+    {
+      "year": 2006,
+      "official": "Gabriel Bujokas",
+      "obi": "Gabriel Tavares Bujokas"
+    },
+    {
+      "year": 2006,
+      "official": "César Kawakami",
+      "obi": "Cesár Ryudi Kawakami"
+    },
+    {
+      "year": 2007,
+      "official": "César Kawakami",
+      "obi": "Cesár Ryudi Kawakami"
+    },
+    {
+      "year": 2007,
+      "official": "Eduardo Ribas",
+      "obi": "Eduardo Augusto Ribas"
+    },
+    {
+      "year": 2010,
+      "official": "Caíque Lira",
+      "obi": "Caique Porto Lira"
+    },
+    {
+      "year": 2011,
+      "official": "Caíque Lira",
+      "obi": "Caique Porto Lira"
+    },
+    {
+      "year": 2012,
+      "official": "Caíque Lira",
+      "obi": "Caique Porto Lira"
+    },
+    {
+      "year": 2013,
+      "official": "Mateus Dantas",
+      "obi": "Mateus Carvalho Dantas"
+    },
+    {
+      "year": 2017,
+      "official": "Gabriel Simões",
+      "obi": "Gabriel Silva Simões"
+    },
+    {
+      "year": 2017,
+      "official": "William Kondo",
+      "obi": "Willian Hideki Kondo"
+    },
+    {
+      "year": 2018,
+      "official": "Gabriel Simões",
+      "obi": "Gabriel Silva Simões"
+    },
+    {
+      "year": 2018,
+      "official": "Ivan Carvalho",
+      "obi": "Ivan de Ávila Ribeiro Carvalho"
+    },
+    {
+      "year": 2018,
+      "official": "Matheus Viana",
+      "obi": "Matheus Leal Viana"
+    },
+    {
+      "year": 2018,
+      "official": "João Araújo",
+      "obi": "João Guilherme Madeira Araújo"
+    },
+    {
+      "year": 2020,
+      "official": "Carolina Moura",
+      "obi": "Carolina Moura Valle Costa"
+    },
+    {
+      "year": 2021,
+      "official": "Luiz Henrique Yuji Delgado Oda",
+      "obi": "Luiz Henrique Oda"
+    },
+    {
+      "year": 2021,
+      "official": "Carolina Moura",
+      "obi": "Carolina Moura Valle Costa"
+    },
+    {
+      "year": 2022,
+      "official": "Carolina Moura",
+      "obi": "Carolina Moura Valle Costa"
+    },
+    {
+      "year": 2024,
+      "official": "Filipe Lalic",
+      "obi": "Filipe de Souza Lalic"
+    },
+    {
+      "year": 2025,
+      "official": "Pedro Assunção",
+      "obi": "Pedro Henrique Assunção"
+    }
+  ]
+}

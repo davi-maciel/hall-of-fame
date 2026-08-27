@@ -1,0 +1,307 @@
+{
+  "olympiadId": "egoi",
+  "description": "Sources confirming Brazilian EGOI participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "stats.egoi.org (delegation + results pages per edition).",
+    "primary": "OBI/Unicamp national organizer, NOIC, TFC/UFSM prize gallery, press, schools.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Dataset rawNames use the fullest documented form (OBI) where official stats abbreviates ('Clara Fontes', 'Julia Tiosso', 'Talita Rezende').",
+    "stats.egoi.org per-country aggregates match all per-year rosters exactly (verified 2026-08-22).",
+    "OBI lists reserves (suplentes) per year — reserves are NOT participants and are not in the dataset."
+  ],
+  "years": [
+    {
+      "year": 2021,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://stats.egoi.org/editions/2021/delegations/BRA/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official delegation page — roster + medals + leaders",
+          "needle": "Carolina Moura Valle Costa"
+        },
+        {
+          "url": "https://stats.egoi.org/editions/2021/results/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results table — ranks + scores",
+          "needle": "Carolina"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer rosters w/ schools + reserves"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-egoi/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "4 medals",
+          "needle": "Carolina"
+        },
+        {
+          "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+          "domain": "tfcbr.inf.ufsm.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "needle": "Costa"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://stats.egoi.org/editions/2022/delegations/BRA/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official delegation page — roster + medals + leaders",
+          "needle": "Pietra Gullo Salgado Chaves"
+        },
+        {
+          "url": "https://stats.egoi.org/editions/2022/results/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results table — ranks + scores",
+          "needle": "Pietra"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer rosters w/ schools + reserves"
+        },
+        {
+          "url": "https://noic.com.br/informatica/confira-o-resultado-da-egoi/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "medalist named",
+          "needle": "Luana"
+        },
+        {
+          "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+          "domain": "tfcbr.inf.ufsm.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "needle": "Chaves"
+        }
+      ],
+      "note": "Rank conflict: TFC says Luana 28th; official stats says 26th — official retained. Three non-medalists = confirmed no-award."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://stats.egoi.org/editions/2023/delegations/BRA/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official delegation page — roster + medals + leaders",
+          "needle": "Anita Ramos Almeida"
+        },
+        {
+          "url": "https://stats.egoi.org/editions/2023/results/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results table — ranks + scores",
+          "needle": "Anita"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer rosters w/ schools + reserves"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-egoi-2/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "2 bronzes + roster + leaders",
+          "needle": "Endy"
+        },
+        {
+          "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+          "domain": "tfcbr.inf.ufsm.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "needle": "Almeida"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://stats.egoi.org/editions/2024/delegations/BRA/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official delegation page — roster + medals + leaders",
+          "needle": "Clara Fontes"
+        },
+        {
+          "url": "https://stats.egoi.org/editions/2024/results/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results table — ranks + scores",
+          "needle": "Clara"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer rosters w/ schools + reserves"
+        },
+        {
+          "url": "https://www.sonoticiaboa.com.br/2024/07/30/brasil-conquista-ouro-prata-e-bronze-em-olimpiada-europeia-de-informatica-para-garotas",
+          "domain": "sonoticiaboa.com.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "medals + ranks + full name Maria Clara",
+          "needle": "Maria Clara Fontes"
+        },
+        {
+          "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+          "domain": "tfcbr.inf.ufsm.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "needle": "Fontes"
+        }
+      ],
+      "note": "Official stats short form 'Clara Fontes' = Maria Clara Fontes Silva (OBI/press full form, dataset form). TFC's '112º' for Gabriela is a typo (official + press: 122)."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://stats.egoi.org/editions/2025/delegations/BRA/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official delegation page — roster + medals + leaders",
+          "needle": "Gabriela Barbieri Stroeh"
+        },
+        {
+          "url": "https://stats.egoi.org/editions/2025/results/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results table — ranks + scores",
+          "needle": "Gabriela"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer rosters w/ schools + reserves"
+        },
+        {
+          "url": "https://www.colegioetapa.com.br/portal/resultados/olimpiadas-cientificas",
+          "domain": "colegioetapa.com.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "Sofia gold + Gabriela silver",
+          "needle": "Cintra"
+        },
+        {
+          "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+          "domain": "tfcbr.inf.ufsm.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "needle": "Stroeh"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://stats.egoi.org/editions/2026/delegations/BRA/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official delegation page — roster + medals + leaders",
+          "needle": "Julia Tiosso"
+        },
+        {
+          "url": "https://stats.egoi.org/editions/2026/results/",
+          "domain": "stats.egoi.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results table — ranks + scores",
+          "needle": "Julia"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "absent (page ends at 2025)",
+          "confirms": "national organizer rosters w/ schools + reserves"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/noticias/2026/05/16/meninas-conquistam-quatro-medalhas-na-egoi2026/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "OBI news: full medals + schools + Cesenatico 12-18 May",
+          "needle": "Coesi"
+        },
+        {
+          "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+          "domain": "tfcbr.inf.ufsm.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "needle": "Tiosso"
+        }
+      ],
+      "note": "Held 12–18 May 2026, Cesenatico, Italy — Brazil's best EGOI: 2G+2S, unofficial 1st place (TFC). Short forms 'Julia Tiosso'/'Talita Rezende' expanded per OBI. OBI's roster page not yet updated (news article is the source)."
+    }
+  ]
+}

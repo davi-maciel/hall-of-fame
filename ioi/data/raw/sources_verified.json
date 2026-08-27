@@ -1,0 +1,974 @@
+[
+  {
+    "year": 1999,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/1999",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 1999,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2000,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2000",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2000,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2001,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2001",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2001,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2002,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2002",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2002,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2003,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2003",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2003,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2004,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2004",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2004,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2005,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2005",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2005,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2006,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2006",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2006,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2007,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2007",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2007,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2008,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2008",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2008,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2009,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2009",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2009,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2010,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2010",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2010,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2011,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2011",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2011,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2012,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2012",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2012,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2013,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2013",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2013,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2014,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2014",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2014,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2015,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2015",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2015,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2016,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2016",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2016,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2017,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2017",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2017,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2018,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2018",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2018,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2019,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2019",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2019,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2020,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2020",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2020,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2021,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2021",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2021,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2022,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2022",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2022,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2023,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2023",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2023,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2024,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2024",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2024,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 2025,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-DB (primary, team view)",
+    "url": "https://stats.ioinformatics.org/delegations/BRA/2025",
+    "needle": null,
+    "kind": "html"
+  },
+  {
+    "year": 2025,
+    "status": "PASS",
+    "http": "200",
+    "label": "OBI/Unicamp (independent national body)",
+    "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+    "needle": "IOI",
+    "kind": "html"
+  },
+  {
+    "year": 1999,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator, derives from IOI-DB)",
+    "url": "https://cphof.org/standings/ioi/1999",
+    "needle": "Fortuna",
+    "kind": "html"
+  },
+  {
+    "year": 2000,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2000",
+    "needle": "Habkost",
+    "kind": "html"
+  },
+  {
+    "year": 2001,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2001",
+    "needle": "Tassinari",
+    "kind": "html"
+  },
+  {
+    "year": 2002,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2002",
+    "needle": "Paulino",
+    "kind": "html"
+  },
+  {
+    "year": 2002,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI-official mirror (ioi.te.lv)",
+    "url": "https://ioi.te.lv/locations/ioi02/medals.shtml",
+    "needle": "PAULINO",
+    "kind": "html"
+  },
+  {
+    "year": 2002,
+    "status": "PASS",
+    "http": "200",
+    "label": "Jornal da Unicamp (independent press)",
+    "url": "https://www2.unicamp.br/unicamp/unicamp_hoje/jornalPDF/189-pag10.pdf",
+    "needle": "Paulino",
+    "kind": "pdf"
+  },
+  {
+    "year": 2003,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2003",
+    "needle": "Fujiwara",
+    "kind": "html"
+  },
+  {
+    "year": 2003,
+    "status": "PASS",
+    "http": "200",
+    "label": "Personal CV, Denilson de Sá (independent)",
+    "url": "https://denilson.sa.nom.br/denilsonsa-curriculo.pdf",
+    "needle": "IOI",
+    "kind": "pdf"
+  },
+  {
+    "year": 2004,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2004",
+    "needle": "Ribas",
+    "kind": "html"
+  },
+  {
+    "year": 2005,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2005",
+    "needle": "Ribas",
+    "kind": "html"
+  },
+  {
+    "year": 2005,
+    "status": "PASS",
+    "http": "200",
+    "label": "clist.by (aggregator)",
+    "url": "https://clist.by/standings/ioi-2005-31998753/",
+    "needle": "Ribas",
+    "kind": "html"
+  },
+  {
+    "year": 2006,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2006",
+    "needle": "Bujokas",
+    "kind": "html"
+  },
+  {
+    "year": 2006,
+    "status": "PASS",
+    "http": "200",
+    "label": "clist.by (aggregator)",
+    "url": "https://clist.by/standings/ioi-2006-31998747/",
+    "needle": "Bujokas",
+    "kind": "html"
+  },
+  {
+    "year": 2007,
+    "status": "PASS",
+    "http": "200",
+    "label": "Agência FAPESP (independent press)",
+    "url": "https://agencia.fapesp.br/tres-medalhas-na-olimpiada-internacional-de-informatica/7657",
+    "needle": "Kawakami",
+    "kind": "html"
+  },
+  {
+    "year": 2007,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2007",
+    "needle": "Kawakami",
+    "kind": "html"
+  },
+  {
+    "year": 2008,
+    "status": "PASS",
+    "http": "200",
+    "label": "Agência FAPESP (independent press)",
+    "url": "https://agencia.fapesp.br/medalhas-no-egito/9332",
+    "needle": "bronze",
+    "kind": "html"
+  },
+  {
+    "year": 2008,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2008",
+    "needle": "Povoa",
+    "kind": "html"
+  },
+  {
+    "year": 2009,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2009",
+    "needle": "Dalalio",
+    "kind": "html"
+  },
+  {
+    "year": 2010,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI 2010 host results (independent)",
+    "url": "https://ioi2010.org/finalResults.html",
+    "needle": "Renato",
+    "kind": "html"
+  },
+  {
+    "year": 2010,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2010",
+    "needle": "Felipe",
+    "kind": "html"
+  },
+  {
+    "year": 2011,
+    "status": "PASS",
+    "http": "200",
+    "label": "SINDPD-RJ (independent press)",
+    "url": "https://sindpdrj.org.br/2011/07/28/brasil-conquista-ouro-inedito-na-olimpiada-internacional-de-informatica/",
+    "needle": "Felipe",
+    "kind": "html"
+  },
+  {
+    "year": 2011,
+    "status": "PASS",
+    "http": "200",
+    "label": "CIn-UFPE (independent)",
+    "url": "https://portal.cin.ufpe.br/2011/08/03/primeira-medalha-de-ouro-para-o-brasil-na-olimpiada-internacional-de-informatica/",
+    "needle": "Felipe",
+    "kind": "html"
+  },
+  {
+    "year": 2011,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2011",
+    "needle": "Felipe",
+    "kind": "html"
+  },
+  {
+    "year": 2012,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2012",
+    "needle": "Kawakami",
+    "kind": "html"
+  },
+  {
+    "year": 2013,
+    "status": "PASS",
+    "http": "200",
+    "label": "IOI 2013 host results (independent)",
+    "url": "https://ioi2013.org/competition/results/",
+    "needle": "Renato",
+    "kind": "html"
+  },
+  {
+    "year": 2013,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator; medal-color unreliable)",
+    "url": "https://cphof.org/standings/ioi/2013",
+    "needle": "Renato",
+    "kind": "html"
+  },
+  {
+    "year": 2014,
+    "status": "PASS",
+    "http": "200",
+    "label": "Agência FAPESP (independent press)",
+    "url": "https://agencia.fapesp.br/brasileiros-conquistam-medalhas-em-olimpiada-de-informatica/19460",
+    "needle": "Bezrutchka",
+    "kind": "html"
+  },
+  {
+    "year": 2014,
+    "status": "PASS",
+    "http": "200",
+    "label": "olimpiadascientificas.org (independent)",
+    "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+    "needle": "Bezrutchka",
+    "kind": "html"
+  },
+  {
+    "year": 2014,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2014",
+    "needle": "Dadalto",
+    "kind": "html"
+  },
+  {
+    "year": 2015,
+    "status": "PASS",
+    "http": "200",
+    "label": "olimpiadascientificas.org (independent)",
+    "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+    "needle": "Siaudzionis",
+    "kind": "html"
+  },
+  {
+    "year": 2015,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator; medal-color unreliable)",
+    "url": "https://cphof.org/standings/ioi/2015",
+    "needle": "Zanarella",
+    "kind": "html"
+  },
+  {
+    "year": 2016,
+    "status": "PASS",
+    "http": "200",
+    "label": "olimpiadascientificas.org (independent)",
+    "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+    "needle": "Guimar",
+    "kind": "html"
+  },
+  {
+    "year": 2016,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2016",
+    "needle": "Siaudzionis",
+    "kind": "html"
+  },
+  {
+    "year": 2017,
+    "status": "PASS",
+    "http": "200",
+    "label": "Unicamp news (independent)",
+    "url": "https://www2.unicamp.br/unicamp/noticias/2017/08/04/brasileiro-leva-ouro-na-olimpiada-internacional-de-informatica-unicamp-organiza/",
+    "needle": "Sacramento",
+    "kind": "html"
+  },
+  {
+    "year": 2017,
+    "status": "PASS",
+    "http": "200",
+    "label": "olimpiadascientificas.org (independent)",
+    "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+    "needle": "Sacramento",
+    "kind": "html"
+  },
+  {
+    "year": 2017,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2017",
+    "needle": "Sacramento",
+    "kind": "html"
+  },
+  {
+    "year": 2018,
+    "status": "PASS",
+    "http": "200",
+    "label": "Colégio Etapa (independent)",
+    "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-prata-na-ioi",
+    "needle": "Sim",
+    "kind": "html"
+  },
+  {
+    "year": 2018,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2018",
+    "needle": "Carvalho",
+    "kind": "html"
+  },
+  {
+    "year": 2019,
+    "status": "PASS",
+    "http": "200",
+    "label": "NOIC (independent)",
+    "url": "https://noic.com.br/2018/12/08/divulgado-time-brasileiro-da-ioi-2019-e-da-ciic-2019/",
+    "needle": "Wang",
+    "kind": "html"
+  },
+  {
+    "year": 2019,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2019",
+    "needle": "Frederico",
+    "kind": "html"
+  },
+  {
+    "year": 2019,
+    "status": "PASS",
+    "http": "200",
+    "label": "clist.by (aggregator)",
+    "url": "https://clist.by/standings/ioi-2019-31998620/",
+    "needle": "Wang",
+    "kind": "html"
+  },
+  {
+    "year": 2020,
+    "status": "PASS",
+    "http": "200",
+    "label": "Colégio Etapa (independent)",
+    "url": "https://blog.etapa.com.br/noticias/ioi-2020",
+    "needle": "Carolina",
+    "kind": "html"
+  },
+  {
+    "year": 2020,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2020",
+    "needle": "Carolina",
+    "kind": "html"
+  },
+  {
+    "year": 2021,
+    "status": "PASS",
+    "http": "200",
+    "label": "Colégio Etapa (independent)",
+    "url": "https://blog.etapa.com.br/noticias/ioi-2021",
+    "needle": "Oda",
+    "kind": "html"
+  },
+  {
+    "year": 2021,
+    "status": "PASS",
+    "http": "200",
+    "label": "Pleno.News (independent press)",
+    "url": "https://pleno.news/educacao/brasileira-e-a-melhor-ranqueada-em-olimpiada-de-informatica.html",
+    "needle": "Carolina",
+    "kind": "html"
+  },
+  {
+    "year": 2022,
+    "status": "PASS",
+    "http": "200",
+    "label": "gov.br / MCTI (independent)",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/equipe-brasileira-foi-premiada-na-34a-olimpiada-internacional-de-informatica-na-indonesia",
+    "needle": "Rafael",
+    "kind": "html"
+  },
+  {
+    "year": 2022,
+    "status": "PASS",
+    "http": "200",
+    "label": "Colégio Etapa (independent)",
+    "url": "https://blog.etapa.com.br/noticias/ioi-2022",
+    "needle": "Leonardo",
+    "kind": "html"
+  },
+  {
+    "year": 2023,
+    "status": "PASS",
+    "http": "200",
+    "label": "NOIC (independent)",
+    "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-ioi/",
+    "needle": "Suyama",
+    "kind": "html"
+  },
+  {
+    "year": 2023,
+    "status": "PASS",
+    "http": "200",
+    "label": "Colégio Etapa (independent)",
+    "url": "https://blog.etapa.com.br/noticias/ioi-2023",
+    "needle": "Leonardo",
+    "kind": "html"
+  },
+  {
+    "year": 2024,
+    "status": "PASS",
+    "http": "200",
+    "label": "SBC Horizontes (independent)",
+    "url": "https://horizontes.sbc.org.br/index.php/2024/09/giro-sbc-edicao-38-24/",
+    "needle": "Lalic",
+    "kind": "html"
+  },
+  {
+    "year": 2024,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2024",
+    "needle": "Lalic",
+    "kind": "html"
+  },
+  {
+    "year": 2025,
+    "status": "PASS",
+    "http": "200",
+    "label": "Jornal Terceira Visão (independent press)",
+    "url": "https://jtv.com.br/pedro-henrique-assuncao-medalha-prata-olimpiada-internacional-informatica-2025/",
+    "needle": "Assun",
+    "kind": "html"
+  },
+  {
+    "year": 2025,
+    "status": "PASS",
+    "http": "200",
+    "label": "cphof (aggregator)",
+    "url": "https://cphof.org/standings/ioi/2025",
+    "needle": "Suyama",
+    "kind": "html"
+  },
+  {
+    "year": 2025,
+    "status": "PASS",
+    "http": "200",
+    "label": "clist.by (aggregator)",
+    "url": "https://clist.by/standings/ioi-2025-61139460/",
+    "needle": "Paiva",
+    "kind": "html"
+  }
+]

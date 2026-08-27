@@ -1,0 +1,797 @@
+{
+  "olympiadId": "oibf",
+  "description": "Independent web sources confirming Brazilian OIbF participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "OIbF's own results (premiacoes PDFs on the SBF-hosted permanent site; per-edition host sites/medalleros).",
+    "primary": "SBF/OBF team and news pages, NOIC.",
+    "archive": "olimpiadascientificas.org team compilations (2000–2012)."
+  },
+  "globalNotes": [
+    "PDF-origin recovery (2026-08-22): the per-edition premiacoes PDFs are stable live files at fisica.org.br/~oibf/.../premiacoes_n/{YEAR}_{ROMAN}.pdf; Wayback snapshots exist for all 22.",
+    "2024 and 2025 editions were cancelled (not sourced); 2026 roster is in the dataset with pending medals (grandfathered) — corroborate after the event.",
+    "PDF text layers contain garbled names in some years (2009 'Rolim Mendez', 2011 'Lara Timbo Aram', 2021 'boliviaBarros' artifact) — the SBF team pages carry the clean full names; dataset spellings verified against the cleaner of the two.",
+    "Spelling watch (source vs dataset, unresolved but low-stakes): 2015 Florentino RESOLVED 2026-08-22: merged with IJSO's Leonardo Henrique Martins Florentino (site alias); 2016 'Fontelles' vs 'Fonteles'; 2018 'Fernandez' vs 'Fernandes'.",
+    "sbf1.sbfisica.org.br now answers with a fake-200 'Object Moved' page — the live host is sec.sbfisica.org.br (fixed 2026-08-22).",
+    "The pre-2020 oibf.org domain in Wayback is an unrelated Oklahoma site; the genuine historic trail is SBF's ~oibf WordPress + the IX-OIbF-2004 host archive (Ibero00–04)."
+  ],
+  "years": [
+    {
+      "year": 2000,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2000_V.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (V OIbF, 3 HMs)",
+          "needle": "Francisco Vieira Neto"
+        },
+        {
+          "url": "https://web.archive.org/web/20101031025952/http://www.sbf1.sbfisica.org.br/oibf2004/Ibero00/v_result.htm",
+          "domain": "sbf1.sbfisica.org.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IX-OIbF-2004 host archive of V results",
+          "needle": "Diogo Diniz"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — 3 HMs w/ states",
+          "needle": "Alexandre Henrique dos Santos"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2001_VI.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (VI OIbF, 2G/1S/1B; full name Martha Priscilla)",
+          "needle": "Martha Priscilla"
+        },
+        {
+          "url": "https://web.archive.org/web/20050311225832/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero01/vi_result.htm",
+          "domain": "sbf1.sbfisica.org.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "VI results",
+          "needle": "Leonardo Leite"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4 (short 'Martha Priscila Torres')",
+          "needle": "Leonardo Leite Pereira"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Leonardo Leite"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2002_VII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (VII OIbF, 1G/2B)",
+          "needle": "Pessoa"
+        },
+        {
+          "url": "https://web.archive.org/web/20050311231021/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero02/vii_result.htm",
+          "domain": "sbf1.sbfisica.org.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "VII results",
+          "needle": "Chociay"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 3",
+          "needle": "Henrique Chociay"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 3",
+          "needle": "Chociay"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2003_VIII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (VIII OIbF awardees: 2B/1HM — Kato absent = no award, matches dataset)",
+          "needle": "Lury Bertollo"
+        },
+        {
+          "url": "https://web.archive.org/web/20050311232559/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero03/viii_result.htm",
+          "domain": "sbf1.sbfisica.org.br (Wayback)",
+          "cls": "official",
+          "coverage": "3/4",
+          "confirms": "VIII awardees",
+          "needle": "Eduardo Higino"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — full team INCLUDING Milton Eiji Kato (no medal listed)",
+          "needle": "Milton Eiji Kato"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — full team incl. Kato",
+          "needle": "Kato"
+        }
+      ],
+      "note": "Official PDF lists awardees only — Milton Eiji Kato's absence = confirmed no-award (dataset medal null is correct); SBF team page lists him without a medal."
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2004_IX.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (IX OIbF, 2G/1S/1B)",
+          "needle": "Salerno"
+        },
+        {
+          "url": "https://web.archive.org/web/20050311235815/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero04/ix_result.htm",
+          "domain": "sbf1.sbfisica.org.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IX host-site results",
+          "needle": "Tsai"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4",
+          "needle": "Vander Valente Martins"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Salerno"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2005_X.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (X OIbF, 2G/1S/1B)",
+          "needle": "Bokliang"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4",
+          "needle": "Antonio Augusto Matsumoto Zambon"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Zambon"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2006_XI.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XI OIbF, 1G/1S/1B/1HM — spellings match dataset exactly)",
+          "needle": "Alexandre Hideki Deguchi Martani"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4 (page misspells Martani/Mata)",
+          "needle": "Raphael Rodrigues Mata"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Marrochio"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2007_XII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XII OIbF, 2G/1S/1B)",
+          "needle": "Anderson Unlin Tsai"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4",
+          "needle": "Bruno Arderucio Costa"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Arderucio"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2008_XIII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XIII OIbF, 3G/1S)",
+          "needle": "Mariana Quezado Costa Lima"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4",
+          "needle": "George Gondim Ribeiro"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Quezado"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2009_XIV.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XIV OIbF, 1G/3S (PDF text garbles 'Rolim Mendez'))",
+          "needle": "Rolim"
+        },
+        {
+          "url": "https://web.archive.org/web/20101022235504/http://www.sbf1.sbfisica.org.br/olimpiadas/Obf2009/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br (Wayback)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "team w/ full correct names",
+          "needle": "Rodrigo Rolim"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — all 4",
+          "needle": "Luana Benedetto de Assis"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Benedetto"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2010_XV.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XV OIbF Panama, 4 GOLDS — edition confirmed held)",
+          "needle": "Elder Massahiro Yoshida"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page 2000–2010 — XV OIbF 2010 Panamá section, 4 golds",
+          "needle": "Lucas C. C. Souza"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4",
+          "needle": "Massahiro"
+        }
+      ],
+      "note": "Edition confirmed held (XV, Panama; Brazil 4 golds) — contra any claim of a 2010 gap."
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2011_XVI.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XVI OIbF, 2G/1S/1B (PDF garbles 'Lara Timbo Aram'))",
+          "needle": "Kayo"
+        },
+        {
+          "url": "https://sec.sbfisica.org.br/olimpiadas/obf2011/EquipeBROIbF.shtm",
+          "domain": "sbf1.sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF Brazilian-teams page through 2011 — all 4",
+          "needle": "Miguel Augusto de Bortoli Saggin"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4 w/ correct Lara Timbó Araújo",
+          "needle": "Saggin"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2012_XVII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XVII OIbF, 2G/1S/1B)",
+          "needle": "Ilo Pereira"
+        },
+        {
+          "url": "https://web.archive.org/web/20140829160953/http://www.sbfisica.org.br/v1/index.php?option=com_content&view=article&id=430:brasil-vence-olimpiada-iberoamericana-de-fisica-2012&catid=152:acontece-na-sbf&Itemid=270",
+          "domain": "sbfisica.org.br (Wayback)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF news: Brazil wins OIbF 2012",
+          "needle": "Guinsberg"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 2000–2012 — all 4 (page typo 'Fernanders')",
+          "needle": "Guinsberg"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2013_XVIII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XVIII OIbF, 2G/2S)",
+          "needle": "Bruno Kenichi Saika"
+        },
+        {
+          "url": "https://web.archive.org/web/20160529054243/http://www.sbfisica.org.br:80/v1/olimpiada/2013/indexcec1.html?option=com_content&view=article&id=112:oibf13result&catid=35:pagina-principal&Itemid=182",
+          "domain": "sbfisica.org.br (Wayback)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBF site 2013 results",
+          "needle": "VALLE"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2014_XIX.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XIX OIbF, 4 bronzes)",
+          "needle": "Pedro Alves de Souza Neto"
+        },
+        {
+          "url": "http://www.sbfisica.org.br/v1/olimpiada/2014/indexdf98.html?option=com_content&view=article&id=138:oibf14b&catid=35:pagina-principal&Itemid=182",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBF site 2014 results",
+          "needle": "Matheus Carioca Sampaio"
+        },
+        {
+          "url": "https://noic.com.br/fisica/quatro-medalhas-para-o-brasil-na-oibf/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results (typo 'Alvez')",
+          "needle": "Souza Neto"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2015_XX.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XX OIbF, 1G/1S/2B)",
+          "needle": "Mateus de Castro Silva"
+        },
+        {
+          "url": "https://noic.com.br/fisica/divulgadas-as-equipes-da-ipho-e-oibf/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full — pre-event roster",
+          "confirms": "NOIC team announcement (spells LENNON; gives 'Leonardo H. M. FLORENTINO')",
+          "needle": "FLORENTINO"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2016_XXI.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XXI OIbF, 2G/2S)",
+          "needle": "Marina Maciel Ansanelli"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2016/images/arquivos/Brasil_conquista_medalhas_na_XXI_Olimp%C3%ADada_Ibero.pdf",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF results note (spells 'Fontelles')",
+          "needle": "Fontelles"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2017_XXII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XXII OIbF, 3G/1S)",
+          "needle": "Erik Bardini da Rosa"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2017/index.php/2-uncategorised/133-resultado-da-olimpiada-ibero-americana-de-fisica-2017",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBF site 2017 results",
+          "needle": "Gustavo Misawa Hama"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2018_XXIII.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XXIII OIbF, 3G/1HM (PDF spells 'Fernandez'))",
+          "needle": "Fernando Silveira"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2018/index.php/2-uncategorised/180-resultado-da-olimpiada-ibero-americana-de-fisica-2018",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBF site 2018 results, full names incl. D'Ambrosio",
+          "needle": "Arounian"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/veja-o-resultado-do-brasil-na-ibero-de-fisica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results (short names)",
+          "needle": "Capelo"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2019_XXIV.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XXIV OIbF, 4 golds)",
+          "needle": "Vinicius de Alcântara Névoa"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/4-medalhas-de-ouro-para-o-brasil-na-olimpiada-ibero-americana-de-fisica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: 4 golds",
+          "needle": "Davi Maciel"
+        },
+        {
+          "url": "https://web.archive.org/web/20191022092758/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/965-brasil-conquista-ouro-e-primeiros-lugares-na-olimpiada-iberoamericana-de-fisica-2019",
+          "domain": "sbfisica.org.br (Wayback)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF news (live URL 404s)",
+          "needle": "Backes"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2020_OIbF_virtual_XXV.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (virtual XXV, 4 golds + Mejor Oro (Felipe Farias))",
+          "needle": "Felipe Farias Ribeiro Filho"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/20-oibf/254-resultado-oibf-2020.html",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBF site 2020 results",
+          "needle": "Lucas Takayasu"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/sai-o-resultado-da-seletiva-de-fisica-descubra-quem-respresentara-o-brasil-nas-internacionais/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full — pre-event roster",
+          "confirms": "NOIC seletiva announcement",
+          "needle": "Maria Eduarda"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2021_XXVI.pdf",
+          "domain": "fisica.org.br (~oibf)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results PDF (XXVI João Pessoa, 4 golds + Mejor Oro/Mejor Prueba Teórica (Lucas Almeida))",
+          "needle": "Lucas Almeida Oliveira"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/281-olimpiada-ibero-americana-de-fisica-oibf-brasil-vence-em-casa",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF: Brazil wins at home",
+          "needle": "Kerber"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/15-soif/315-brasil-conquista-dois-ouros-e-duas-pratas-na-oibf-2022.html",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF results 2G/2S (spells 'Mazzili'; virtual XXVII)",
+          "needle": "Albernaz"
+        },
+        {
+          "url": "https://sites.google.com/view/oibf2022/medallero",
+          "domain": "sites.google.com (official XXVII)",
+          "cls": "official",
+          "coverage": "full — images only",
+          "confirms": "official medallero, but image/video content — not text-verifiable"
+        }
+      ],
+      "note": "Virtual edition; official Google-Sites medallero is image-based (not text-verifiable) — SBF's live article is the text-verified record. Spelling conflict 'Mazzili' (SBF) vs 'Mazili' (dataset, from EuPhO source) unresolved — official medallero can't adjudicate."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://sites.google.com/view/oibfcr2023/medallero",
+          "domain": "sites.google.com (official XXVIII)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official medallero: 3G (Alexandre, Arthur Hwang, Rafael Sena + best theoretical) + 1S (Augusto Burlacchini)",
+          "needle": "Burlacchini"
+        },
+        {
+          "url": "https://www1.fisica.org.br/olimpiada/2023/index.php/15-soif/333-brasil-conquista-3-ouros-e-1-prata-na-oibf-2023",
+          "domain": "fisica.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBF results 3G/1S",
+          "needle": "Rafael Sena"
+        }
+      ]
+    }
+  ]
+}

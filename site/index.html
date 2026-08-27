@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hall da Fama — Olimpíadas Internacionais · Brasil</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div>
+    <h1>Hall da Fama · Olimpíadas Científicas Internacionais</h1>
+    <p class="sub" id="meta-line">Carregando dados…</p>
+  </div>
+</header>
+
+<section class="controls" id="controls" hidden>
+  <div class="row">
+    <input id="q" type="search" placeholder="Buscar estudante… (ignora acentos)" autocomplete="off">
+    <div class="view-toggle" role="tablist">
+      <button id="view-people" class="on" role="tab">Pessoas</button>
+      <button id="view-parts" role="tab">Participações</button>
+    </div>
+  </div>
+  <div class="row">
+    <label>Olimpíada
+      <select id="f-ol"><option value="">Todas</option></select>
+    </label>
+    <label>Área
+      <select id="f-field"><option value="">Todas</option></select>
+    </label>
+    <label>Abrangência
+      <select id="f-scope"><option value="">Todas</option></select>
+    </label>
+    <label>Resultado
+      <select id="f-medal">
+        <option value="">Qualquer</option>
+        <option value="gold">Ouro</option>
+        <option value="silver">Prata</option>
+        <option value="bronze">Bronze</option>
+        <option value="honorable-mention">Menção honrosa</option>
+        <option value="none">Sem medalha</option>
+      </select>
+    </label>
+    <label>De <input id="y0" type="number" min="1979" max="2026" placeholder="1979"></label>
+    <label>Até <input id="y1" type="number" min="1979" max="2026" placeholder="2026"></label>
+    <button id="clear" class="ghost">Limpar filtros</button>
+    <span class="spacer"></span>
+    <button id="copy">Copiar TSV</button>
+    <button id="dl-csv">CSV</button>
+    <button id="dl-json">JSON</button>
+  </div>
+  <p class="sub" id="result-line"></p>
+</section>
+
+<main>
+  <div class="table-wrap">
+    <table id="table">
+      <thead id="thead"></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

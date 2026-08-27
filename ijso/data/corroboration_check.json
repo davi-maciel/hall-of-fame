@@ -1,0 +1,635 @@
+{
+  "checkedAt": "2026-08-02T08:10:18+00:00",
+  "summary": {
+    "PASS": 73,
+    "FAIL-HTTP": 2,
+    "FAIL-NEEDLE": 2,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/2005/http://www.agencia.fapesp.br/boletim_dentro.php?id=2911",
+      "domain": "agencia.fapesp.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'teramae'"
+    },
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/20050207052420/http://www.ozzybohmer.com/jakarta2004-resultado.asp",
+      "domain": "ozzybohmer.com (coordinator, Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lang'"
+    },
+    {
+      "year": 2004,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'teramae'"
+    },
+    {
+      "year": 2004,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'teramae'"
+    },
+    {
+      "year": 2005,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'buscariollo'"
+    },
+    {
+      "year": 2005,
+      "url": "https://web.archive.org/web/20110206035452/http://www.ijso.com.br/historia.htm",
+      "domain": "ijso.com.br (B8, Wayback 2011)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'buscariollo'"
+    },
+    {
+      "year": 2005,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'buscariollo'"
+    },
+    {
+      "year": 2006,
+      "url": "https://web.archive.org/web/20080525100609/http://www.ozzybohmer.com/ijso2006/results/Moderation.htm",
+      "domain": "ozzybohmer.com/ijso2006 (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Terceros'"
+    },
+    {
+      "year": 2006,
+      "url": "https://web.archive.org/web/20080525101802/http://www.ozzybohmer.com/ijso2006/results/Medalswinner.htm",
+      "domain": "ozzybohmer.com/ijso2006 (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Cavina'"
+    },
+    {
+      "year": 2006,
+      "url": "https://ijsoweb.org/participating-countries",
+      "domain": "ijsoweb.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2006,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lang'"
+    },
+    {
+      "year": 2007,
+      "url": "https://web.archive.org/web/20101125235547/http://www.ijso-official.org/node/44",
+      "domain": "ijso-official.org (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2007,
+      "url": "https://web.archive.org/web/20130324174549/http://200.136.76.28/noticias.asp?id=2432",
+      "domain": "Objetivo (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tsai'"
+    },
+    {
+      "year": 2007,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'paula'"
+    },
+    {
+      "year": 2007,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'paula'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/ijso-2008/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sousa'"
+    },
+    {
+      "year": 2008,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'sousa'"
+    },
+    {
+      "year": 2008,
+      "url": "https://ijsoweb.org/participating-countries",
+      "domain": "ijsoweb.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2008,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sousa'"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/ijso-2009/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'noleto'"
+    },
+    {
+      "year": 2009,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'noleto'"
+    },
+    {
+      "year": 2009,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'noleto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/ijso-2010/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'fraga'"
+    },
+    {
+      "year": 2010,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'fraga'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiada.webnode.com.br/home/newscbm_124783/110/",
+      "domain": "olimpiada.webnode.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'fraga'"
+    },
+    {
+      "year": 2010,
+      "url": "https://pt.wikipedia.org/wiki/IJSO_2010",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'fraga'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/ijso-2011/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'saika'"
+    },
+    {
+      "year": 2011,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'saika'"
+    },
+    {
+      "year": 2011,
+      "url": "https://ijsoweb.org/participating-countries",
+      "domain": "ijsoweb.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2011,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'saika'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2012,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2012,
+      "url": "https://pt.wikipedia.org/wiki/IJSO_Brasil_2012",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2013,
+      "url": "http://www.obciencias.com.br/notiacutecias.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2013,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2013,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'camacho'"
+    },
+    {
+      "year": 2014,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2014,
+      "url": "http://www.obciencias.com.br/resultados-2014.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2014,
+      "url": "http://www.obciencias.com.br/notiacutecias.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2014,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2014,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/interdisciplinares/medalhas-de-prata-para-o-brasil-na-olimpiada-internacional-junior-de-ciencias-ijso/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2015,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2015,
+      "url": "https://web.archive.org/web/20160415035329/http://www.obciencias.com.br/notiacutecias.html",
+      "domain": "obciencias.com.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/uncategorized/brasil-conquista-4-ouros-e-melhor-resultado-da-historia-na-olimpiada-internacional-de-ciencias-junior-ijso/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'calderaro'"
+    },
+    {
+      "year": 2016,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'calderaro'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=ijso-equipe-olimpica-do-objetivo-conquista-ouro-e-prata-na-indonesia",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Calderaro'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20161114153003/http://www.obciencias.com.br/resultados-2016.html",
+      "domain": "obciencias.com.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'calderaro'"
+    },
+    {
+      "year": 2017,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'trigo'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=olimpiada-internacional-de-ciencias-junior-ijso-rafael-akira-e-medalha-de-prata",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Akira'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.escavador.com/sobre/601264619/ricardo-sammuel-moura-lima",
+      "domain": "escavador.com",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/uncategorized/divulgado-o-time-da-ijso-2017/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ygor'"
+    },
+    {
+      "year": 2018,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'slikta'"
+    },
+    {
+      "year": 2018,
+      "url": "https://objetivo.br/institucional/noticias.aspx?titulo=ijso-selecao-olimpica-do-objetivo-conquista-prata-e-bronze-na-africa",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Baracat'"
+    },
+    {
+      "year": 2018,
+      "url": "https://blog.etapa.com.br/noticias/etapa-conquista-prata-na-ijso-2018",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Slikta'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/interdisciplinares/veja-a-equipe-brasileira-na-ijso-2018/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'reboucas'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/2019/12/16/equipe-brasileira-conquista-dois-ouros-e-quatro-pratas-na-ijso-2019",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pezato'"
+    },
+    {
+      "year": 2019,
+      "url": "http://www.obciencias.com.br/histoacuteria.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pezato'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=olimpiada-internacional-junior-de-ciencias-no-catar-alunos-do-objetivo-conquistam-ouro-e-prata",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pezato'"
+    },
+    {
+      "year": 2019,
+      "url": "https://blog.etapa.com.br/noticias/etapa-em-competicao-internacional-de-ciencias",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Takayasu'"
+    },
+    {
+      "year": 2021,
+      "url": "http://www.obciencias.com.br/resultados-2021.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'gabilondo'"
+    },
+    {
+      "year": 2021,
+      "url": "https://ijsoweb.org/event/2021/medals-list-2021.pdf",
+      "domain": "ijsoweb.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2021,
+      "url": "https://blog.etapa.com.br/noticias/ijso-2021",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Viegas'"
+    },
+    {
+      "year": 2021,
+      "url": "https://objetivo.br/institucional/noticias.aspx?titulo=e-bronze-olimpiada-internacional-junior-de-ciencias-ijso-premia-aluno-do-objetivo",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabilondo'"
+    },
+    {
+      "year": 2021,
+      "url": "https://br.linkedin.com/in/mateus-augusto-cavassin",
+      "domain": "linkedin.com",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "HTTPError: HTTP Error 999: <none>"
+    },
+    {
+      "year": 2022,
+      "url": "https://web.archive.org/web/20230321021334/https://www.ijso2022.com/ijso-2022/results",
+      "domain": "ijso2022.com (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Loes'"
+    },
+    {
+      "year": 2022,
+      "url": "http://www.obciencias.com.br/resultados-2022.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'loes'"
+    },
+    {
+      "year": 2022,
+      "url": "https://blog.etapa.com.br/noticias/ijso-2022",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Loes'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=ijso-2022-olimpiada-internacional-junior-de-ciencias-premia-alunos-do-objetivo-com-ouro-e-prata",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gustavo Jun'"
+    },
+    {
+      "year": 2023,
+      "url": "http://www.obciencias.com.br/resultados-2023.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'feltran'"
+    },
+    {
+      "year": 2023,
+      "url": "https://web.archive.org/web/20241013093932/https://ijso2023.in.th/wp-content/uploads/2023/12/IJSO_2023_Results.pdf",
+      "domain": "ijso2023.in.th (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.pm.ce.gov.br/2023/11/10/aluno-do-cpmce-gef-finalista-de-olimpiada-internacional-junior-de-ciencias-e-recebido-pelo-comando-da-pmce/",
+      "domain": "pm.ce.gov.br",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "needle 'Sanzio'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/quem-somos/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "needle 'Pongelupp'"
+    },
+    {
+      "year": 2024,
+      "url": "http://www.obciencias.com.br/resultados-2024.html",
+      "domain": "obciencias.com.br (OBC/B8)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=aluno-do-objetivo-conquista-bronze-na-ijso-uma-das-mais-importantes-olimpiadas-cientificas-do-mundo",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Felipe'"
+    },
+    {
+      "year": 2024,
+      "url": "https://noic.com.br/quem-somos/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Jailson'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.consed.org.br/noticia/olimpiada-brasileira-de-ciencias-levara-estudantes-brasileiros-para-competicao-internacional-na-romenia",
+      "domain": "consed.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    }
+  ]
+}

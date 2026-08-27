@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-08-22T16:44:44+00:00",
+  "summary": {
+    "PASS": 7
+  },
+  "results": [
+    {
+      "year": 2020,
+      "url": "https://nbpho.ee/wp-content/uploads/2020/05/NB_final_results_publish.pdf",
+      "domain": "nbpho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lucas Takayasu'"
+    },
+    {
+      "year": 2020,
+      "url": "https://blog.etapa.com.br/noticias/olimpiada-de-fisica-dos-paises-balticos",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lucas Shoji'"
+    },
+    {
+      "year": 2025,
+      "url": "https://nbpho.ee/wp-content/uploads/2025/04/NBPhO-2025-grading-Final-for-web.pdf",
+      "domain": "nbpho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mateus Sussia'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www1.fisica.org.br/olimpiada/2025/index.php/15-soif/367-desempenho-de-destaque-na-nbpho-2025",
+      "domain": "fisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tobias Gabriel Utz'"
+    },
+    {
+      "year": 2026,
+      "url": "https://nbpho.ee/wp-content/uploads/2026/04/NBPhO-2026-results.pdf",
+      "domain": "nbpho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Benny Pereira'"
+    },
+    {
+      "year": 2026,
+      "url": "https://mais.opovo.com.br/jornal/cidades/2026/05/03/aluno-cearense-se-destaca-em-olimpiada-internacional-de-fisica-na-estonia.html",
+      "domain": "opovo.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Matheus Facó'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ne9.com.br/conheca-o-aluno-cearense-vice-campeao-da-olimpiada-de-fisica-na-europa/",
+      "domain": "ne9.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Matheus Facó'"
+    }
+  ]
+}

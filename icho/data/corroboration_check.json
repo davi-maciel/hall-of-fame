@@ -1,0 +1,865 @@
+{
+  "checkedAt": "2026-08-02T05:04:35+00:00",
+  "summary": {
+    "PASS": 95,
+    "FAIL-HTTP": 12
+  },
+  "results": [
+    {
+      "year": 1999,
+      "url": "http://www.icho-official.org/results/results.php?id=31&year=1999",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 1999,
+      "url": "http://web.archive.org/web/20001208072100/http://scicsws01.sci.ku.ac.th:80/~icho31/mainpage/winner3.html",
+      "domain": "web.archive.org (Thai host)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 2000,
+      "url": "http://www.icho-official.org/results/results.php?id=32&year=2000",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'fleming'"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'fleming'"
+    },
+    {
+      "year": 2000,
+      "url": "http://www.obq.ufc.br/Resultado32IChO.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2001,
+      "url": "http://www.icho-official.org/results/results.php?id=33&year=2001",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2001,
+      "url": "http://www.obq.ufc.br/Resultado33IChO.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2002,
+      "url": "http://www.icho-official.org/results/results.php?id=34&year=2002",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'oliveira'"
+    },
+    {
+      "year": 2002,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'oliveira'"
+    },
+    {
+      "year": 2002,
+      "url": "http://www.obq.ufc.br/Resultado%20IChO34.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2003,
+      "url": "http://www.icho-official.org/results/results.php?id=35&year=2003",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2003,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2003,
+      "url": "http://www.35icho.uoa.gr/ichol_eng/chemistry_eng/results/results.pdf",
+      "domain": "35icho.uoa.gr (Greek host)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Studart'"
+    },
+    {
+      "year": 2003,
+      "url": "http://www.obq.ufc.br/35th%20IChOResultado.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2004,
+      "url": "http://www.icho-official.org/results/results.php?id=36&year=2004",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2004,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2004,
+      "url": "http://www.obq.ufc.br/36th%20IChOResultado.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2005,
+      "url": "http://www.icho-official.org/results/results.php?id=37&year=2005",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'branco'"
+    },
+    {
+      "year": 2005,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'branco'"
+    },
+    {
+      "year": 2005,
+      "url": "http://www.obq.ufc.br/Resultado37thIChO.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2006,
+      "url": "http://www.icho-official.org/results/results.php?id=38&year=2006",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'apolonio'"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'apolonio'"
+    },
+    {
+      "year": 2006,
+      "url": "http://www.obq.ufc.br/38th%20IChOResultado.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2007,
+      "url": "http://www.icho-official.org/results/results.php?id=39&year=2007",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'tavares'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'tavares'"
+    },
+    {
+      "year": 2007,
+      "url": "http://www.obq.ufc.br/Resultados%20IChO39.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2008,
+      "url": "http://www.icho-official.org/results/results.php?id=40&year=2008",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'paiva'"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'paiva'"
+    },
+    {
+      "year": 2008,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2008",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'paiva'"
+    },
+    {
+      "year": 2008,
+      "url": "http://www.obq.ufc.br/40thIChO_resultado.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2009,
+      "url": "http://www.icho-official.org/results/results.php?id=41&year=2009",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'quarto'"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'quarto'"
+    },
+    {
+      "year": 2009,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2009",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'quarto'"
+    },
+    {
+      "year": 2009,
+      "url": "http://www.obq.ufc.br/ResultadoIChO2009.pdf",
+      "domain": "obq.ufc.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.quimica.com.br/41st-international-chemistry-olimpiad-delegacao-brasileira-ganha-destaque-em-evento-na-inglaterra/",
+      "domain": "quimica.com.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "year": 2010,
+      "url": "http://www.icho-official.org/results/results.php?id=42&year=2010",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'quarto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'quarto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2010",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'quarto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://abqsp.org.br/oqsp/historico/",
+      "domain": "abqsp.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Okuma'"
+    },
+    {
+      "year": 2011,
+      "url": "http://www.icho-official.org/results/results.php?id=43&year=2011",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'chaves'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chaves'"
+    },
+    {
+      "year": 2011,
+      "url": "https://abqsp.org.br/oqsp/historico/",
+      "domain": "abqsp.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pontes'"
+    },
+    {
+      "year": 2011,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2011",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'chaves'"
+    },
+    {
+      "year": 2012,
+      "url": "http://www.icho-official.org/results/results.php?id=44&year=2012",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2012,
+      "url": "https://abqsp.org.br/oqsp/historico/",
+      "domain": "abqsp.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arjona'"
+    },
+    {
+      "year": 2012,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2012",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2013,
+      "url": "http://www.icho-official.org/results/results.php?id=45&year=2013",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2013,
+      "url": "https://obquimica.org/storage/olympiads/result-files/ResultadoIChO2013%E2%80%93Russia.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2013,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2013",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2014,
+      "url": "http://www.icho-official.org/results/results.php?id=46&year=2014",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'iwashita'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'iwashita'"
+    },
+    {
+      "year": 2014,
+      "url": "https://abqsp.org.br/oqsp/historico/",
+      "domain": "abqsp.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iwashita'"
+    },
+    {
+      "year": 2014,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2014",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'iwashita'"
+    },
+    {
+      "year": 2015,
+      "url": "http://www.icho-official.org/results/results.php?id=47&year=2015",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2015,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202015.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2015,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2015",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pires'"
+    },
+    {
+      "year": 2016,
+      "url": "http://www.icho-official.org/results/results.php?id=48&year=2016",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2016,
+      "url": "https://abqsp.org.br/oqsp/historico/",
+      "domain": "abqsp.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2016,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202016.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2016,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2016",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'amgarten'"
+    },
+    {
+      "year": 2017,
+      "url": "http://www.icho-official.org/results/results.php?id=49&year=2017",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2017,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2017",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2017,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202017.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2018,
+      "url": "http://www.icho-official.org/results/results.php?id=50&year=2018",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2018-08/brasil-ganha-2-medalhas-de-ouro-na-olimpiada-internacional-de-quimica",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Armelin'"
+    },
+    {
+      "year": 2018,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202018.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://agencia.fapesp.br/dois-estudantes-brasileiros-conquistam-ouro-na-olimpiada-internacional-de-quimica/28398",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Armelin'"
+    },
+    {
+      "year": 2018,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2018",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2019,
+      "url": "http://www.icho-official.org/results/results.php?id=51&year=2019",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'kuroishi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'kuroishi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.ufpi.br/ultimas-noticias-ufpi/32315-alunos-brasileiros-conquistam-medalhas-na-51-edicao-da-olimpiada-internacional-de-quimica-icho",
+      "domain": "ufpi.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "year": 2019,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202019.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'kuroishi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2019",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'kuroishi'"
+    },
+    {
+      "year": 2020,
+      "url": "http://www.icho-official.org/results/results.php?id=52&year=2020",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'catanhede'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'catanhede'"
+    },
+    {
+      "year": 2020,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202020.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'souza'"
+    },
+    {
+      "year": 2020,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2020",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'catanhede'"
+    },
+    {
+      "year": 2021,
+      "url": "http://www.icho-official.org/results/results.php?id=53&year=2021",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://cfq.org.br/noticia/brasil-conquista-quatro-medalhas-na-olimpiada-internacional-de-quimica/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202021.pdf",
+      "domain": "obquimica.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2021",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2022,
+      "url": "http://www.icho-official.org/results/results.php?id=54&year=2022",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2022,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2022",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'gomes'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2022/08/5026143-aluno-do-ceara-e-o-1-brasileiro-a-vencer-olimpiadas-internacionais.html",
+      "domain": "correiobraziliense.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Moreno'"
+    },
+    {
+      "year": 2023,
+      "url": "http://www.icho-official.org/results/results.php?id=55&year=2023",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2023,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2023",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2023,
+      "url": "https://cfq.org.br/noticia/brasil-participa-da-55a-olimpiada-internacional-de-quimica-na-suica-e-obtem-melhor-resultado-das-ultimas-cinco-olimpiadas/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Nailton'"
+    },
+    {
+      "year": 2024,
+      "url": "http://www.icho-official.org/results/results.php?id=56&year=2024",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
+      "domain": "abq.org.br (RQI)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.qui.ufmg.br/equipe-brasileira-das-olimpiadas-de-quimica/",
+      "domain": "qui.ufmg.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2024",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'magalhaes'"
+    },
+    {
+      "year": 2025,
+      "url": "http://www.icho-official.org/results/results.php?id=57&year=2025",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'hatushikano'"
+    },
+    {
+      "year": 2025,
+      "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2025",
+      "domain": "scoreboard.bc-pf.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'hatushikano'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.colegioetapa.com.br/portal/resultados/olimpiadas-cientificas",
+      "domain": "colegioetapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kenji'"
+    },
+    {
+      "year": 2026,
+      "url": "http://www.icho-official.org/results/results.php?id=58&year=2026",
+      "domain": "icho-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'costa'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.icho2026.uz/results/rankings.pdf",
+      "domain": "icho2026.uz (Tashkent host)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'costa'"
+    }
+  ]
+}

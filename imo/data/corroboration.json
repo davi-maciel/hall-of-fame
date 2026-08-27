@@ -1,0 +1,2017 @@
+{
+  "olympiadId": "imo",
+  "description": "Independent web sources confirming Brazilian IMO participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "imo-official.org — the IMO's own results database.",
+    "primary": "Genuinely independent reporting naming Brazilian competitors + results (OBM/SBM/IMPA/ABC/FAPESP/gov/university/news/CVs/biographies).",
+    "archive": "Third-party IMO result mirrors (polyomino.org.uk, math.olympiaadid.ut.ee, olimpiadascientificas.org) — name the roster but likely derive from official IMO data.",
+    "counts": "Independent domain corroborating medal COUNTS only, no names (pt.wikipedia). Supporting."
+  },
+  "years": [
+    {
+      "year": 1979,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1979/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://aun.webhostusp.sti.usp.br/index.php/2023/01/19/brasil-e-o-maior-campeao-de-competicoes-de-matematica-universitaria-do-continente-americano/",
+          "domain": "usp.br (AUN)",
+          "cls": "primary",
+          "coverage": "1/5",
+          "confirms": "Edson de Faria in Brazil's first (1979) IMO delegation"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1981/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://impa.br/autor/nicolau-corcao-saldanha/?lang=en",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "1/8",
+          "confirms": "Nicolau Corção Saldanha — first Brazilian IMO gold, 1981"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1982/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1982/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1983/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1983/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1984/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://docslib.org/doc/11302725/claudio-chamon-education-research-experience",
+          "domain": "docslib.org",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Cláudio Chamon CV — 1984 IMO Third Prize (bronze)"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+          "domain": "obm.org.br (PDF)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM historical roster PDF (1979–1990) — full team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1985/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+          "domain": "obm.org.br (PDF)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM historical roster PDF — 1985 team + 2 bronzes"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1986/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+          "domain": "obm.org.br (PDF)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM roster PDF — Ralph Costa Teixeira gold"
+        },
+        {
+          "url": "https://impa.br/en_US/noticias/olimpiada-internacional-traz-ao-brasil-os-jovens-craques-da-matematica/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Ralph Costa Teixeira — golds 1986 & 1987"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1987/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+          "domain": "obm.org.br (PDF)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM roster PDF — Ralph gold; Mendonça & Fritz Braga bronze"
+        },
+        {
+          "url": "https://impa.br/en_US/noticias/olimpiada-internacional-traz-ao-brasil-os-jovens-craques-da-matematica/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Ralph Costa Teixeira — golds 1986 & 1987 (perfect score 1987)"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1988/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1988/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+          "domain": "obm.org.br (PDF)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM roster PDF — 1988 team + 2 HMs"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1989/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1989/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://impa.br/notices/gugu-wins-the-erdos-prize-for-his-contribution-to-mathematics/?lang=en",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Gugu Moreira — bronze 1989"
+        },
+        {
+          "url": "https://www.wfnmc.org/erdgugu.html",
+          "domain": "wfnmc.org",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Gugu Moreira — bronze IMO 1989"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1990/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1990/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://siteantigo.faperj.br/?id=4156.2.4",
+          "domain": "faperj.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Gugu Moreira (own words) — gold IMO 1990"
+        },
+        {
+          "url": "https://impa.br/notices/gugu-wins-the-erdos-prize-for-his-contribution-to-mathematics/?lang=en",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Gugu Moreira — gold 1990"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1991/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1991/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1992/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1992/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo92_t3.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1993/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1993/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo93_t3.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1994/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo94_t3.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1995/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avila/",
+          "domain": "mathshistory.st-andrews.ac.uk",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Artur Ávila — gold, 36th IMO Toronto 1995"
+        },
+        {
+          "url": "https://revistapesquisa.fapesp.br/en/artur-avila-the-man-who-calculates/",
+          "domain": "fapesp.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Ávila gold 1995"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Artur_Avila",
+          "domain": "en.wikipedia.org",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Ávila gold 1995 IMO"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1996/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo96_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1996/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1997/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo97_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1997/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1998/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo98_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1998/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.obm.org.br/olimpiada-internacional-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Rui Lopes Viana Filho — gold 1998 (OBM gold list)"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/1999/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo99_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1999/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.abc.org.br/membro/fabricio-siqueira-benevides/",
+          "domain": "abc.org.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Fabrício S. Benevides — bronze 1999"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2000/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo00_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2000/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.abc.org.br/membro/fabricio-siqueira-benevides/",
+          "domain": "abc.org.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Fabrício S. Benevides — bronze 2000"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2001/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2001/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo01_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2002/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2002/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo02_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2003/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2003/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=olimpiada-internacional-de-matematica-rafael-daigo-hirama-conquista-mencao-honrosa-no-japao",
+          "domain": "objetivo.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Rafael Daigo Hirama — HM 2003"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2004/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2004/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://objetivo.br/institucional/noticias.aspx?titulo=rafael-daigo-hirama-e-medalha-de-prata-na-45a-olimpiada-internacional-de-matematica-atenas-2004",
+          "domain": "objetivo.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Rafael Daigo Hirama — silver 2004"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2005/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2005/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://agencia.fapesp.br/equipe-de-ouro/4473",
+          "domain": "fapesp.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "Gabriel Bujokas — gold 2005"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2006/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2006/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo06_t2.html",
+          "domain": "math.olympiaadid.ut.ee",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2007/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2017/01/eureka_29.pdf",
+          "domain": "obm.org.br (Eureka #29)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM Revista Eureka! #29 — full 2007 team + medals"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2007/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2008/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.obm.org.br/content/uploads/2017/01/eureka_29.pdf",
+          "domain": "obm.org.br (Eureka #29)",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM Eureka! #29 — full 2008 team + medals"
+        },
+        {
+          "url": "https://www.jb.com.br/ciencia-e-tecnologia/noticias/2008/07/22/estudantes-brasileiros-conquistam-medalhas-na-49a-oi-de-matematica.html",
+          "domain": "jb.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Jornal do Brasil — full 2008 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2009/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.abc.org.br/2009/07/20/brasil-ganha-medalha-de-ouro-em-olimpiada-internacional-de-matematica/",
+          "domain": "abc.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "ABC — full 2009 team + medals"
+        },
+        {
+          "url": "https://revistapesquisa.fapesp.br/ouro-em-matematica/",
+          "domain": "fapesp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "FAPESP — full 2009 team + medals"
+        },
+        {
+          "url": "https://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2286",
+          "domain": "ipea.gov.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IPEA — full 2009 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2010/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2010/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://noic.com.br/resultados-do-brasil-em-olimpiadas-internacionais/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC — full 2010 team (1 medal-color slip noted)"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2011/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2011/scores-order.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://olimpiada.webnode.com.br/home/newscbm_124783/20/",
+          "domain": "olimpiada.webnode.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Independent archive — full 2011 team + medals"
+        },
+        {
+          "url": "http://matheusmathica.blogspot.com/2011/07/",
+          "domain": "matheusmathica.blogspot.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Blog (Jul 2011) — full team, 3 silver/3 bronze"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2012/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://agencia.fapesp.br/estudante-paulista-conquista-medalha-de-ouro-na-olimpiada-internacional-de-matematica/15892",
+          "domain": "fapesp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "FAPESP — full 2012 team + medals"
+        },
+        {
+          "url": "https://correiodoestado.com.br/cidades/estudante-brasileiro-ganha-ouro-em-competicao-mundial-de-matematica/154753/",
+          "domain": "correiodoestado.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Correio do Estado — full 2012 team"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2012/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2013/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + medals (per-year section on one page)"
+        },
+        {
+          "url": "https://agencia.fapesp.br/brasil-conquista-quatro-medalhas-na-olimpiada-internacional-de-matematica/17634",
+          "domain": "fapesp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "FAPESP — full 2013 team + medals"
+        },
+        {
+          "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2013/scores-code.html",
+          "domain": "polyomino.org.uk",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "full roster + scores + medals"
+        },
+        {
+          "url": "http://baiadalusofonia.blogspot.com/2013/07/olimpiadas.html",
+          "domain": "baiadalusofonia.blogspot.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Blog — full 2013 team incl. both HMs"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2014/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.obm.org.br/2014/07/14/brasil-volta-da-africa-do-sul-com-cinco-medalhas/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2014 team + medals"
+        },
+        {
+          "url": "https://agencia.fapesp.br/equipe-brasileira-conquista-cinco-medalhas-na-olimpiada-internacional-de-matematica/19421",
+          "domain": "fapesp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "FAPESP — full 2014 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2015/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://edumatcapuerj.wordpress.com/2015/07/25/brasil-conquista-6-medalhas-na-olimpiada-internacional-de-matematica/",
+          "domain": "edumatcapuerj.wordpress.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "GEMat-UERJ — full 2015 team + medals"
+        },
+        {
+          "url": "https://www.prof-edigleyalexandre.com/2015/07/facanha-atletas-matematica.html",
+          "domain": "prof-edigleyalexandre.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Educator blog — full 2015 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2016/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://noic.com.br/2016/07/14/brasil-conquista-melhor-resultado-da-historia-na-olimpiada-internacional-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC — full 2016 team + scores + medals"
+        },
+        {
+          "url": "https://postulanteuniversitario.blogspot.com/2016/07/",
+          "domain": "postulanteuniversitario.blogspot.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Blog — full 2016 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2017/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-tres-medalhas-na-imo/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA — full 2017 team + medals"
+        },
+        {
+          "url": "https://www.obm.org.br/2017/07/24/resultado-da-equipe-brasileira-na-imo-2017/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2017 team + results"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2018/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2018-07/brasileiros-ganham-medalhas-em-olimpiada-internacional-de-matematica",
+          "domain": "agenciabrasil.ebc.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Agência Brasil — full 2018 team + medals"
+        },
+        {
+          "url": "https://impa.br/notices/pedro-sponchiado-conquista-ouro-na-olimpiada-internacional-de-matematica/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA — full 2018 team + medals"
+        },
+        {
+          "url": "https://jornalgrandebahia.com.br/2018/07/brasileiro-conquista-ouro-na-olimpiada-internacional-de-matematica/",
+          "domain": "jornalgrandebahia.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "News — full 2018 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2019/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-07/brasil-ganha-seis-medalhas-na-olimpiada-internacional-de-matematica",
+          "domain": "agenciabrasil.ebc.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Agência Brasil — full 2019 team + medals"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-seis-medalhas-na-imo-2019-na-inglaterra/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA — full 2019 team + medals"
+        },
+        {
+          "url": "https://www.sonoticiaboa.com.br/2019/07/24/brasileiros-ganham-6-medalhas-olimpiada-internacional-matematica/",
+          "domain": "sonoticiaboa.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "News — full 2019 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2020/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2020/10/4879023-recifense-conquista-ouro-na-olimpiada-internacional-de-matematica.html",
+          "domain": "correiobraziliense.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Correio Braziliense — full 2020 team + medals"
+        },
+        {
+          "url": "https://www.sonoticiaboa.com.br/2020/09/30/brasileiros-levam-ouro-e-prata-historicos-olimpiada-internacional-matematica",
+          "domain": "sonoticiaboa.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "News — full 2020 team + medals"
+        },
+        {
+          "url": "https://www.professortacianomedrado.com/2020/10/olimpiada-internacional-de-matematica.html",
+          "domain": "professortacianomedrado.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Educator blog — full 2020 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2021/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/07/23/brasil-encerra-imo-2021-com-duas-pratas-e-tres-bronzes/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2021 team + medals + points"
+        },
+        {
+          "url": "https://blog.etapa.com.br/noticias/imo-2021",
+          "domain": "etapa.com.br",
+          "cls": "primary",
+          "coverage": "4/6",
+          "confirms": "Colégio Etapa — 4 of the 2021 team + medals"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2022/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://sbm.org.br/noticias/de-forma-inedita-brasil-conquista-dois-ouros-na-imo/",
+          "domain": "sbm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "SBM — full 2022 team + medals (2 golds)"
+        },
+        {
+          "url": "https://blog.etapa.com.br/noticias/imo-2022",
+          "domain": "etapa.com.br",
+          "cls": "primary",
+          "coverage": "2/6",
+          "confirms": "Colégio Etapa — the two 2022 gold medalists"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2023/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/07/12/brasil-e-ouro-na-imo-2023/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2023 team + medals"
+        },
+        {
+          "url": "https://impa.br/notices/brazil-wins-6-medals-and-finishes-16th-in-the-international-olympics/?lang=en",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA — full 2023 team + medals"
+        },
+        {
+          "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2023/07/5110703-brasileiro-de-16-anos-leva-ouro-em-olimpiada-de-matematica-no-japao.html",
+          "domain": "correiobraziliense.com.br",
+          "cls": "primary",
+          "coverage": "1/6",
+          "confirms": "News — Matheus Alencar de Moraes gold 2023"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+          "domain": "pt.wikipedia.org",
+          "cls": "counts",
+          "coverage": "counts",
+          "confirms": "medal counts + rank + team size (no individual names)"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2024/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/07/21/brasil-na-imo-2024-ouro-prata-bronze-e-20a-posicao-no-ranking-mundial/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2024 team + medals"
+        },
+        {
+          "url": "https://www.nsctotal.com.br/colunistas/estela-benetti/estudante-de-sc-conquista-medalha-de-prata-na-olimpiada-mundial-de-matematica",
+          "domain": "nsctotal.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NSC Total — full 2024 team + medals"
+        },
+        {
+          "url": "https://jornalarua.com/2024/07/24/estudante-de-carapicuiba-conquista-ouro-na-olimpiada-internacional-de-matematica/",
+          "domain": "jornalarua.com",
+          "cls": "primary",
+          "coverage": "2/6",
+          "confirms": "News — 2024 gold + a silver"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2025/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/07/18/brasil-conquista-tres-medalhas-de-prata-e-duas-de-bronze-na-imo-2025-e-alcanca-a-32a-colocacao-mundial/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2025 team + medals + points"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.imo-official.org/results/team/year/2026/country/BRA/",
+          "domain": "imo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full roster + medals + ranks"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/07/20/brasil-conquista-cinco-medalhas-de-prata-e-uma-de-bronze-na-imo-2026-e-alcanca-o-11o-lugar-no-mundo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM — full 2026 team (all 6 names) + medals; 67th IMO, Shanghai; 11th place"
+        },
+        {
+          "url": "https://impa.br/notices/brazil-wins-five-silver-medals-and-one-bronze-at-the-2026-imo-and-ranks-11th-in-the-world/?lang=en",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA — full 2026 team (all 6 names) + medals + 11th place"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+:root {
+  color-scheme: light;
+  --surface: #fcfcfb;
+  --surface-2: #f2f1ee;
+  --border: #dddbd4;
+  --text: #0b0b0b;
+  --text-2: #52514e;
+  --text-3: #8a887f;
+  --accent: #2a78d6;
+  --row-hover: #f5f4f0;
+  --detail-bg: #f7f6f2;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --surface: #1a1a19;
+    --surface-2: #232322;
+    --border: #3a3936;
+    --text: #ffffff;
+    --text-2: #c3c2b7;
+    --text-3: #8a887f;
+    --accent: #3987e5;
+    --row-hover: #232322;
+    --detail-bg: #202020;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--surface);
+  color: var(--text);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+header.top { padding: 20px 24px 6px; }
+h1 { margin: 0 0 2px; font-size: 20px; letter-spacing: -0.01em; }
+.sub { margin: 2px 0; color: var(--text-2); font-size: 13px; }
+
+.controls { padding: 8px 24px 4px; display: flex; flex-direction: column; gap: 8px; }
+.row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.spacer { flex: 1; }
+
+input[type="search"], input[type="number"], select {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 7px 10px;
+  font-size: 13px;
+}
+input[type="search"] { width: 320px; }
+input[type="number"] { width: 84px; }
+label { color: var(--text-2); font-size: 12px; display: inline-flex; align-items: center; gap: 6px; }
+
+button {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 7px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+button:hover { border-color: var(--text-3); }
+button.ghost { background: transparent; color: var(--text-2); }
+.view-toggle { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.view-toggle button { border: 0; border-radius: 0; background: transparent; }
+.view-toggle button.on { background: var(--text); color: var(--surface); }
+
+.table-wrap { overflow-x: auto; padding: 0 24px 24px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th {
+  position: sticky; top: 0; background: var(--surface);
+  color: var(--text-2); font-size: 12px; font-weight: 600;
+  cursor: pointer; user-select: none;
+}
+th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; }
+th .arrow { color: var(--text-2); }
+tbody tr.data:hover { background: var(--row-hover); cursor: pointer; }
+td.name { font-weight: 550; }
+td.name a { color: inherit; text-decoration: none; }
+td.team a { color: var(--text-2); text-decoration: none; }
+td.team a:hover, td.name a:hover { text-decoration: underline; }
+td.team { white-space: normal; max-width: 560px; }
+.olname { font-size: 12px; }
+header.top a { color: var(--text-2); text-decoration: none; }
+header.top a:hover { text-decoration: underline; }
+span.ols { color: var(--text-2); font-size: 12.5px; letter-spacing: 0.04em; }
+td .variants { color: var(--text-3); font-size: 11px; }
+
+td.ols { color: var(--text-2); font-size: 12.5px; letter-spacing: 0.04em; }
+
+tr.detail td {
+  background: var(--detail-bg);
+  white-space: normal;
+  padding: 10px 14px 12px;
+}
+.traj { font-size: 13px; line-height: 1.9; }
+.traj .yr { color: var(--text-3); font-variant-numeric: tabular-nums; }
+.traj .sep { color: var(--text-3); }
+.prov { margin-top: 8px; color: var(--text-3); font-size: 12px; }
+
+.muted { color: var(--text-3); }
+.sources { padding: 4px 24px 0; max-width: 900px; }
+.sources h2 { font-size: 13px; color: var(--text-2); margin: 12px 0 4px; font-weight: 600; }
+.sources p { margin: 3px 0; font-size: 12px; color: var(--text-3); }
+.sources .src-key { display: inline-block; min-width: 84px; color: var(--text-2); font-variant-numeric: tabular-nums; }
+.sources a { color: var(--text-3); }
+.sources a:hover { color: var(--text); }
+
+footer { padding: 8px 24px 28px; color: var(--text-3); font-size: 12px; max-width: 900px; }
+footer code { font-size: 11px; }
+@media (max-width: 700px) {
+  input[type="search"] { width: 100%; }
+}

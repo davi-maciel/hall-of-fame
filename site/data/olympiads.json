@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "matematica": {
+      "label": "Matemática",
+      "light": "#2a78d6",
+      "dark": "#3987e5"
+    },
+    "fisica": {
+      "label": "Física",
+      "light": "#eb6834",
+      "dark": "#d95926"
+    },
+    "quimica": {
+      "label": "Química",
+      "light": "#1baf7a",
+      "dark": "#199e70"
+    },
+    "informatica": {
+      "label": "Informática",
+      "light": "#eda100",
+      "dark": "#c98500"
+    },
+    "astronomia": {
+      "label": "Astronomia",
+      "light": "#e87ba4",
+      "dark": "#d55181"
+    },
+    "ciencias": {
+      "label": "Ciências (integradas)",
+      "light": "#008300",
+      "dark": "#008300"
+    }
+  },
+  "olympiads": {
+    "imo": {
+      "code": "IMO",
+      "name": "International Mathematical Olympiad",
+      "field": "matematica",
+      "scope": "mundial"
+    },
+    "icho": {
+      "code": "IChO",
+      "name": "International Chemistry Olympiad",
+      "field": "quimica",
+      "scope": "mundial"
+    },
+    "ioi": {
+      "code": "IOI",
+      "name": "International Olympiad in Informatics",
+      "field": "informatica",
+      "scope": "mundial"
+    },
+    "ioaa": {
+      "code": "IOAA",
+      "name": "Int'l Olympiad on Astronomy and Astrophysics",
+      "field": "astronomia",
+      "scope": "mundial"
+    },
+    "ipho": {
+      "code": "IPhO",
+      "name": "International Physics Olympiad",
+      "field": "fisica",
+      "scope": "mundial"
+    },
+    "eupho": {
+      "code": "EuPhO",
+      "name": "European Physics Olympiad (convidado)",
+      "field": "fisica",
+      "scope": "convidado"
+    },
+    "oibf": {
+      "code": "OIbF",
+      "name": "Olimpíada Ibero-americana de Física",
+      "field": "fisica",
+      "scope": "ibero"
+    },
+    "nbpho": {
+      "code": "NBPhO",
+      "name": "Nordic-Baltic Physics Olympiad (convidado)",
+      "field": "fisica",
+      "scope": "convidado"
+    },
+    "ijso": {
+      "code": "IJSO",
+      "name": "International Junior Science Olympiad",
+      "field": "ciencias",
+      "scope": "mundial"
+    },
+    "oii": {
+      "code": "OII",
+      "name": "Olimpíada Ibero-americana de Informática (ex-CIIC)",
+      "field": "informatica",
+      "scope": "ibero"
+    },
+    "egoi": {
+      "code": "EGOI",
+      "name": "European Girls' Olympiad in Informatics (convidado)",
+      "field": "informatica",
+      "scope": "convidado"
+    }
+  },
+  "scopes": {
+    "mundial": "Mundial",
+    "ibero": "Ibero-americana",
+    "convidado": "Europeia (convidado)"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_comment": "Confirmed DISTINCT pairs (never merge, never re-flag). Each entry: [slugA, slugB, reason]. Sorted pairs.",
+  "pairs": [
+    [
+      "pedro-henrique-sacramento-de-oliveira",
+      "pedro-henrique-silva-de-oliveira",
+      "SP math/informatics olympian vs Fortaleza-CE IJSO 2015/16 student — different middles, different states (ijso collection research, 2026-08-02)"
+    ],
+    [
+      "rafael-guedes-lang",
+      "rodrigo-guedes-lang",
+      "brothers, both Colégio Portal de Limeira (ijso collection research)"
+    ],
+    [
+      "thiago-bergamaschi",
+      "thomas-ross-white-bergamaschi",
+      "brothers, both Etapa Valinhos (ijso collection research; confirmed 2026-08-22)"
+    ],
+    [
+      "andre-hahn-pereira",
+      "ricardo-hahn-pereira",
+      "brothers (ioi collection cross-check)"
+    ],
+    [
+      "joao-victor-magalhaes-caminha",
+      "joao-victor-moreira-pimentel",
+      "share only given names (icho collection cross-check)"
+    ],
+    [
+      "luiz-bruno-pereira-lima",
+      "luiz-ivan-marques-pereira",
+      "share only Luiz + Pereira (icho collection cross-check)"
+    ],
+    [
+      "felipe-de-castro-silva",
+      "felipe-maia-silva",
+      "conflicting full middle names (Castro vs Maia), 10-year gap"
+    ],
+    [
+      "lucas-almeida-oliveira",
+      "lucas-praca-oliveira",
+      "conflicting full middle names (Almeida vs Praça), both from official results PDFs"
+    ],
+    [
+      "pedro-henrique-dias-da-silva",
+      "pedro-veras-bezerra-da-silva",
+      "conflicting full middle names"
+    ],
+    [
+      "pedro-henrique-dias-da-silva",
+      "pedro-seber-e-silva",
+      "conflicting full middle names (Dias vs Seber)"
+    ],
+    [
+      "joao-gabriel-pepato-de-oliveira",
+      "joao-paulo-campos-de-oliveira",
+      "conflicting full middle names (Gabriel Pepato vs Paulo Campos); physics vs informatics tracks"
+    ],
+    [
+      "matheus-alencar-de-moraes",
+      "matheus-felipe-ramos-borges",
+      "different people entirely (math vs physics tracks; surnames merely edit-close)"
+    ],
+    [
+      "pedro-alves-de-souza-neto",
+      "pedro-victor-barbosa-noleto",
+      "conflicting middles; Neto/Noleto edit-close only"
+    ],
+    [
+      "pedro-gustavo-solera-noveleto",
+      "pedro-victor-barbosa-noleto",
+      "conflicting middles; Noveleto/Noleto edit-close only"
+    ],
+    [
+      "thiago-jose-veloso-de-souza",
+      "thiago-oliveira-sousa",
+      "conflicting middles; both individually matched in ABQ record-level cross-check (icho S4)"
+    ],
+    [
+      "jose-ernando-sousa-filho",
+      "jose-mario-silva-filho",
+      "conflicting middles+surnames; share only José+Filho"
+    ],
+    [
+      "jose-luciano-de-morais-neto",
+      "jose-rodolfo-de-farias-neto",
+      "conflicting middles+surnames; share only José+Neto"
+    ]
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "checkedAt": "2026-08-22T17:14:01+00:00",
+  "summary": {
+    "PASS": 32,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/20050216131717/http://oia.org.ar/ciic/result2004.html",
+      "domain": "oia.org.ar (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Slepetys'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=irmaos-amigos-e-companheiros-de-estudo",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ricardo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.iberoinformatica.org/results/2007/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2011,
+      "url": "http://programanacionaldeolimpiadas.blogspot.com/2011/09/resultados-de-la-iberoamericana-de.html",
+      "domain": "programanacionaldeolimpiadas.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.iberoinformatica.org/results/2012/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Renato Ferreira Pinto Junior'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.iberoinformatica.org/results/2013/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mateus Carvalho Dantas'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.iberoinformatica.org/results/2014/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Michel Rozenberg Zelazny'"
+    },
+    {
+      "year": 2014,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'bezrutchka'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.iberoinformatica.org/results/2015/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mateus Bezrutchka'"
+    },
+    {
+      "year": 2015,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'siaudzionis'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.iberoinformatica.org/results/2016/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Victor Agnez Lima'"
+    },
+    {
+      "year": 2016,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'guimaraes'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.iberoinformatica.org/results/2017/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Silva Simões'"
+    },
+    {
+      "year": 2017,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'kondo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.iberoinformatica.org/results/2018/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Frederico Bulhões de Sousa Ribeiro'"
+    },
+    {
+      "year": 2018,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'freire'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.iberoinformatica.org/results/2019/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Thiago Mota Martins'"
+    },
+    {
+      "year": 2019,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'andrade'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.iberoinformatica.org/results/2020/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Yan Matheus Tavares e Silva'"
+    },
+    {
+      "year": 2020,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'andrade'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.iberoinformatica.org/results/2021/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Luiz Henrique Yuji Delgado Oda'"
+    },
+    {
+      "year": 2021,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.iberoinformatica.org/results/2022/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pedro Shinzato Chen'"
+    },
+    {
+      "year": 2022,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.iberoinformatica.org/results/2023/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vladimir Arauzo Huisa'"
+    },
+    {
+      "year": 2023,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.iberoinformatica.org/results/2024/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Arthur Lobo Leite Lopes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'paiva'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.iberoinformatica.org/results/2025/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fernando Graminholi Gonçalves'"
+    },
+    {
+      "year": 2025,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'paiva'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.iberoinformatica.org/results/2026/all",
+      "domain": "iberoinformatica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Maria Clara Fontes Silva'"
+    }
+  ]
+}

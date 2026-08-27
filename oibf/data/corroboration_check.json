@@ -1,0 +1,569 @@
+{
+  "checkedAt": "2026-08-22T16:42:53+00:00",
+  "summary": {
+    "PASS": 69,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2000,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2000_V.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Francisco Vieira Neto'"
+    },
+    {
+      "year": 2000,
+      "url": "https://web.archive.org/web/20101031025952/http://www.sbf1.sbfisica.org.br/oibf2004/Ibero00/v_result.htm",
+      "domain": "sbf1.sbfisica.org.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Diogo Diniz'"
+    },
+    {
+      "year": 2000,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alexandre Henrique dos Santos'"
+    },
+    {
+      "year": 2001,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2001_VI.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Martha Priscilla'"
+    },
+    {
+      "year": 2001,
+      "url": "https://web.archive.org/web/20050311225832/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero01/vi_result.htm",
+      "domain": "sbf1.sbfisica.org.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Leonardo Leite'"
+    },
+    {
+      "year": 2001,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Leonardo Leite Pereira'"
+    },
+    {
+      "year": 2001,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Leonardo Leite'"
+    },
+    {
+      "year": 2002,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2002_VII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pessoa'"
+    },
+    {
+      "year": 2002,
+      "url": "https://web.archive.org/web/20050311231021/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero02/vii_result.htm",
+      "domain": "sbf1.sbfisica.org.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Chociay'"
+    },
+    {
+      "year": 2002,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Henrique Chociay'"
+    },
+    {
+      "year": 2002,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Chociay'"
+    },
+    {
+      "year": 2003,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2003_VIII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lury Bertollo'"
+    },
+    {
+      "year": 2003,
+      "url": "https://web.archive.org/web/20050311232559/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero03/viii_result.htm",
+      "domain": "sbf1.sbfisica.org.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Eduardo Higino'"
+    },
+    {
+      "year": 2003,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Milton Eiji Kato'"
+    },
+    {
+      "year": 2003,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Kato'"
+    },
+    {
+      "year": 2004,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2004_IX.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Salerno'"
+    },
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/20050311235815/http://www.sbf1.sbfisica.org.br:80/oibf2004/Ibero04/ix_result.htm",
+      "domain": "sbf1.sbfisica.org.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tsai'"
+    },
+    {
+      "year": 2004,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vander Valente Martins'"
+    },
+    {
+      "year": 2004,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Salerno'"
+    },
+    {
+      "year": 2005,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2005_X.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bokliang'"
+    },
+    {
+      "year": 2005,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Antonio Augusto Matsumoto Zambon'"
+    },
+    {
+      "year": 2005,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Zambon'"
+    },
+    {
+      "year": 2006,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2006_XI.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Alexandre Hideki Deguchi Martani'"
+    },
+    {
+      "year": 2006,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Raphael Rodrigues Mata'"
+    },
+    {
+      "year": 2006,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Marrochio'"
+    },
+    {
+      "year": 2007,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2007_XII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Anderson Unlin Tsai'"
+    },
+    {
+      "year": 2007,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bruno Arderucio Costa'"
+    },
+    {
+      "year": 2007,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Arderucio'"
+    },
+    {
+      "year": 2008,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2008_XIII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mariana Quezado Costa Lima'"
+    },
+    {
+      "year": 2008,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'George Gondim Ribeiro'"
+    },
+    {
+      "year": 2008,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Quezado'"
+    },
+    {
+      "year": 2009,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2009_XIV.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Rolim'"
+    },
+    {
+      "year": 2009,
+      "url": "https://web.archive.org/web/20101022235504/http://www.sbf1.sbfisica.org.br/olimpiadas/Obf2009/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Rodrigo Rolim'"
+    },
+    {
+      "year": 2009,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luana Benedetto de Assis'"
+    },
+    {
+      "year": 2009,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Benedetto'"
+    },
+    {
+      "year": 2010,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2010_XV.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Elder Massahiro Yoshida'"
+    },
+    {
+      "year": 2010,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lucas C. C. Souza'"
+    },
+    {
+      "year": 2010,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Massahiro'"
+    },
+    {
+      "year": 2011,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2011_XVI.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kayo'"
+    },
+    {
+      "year": 2011,
+      "url": "https://sec.sbfisica.org.br/olimpiadas/obf2011/EquipeBROIbF.shtm",
+      "domain": "sbf1.sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miguel Augusto de Bortoli Saggin'"
+    },
+    {
+      "year": 2011,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Saggin'"
+    },
+    {
+      "year": 2012,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2012_XVII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ilo Pereira'"
+    },
+    {
+      "year": 2012,
+      "url": "https://web.archive.org/web/20140829160953/http://www.sbfisica.org.br/v1/index.php?option=com_content&view=article&id=430:brasil-vence-olimpiada-iberoamericana-de-fisica-2012&catid=152:acontece-na-sbf&Itemid=270",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2012,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2013,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2013_XVIII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bruno Kenichi Saika'"
+    },
+    {
+      "year": 2013,
+      "url": "https://web.archive.org/web/20160529054243/http://www.sbfisica.org.br:80/v1/olimpiada/2013/indexcec1.html?option=com_content&view=article&id=112:oibf13result&catid=35:pagina-principal&Itemid=182",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'VALLE'"
+    },
+    {
+      "year": 2014,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2014_XIX.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pedro Alves de Souza Neto'"
+    },
+    {
+      "year": 2014,
+      "url": "http://www.sbfisica.org.br/v1/olimpiada/2014/indexdf98.html?option=com_content&view=article&id=138:oibf14b&catid=35:pagina-principal&Itemid=182",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Matheus Carioca Sampaio'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/fisica/quatro-medalhas-para-o-brasil-na-oibf/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Souza Neto'"
+    },
+    {
+      "year": 2015,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2015_XX.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mateus de Castro Silva'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/fisica/divulgadas-as-equipes-da-ipho-e-oibf/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'FLORENTINO'"
+    },
+    {
+      "year": 2016,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2016_XXI.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Marina Maciel Ansanelli'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2016/images/arquivos/Brasil_conquista_medalhas_na_XXI_Olimp%C3%ADada_Ibero.pdf",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fontelles'"
+    },
+    {
+      "year": 2017,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2017_XXII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Erik Bardini da Rosa'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2017/index.php/2-uncategorised/133-resultado-da-olimpiada-ibero-americana-de-fisica-2017",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gustavo Misawa Hama'"
+    },
+    {
+      "year": 2018,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2018_XXIII.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fernando Silveira'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2018/index.php/2-uncategorised/180-resultado-da-olimpiada-ibero-americana-de-fisica-2018",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arounian'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/veja-o-resultado-do-brasil-na-ibero-de-fisica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Capelo'"
+    },
+    {
+      "year": 2019,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2019_XXIV.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vinicius de Alcântara Névoa'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/uncategorized/4-medalhas-de-ouro-para-o-brasil-na-olimpiada-ibero-americana-de-fisica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Davi Maciel'"
+    },
+    {
+      "year": 2019,
+      "url": "https://web.archive.org/web/20191022092758/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/965-brasil-conquista-ouro-e-primeiros-lugares-na-olimpiada-iberoamericana-de-fisica-2019",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Backes'"
+    },
+    {
+      "year": 2020,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2020_OIbF_virtual_XXV.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Felipe Farias Ribeiro Filho'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/20-oibf/254-resultado-oibf-2020.html",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lucas Takayasu'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/uncategorized/sai-o-resultado-da-seletiva-de-fisica-descubra-quem-respresentara-o-brasil-nas-internacionais/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Maria Eduarda'"
+    },
+    {
+      "year": 2021,
+      "url": "http://www1.fisica.org.br/~oibf/home/wp-content/uploads/2013/07/premiacoes_n/2021_XXVI.pdf",
+      "domain": "fisica.org.br (~oibf)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lucas Almeida Oliveira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/281-olimpiada-ibero-americana-de-fisica-oibf-brasil-vence-em-casa",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kerber'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/15-soif/315-brasil-conquista-dois-ouros-e-duas-pratas-na-oibf-2022.html",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Albernaz'"
+    },
+    {
+      "year": 2022,
+      "url": "https://sites.google.com/view/oibf2022/medallero",
+      "domain": "sites.google.com (official XXVII)",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://sites.google.com/view/oibfcr2023/medallero",
+      "domain": "sites.google.com (official XXVIII)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Burlacchini'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www1.fisica.org.br/olimpiada/2023/index.php/15-soif/333-brasil-conquista-3-ouros-e-1-prata-na-oibf-2023",
+      "domain": "fisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Rafael Sena'"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "checkedAt": "2026-08-22T16:44:42+00:00",
+  "summary": {
+    "PASS": 27
+  },
+  "results": [
+    {
+      "year": 2017,
+      "url": "https://eupho.ee/wp-content/uploads/2020/07/1stEuPhO_results.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Golfetti'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/fisica/ipho/brasil-conquista-medalhas-de-ouro-prata-e-bronze-na-eupho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Golfetti'"
+    },
+    {
+      "year": 2018,
+      "url": "https://eupho.ee/wp-content/uploads/2020/07/eupho18-results.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Rafael Timbó'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/tres-pratas-e-dois-bronzes-para-o-brasil-na-eupho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'GABRIEL GUERRA TRIGO'"
+    },
+    {
+      "year": 2018,
+      "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-bronze-na-2a-eupho",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Guerra Trigo'"
+    },
+    {
+      "year": 2019,
+      "url": "https://eupho.ee/wp-content/uploads/2020/07/EuPhO2019_results.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Capelo Domingues'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/fisica/resultado-historico-para-o-brasil-na-eupho-2019/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Santana Moura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://blog.etapa.com.br/noticias/bronze-na-olimpiada-europeia-de-fisica",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miguel Vieira Pereira'"
+    },
+    {
+      "year": 2020,
+      "url": "https://eupho.ee/wp-content/uploads/2020/07/EuPhO-2020-results.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Menegon'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/uncategorized/sai-o-resultado-da-seletiva-de-fisica-descubra-quem-respresentara-o-brasil-nas-internacionais/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Wanderson Faustino Patricio'"
+    },
+    {
+      "year": 2021,
+      "url": "https://eupho.ee/wp-content/uploads/2021/06/EuPhO2021-results.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ian Seo Takose'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/soif/15-soif/269-brasil-conquista-cinco-medalhas-na-eupho-2021.html",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Takose'"
+    },
+    {
+      "year": 2021,
+      "url": "https://blog.etapa.com.br/noticias/eupho-2021",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Makoto'"
+    },
+    {
+      "year": 2022,
+      "url": "https://eupho.ee/wp-content/uploads/2022/05/EuPhO2022-awards.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pepato'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/soif/15-soif/304-olimpiada-europeia-de-fisica-eupho-2022.html",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Everton Albuquerque'"
+    },
+    {
+      "year": 2022,
+      "url": "https://noic.com.br/olimpiadas/fisica/hall-da-fisica/",
+      "domain": "noic.com.br",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'João Pepato'"
+    },
+    {
+      "year": 2023,
+      "url": "https://eupho.ee/wp-content/uploads/2023/06/EuPhO23-results.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Albernaz'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/resultados-da-eupho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alberto Akira Ito Albernaz'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www1.fisica.org.br/olimpiada/2024/index.php/15-soif/329-desempenho-historico-na-eupho-2023",
+      "domain": "fisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mazili'"
+    },
+    {
+      "year": 2024,
+      "url": "https://eupho.ee/wp-content/uploads/2024/07/EuPhO-2024-results-resultsforweb.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bruno Machado Feltran'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www1.fisica.org.br/olimpiada/2024/index.php/soif/15-soif/356-brasil-conquista-2-pratas-e-3-bronzes-na-eupho-2024",
+      "domain": "fisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gurjão'"
+    },
+    {
+      "year": 2025,
+      "url": "https://eupho.ee/wp-content/uploads/2025/06/EuPhO_2025_results-3.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Avelar'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www1.fisica.org.br/olimpiada/2025/index.php/15-soif/373-conquistas-na-eupho-2025",
+      "domain": "fisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vitor Takashi Hideshima'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.agazeta.com.br/colunas/leonel-ximenes/einstein-capixaba-faz-bonito-na-olimpiada-de-fisica-na-europa-0625",
+      "domain": "agazeta.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Patrick Avelar'"
+    },
+    {
+      "year": 2026,
+      "url": "https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Results-1.pdf",
+      "domain": "eupho.ee",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Yamashita Risseto'"
+    },
+    {
+      "year": 2026,
+      "url": "https://g1.globo.com/pa/para/noticia/2026/06/19/estudante-do-pa-conquista-bronze-inedito-na-olimpiada-europeia-de-fisica.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Eyke Cardoso'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.oliberal.com/para/aluno-paraense-e-selecionado-para-representar-o-brasil-na-olimpiada-europeia-de-fisica-1.1095992",
+      "domain": "oliberal.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Eyke'"
+    }
+  ]
+}

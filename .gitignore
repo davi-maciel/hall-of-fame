@@ -1,0 +1,15 @@
+.claude/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+tmp/
+
+*.md
+!README.md
+
+# Only commit JSON files inside data/
+**/data/**
+!**/data/**/
+!**/data/**/*.json
+site/scripts/check_reports.py

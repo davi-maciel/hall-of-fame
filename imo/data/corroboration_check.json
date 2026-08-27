@@ -1,0 +1,1817 @@
+{
+  "checkedAt": "2026-08-02T05:07:37+00:00",
+  "summary": {
+    "PASS": 160,
+    "PASS-STATUS": 66
+  },
+  "results": [
+    {
+      "year": 1979,
+      "url": "https://www.imo-official.org/results/team/year/1979/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'chao'"
+    },
+    {
+      "year": 1979,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 1979,
+      "url": "https://aun.webhostusp.sti.usp.br/index.php/2023/01/19/brasil-e-o-maior-campeao-de-competicoes-de-matematica-universitaria-do-continente-americano/",
+      "domain": "usp.br (AUN)",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1979,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1981,
+      "url": "https://www.imo-official.org/results/team/year/1981/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'mendes'"
+    },
+    {
+      "year": 1981,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'mendes'"
+    },
+    {
+      "year": 1981,
+      "url": "https://impa.br/autor/nicolau-corcao-saldanha/?lang=en",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1981,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1982,
+      "url": "https://www.imo-official.org/results/team/year/1982/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 1982,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 1982,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1982/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 1982,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1983,
+      "url": "https://www.imo-official.org/results/team/year/1983/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'lago'"
+    },
+    {
+      "year": 1983,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'lago'"
+    },
+    {
+      "year": 1983,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1983/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'lago'"
+    },
+    {
+      "year": 1983,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1984,
+      "url": "https://www.imo-official.org/results/team/year/1984/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 1984,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 1984,
+      "url": "https://docslib.org/doc/11302725/claudio-chamon-education-research-experience",
+      "domain": "docslib.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1984,
+      "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+      "domain": "obm.org.br (PDF)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 1984,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1985,
+      "url": "https://www.imo-official.org/results/team/year/1985/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'prudencio'"
+    },
+    {
+      "year": 1985,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'prudencio'"
+    },
+    {
+      "year": 1985,
+      "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+      "domain": "obm.org.br (PDF)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'prudencio'"
+    },
+    {
+      "year": 1985,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1986,
+      "url": "https://www.imo-official.org/results/team/year/1986/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'pacitti'"
+    },
+    {
+      "year": 1986,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pacitti'"
+    },
+    {
+      "year": 1986,
+      "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+      "domain": "obm.org.br (PDF)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pacitti'"
+    },
+    {
+      "year": 1986,
+      "url": "https://impa.br/en_US/noticias/olimpiada-internacional-traz-ao-brasil-os-jovens-craques-da-matematica/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1986,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1987,
+      "url": "https://www.imo-official.org/results/team/year/1987/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'ferraz'"
+    },
+    {
+      "year": 1987,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'ferraz'"
+    },
+    {
+      "year": 1987,
+      "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+      "domain": "obm.org.br (PDF)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'ferraz'"
+    },
+    {
+      "year": 1987,
+      "url": "https://impa.br/en_US/noticias/olimpiada-internacional-traz-ao-brasil-os-jovens-craques-da-matematica/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1987,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1988,
+      "url": "https://www.imo-official.org/results/team/year/1988/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'adami'"
+    },
+    {
+      "year": 1988,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'adami'"
+    },
+    {
+      "year": 1988,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1988/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'adami'"
+    },
+    {
+      "year": 1988,
+      "url": "https://www.obm.org.br/content/uploads/2016/12/IMO.pdf",
+      "domain": "obm.org.br (PDF)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'adami'"
+    },
+    {
+      "year": 1988,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1989,
+      "url": "https://www.imo-official.org/results/team/year/1989/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'torres'"
+    },
+    {
+      "year": 1989,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'torres'"
+    },
+    {
+      "year": 1989,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1989/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'torres'"
+    },
+    {
+      "year": 1989,
+      "url": "https://impa.br/notices/gugu-wins-the-erdos-prize-for-his-contribution-to-mathematics/?lang=en",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1989,
+      "url": "https://www.wfnmc.org/erdgugu.html",
+      "domain": "wfnmc.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1989,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1990,
+      "url": "https://www.imo-official.org/results/team/year/1990/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 1990,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 1990,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1990/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 1990,
+      "url": "https://siteantigo.faperj.br/?id=4156.2.4",
+      "domain": "faperj.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1990,
+      "url": "https://impa.br/notices/gugu-wins-the-erdos-prize-for-his-contribution-to-mathematics/?lang=en",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1990,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1991,
+      "url": "https://www.imo-official.org/results/team/year/1991/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'deccache'"
+    },
+    {
+      "year": 1991,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'deccache'"
+    },
+    {
+      "year": 1991,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1991/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'deccache'"
+    },
+    {
+      "year": 1991,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1992,
+      "url": "https://www.imo-official.org/results/team/year/1992/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'madeira'"
+    },
+    {
+      "year": 1992,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'madeira'"
+    },
+    {
+      "year": 1992,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1992/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'madeira'"
+    },
+    {
+      "year": 1992,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo92_t3.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'madeira'"
+    },
+    {
+      "year": 1992,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1993,
+      "url": "https://www.imo-official.org/results/team/year/1993/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'ferreira'"
+    },
+    {
+      "year": 1993,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'ferreira'"
+    },
+    {
+      "year": 1993,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1993/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'ferreira'"
+    },
+    {
+      "year": 1993,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo93_t3.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'ferreira'"
+    },
+    {
+      "year": 1993,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1994,
+      "url": "https://www.imo-official.org/results/team/year/1994/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'fagundes'"
+    },
+    {
+      "year": 1994,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'fagundes'"
+    },
+    {
+      "year": 1994,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo94_t3.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'fagundes'"
+    },
+    {
+      "year": 1994,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1995,
+      "url": "https://www.imo-official.org/results/team/year/1995/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'melo'"
+    },
+    {
+      "year": 1995,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'melo'"
+    },
+    {
+      "year": 1995,
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avila/",
+      "domain": "mathshistory.st-andrews.ac.uk",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1995,
+      "url": "https://revistapesquisa.fapesp.br/en/artur-avila-the-man-who-calculates/",
+      "domain": "fapesp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1995,
+      "url": "https://en.wikipedia.org/wiki/Artur_Avila",
+      "domain": "en.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1995,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1996,
+      "url": "https://www.imo-official.org/results/team/year/1996/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'balreira'"
+    },
+    {
+      "year": 1996,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'balreira'"
+    },
+    {
+      "year": 1996,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo96_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'balreira'"
+    },
+    {
+      "year": 1996,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1996/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'balreira'"
+    },
+    {
+      "year": 1996,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1997,
+      "url": "https://www.imo-official.org/results/team/year/1997/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 1997,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 1997,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo97_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 1997,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1997/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 1997,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.imo-official.org/results/team/year/1998/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'andrade'"
+    },
+    {
+      "year": 1998,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'andrade'"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo98_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'andrade'"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1998/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'andrade'"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.obm.org.br/olimpiada-internacional-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1998,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.imo-official.org/results/team/year/1999/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'gouveia'"
+    },
+    {
+      "year": 1999,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'gouveia'"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo99_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'gouveia'"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/1999/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'gouveia'"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.abc.org.br/membro/fabricio-siqueira-benevides/",
+      "domain": "abc.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1999,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.imo-official.org/results/team/year/2000/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'naves'"
+    },
+    {
+      "year": 2000,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'naves'"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo00_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'naves'"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2000/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'naves'"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.abc.org.br/membro/fabricio-siqueira-benevides/",
+      "domain": "abc.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2000,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.imo-official.org/results/team/year/2001/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 2001,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2001/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo01_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'brito'"
+    },
+    {
+      "year": 2001,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2002,
+      "url": "https://www.imo-official.org/results/team/year/2002/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'sobral'"
+    },
+    {
+      "year": 2002,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sobral'"
+    },
+    {
+      "year": 2002,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2002/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sobral'"
+    },
+    {
+      "year": 2002,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo02_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sobral'"
+    },
+    {
+      "year": 2002,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2003,
+      "url": "https://www.imo-official.org/results/team/year/2003/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2003,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2003,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2003/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'nogueira'"
+    },
+    {
+      "year": 2003,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=olimpiada-internacional-de-matematica-rafael-daigo-hirama-conquista-mencao-honrosa-no-japao",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2003,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2004,
+      "url": "https://www.imo-official.org/results/team/year/2004/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'cheng'"
+    },
+    {
+      "year": 2004,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'cheng'"
+    },
+    {
+      "year": 2004,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2004/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'cheng'"
+    },
+    {
+      "year": 2004,
+      "url": "https://objetivo.br/institucional/noticias.aspx?titulo=rafael-daigo-hirama-e-medalha-de-prata-na-45a-olimpiada-internacional-de-matematica-atenas-2004",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2004,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2005,
+      "url": "https://www.imo-official.org/results/team/year/2005/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 2005,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 2005,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2005/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'viana'"
+    },
+    {
+      "year": 2005,
+      "url": "https://agencia.fapesp.br/equipe-de-ouro/4473",
+      "domain": "fapesp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2005,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.imo-official.org/results/team/year/2006/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'barbosa'"
+    },
+    {
+      "year": 2006,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'barbosa'"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2006/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'barbosa'"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo06_t2.html",
+      "domain": "math.olympiaadid.ut.ee",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'barbosa'"
+    },
+    {
+      "year": 2006,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.imo-official.org/results/team/year/2007/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2007,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.obm.org.br/content/uploads/2017/01/eureka_29.pdf",
+      "domain": "obm.org.br (Eureka #29)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2007/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.imo-official.org/results/team/year/2008/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2008,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.obm.org.br/content/uploads/2017/01/eureka_29.pdf",
+      "domain": "obm.org.br (Eureka #29)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.jb.com.br/ciencia-e-tecnologia/noticias/2008/07/22/estudantes-brasileiros-conquistam-medalhas-na-49a-oi-de-matematica.html",
+      "domain": "jb.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'medeiros'"
+    },
+    {
+      "year": 2008,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.imo-official.org/results/team/year/2009/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2009,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.abc.org.br/2009/07/20/brasil-ganha-medalha-de-ouro-em-olimpiada-internacional-de-matematica/",
+      "domain": "abc.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2009,
+      "url": "https://revistapesquisa.fapesp.br/ouro-em-matematica/",
+      "domain": "fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2286",
+      "domain": "ipea.gov.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2009,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.imo-official.org/results/team/year/2010/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2010,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2010/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2010,
+      "url": "https://noic.com.br/resultados-do-brasil-em-olimpiadas-internacionais/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2010,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.imo-official.org/results/team/year/2011/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2011,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2011/scores-order.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiada.webnode.com.br/home/newscbm_124783/20/",
+      "domain": "olimpiada.webnode.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2011,
+      "url": "http://matheusmathica.blogspot.com/2011/07/",
+      "domain": "matheusmathica.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'alves'"
+    },
+    {
+      "year": 2011,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.imo-official.org/results/team/year/2012/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2012,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2012,
+      "url": "https://agencia.fapesp.br/estudante-paulista-conquista-medalha-de-ouro-na-olimpiada-internacional-de-matematica/15892",
+      "domain": "fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2012,
+      "url": "https://correiodoestado.com.br/cidades/estudante-brasileiro-ganha-ouro-em-competicao-mundial-de-matematica/154753/",
+      "domain": "correiodoestado.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2012/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2012,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.imo-official.org/results/team/year/2013/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'bitaraes'"
+    },
+    {
+      "year": 2013,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'bitaraes'"
+    },
+    {
+      "year": 2013,
+      "url": "https://agencia.fapesp.br/brasil-conquista-quatro-medalhas-na-olimpiada-internacional-de-matematica/17634",
+      "domain": "fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'bitaraes'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.polyomino.org.uk/mathematics/imo-scores/2013/scores-code.html",
+      "domain": "polyomino.org.uk",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'bitaraes'"
+    },
+    {
+      "year": 2013,
+      "url": "http://baiadalusofonia.blogspot.com/2013/07/olimpiadas.html",
+      "domain": "baiadalusofonia.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'bitaraes'"
+    },
+    {
+      "year": 2013,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.imo-official.org/results/team/year/2014/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'faveri'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.obm.org.br/2014/07/14/brasil-volta-da-africa-do-sul-com-cinco-medalhas/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'faveri'"
+    },
+    {
+      "year": 2014,
+      "url": "https://agencia.fapesp.br/equipe-brasileira-conquista-cinco-medalhas-na-olimpiada-internacional-de-matematica/19421",
+      "domain": "fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'faveri'"
+    },
+    {
+      "year": 2014,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.imo-official.org/results/team/year/2015/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'zanarella'"
+    },
+    {
+      "year": 2015,
+      "url": "https://edumatcapuerj.wordpress.com/2015/07/25/brasil-conquista-6-medalhas-na-olimpiada-internacional-de-matematica/",
+      "domain": "edumatcapuerj.wordpress.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'zanarella'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.prof-edigleyalexandre.com/2015/07/facanha-atletas-matematica.html",
+      "domain": "prof-edigleyalexandre.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'zanarella'"
+    },
+    {
+      "year": 2015,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.imo-official.org/results/team/year/2016/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'oliveira'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/2016/07/14/brasil-conquista-melhor-resultado-da-historia-na-olimpiada-internacional-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'oliveira'"
+    },
+    {
+      "year": 2016,
+      "url": "https://postulanteuniversitario.blogspot.com/2016/07/",
+      "domain": "postulanteuniversitario.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'oliveira'"
+    },
+    {
+      "year": 2016,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.imo-official.org/results/team/year/2017/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2017,
+      "url": "https://impa.br/notices/brasil-conquista-tres-medalhas-na-imo/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/2017/07/24/resultado-da-equipe-brasileira-na-imo-2017/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2017,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.imo-official.org/results/team/year/2018/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2018,
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2018-07/brasileiros-ganham-medalhas-em-olimpiada-internacional-de-matematica",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/pedro-sponchiado-conquista-ouro-na-olimpiada-internacional-de-matematica/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2018,
+      "url": "https://jornalgrandebahia.com.br/2018/07/brasileiro-conquista-ouro-na-olimpiada-internacional-de-matematica/",
+      "domain": "jornalgrandebahia.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'meinhart'"
+    },
+    {
+      "year": 2018,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.imo-official.org/results/team/year/2019/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-07/brasil-ganha-seis-medalhas-na-olimpiada-internacional-de-matematica",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-conquista-seis-medalhas-na-imo-2019-na-inglaterra/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.sonoticiaboa.com.br/2019/07/24/brasileiros-ganham-6-medalhas-olimpiada-internacional-matematica/",
+      "domain": "sonoticiaboa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'moura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.imo-official.org/results/team/year/2020/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'machado'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2020/10/4879023-recifense-conquista-ouro-na-olimpiada-internacional-de-matematica.html",
+      "domain": "correiobraziliense.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'cabral'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.sonoticiaboa.com.br/2020/09/30/brasileiros-levam-ouro-e-prata-historicos-olimpiada-internacional-matematica",
+      "domain": "sonoticiaboa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'machado'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.professortacianomedrado.com/2020/10/olimpiada-internacional-de-matematica.html",
+      "domain": "professortacianomedrado.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'machado'"
+    },
+    {
+      "year": 2020,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.imo-official.org/results/team/year/2021/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'lack'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/07/23/brasil-encerra-imo-2021-com-duas-pratas-e-tres-bronzes/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lack'"
+    },
+    {
+      "year": 2021,
+      "url": "https://blog.etapa.com.br/noticias/imo-2021",
+      "domain": "etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2021,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.imo-official.org/results/team/year/2022/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'nascimento'"
+    },
+    {
+      "year": 2022,
+      "url": "https://sbm.org.br/noticias/de-forma-inedita-brasil-conquista-dois-ouros-na-imo/",
+      "domain": "sbm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'nascimento'"
+    },
+    {
+      "year": 2022,
+      "url": "https://blog.etapa.com.br/noticias/imo-2022",
+      "domain": "etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.imo-official.org/results/team/year/2023/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/07/12/brasil-e-ouro-na-imo-2023/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2023,
+      "url": "https://impa.br/notices/brazil-wins-6-medals-and-finishes-16th-in-the-international-olympics/?lang=en",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2023/07/5110703-brasileiro-de-16-anos-leva-ouro-em-olimpiada-de-matematica-no-japao.html",
+      "domain": "correiobraziliense.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica",
+      "domain": "pt.wikipedia.org",
+      "cls": "counts",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.imo-official.org/results/team/year/2024/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/07/21/brasil-na-imo-2024-ouro-prata-bronze-e-20a-posicao-no-ranking-mundial/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.nsctotal.com.br/colunistas/estela-benetti/estudante-de-sc-conquista-medalha-de-prata-na-olimpiada-mundial-de-matematica",
+      "domain": "nsctotal.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2024,
+      "url": "https://jornalarua.com/2024/07/24/estudante-de-carapicuiba-conquista-ouro-na-olimpiada-internacional-de-matematica/",
+      "domain": "jornalarua.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.imo-official.org/results/team/year/2025/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'macedo'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/07/18/brasil-conquista-tres-medalhas-de-prata-e-duas-de-bronze-na-imo-2025-e-alcanca-a-32a-colocacao-mundial/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'macedo'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.imo-official.org/results/team/year/2026/country/BRA/",
+      "domain": "imo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'holanda'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/07/20/brasil-conquista-cinco-medalhas-de-prata-e-uma-de-bronze-na-imo-2026-e-alcanca-o-11o-lugar-no-mundo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'holanda'"
+    },
+    {
+      "year": 2026,
+      "url": "https://impa.br/notices/brazil-wins-five-silver-medals-and-one-bronze-at-the-2026-imo-and-ranks-11th-in-the-world/?lang=en",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'holanda'"
+    }
+  ]
+}

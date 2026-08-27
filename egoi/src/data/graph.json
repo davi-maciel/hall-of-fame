@@ -1,0 +1,438 @@
+{
+  "students": {
+    "julia-galdino-tiosso-lopez": {
+      "id": "julia-galdino-tiosso-lopez",
+      "name": "Julia Galdino Tiosso Lopez",
+      "searchKey": "julia galdino tiosso lopez",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "maria-clara-fontes-silva": {
+      "id": "maria-clara-fontes-silva",
+      "name": "Maria Clara Fontes Silva",
+      "searchKey": "maria clara fontes silva",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2025,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "sofia-torres-de-paula-cintra": {
+      "id": "sofia-torres-de-paula-cintra",
+      "name": "Sofia Torres de Paula Cintra",
+      "searchKey": "sofia torres de paula cintra",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2022,
+          "medal": null
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2024,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2025,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "talita-ribeiro-de-rezende": {
+      "id": "talita-ribeiro-de-rezende",
+      "name": "Talita Ribeiro de Rezende",
+      "searchKey": "talita ribeiro de rezende",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "estela-baron-nakamura": {
+      "id": "estela-baron-nakamura",
+      "name": "Estela Baron Nakamura",
+      "searchKey": "estela baron nakamura",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2023,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2024,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriela-barbieri-stroeh": {
+      "id": "gabriela-barbieri-stroeh",
+      "name": "Gabriela Barbieri Stroeh",
+      "searchKey": "gabriela barbieri stroeh",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2024,
+          "medal": null
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "anita-ramos-almeida": {
+      "id": "anita-ramos-almeida",
+      "name": "Anita Ramos Almeida",
+      "searchKey": "anita ramos almeida",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2023,
+          "medal": null
+        }
+      ]
+    },
+    "endy-lumy-okamura-miyashita": {
+      "id": "endy-lumy-okamura-miyashita",
+      "name": "Endy Lumy Okamura Miyashita",
+      "searchKey": "endy lumy okamura miyashita",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2022,
+          "medal": null
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2023,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "luana-amorim-lima": {
+      "id": "luana-amorim-lima",
+      "name": "Luana Amorim Lima",
+      "searchKey": "luana amorim lima",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2021,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2022,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "egoi",
+          "year": 2023,
+          "medal": null
+        }
+      ]
+    },
+    "pietra-gullo-salgado-chaves": {
+      "id": "pietra-gullo-salgado-chaves",
+      "name": "Pietra Gullo Salgado Chaves",
+      "searchKey": "pietra gullo salgado chaves",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "carolina-moura-valle-costa": {
+      "id": "carolina-moura-valle-costa",
+      "name": "Carolina Moura Valle Costa",
+      "searchKey": "carolina moura valle costa",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "leticia-barbieri-stroeh": {
+      "id": "leticia-barbieri-stroeh",
+      "name": "Letícia Barbieri Stroeh",
+      "searchKey": "leticia barbieri stroeh",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "maria-elaine-de-holanda-cavalcante": {
+      "id": "maria-elaine-de-holanda-cavalcante",
+      "name": "Maria Elaine de Holanda Cavalcante",
+      "searchKey": "maria elaine de holanda cavalcante",
+      "participations": [
+        {
+          "olympiad": "egoi",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "leticia-barbieri-stroeh",
+      "olympiad": "egoi",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "luana-amorim-lima",
+      "olympiad": "egoi",
+      "year": 2021
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "maria-elaine-de-holanda-cavalcante",
+      "olympiad": "egoi",
+      "year": 2021
+    },
+    {
+      "source": "leticia-barbieri-stroeh",
+      "target": "luana-amorim-lima",
+      "olympiad": "egoi",
+      "year": 2021
+    },
+    {
+      "source": "leticia-barbieri-stroeh",
+      "target": "maria-elaine-de-holanda-cavalcante",
+      "olympiad": "egoi",
+      "year": 2021
+    },
+    {
+      "source": "luana-amorim-lima",
+      "target": "maria-elaine-de-holanda-cavalcante",
+      "olympiad": "egoi",
+      "year": 2021
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "luana-amorim-lima",
+      "olympiad": "egoi",
+      "year": 2022
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "pietra-gullo-salgado-chaves",
+      "olympiad": "egoi",
+      "year": 2022
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2022
+    },
+    {
+      "source": "luana-amorim-lima",
+      "target": "pietra-gullo-salgado-chaves",
+      "olympiad": "egoi",
+      "year": 2022
+    },
+    {
+      "source": "luana-amorim-lima",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2022
+    },
+    {
+      "source": "pietra-gullo-salgado-chaves",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2022
+    },
+    {
+      "source": "anita-ramos-almeida",
+      "target": "endy-lumy-okamura-miyashita",
+      "olympiad": "egoi",
+      "year": 2023
+    },
+    {
+      "source": "anita-ramos-almeida",
+      "target": "estela-baron-nakamura",
+      "olympiad": "egoi",
+      "year": 2023
+    },
+    {
+      "source": "anita-ramos-almeida",
+      "target": "luana-amorim-lima",
+      "olympiad": "egoi",
+      "year": 2023
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "estela-baron-nakamura",
+      "olympiad": "egoi",
+      "year": 2023
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "luana-amorim-lima",
+      "olympiad": "egoi",
+      "year": 2023
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "luana-amorim-lima",
+      "olympiad": "egoi",
+      "year": 2023
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "gabriela-barbieri-stroeh",
+      "olympiad": "egoi",
+      "year": 2024
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egoi",
+      "year": 2024
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2024
+    },
+    {
+      "source": "gabriela-barbieri-stroeh",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egoi",
+      "year": 2024
+    },
+    {
+      "source": "gabriela-barbieri-stroeh",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2024
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2024
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "gabriela-barbieri-stroeh",
+      "olympiad": "egoi",
+      "year": 2025
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egoi",
+      "year": 2025
+    },
+    {
+      "source": "estela-baron-nakamura",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2025
+    },
+    {
+      "source": "gabriela-barbieri-stroeh",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egoi",
+      "year": 2025
+    },
+    {
+      "source": "gabriela-barbieri-stroeh",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2025
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2025
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egoi",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2026
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "talita-ribeiro-de-rezende",
+      "olympiad": "egoi",
+      "year": 2026
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "sofia-torres-de-paula-cintra",
+      "olympiad": "egoi",
+      "year": 2026
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "talita-ribeiro-de-rezende",
+      "olympiad": "egoi",
+      "year": 2026
+    },
+    {
+      "source": "sofia-torres-de-paula-cintra",
+      "target": "talita-ribeiro-de-rezende",
+      "olympiad": "egoi",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-08-22T17:16:54.191647+00:00",
+    "studentCount": 13,
+    "edgeCount": 36
+  }
+}

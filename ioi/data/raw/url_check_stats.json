@@ -1,0 +1,326 @@
+{
+  "1999": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "0/4",
+      "url": "https://stats.ioinformatics.org/results/1999"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/1999"
+    }
+  },
+  "2000": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "0/4",
+      "url": "https://stats.ioinformatics.org/results/2000"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2000"
+    }
+  },
+  "2001": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "2/4",
+      "url": "https://stats.ioinformatics.org/results/2001"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2001"
+    }
+  },
+  "2002": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "2/4",
+      "url": "https://stats.ioinformatics.org/results/2002"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2002"
+    }
+  },
+  "2003": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "1/4",
+      "url": "https://stats.ioinformatics.org/results/2003"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2003"
+    }
+  },
+  "2004": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "2/4",
+      "url": "https://stats.ioinformatics.org/results/2004"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2004"
+    }
+  },
+  "2005": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "2/4",
+      "url": "https://stats.ioinformatics.org/results/2005"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2005"
+    }
+  },
+  "2006": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "2/4",
+      "url": "https://stats.ioinformatics.org/results/2006"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2006"
+    }
+  },
+  "2007": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "3/4",
+      "url": "https://stats.ioinformatics.org/results/2007"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2007"
+    }
+  },
+  "2008": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2008"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2008"
+    }
+  },
+  "2009": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "3/4",
+      "url": "https://stats.ioinformatics.org/results/2009"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2009"
+    }
+  },
+  "2010": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2010"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2010"
+    }
+  },
+  "2011": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2011"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2011"
+    }
+  },
+  "2012": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2012"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2012"
+    }
+  },
+  "2013": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2013"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2013"
+    }
+  },
+  "2014": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2014"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2014"
+    }
+  },
+  "2015": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2015"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2015"
+    }
+  },
+  "2016": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2016"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2016"
+    }
+  },
+  "2017": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2017"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2017"
+    }
+  },
+  "2018": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2018"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2018"
+    }
+  },
+  "2019": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2019"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2019"
+    }
+  },
+  "2020": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2020"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2020"
+    }
+  },
+  "2021": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2021"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2021"
+    }
+  },
+  "2022": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2022"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2022"
+    }
+  },
+  "2023": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2023"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2023"
+    }
+  },
+  "2024": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2024"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2024"
+    }
+  },
+  "2025": {
+    "results_year": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/results/2025"
+    },
+    "delegation_bra": {
+      "status": "OK",
+      "matched_surnames": "4/4",
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2025"
+    }
+  }
+}

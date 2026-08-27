@@ -1,0 +1,763 @@
+[
+  {
+    "rawName": "Pedro Suyama Leston Rey",
+    "olympiadId": "ioi",
+    "year": 2025,
+    "medal": "silver",
+    "rank": 64
+  },
+  {
+    "rawName": "Pedro Assunção",
+    "olympiadId": "ioi",
+    "year": 2025,
+    "medal": "silver",
+    "rank": 74
+  },
+  {
+    "rawName": "Maria Clara Fontes Silva",
+    "olympiadId": "ioi",
+    "year": 2025,
+    "medal": "bronze",
+    "rank": 114
+  },
+  {
+    "rawName": "Caique Paiva",
+    "olympiadId": "ioi",
+    "year": 2025,
+    "medal": "honorable-mention",
+    "rank": 166
+  },
+  {
+    "rawName": "Filipe Lalic",
+    "olympiadId": "ioi",
+    "year": 2024,
+    "medal": "bronze",
+    "rank": 99
+  },
+  {
+    "rawName": "Arthur Lobo Leite Lopes",
+    "olympiadId": "ioi",
+    "year": 2024,
+    "medal": "bronze",
+    "rank": 130
+  },
+  {
+    "rawName": "Pedro Suyama Leston Rey",
+    "olympiadId": "ioi",
+    "year": 2024,
+    "medal": "bronze",
+    "rank": 160
+  },
+  {
+    "rawName": "Maria Clara Fontes Silva",
+    "olympiadId": "ioi",
+    "year": 2024,
+    "medal": null,
+    "rank": 242
+  },
+  {
+    "rawName": "Leonardo Valente Nascimento",
+    "olympiadId": "ioi",
+    "year": 2023,
+    "medal": "silver",
+    "rank": 60
+  },
+  {
+    "rawName": "Rafael Nascimento Soares",
+    "olympiadId": "ioi",
+    "year": 2023,
+    "medal": "bronze",
+    "rank": 94
+  },
+  {
+    "rawName": "Pedro Suyama Leston Rey",
+    "olympiadId": "ioi",
+    "year": 2023,
+    "medal": "bronze",
+    "rank": 103
+  },
+  {
+    "rawName": "Arthur Lobo Leite Lopes",
+    "olympiadId": "ioi",
+    "year": 2023,
+    "medal": "bronze",
+    "rank": 111
+  },
+  {
+    "rawName": "Leonardo Valente Nascimento",
+    "olympiadId": "ioi",
+    "year": 2022,
+    "medal": "silver",
+    "rank": 57
+  },
+  {
+    "rawName": "Rafael Nascimento Soares",
+    "olympiadId": "ioi",
+    "year": 2022,
+    "medal": "silver",
+    "rank": 82
+  },
+  {
+    "rawName": "Carolina Moura",
+    "olympiadId": "ioi",
+    "year": 2022,
+    "medal": "silver",
+    "rank": 84
+  },
+  {
+    "rawName": "Pedro Shinzato Chen",
+    "olympiadId": "ioi",
+    "year": 2022,
+    "medal": "bronze",
+    "rank": 124
+  },
+  {
+    "rawName": "Yan Matheus Tavares e Silva",
+    "olympiadId": "ioi",
+    "year": 2021,
+    "medal": "silver",
+    "rank": 72
+  },
+  {
+    "rawName": "Luiz Henrique Yuji Delgado Oda",
+    "olympiadId": "ioi",
+    "year": 2021,
+    "medal": "silver",
+    "rank": 75
+  },
+  {
+    "rawName": "Carolina Moura",
+    "olympiadId": "ioi",
+    "year": 2021,
+    "medal": "bronze",
+    "rank": 90
+  },
+  {
+    "rawName": "Pedro Shinzato Chen",
+    "olympiadId": "ioi",
+    "year": 2021,
+    "medal": "bronze",
+    "rank": 114
+  },
+  {
+    "rawName": "Carolina Moura",
+    "olympiadId": "ioi",
+    "year": 2020,
+    "medal": "bronze",
+    "rank": 162
+  },
+  {
+    "rawName": "Yan Matheus Tavares e Silva",
+    "olympiadId": "ioi",
+    "year": 2020,
+    "medal": "bronze",
+    "rank": 165
+  },
+  {
+    "rawName": "Willian Wang",
+    "olympiadId": "ioi",
+    "year": 2020,
+    "medal": null,
+    "rank": 176
+  },
+  {
+    "rawName": "Igor Brito Andrade",
+    "olympiadId": "ioi",
+    "year": 2020,
+    "medal": null,
+    "rank": 216
+  },
+  {
+    "rawName": "Frederico Bulhões de Souza Ribeiro",
+    "olympiadId": "ioi",
+    "year": 2019,
+    "medal": "bronze",
+    "rank": 154
+  },
+  {
+    "rawName": "Willian Wang",
+    "olympiadId": "ioi",
+    "year": 2019,
+    "medal": null,
+    "rank": 181
+  },
+  {
+    "rawName": "Tiago Domingos Almeida Souza",
+    "olympiadId": "ioi",
+    "year": 2019,
+    "medal": null,
+    "rank": 195
+  },
+  {
+    "rawName": "Pedro Lucas Lanaro Sponchiado",
+    "olympiadId": "ioi",
+    "year": 2019,
+    "medal": null,
+    "rank": 228
+  },
+  {
+    "rawName": "Gabriel Simões",
+    "olympiadId": "ioi",
+    "year": 2018,
+    "medal": "silver",
+    "rank": 69
+  },
+  {
+    "rawName": "Ivan Carvalho",
+    "olympiadId": "ioi",
+    "year": 2018,
+    "medal": null,
+    "rank": 171
+  },
+  {
+    "rawName": "Matheus Viana",
+    "olympiadId": "ioi",
+    "year": 2018,
+    "medal": null,
+    "rank": 206
+  },
+  {
+    "rawName": "João Araújo",
+    "olympiadId": "ioi",
+    "year": 2018,
+    "medal": null,
+    "rank": 254
+  },
+  {
+    "rawName": "Pedro Henrique Sacramento de Oliveira",
+    "olympiadId": "ioi",
+    "year": 2017,
+    "medal": "gold",
+    "rank": 24
+  },
+  {
+    "rawName": "Rogério Aristida Guimarães Junior",
+    "olympiadId": "ioi",
+    "year": 2017,
+    "medal": "bronze",
+    "rank": 142
+  },
+  {
+    "rawName": "Gabriel Simões",
+    "olympiadId": "ioi",
+    "year": 2017,
+    "medal": null,
+    "rank": 197
+  },
+  {
+    "rawName": "William Kondo",
+    "olympiadId": "ioi",
+    "year": 2017,
+    "medal": null,
+    "rank": 203
+  },
+  {
+    "rawName": "Rogério Aristida Guimarães Junior",
+    "olympiadId": "ioi",
+    "year": 2016,
+    "medal": "silver",
+    "rank": 69
+  },
+  {
+    "rawName": "Lucca Morais de Arruda Siaudzionis",
+    "olympiadId": "ioi",
+    "year": 2016,
+    "medal": "silver",
+    "rank": 74
+  },
+  {
+    "rawName": "Pedro Henrique Sacramento de Oliveira",
+    "olympiadId": "ioi",
+    "year": 2016,
+    "medal": null,
+    "rank": 224
+  },
+  {
+    "rawName": "Carlos Vinícios Ferreira Santos",
+    "olympiadId": "ioi",
+    "year": 2016,
+    "medal": null,
+    "rank": 244
+  },
+  {
+    "rawName": "Lucca Morais de Arruda Siaudzionis",
+    "olympiadId": "ioi",
+    "year": 2015,
+    "medal": "bronze",
+    "rank": 124
+  },
+  {
+    "rawName": "Arthur Pratti Dadalto",
+    "olympiadId": "ioi",
+    "year": 2015,
+    "medal": "bronze",
+    "rank": 135
+  },
+  {
+    "rawName": "Mateus Bezrutchka",
+    "olympiadId": "ioi",
+    "year": 2015,
+    "medal": null,
+    "rank": 162
+  },
+  {
+    "rawName": "Murilo Corato Zanarella",
+    "olympiadId": "ioi",
+    "year": 2015,
+    "medal": null,
+    "rank": 174
+  },
+  {
+    "rawName": "Arthur Ferreira do Nascimento",
+    "olympiadId": "ioi",
+    "year": 2014,
+    "medal": "silver",
+    "rank": 68
+  },
+  {
+    "rawName": "Mateus Bezrutchka",
+    "olympiadId": "ioi",
+    "year": 2014,
+    "medal": "silver",
+    "rank": 68
+  },
+  {
+    "rawName": "Arthur Pratti Dadalto",
+    "olympiadId": "ioi",
+    "year": 2014,
+    "medal": "silver",
+    "rank": 81
+  },
+  {
+    "rawName": "Michel Rozenberg Zelazny",
+    "olympiadId": "ioi",
+    "year": 2014,
+    "medal": "bronze",
+    "rank": 137
+  },
+  {
+    "rawName": "Renato Ferreira Pinto Junior",
+    "olympiadId": "ioi",
+    "year": 2013,
+    "medal": "gold",
+    "rank": 7
+  },
+  {
+    "rawName": "Ramon Silva de Lima",
+    "olympiadId": "ioi",
+    "year": 2013,
+    "medal": "bronze",
+    "rank": 139
+  },
+  {
+    "rawName": "Mateus Dantas",
+    "olympiadId": "ioi",
+    "year": 2013,
+    "medal": null,
+    "rank": 167
+  },
+  {
+    "rawName": "Michel Rozenberg Zelazny",
+    "olympiadId": "ioi",
+    "year": 2013,
+    "medal": null,
+    "rank": 218
+  },
+  {
+    "rawName": "Renato Ferreira Pinto Junior",
+    "olympiadId": "ioi",
+    "year": 2012,
+    "medal": "silver",
+    "rank": 35
+  },
+  {
+    "rawName": "Marcos Massayuki Kawakami",
+    "olympiadId": "ioi",
+    "year": 2012,
+    "medal": "silver",
+    "rank": 69
+  },
+  {
+    "rawName": "Caíque Lira",
+    "olympiadId": "ioi",
+    "year": 2012,
+    "medal": null,
+    "rank": 193
+  },
+  {
+    "rawName": "André Amaral de Sousa",
+    "olympiadId": "ioi",
+    "year": 2012,
+    "medal": null,
+    "rank": 201
+  },
+  {
+    "rawName": "Felipe Abella Cavalcante Mendonça de Souza",
+    "olympiadId": "ioi",
+    "year": 2011,
+    "medal": "gold",
+    "rank": 3
+  },
+  {
+    "rawName": "Renato Ferreira Pinto Junior",
+    "olympiadId": "ioi",
+    "year": 2011,
+    "medal": "bronze",
+    "rank": 86
+  },
+  {
+    "rawName": "Marcos Massayuki Kawakami",
+    "olympiadId": "ioi",
+    "year": 2011,
+    "medal": "bronze",
+    "rank": 91
+  },
+  {
+    "rawName": "Caíque Lira",
+    "olympiadId": "ioi",
+    "year": 2011,
+    "medal": "bronze",
+    "rank": 112
+  },
+  {
+    "rawName": "Felipe Abella Cavalcante Mendonça de Souza",
+    "olympiadId": "ioi",
+    "year": 2010,
+    "medal": "silver",
+    "rank": 54
+  },
+  {
+    "rawName": "Renato Ferreira Pinto Junior",
+    "olympiadId": "ioi",
+    "year": 2010,
+    "medal": "bronze",
+    "rank": 86
+  },
+  {
+    "rawName": "Andre Hahn Pereira",
+    "olympiadId": "ioi",
+    "year": 2010,
+    "medal": "bronze",
+    "rank": 94
+  },
+  {
+    "rawName": "Caíque Lira",
+    "olympiadId": "ioi",
+    "year": 2010,
+    "medal": null,
+    "rank": 168
+  },
+  {
+    "rawName": "Felipe Abella Cavalcante Mendonça de Souza",
+    "olympiadId": "ioi",
+    "year": 2009,
+    "medal": "silver",
+    "rank": 68
+  },
+  {
+    "rawName": "Gabriel Luis Mello Dalalio",
+    "olympiadId": "ioi",
+    "year": 2009,
+    "medal": "bronze",
+    "rank": 81
+  },
+  {
+    "rawName": "Andre Hahn Pereira",
+    "olympiadId": "ioi",
+    "year": 2009,
+    "medal": "bronze",
+    "rank": 92
+  },
+  {
+    "rawName": "Renato Ferreira Pinto Junior",
+    "olympiadId": "ioi",
+    "year": 2009,
+    "medal": null
+  },
+  {
+    "rawName": "Marcelo Galvão Póvoa",
+    "olympiadId": "ioi",
+    "year": 2008,
+    "medal": "bronze",
+    "rank": 107
+  },
+  {
+    "rawName": "Gabriel Luis Mello Dalalio",
+    "olympiadId": "ioi",
+    "year": 2008,
+    "medal": "bronze",
+    "rank": 112
+  },
+  {
+    "rawName": "Pedro Veras Bezerra da Silva",
+    "olympiadId": "ioi",
+    "year": 2008,
+    "medal": "bronze",
+    "rank": 132
+  },
+  {
+    "rawName": "Ricardo Hahn Pereira",
+    "olympiadId": "ioi",
+    "year": 2008,
+    "medal": "bronze",
+    "rank": 136
+  },
+  {
+    "rawName": "César Kawakami",
+    "olympiadId": "ioi",
+    "year": 2007,
+    "medal": "silver",
+    "rank": 43
+  },
+  {
+    "rawName": "Eduardo Ribas",
+    "olympiadId": "ioi",
+    "year": 2007,
+    "medal": "bronze",
+    "rank": 106
+  },
+  {
+    "rawName": "André Linhares Rodrigues",
+    "olympiadId": "ioi",
+    "year": 2007,
+    "medal": "bronze",
+    "rank": 120
+  },
+  {
+    "rawName": "Ricardo Hahn Pereira",
+    "olympiadId": "ioi",
+    "year": 2007,
+    "medal": null
+  },
+  {
+    "rawName": "Gabriel Bujokas",
+    "olympiadId": "ioi",
+    "year": 2006,
+    "medal": "bronze",
+    "rank": 114
+  },
+  {
+    "rawName": "Paulo Roberto Almeida Costa",
+    "olympiadId": "ioi",
+    "year": 2006,
+    "medal": "bronze",
+    "rank": 122
+  },
+  {
+    "rawName": "André Linhares Rodrigues",
+    "olympiadId": "ioi",
+    "year": 2006,
+    "medal": null
+  },
+  {
+    "rawName": "César Kawakami",
+    "olympiadId": "ioi",
+    "year": 2006,
+    "medal": null
+  },
+  {
+    "rawName": "Raphael Henrique Ribas",
+    "olympiadId": "ioi",
+    "year": 2005,
+    "medal": "bronze",
+    "rank": 92
+  },
+  {
+    "rawName": "André Slepetys",
+    "olympiadId": "ioi",
+    "year": 2005,
+    "medal": "bronze",
+    "rank": 116
+  },
+  {
+    "rawName": "André Linhares Rodrigues",
+    "olympiadId": "ioi",
+    "year": 2005,
+    "medal": null
+  },
+  {
+    "rawName": "Paulo Matias",
+    "olympiadId": "ioi",
+    "year": 2005,
+    "medal": null
+  },
+  {
+    "rawName": "Fábio Dias Moreira",
+    "olympiadId": "ioi",
+    "year": 2004,
+    "medal": "bronze",
+    "rank": 102
+  },
+  {
+    "rawName": "Raphael Henrique Ribas",
+    "olympiadId": "ioi",
+    "year": 2004,
+    "medal": "bronze",
+    "rank": 115
+  },
+  {
+    "rawName": "Helder Toshiro Suzuki",
+    "olympiadId": "ioi",
+    "year": 2004,
+    "medal": null
+  },
+  {
+    "rawName": "Ricardo Bernert Machado",
+    "olympiadId": "ioi",
+    "year": 2004,
+    "medal": null
+  },
+  {
+    "rawName": "Guilherme Issao C. Fujiwara",
+    "olympiadId": "ioi",
+    "year": 2003,
+    "medal": "bronze",
+    "rank": 94
+  },
+  {
+    "rawName": "Edson Mikio Nishida",
+    "olympiadId": "ioi",
+    "year": 2003,
+    "medal": null
+  },
+  {
+    "rawName": "Daniel Bueno Donadon",
+    "olympiadId": "ioi",
+    "year": 2003,
+    "medal": null
+  },
+  {
+    "rawName": "Denilson Figueiredo De Sá",
+    "olympiadId": "ioi",
+    "year": 2003,
+    "medal": null
+  },
+  {
+    "rawName": "Rafael Teixeira Paulino",
+    "olympiadId": "ioi",
+    "year": 2002,
+    "medal": "bronze",
+    "rank": 86
+  },
+  {
+    "rawName": "Daniel Bueno Donadon",
+    "olympiadId": "ioi",
+    "year": 2002,
+    "medal": "bronze",
+    "rank": 108
+  },
+  {
+    "rawName": "Cesario Barros Martins",
+    "olympiadId": "ioi",
+    "year": 2002,
+    "medal": null
+  },
+  {
+    "rawName": "Lucas Furukawa Gadani",
+    "olympiadId": "ioi",
+    "year": 2002,
+    "medal": null
+  },
+  {
+    "rawName": "Davi Tassinari de Figueiredo",
+    "olympiadId": "ioi",
+    "year": 2001,
+    "medal": "silver",
+    "rank": 62
+  },
+  {
+    "rawName": "Eduardo Pereira Habkost",
+    "olympiadId": "ioi",
+    "year": 2001,
+    "medal": "bronze",
+    "rank": 126
+  },
+  {
+    "rawName": "Lincoln Silva",
+    "olympiadId": "ioi",
+    "year": 2001,
+    "medal": null
+  },
+  {
+    "rawName": "Edans Sandes",
+    "olympiadId": "ioi",
+    "year": 2001,
+    "medal": null
+  },
+  {
+    "rawName": "Thiago Meneghello",
+    "olympiadId": "ioi",
+    "year": 2000,
+    "medal": null
+  },
+  {
+    "rawName": "Alexandre Pereira da Silva",
+    "olympiadId": "ioi",
+    "year": 2000,
+    "medal": null
+  },
+  {
+    "rawName": "Ramide A. Sales Dantas",
+    "olympiadId": "ioi",
+    "year": 2000,
+    "medal": null
+  },
+  {
+    "rawName": "Eduardo Pereira Habkost",
+    "olympiadId": "ioi",
+    "year": 2000,
+    "medal": null
+  },
+  {
+    "rawName": "Vinícius José Fortuna",
+    "olympiadId": "ioi",
+    "year": 1999,
+    "medal": null
+  },
+  {
+    "rawName": "André Alberto Taffarello",
+    "olympiadId": "ioi",
+    "year": 1999,
+    "medal": null
+  },
+  {
+    "rawName": "Daniel Felix Ferber",
+    "olympiadId": "ioi",
+    "year": 1999,
+    "medal": null
+  },
+  {
+    "rawName": "Douglas Fabiano Vieira P. Silva",
+    "olympiadId": "ioi",
+    "year": 1999,
+    "medal": null
+  },
+  {
+    "rawName": "Pedro Suyama Leston Rey",
+    "olympiadId": "ioi",
+    "year": 2026,
+    "medal": "gold",
+    "rank": 29
+  },
+  {
+    "rawName": "João Paulo Campos de Oliveira",
+    "olympiadId": "ioi",
+    "year": 2026,
+    "medal": "silver",
+    "rank": 72
+  },
+  {
+    "rawName": "Maria Clara Fontes Silva",
+    "olympiadId": "ioi",
+    "year": 2026,
+    "medal": "bronze",
+    "rank": 96
+  },
+  {
+    "rawName": "Enzo Ivamoto Hirota",
+    "olympiadId": "ioi",
+    "year": 2026,
+    "medal": "bronze",
+    "rank": 117
+  }
+]

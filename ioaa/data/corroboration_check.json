@@ -1,0 +1,425 @@
+{
+  "checkedAt": "2026-08-02T05:04:17+00:00",
+  "summary": {
+    "PASS": 48,
+    "FAIL-NEEDLE": 4
+  },
+  "results": [
+    {
+      "year": 2007,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'campagnolo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'campagnolo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://claffisica.org.br/news-item/brasil-sedia-olimpiada-internacional-de-astronomia-pela-primeira-vez",
+      "domain": "claffisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Campagnolo'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'cavina'"
+    },
+    {
+      "year": 2008,
+      "url": "http://astrophysicsblogs.blogspot.com/2008/08/2nd-international-olympiad-on-astronomy.html",
+      "domain": "astrophysicsblogs.blogspot.com",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Katague'"
+    },
+    {
+      "year": 2008,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'cavina'"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2009,
+      "url": "https://clubedeastronomiacmpa.blogspot.com/2009/",
+      "domain": "clubedeastronomiacmpa.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2009,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'braga'"
+    },
+    {
+      "year": 2010,
+      "url": "http://ccd-oba.blogspot.com/2010/10/ioaa-e-olaa-resultados.html",
+      "domain": "ccd-oba.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pontes'"
+    },
+    {
+      "year": 2010,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'braga'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'caetano'"
+    },
+    {
+      "year": 2011,
+      "url": "https://objetivo.br/institucional/noticias.aspx?titulo=polonia-gustavo-haddad-e-ivan-tadeu-no-podio-da-olimpiada-internacional-de-astronomia-e-astrofisica",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Haddad'"
+    },
+    {
+      "year": 2011,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'caetano'"
+    },
+    {
+      "year": 2012,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/ioaa-2012/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'martins'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.abc.org.br/2012/08/17/olimpiada-internacional-de-astronomia-termina-com-prata-e-bronze-para-o-brasil/",
+      "domain": "abc.org.br",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "needle 'Trianon'"
+    },
+    {
+      "year": 2012,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'martins'"
+    },
+    {
+      "year": 2013,
+      "url": "https://agencia.fapesp.br/brasil-ganha-cinco-medalhas-em-olimpiada-internacional-de-astronomia/17703",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'mitsutani'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'mitsutani'"
+    },
+    {
+      "year": 2013,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'mitsutani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_educacaobasica/2014/08/18/ensino_educacaobasica_interna,442913/em-olimpiada-de-astronomia-brasileiros-conquistam-medalha-de-prata.shtml",
+      "domain": "correiobraziliense.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'mitsutani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'mitsutani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'mitsutani'"
+    },
+    {
+      "year": 2015,
+      "url": "https://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2015-08/estudantes-brasileiros-sao-premiados-em-olimpiada-internacional",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Khalil'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.eso.org/public/portugal/announcements/annlocal15001-pt-br/",
+      "domain": "eso.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Guimar'"
+    },
+    {
+      "year": 2015,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'khalil'"
+    },
+    {
+      "year": 2016,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'vilanova'"
+    },
+    {
+      "year": 2017,
+      "url": "https://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2017-11/brasil-ganha-5-medalhas-na-olimpiada-internacional-de-astronomia",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'mello'"
+    },
+    {
+      "year": 2017,
+      "url": "https://catracalivre.com.br/quem-inova/olimpiada-internacional-de-astronomia-e-astrofisica-premia-brasil/",
+      "domain": "catracalivre.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'mello'"
+    },
+    {
+      "year": 2017,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Martins'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_ensinosuperior/2018/11/12/ensino_ensinosuperior_interna,719102/brasil-conquista-quatro-medalhas-em-olimpiada-astrofisica-na-china.shtml",
+      "domain": "correiobraziliense.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'melo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-medalha-na-12a-ioaa",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Piazza'"
+    },
+    {
+      "year": 2018,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'melo'"
+    },
+    {
+      "year": 2019,
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-08/brasileiros-sao-destaque-em-olimpiada-internacional-de-astronomia",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'girotto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://coolmagazine.com.br/com-a-maior-participacao-feminina-da-historia-brasil-conquista-tres-medalhas-em-olimpiada-internacional-de-astronomia-e-astrofisica-na-hungria/",
+      "domain": "coolmagazine.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'girotto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://blog.etapa.com.br/noticias/etapa-na-maior-competicao-de-astronomia",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Girotto'"
+    },
+    {
+      "year": 2021,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.gov.br/observatorio/pt-br/assuntos/noticias/brasil-conquista-cinco-medalhas-na-olimpiada-internacional-de-astronomia-e-astrofisica-2013-ioaa-2022",
+      "domain": "gov.br (Observatório Nacional)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'ouros'"
+    },
+    {
+      "year": 2021,
+      "url": "https://spacewatchafrica.com/brazil-wins-gold-at-the-international-astronomy-and-astrophysics-olympiad-for-the-first-time/",
+      "domain": "spacewatchafrica.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ferrari'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.gov.br/observatorio/pt-br/assuntos/noticias/brasil-conquista-cinco-medalhas-na-olimpiada-internacional-de-astronomia-e-astrofisica-2013-ioaa-2022",
+      "domain": "gov.br (Observatório Nacional)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.bandab.com.br/curitiba/estudante-de-curitiba-medalha-de-prata-olimpiada-astronomia-astrofisica/",
+      "domain": "bandab.com.br",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "needle 'Ratier'"
+    },
+    {
+      "year": 2022,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
+      "domain": "pt.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/cnpq-em-acao/brasil-conquista-ouro-prata-e-mencao-honrosa-na-16a-olimpiada-internacional-de-astronomia-e-astrofisica-1",
+      "domain": "gov.br (CNPq)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.terra.com.br/byte/brasileiro-ouro-em-olimpiada-de-astronomia-quer-melhorar-energia-renovavel,a35ac98da9411118383d2499c0ffe0d1fq5thlyy.html",
+      "domain": "terra.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2023,
+      "url": "https://blog.etapa.com.br/noticias/ioaa-2023",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Porf'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/08/brasil-conquista-cinco-medalhas-na-17a-olimpiada-internacional-de-astronomia-e-astrofisica",
+      "domain": "gov.br (MCTI)",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "no roster surname found"
+    },
+    {
+      "year": 2024,
+      "url": "https://revistaeducacao.com.br/2024/08/27/olimpiada-internacional-de-astronomia-e-astrofisica/",
+      "domain": "revistaeducacao.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://jornalpequeno.com.br/2024/08/27/maranhense-de-17-anos-brilha-na-olimpiada-internacional-de-astronomia-e-astrofisica-2024/",
+      "domain": "jornalpequeno.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'menezes'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/08/jovens-brasileiros-ganham-quatro-medalhas-na-18o-olimpiada-internacional-de-astronomia-e-astrofisica",
+      "domain": "gov.br (MCTI)",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "no roster surname found"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/premios/estudantes-brasileiros-conquistam-14-medalhas-em-olimpiadas-internacionais-de-astronomia-e-astronautica",
+      "domain": "gov.br (CNPq)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pimenta'"
+    },
+    {
+      "year": 2025,
+      "url": "https://jtv.com.br/luca-pieroni-pimenta-ouro-olimpiada-internacional-astronomia-2025/",
+      "domain": "jtv.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pimenta'"
+    }
+  ]
+}

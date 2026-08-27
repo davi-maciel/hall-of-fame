@@ -1,0 +1,434 @@
+{
+  "olympiadId": "oii",
+  "description": "Sources confirming Brazilian OII/CIIC participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "iberoinformatica.org per-name results DB; archived OIA-Argentina CIIC pages.",
+    "primary": "OBI/Unicamp national organizer rosters; Objetivo; Argentine ministry blog.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Renamed CIIC -> OII after 2022. Official DB (iberoinformatica.org) is per-name for 2012-2026; pre-2012 rests on archived national-federation pages.",
+    "Remote/correspondence contest awarded at the IOI — hence 9-10 person delegations (unlike travel olympiads).",
+    "rawName policy: official-DB forms upgraded to the fullest documented variant (OBI fuller middles, accents) per the most-complete-name display rule.",
+    "Undocumentable era: 1999, 2006, 2008-2010 have no surviving results anywhere (some likely non-edition years); Brazil positively absent 1998, 2001-2003, 2005."
+  ],
+  "years": [
+    {
+      "year": 2004,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20050216131717/http://oia.org.ar/ciic/result2004.html",
+          "domain": "oia.org.ar (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "VI CIIC results: Brasil 1G/2S/4B/3 meritos, per-problem scores (meritos mapped to honorable-mention)",
+          "needle": "Slepetys"
+        }
+      ],
+      "note": "Correspondence-era format with a 4th tier MERITO below bronze — mapped to honorable-mention. Gold/silver tie at 217,5 points reported verbatim by the source."
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=irmaos-amigos-e-companheiros-de-estudo",
+          "domain": "objetivo.br",
+          "cls": "primary",
+          "coverage": "1/? — only documented member",
+          "confirms": "Ricardo Hahn Pereira silver; article says he was the only high-schooler in the delegation",
+          "needle": "Ricardo"
+        },
+        {
+          "url": "https://www.iberoinformatica.org/results/2007/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "stub",
+          "confirms": "official DB 2007 page exists but is empty (0 contestants) — no official roster published"
+        }
+      ],
+      "note": "Roster partially documented: only Ricardo Hahn Pereira (silver) is recoverable; delegation size unknown."
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://programanacionaldeolimpiadas.blogspot.com/2011/09/resultados-de-la-iberoamericana-de.html",
+          "domain": "programanacionaldeolimpiadas.blogspot.com",
+          "cls": "primary",
+          "coverage": "participation only",
+          "confirms": "XII CIIC: Brazil among participating countries; no Brazilian names — ROSTER UNKNOWN, no dataset records",
+          "needle": "Brasil"
+        }
+      ],
+      "note": "Participation confirmed, roster unknown — official DB returns HTTP 500 for 2011; OBI page starts at 2012."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2012/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results",
+          "needle": "Renato Ferreira Pinto Junior"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2013/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results",
+          "needle": "Mateus Carvalho Dantas"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2014/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Zelazny",
+          "needle": "Michel Rozenberg Zelazny"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2015/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Bezrutchka",
+          "needle": "Mateus Bezrutchka"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2016/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results",
+          "needle": "Victor Agnez Lima"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ],
+      "note": "Three Brazilians at rank 1 (350.0) tied with 4 Mexicans; OBI marks no 2016 champion."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2017/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results",
+          "needle": "Gabriel Silva Simões"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2018/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Bulhões + Ivan Carvalho (co)",
+          "needle": "Frederico Bulhões de Sousa Ribeiro"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2019/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full — 10 incl. 3 non-medalists (OBI lists only 7)",
+          "confirms": "official per-name results",
+          "needle": "Thiago Mota Martins"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ],
+      "note": "Official page lists 10 incl. 3 non-medalists; OBI lists only the 7 medalists — official is the more complete source."
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2020/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Yan Matheus",
+          "needle": "Yan Matheus Tavares e Silva"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2021/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Oda",
+          "needle": "Luiz Henrique Yuji Delgado Oda"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2022/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Carolina + Luca + Pedro Chen (co, shared w/ ESP/CUB)",
+          "needle": "Pedro Shinzato Chen"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2023/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Arthur Lobo + Leonardo Valente (co)",
+          "needle": "Vladimir Arauzo Huisa"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2024/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Arthur Lobo",
+          "needle": "Arthur Lobo Leite Lopes"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2025/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Graminholi",
+          "needle": "Fernando Graminholi Gonçalves"
+        },
+        {
+          "url": "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/",
+          "domain": "olimpiada.ic.unicamp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer roster w/ schools"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iberoinformatica.org/results/2026/all",
+          "domain": "iberoinformatica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results; Brazilian champion: Maria Clara Fontes Silva",
+          "needle": "Maria Clara Fontes Silva"
+        }
+      ],
+      "note": "Single-source year so far: OBI page has no OII 2026 section yet. Re-check for the second source."
+    }
+  ]
+}

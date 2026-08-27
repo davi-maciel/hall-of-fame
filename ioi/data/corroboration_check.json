@@ -1,0 +1,874 @@
+{
+  "checkedAt": "2026-08-02T05:04:57+00:00",
+  "summary": {
+    "PASS": 84,
+    "PASS-STATUS": 23,
+    "FAIL-NEEDLE": 1
+  },
+  "results": [
+    {
+      "year": 1999,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/1999",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'ferber'"
+    },
+    {
+      "year": 1999,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'ferber'"
+    },
+    {
+      "year": 1999,
+      "url": "https://cphof.org/standings/ioi/1999",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'ferber'"
+    },
+    {
+      "year": 2000,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2000",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'dantas'"
+    },
+    {
+      "year": 2000,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'dantas'"
+    },
+    {
+      "year": 2000,
+      "url": "https://cphof.org/standings/ioi/2000",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'dantas'"
+    },
+    {
+      "year": 2001,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2001",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2001,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2001,
+      "url": "https://cphof.org/standings/ioi/2001",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'figueiredo'"
+    },
+    {
+      "year": 2002,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2002",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'paulino'"
+    },
+    {
+      "year": 2002,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'paulino'"
+    },
+    {
+      "year": 2002,
+      "url": "https://ioi.te.lv/locations/ioi02/medals.shtml",
+      "domain": "ioi.te.lv",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'paulino'"
+    },
+    {
+      "year": 2002,
+      "url": "https://www2.unicamp.br/unicamp/unicamp_hoje/jornalPDF/189-pag10.pdf",
+      "domain": "www2.unicamp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2002,
+      "url": "https://cphof.org/standings/ioi/2002",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'paulino'"
+    },
+    {
+      "year": 2003,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2003",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'nishida'"
+    },
+    {
+      "year": 2003,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'nishida'"
+    },
+    {
+      "year": 2003,
+      "url": "https://denilson.sa.nom.br/denilsonsa-curriculo.pdf",
+      "domain": "denilson.sa.nom.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2003,
+      "url": "https://cphof.org/standings/ioi/2003",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'nishida'"
+    },
+    {
+      "year": 2004,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2004",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'ribas'"
+    },
+    {
+      "year": 2004,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'ribas'"
+    },
+    {
+      "year": 2004,
+      "url": "https://cphof.org/standings/ioi/2004",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'ribas'"
+    },
+    {
+      "year": 2005,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2005",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'matias'"
+    },
+    {
+      "year": 2005,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'matias'"
+    },
+    {
+      "year": 2005,
+      "url": "https://cphof.org/standings/ioi/2005",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'matias'"
+    },
+    {
+      "year": 2005,
+      "url": "https://clist.by/standings/ioi-2005-31998753/",
+      "domain": "clist.by",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'matias'"
+    },
+    {
+      "year": 2006,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2006",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'costa'"
+    },
+    {
+      "year": 2006,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'costa'"
+    },
+    {
+      "year": 2006,
+      "url": "https://cphof.org/standings/ioi/2006",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'costa'"
+    },
+    {
+      "year": 2006,
+      "url": "https://clist.by/standings/ioi-2006-31998747/",
+      "domain": "clist.by",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'costa'"
+    },
+    {
+      "year": 2007,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2007",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'rodrigues'"
+    },
+    {
+      "year": 2007,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'rodrigues'"
+    },
+    {
+      "year": 2007,
+      "url": "https://agencia.fapesp.br/tres-medalhas-na-olimpiada-internacional-de-informatica/7657",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2007,
+      "url": "https://cphof.org/standings/ioi/2007",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'rodrigues'"
+    },
+    {
+      "year": 2008,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2008",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'pereira'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pereira'"
+    },
+    {
+      "year": 2008,
+      "url": "https://agencia.fapesp.br/medalhas-no-egito/9332",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2008,
+      "url": "https://cphof.org/standings/ioi/2008",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pereira'"
+    },
+    {
+      "year": 2009,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2009",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2009,
+      "url": "https://cphof.org/standings/ioi/2009",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2010",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://ioi2010.org/finalResults.html",
+      "domain": "ioi2010.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2010,
+      "url": "https://cphof.org/standings/ioi/2010",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2011,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2011",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2011,
+      "url": "https://sindpdrj.org.br/2011/07/28/brasil-conquista-ouro-inedito-na-olimpiada-internacional-de-informatica/",
+      "domain": "sindpdrj.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2011,
+      "url": "https://portal.cin.ufpe.br/2011/08/03/primeira-medalha-de-ouro-para-o-brasil-na-olimpiada-internacional-de-informatica/",
+      "domain": "portal.cin.ufpe.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2011,
+      "url": "https://cphof.org/standings/ioi/2011",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2012,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2012",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2012,
+      "url": "https://cphof.org/standings/ioi/2012",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'pinto'"
+    },
+    {
+      "year": 2013,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2013",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2013,
+      "url": "https://ioi2013.org/competition/results/",
+      "domain": "ioi2013.org",
+      "cls": "primary",
+      "status": "FAIL-NEEDLE",
+      "detail": "no roster surname found"
+    },
+    {
+      "year": 2013,
+      "url": "https://cphof.org/standings/ioi/2013",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2014,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2014",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'dadalto'"
+    },
+    {
+      "year": 2014,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'dadalto'"
+    },
+    {
+      "year": 2014,
+      "url": "https://agencia.fapesp.br/brasileiros-conquistam-medalhas-em-olimpiada-de-informatica/19460",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2014,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2014,
+      "url": "https://cphof.org/standings/ioi/2014",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'dadalto'"
+    },
+    {
+      "year": 2015,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2015",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'dadalto'"
+    },
+    {
+      "year": 2015,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'dadalto'"
+    },
+    {
+      "year": 2015,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2015,
+      "url": "https://cphof.org/standings/ioi/2015",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'dadalto'"
+    },
+    {
+      "year": 2016,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2016",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'santos'"
+    },
+    {
+      "year": 2016,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'santos'"
+    },
+    {
+      "year": 2016,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2016,
+      "url": "https://cphof.org/standings/ioi/2016",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'santos'"
+    },
+    {
+      "year": 2017,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2017",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'kondo'"
+    },
+    {
+      "year": 2017,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'kondo'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www2.unicamp.br/unicamp/noticias/2017/08/04/brasileiro-leva-ouro-na-olimpiada-internacional-de-informatica-unicamp-organiza/",
+      "domain": "www2.unicamp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2017,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2017,
+      "url": "https://cphof.org/standings/ioi/2017",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'kondo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2018",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-prata-na-ioi",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2018,
+      "url": "https://cphof.org/standings/ioi/2018",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'araujo'"
+    },
+    {
+      "year": 2019,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2019",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'sponchiado'"
+    },
+    {
+      "year": 2019,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'sponchiado'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/2018/12/08/divulgado-time-brasileiro-da-ioi-2019-e-da-ciic-2019/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2019,
+      "url": "https://cphof.org/standings/ioi/2019",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sponchiado'"
+    },
+    {
+      "year": 2019,
+      "url": "https://clist.by/standings/ioi-2019-31998620/",
+      "domain": "clist.by",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'sponchiado'"
+    },
+    {
+      "year": 2020,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2020",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'wang'"
+    },
+    {
+      "year": 2020,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'wang'"
+    },
+    {
+      "year": 2020,
+      "url": "https://blog.etapa.com.br/noticias/ioi-2020",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://cphof.org/standings/ioi/2020",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'wang'"
+    },
+    {
+      "year": 2021,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2021",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'delgado'"
+    },
+    {
+      "year": 2021,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'silva'"
+    },
+    {
+      "year": 2021,
+      "url": "https://blog.etapa.com.br/noticias/ioi-2021",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2021,
+      "url": "https://pleno.news/educacao/brasileira-e-a-melhor-ranqueada-em-olimpiada-de-informatica.html",
+      "domain": "pleno.news",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2022",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2022,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'chen'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/equipe-brasileira-foi-premiada-na-34a-olimpiada-internacional-de-informatica-na-indonesia",
+      "domain": "gov.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://blog.etapa.com.br/noticias/ioi-2022",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2023",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'soares'"
+    },
+    {
+      "year": 2023,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'soares'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-ioi/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://blog.etapa.com.br/noticias/ioi-2023",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2024",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'lalic'"
+    },
+    {
+      "year": 2024,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lalic'"
+    },
+    {
+      "year": 2024,
+      "url": "https://horizontes.sbc.org.br/index.php/2024/09/giro-sbc-edicao-38-24/",
+      "domain": "horizontes.sbc.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://cphof.org/standings/ioi/2024",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'lalic'"
+    },
+    {
+      "year": 2025,
+      "url": "https://stats.ioinformatics.org/delegations/BRA/2025",
+      "domain": "stats.ioinformatics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "roster surname 'assuncao'"
+    },
+    {
+      "year": 2025,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'assuncao'"
+    },
+    {
+      "year": 2025,
+      "url": "https://jtv.com.br/pedro-henrique-assuncao-medalha-prata-olimpiada-internacional-informatica-2025/",
+      "domain": "jtv.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://cphof.org/standings/ioi/2025",
+      "domain": "cphof.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'assuncao'"
+    },
+    {
+      "year": 2025,
+      "url": "https://clist.by/standings/ioi-2025-61139460/",
+      "domain": "clist.by",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "roster surname 'assuncao'"
+    }
+  ]
+}

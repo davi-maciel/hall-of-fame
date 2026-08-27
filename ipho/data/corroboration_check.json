@@ -1,0 +1,576 @@
+{
+  "checkedAt": "2026-08-22T16:51:48+00:00",
+  "summary": {
+    "PASS": 71
+  },
+  "results": [
+    {
+      "year": 2000,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Danilo Jimenez Rezende'"
+    },
+    {
+      "year": 2000,
+      "url": "http://web.archive.org/web/20100124032207/http://ipho.phy.ntnu.edu.tw/2000minutes.html",
+      "domain": "ipho.phy.ntnu.edu.tw (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2001,
+      "url": "https://ipho-unofficial.org/timeline/2001/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pimentel'"
+    },
+    {
+      "year": 2001,
+      "url": "http://web.archive.org/web/20010720031951/http://www.ipho2001.org.tr/results/all.html",
+      "domain": "ipho2001.org.tr (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fontenele'"
+    },
+    {
+      "year": 2001,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Richartz'"
+    },
+    {
+      "year": 2002,
+      "url": "https://ipho-unofficial.org/timeline/2002/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pela'"
+    },
+    {
+      "year": 2002,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fonteles'"
+    },
+    {
+      "year": 2002,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Janilo'"
+    },
+    {
+      "year": 2003,
+      "url": "https://ipho-unofficial.org/timeline/2003/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Jong Woo Jin'"
+    },
+    {
+      "year": 2003,
+      "url": "http://web.archive.org/web/20031027081111/http://www.phy.ntnu.edu.tw/ipho2003/English/result.htm",
+      "domain": "phy.ntnu.edu.tw (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Jong Woo Jin'"
+    },
+    {
+      "year": 2003,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quixada'"
+    },
+    {
+      "year": 2004,
+      "url": "https://ipho-unofficial.org/timeline/2004/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Graminho'"
+    },
+    {
+      "year": 2004,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Graminho'"
+    },
+    {
+      "year": 2004,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Maracaba'"
+    },
+    {
+      "year": 2005,
+      "url": "https://ipho-unofficial.org/timeline/2005/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heleodoro'"
+    },
+    {
+      "year": 2005,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Heleodoro'"
+    },
+    {
+      "year": 2005,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heleodoro'"
+    },
+    {
+      "year": 2006,
+      "url": "https://ipho-unofficial.org/timeline/2006/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 2006,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Casierra'"
+    },
+    {
+      "year": 2006,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Aleixo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://ipho-unofficial.org/timeline/2007/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lima'"
+    },
+    {
+      "year": 2007,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Thomas F. Lima'"
+    },
+    {
+      "year": 2007,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Nilo Daniel'"
+    },
+    {
+      "year": 2008,
+      "url": "https://ipho-unofficial.org/timeline/2008/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Takeda'"
+    },
+    {
+      "year": 2008,
+      "url": "http://web.archive.org/web/20080731100948/http://ipho2008.hnue.edu.vn/Competition/Results/tabid/82/Default.aspx",
+      "domain": "ipho2008.hnue.edu.vn (host, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Takeda'"
+    },
+    {
+      "year": 2008,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vitor Mori'"
+    },
+    {
+      "year": 2009,
+      "url": "https://ipho-unofficial.org/timeline/2009/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Halpern'"
+    },
+    {
+      "year": 2009,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Halpern'"
+    },
+    {
+      "year": 2009,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Stedile'"
+    },
+    {
+      "year": 2010,
+      "url": "https://ipho-unofficial.org/timeline/2010/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Haddad'"
+    },
+    {
+      "year": 2010,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Haddad'"
+    },
+    {
+      "year": 2010,
+      "url": "http://web.archive.org/web/20101008094715/http://www.sbfisica.org.br/v1/index.php?option=com_content&view=article&id=215:na-croacia-a-equipe-da-obf-conquista-cinco-medalhas-na-41o-ipho&catid=75:agosto-2010&Itemid=270",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'cinco medalhas'"
+    },
+    {
+      "year": 2010,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lira'"
+    },
+    {
+      "year": 2011,
+      "url": "https://ipho-unofficial.org/timeline/2011/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Haddad'"
+    },
+    {
+      "year": 2011,
+      "url": "http://web.archive.org/web/20110825233428/http://www.sbfisica.org.br/v1/index.php?option=com_content&view=article&id=331:ouro-para-o-brasil-na-olimpiada-internacional-de-fisica&catid=94:julho-2011&Itemid=270",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hernandes'"
+    },
+    {
+      "year": 2011,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Godoi'"
+    },
+    {
+      "year": 2012,
+      "url": "https://ipho-unofficial.org/timeline/2012/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Antunes'"
+    },
+    {
+      "year": 2012,
+      "url": "http://web.archive.org/web/20140805021810/http://g1.globo.com/educacao/noticia/2012/07/brasil-ganha-quatro-medalhas-na-olimpiada-internacional-de-fisica.html",
+      "domain": "g1.globo.com (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Dalla Stella'"
+    },
+    {
+      "year": 2012,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Antunes'"
+    },
+    {
+      "year": 2013,
+      "url": "https://ipho-unofficial.org/timeline/2013/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arai'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/fisica/ipho/resultado-ipho-2013/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arai'"
+    },
+    {
+      "year": 2013,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Arai'"
+    },
+    {
+      "year": 2014,
+      "url": "https://ipho-unofficial.org/timeline/2014/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cronemberger'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/fisica/5-medalhas-brasileiras-na-ipho-2014/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'CRONEMBERGER'"
+    },
+    {
+      "year": 2014,
+      "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
+      "domain": "jyu.fi (old official IPhO site, Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Cronemberger'"
+    },
+    {
+      "year": 2015,
+      "url": "https://ipho-unofficial.org/timeline/2015/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tafnes'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/fisica/tres-medalhas-para-o-brasil-na-olimpiada-internacional-de-fisica-ipho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tafnes'"
+    },
+    {
+      "year": 2016,
+      "url": "https://ipho-unofficial.org/timeline/2016/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bergamaschi'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www1.fisica.org.br/olimpiada/2016/images/arquivos/AnuncioMedalhasIPhO2016__2_.pdf",
+      "domain": "fisica.org.br (SBF/OBF)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2017,
+      "url": "https://ipho-unofficial.org/timeline/2017/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Golfetti'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/uncategorized/brasil-conquista-melhor-resultado-da-historia-na-ipho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Golfetti'"
+    },
+    {
+      "year": 2018,
+      "url": "https://ipho-unofficial.org/timeline/2018/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kitayama'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/5-medalhas-para-o-brasil-na-ipho-2018/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bergamaschi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://ipho-unofficial.org/timeline/2019/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Shor'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/fisica/ipho/cinco-medalhas-para-o-brasil-na-ipho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cutrim'"
+    },
+    {
+      "year": 2020,
+      "url": "http://web.archive.org/web/20201219170042/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/1237-estudantes-brasileiro-conquistam-medalhas-de-prata-e-bronze-na-international-distributed-physics-olympiad",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Takose'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/olimpiadas/fisica/hall-da-fisica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Davi Maciel'"
+    },
+    {
+      "year": 2020,
+      "url": "https://en.wikipedia.org/wiki/International_Physics_Olympiad",
+      "domain": "en.wikipedia.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'IdPhO'"
+    },
+    {
+      "year": 2021,
+      "url": "https://ipho-unofficial.org/timeline/2021/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Uchoa'"
+    },
+    {
+      "year": 2021,
+      "url": "http://web.archive.org/web/20210730163251/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/1380-ouro-prata-e-bronze-na-ipho-2021",
+      "domain": "sbfisica.org.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Siqueira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www1.fisica.org.br/olimpiada/2020/",
+      "domain": "fisica.org.br (SBF/OBF)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'CAIO AUGUSTO'"
+    },
+    {
+      "year": 2022,
+      "url": "https://ipho-unofficial.org/timeline/2022/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tizon'"
+    },
+    {
+      "year": 2022,
+      "url": "https://ipho2022.com/results/",
+      "domain": "ipho2022.com (host)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tizon'"
+    },
+    {
+      "year": 2023,
+      "url": "https://ipho-unofficial.org/timeline/2023/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Menhem'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/resultado-do-brasil-na-ipho/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Porfirio'"
+    },
+    {
+      "year": 2023,
+      "url": "https://olimpiadas.etapa.com.br/fisica",
+      "domain": "etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Porfirio'"
+    },
+    {
+      "year": 2025,
+      "url": "https://ipho-unofficial.org/timeline/2025/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2025,
+      "url": "https://cdn.prod.website-files.com/664df830da8ff5d22656764b/68834cd4e6e698960f2c6e1a_final_ranks_ipho2025.pdf",
+      "domain": "ipho2025.fr (host)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2025,
+      "url": "https://olimpiadas.etapa.com.br/fisica",
+      "domain": "etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ipho-unofficial.org/timeline/2026/individual",
+      "domain": "ipho-unofficial.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2026,
+      "url": "https://olimpiadas.etapa.com.br/fisica",
+      "domain": "etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kojima'"
+    }
+  ]
+}

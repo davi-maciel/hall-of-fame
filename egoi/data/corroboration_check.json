@@ -1,0 +1,249 @@
+{
+  "checkedAt": "2026-08-22T17:18:00+00:00",
+  "summary": {
+    "PASS": 29,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2021,
+      "url": "https://stats.egoi.org/editions/2021/delegations/BRA/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Carolina Moura Valle Costa'"
+    },
+    {
+      "year": 2021,
+      "url": "https://stats.egoi.org/editions/2021/results/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Carolina'"
+    },
+    {
+      "year": 2021,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2021,
+      "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-egoi/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carolina'"
+    },
+    {
+      "year": 2021,
+      "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+      "domain": "tfcbr.inf.ufsm.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Costa'"
+    },
+    {
+      "year": 2022,
+      "url": "https://stats.egoi.org/editions/2022/delegations/BRA/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pietra Gullo Salgado Chaves'"
+    },
+    {
+      "year": 2022,
+      "url": "https://stats.egoi.org/editions/2022/results/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pietra'"
+    },
+    {
+      "year": 2022,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2022,
+      "url": "https://noic.com.br/informatica/confira-o-resultado-da-egoi/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luana'"
+    },
+    {
+      "year": 2022,
+      "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+      "domain": "tfcbr.inf.ufsm.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Chaves'"
+    },
+    {
+      "year": 2023,
+      "url": "https://stats.egoi.org/editions/2023/delegations/BRA/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Anita Ramos Almeida'"
+    },
+    {
+      "year": 2023,
+      "url": "https://stats.egoi.org/editions/2023/results/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Anita'"
+    },
+    {
+      "year": 2023,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'lima'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-egoi-2/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Endy'"
+    },
+    {
+      "year": 2023,
+      "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+      "domain": "tfcbr.inf.ufsm.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Almeida'"
+    },
+    {
+      "year": 2024,
+      "url": "https://stats.egoi.org/editions/2024/delegations/BRA/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Clara Fontes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://stats.egoi.org/editions/2024/results/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Clara'"
+    },
+    {
+      "year": 2024,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'cintra'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.sonoticiaboa.com.br/2024/07/30/brasil-conquista-ouro-prata-e-bronze-em-olimpiada-europeia-de-informatica-para-garotas",
+      "domain": "sonoticiaboa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Maria Clara Fontes'"
+    },
+    {
+      "year": 2024,
+      "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+      "domain": "tfcbr.inf.ufsm.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fontes'"
+    },
+    {
+      "year": 2025,
+      "url": "https://stats.egoi.org/editions/2025/delegations/BRA/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabriela Barbieri Stroeh'"
+    },
+    {
+      "year": 2025,
+      "url": "https://stats.egoi.org/editions/2025/results/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabriela'"
+    },
+    {
+      "year": 2025,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "roster surname 'cintra'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.colegioetapa.com.br/portal/resultados/olimpiadas-cientificas",
+      "domain": "colegioetapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cintra'"
+    },
+    {
+      "year": 2025,
+      "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+      "domain": "tfcbr.inf.ufsm.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Stroeh'"
+    },
+    {
+      "year": 2026,
+      "url": "https://stats.egoi.org/editions/2026/delegations/BRA/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Julia Tiosso'"
+    },
+    {
+      "year": 2026,
+      "url": "https://stats.egoi.org/editions/2026/results/",
+      "domain": "stats.egoi.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Julia'"
+    },
+    {
+      "year": 2026,
+      "url": "https://olimpiada.ic.unicamp.br/competicoes/egoi/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2026,
+      "url": "https://olimpiada.ic.unicamp.br/noticias/2026/05/16/meninas-conquistam-quatro-medalhas-na-egoi2026/",
+      "domain": "olimpiada.ic.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Coesi'"
+    },
+    {
+      "year": 2026,
+      "url": "https://tfcbr.inf.ufsm.br/galeria-de-premios/egoi",
+      "domain": "tfcbr.inf.ufsm.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tiosso'"
+    }
+  ]
+}
