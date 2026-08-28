@@ -97,6 +97,18 @@
       "name": "European Girls' Olympiad in Informatics (convidado)",
       "field": "informatica",
       "scope": "convidado"
+    },
+    "imcho": {
+      "code": "IMChO",
+      "name": "Mendeleev International Chemistry Olympiad",
+      "field": "quimica",
+      "scope": "mundial"
+    },
+    "oiaq": {
+      "code": "OIAQ",
+      "name": "Olimpíada Ibero-americana de Química",
+      "field": "quimica",
+      "scope": "ibero"
     }
   },
   "scopes": {

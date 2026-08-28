@@ -1,0 +1,482 @@
+{
+  "checkedAt": "2026-08-27T05:15:34+00:00",
+  "summary": {
+    "PASS": 49,
+    "FAIL-HTTP": 7,
+    "PASS-STATUS": 3
+  },
+  "results": [
+    {
+      "year": 1995,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Lilian Teixeira Patitucci'"
+    },
+    {
+      "year": 1996,
+      "url": "https://arquivo.pt/noFrame/replay/20251114064613/http://www.obq.ufc.br/resultMEX.htm",
+      "domain": "obq.ufc.br (arquivo.pt)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Heron'"
+    },
+    {
+      "year": 1996,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Caxilé'"
+    },
+    {
+      "year": 1997,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultRIO.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1997,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Ataíde'"
+    },
+    {
+      "year": 1998,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultBOG.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pedro Madeira Nóbrega'"
+    },
+    {
+      "year": 1998,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Rodolfo'"
+    },
+    {
+      "year": 1999,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultSCQ.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ivan Mota Moura Fé'"
+    },
+    {
+      "year": 1999,
+      "url": "https://arquivo.pt/noFrame/replay/20251114064222/http://www.obq.ufc.br/um_lustro.htm",
+      "domain": "obq.ufc.br (arquivo.pt)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Joamara'"
+    },
+    {
+      "year": 2000,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultCAR.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2000,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Lavor'"
+    },
+    {
+      "year": 2002,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultMdP.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2002,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Janilo'"
+    },
+    {
+      "year": 2003,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultVaca.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Studart'"
+    },
+    {
+      "year": 2003,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Haroldo'"
+    },
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultCastel.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lucas Veloso Saraiva'"
+    },
+    {
+      "year": 2004,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Karoline'"
+    },
+    {
+      "year": 2005,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultLima.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'JULIANA'"
+    },
+    {
+      "year": 2005,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Damasceno'"
+    },
+    {
+      "year": 2006,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultAveiro.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Césaris'"
+    },
+    {
+      "year": 2006,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Jório'"
+    },
+    {
+      "year": 2007,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultRJ.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+    },
+    {
+      "year": 2007,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Thaís'"
+    },
+    {
+      "year": 2008,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultCR.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2008,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Collyer'"
+    },
+    {
+      "year": 2009,
+      "url": "https://obquimica.org/storage/annals/files/c9d729e99ba1c6ebb42ecf35fa6e00e3.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Levindo'"
+    },
+    {
+      "year": 2009,
+      "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultHa.htm",
+      "domain": "obq.ufc.br (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2010,
+      "url": "https://web.archive.org/web/20160501040643id_/http://obquimica.org/noticias/quimica-brasileira-em-destaque-no-mexico",
+      "domain": "obquimica.org (Wayback)",
+      "cls": "official",
+      "status": "FAIL-HTTP",
+      "detail": "timeout: The read operation timed out"
+    },
+    {
+      "year": 2010,
+      "url": "https://agencia.fapesp.br/brasil-e-primeiro-na-olimpiada-ibero-americana-de-quimica/12990",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kazumi'"
+    },
+    {
+      "year": 2011,
+      "url": "https://web.archive.org/web/20160430195744id_/http://obquimica.org/noticias/brasil-e-destaque-na-xvi-olimpiada-iberoamericana-de-quimica",
+      "domain": "obquimica.org (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tábata'"
+    },
+    {
+      "year": 2011,
+      "url": "https://obquimica.org/storage/annals/files/c582c913d948828503dc91db890881fe.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Arjona'"
+    },
+    {
+      "year": 2012,
+      "url": "https://web.archive.org/web/20131115042046id_/http://www.obquimica.org/noticias/brasil-na-lideranca-17a-olimpiada-iberomericana",
+      "domain": "obquimica.org (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vitória'"
+    },
+    {
+      "year": 2012,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Arjona'"
+    },
+    {
+      "year": 2013,
+      "url": "https://obquimica.org/storage/annals/files/d39688b643f7fc354c1e4fe1dc29e83f.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Maurocélio'"
+    },
+    {
+      "year": 2013,
+      "url": "https://programanacionaldeolimpiadas.blogspot.com/2013/10/xviii-olimpiada-iberoamericana-de.html",
+      "domain": "programanacionaldeolimpiadas.blogspot.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'La Paz'"
+    },
+    {
+      "year": 2014,
+      "url": "https://obquimica.org/storage/annals/files/436abb2167a1f32cd2b30246cad4cc7d.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Iwashita'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/quimica-2/quatro-medalhas-brasileiras-na-oiaq/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iwashita'"
+    },
+    {
+      "year": 2015,
+      "url": "https://web.archive.org/web/20151026123903id_/http://www.obquimica.org/noticias/mais-medalhas-para-brasileiros",
+      "domain": "obquimica.org (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Amgarten'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/quimica-2/brasil-conquista-medalhas-de-ouro-e-prata-na-olimpiada-iberoamericana-de-quimica-oiaq/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cortez'"
+    },
+    {
+      "year": 2016,
+      "url": "https://obquimica.org/storage/annals/files/26d196eae5e48dce2afb5e0296e33d5d.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Aragão'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/uncategorized/divulgada-a-equipe-brasileira-nas-olimpiadas-internacionais-de-quimica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Seber'"
+    },
+    {
+      "year": 2017,
+      "url": "https://obquimica.org/storage/annals/files/245b513dbf89dbe6ffa3c7847f58888f.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/uncategorized/tres-ouros-e-um-prata-para-o-brasil-na-ibero-americana-de-quimica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Toscano'"
+    },
+    {
+      "year": 2018,
+      "url": "https://web.archive.org/web/20190720012053id_/http://www.obquimica.org/noticias/index/brasil-1o-colocado-na-olimpiada-ibero-americana-de-quimica-",
+      "domain": "obquimica.org (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Orisvaldo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.abiclor.com.br/brasil-e-ouro-na-olimpiada-ibero-americana-de-quimica-em-el-salvador/",
+      "domain": "abiclor.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Salviano'"
+    },
+    {
+      "year": 2019,
+      "url": "https://obquimica.org/storage/annals/files/7f75e1bbd4a05b105d8f0e655c8fdccb.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2019,
+      "url": "https://cfq.org.br/noticia/brasil-ganha-quatro-medalhas-na-olimpiada-ibero-americana-de-quimica/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kuroishi'"
+    },
+    {
+      "year": 2021,
+      "url": "https://obquimica.org/storage/annals/files/ffc04603d38a7afc1e6b1e18cb098ec2.pdf",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2021,
+      "url": "https://cfq.org.br/noticia/brasil-tem-quatro-medalhistas-na-xxv-olimpiada-ibero-americana-de-quimica/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Avelar'"
+    },
+    {
+      "year": 2022,
+      "url": "https://abiclor.com.br/brasil-conquista-4-medalhas-de-ouro-na-olimpiada-ibero-americana-de-quimica/",
+      "domain": "abiclor.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Naílton'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.opovo.com.br/noticias/ceara/2022/11/17/tres-cearenses-conquistam-medalha-de-ouro-em-olimpiada-de-quimica-no-mexico.html",
+      "domain": "opovo.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Conrado'"
+    },
+    {
+      "year": 2022,
+      "url": "https://blog.etapa.com.br/noticias/oiaq-2022",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Odebrecht'"
+    },
+    {
+      "year": 2023,
+      "url": "https://blog.etapa.com.br/noticias/olimpiadas-internacionais",
+      "domain": "blog.etapa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Rosenfeld'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-seletiva-para-as-internacionais-de-quimica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Torreao'"
+    },
+    {
+      "year": 2023,
+      "url": "https://cfq.org.br/noticia/estudante-brasileiro-conquista-medalha-de-ouro-em-olimpiada-ibero-americana-de-quimica/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Enzo'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.unacomunica.una.ac.cr/index.php/octubre-2024/5674-brasil-destaca-en-la-xxviii-olimpiada-iberoamericana-de-quimica",
+      "domain": "unacomunica.una.ac.cr",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Viera Lima'"
+    },
+    {
+      "year": 2024,
+      "url": "https://rseq.org/exito-espanol-en-la-xxviii-olimpiada-iberoamericana-de-quimica-2024/",
+      "domain": "rseq.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sarapiqu'"
+    },
+    {
+      "year": 2025,
+      "url": "https://obquimica.org/noticias/estudantes-brasileiros-conquistam-medalhas-na-olimpiada-ibero-americana-de-quimica-2025",
+      "domain": "obquimica.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Queiroz'"
+    },
+    {
+      "year": 2025,
+      "url": "https://rseq.org/espana-gana-la-xxix-olimpiada-iberoamericana-de-quimica-2025/",
+      "domain": "rseq.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cuernavaca'"
+    }
+  ]
+}

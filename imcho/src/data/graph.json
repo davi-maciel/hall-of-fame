@@ -1,0 +1,579 @@
+{
+  "students": {
+    "breno-barros-de-vasconcelos": {
+      "id": "breno-barros-de-vasconcelos",
+      "name": "Breno Barros de Vasconcelos",
+      "searchKey": "breno barros de vasconcelos",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "guilherme-soares-costa": {
+      "id": "guilherme-soares-costa",
+      "name": "Guilherme Soares Costa",
+      "searchKey": "guilherme soares costa",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "joao-marcelo-alves-aires": {
+      "id": "joao-marcelo-alves-aires",
+      "name": "João Marcelo Alves Aires",
+      "searchKey": "joao marcelo alves aires",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
+        },
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "arthur-barroso-uchoa": {
+      "id": "arthur-barroso-uchoa",
+      "name": "Arthur Barroso Uchoa",
+      "searchKey": "arthur barroso uchoa",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "cristian-levi-de-souza-silveira": {
+      "id": "cristian-levi-de-souza-silveira",
+      "name": "Cristian Levi de Souza Silveira",
+      "searchKey": "cristian levi de souza silveira",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "daniel-suda-hatushikano": {
+      "id": "daniel-suda-hatushikano",
+      "name": "Daniel Suda Hatushikano",
+      "searchKey": "daniel suda hatushikano",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "ian-barreto-tavares-matos-de-vasconcelos": {
+      "id": "ian-barreto-tavares-matos-de-vasconcelos",
+      "name": "Ian Barreto Tavares Matos de Vasconcelos",
+      "searchKey": "ian barreto tavares matos de vasconcelos",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "joao-lucas-santos-vieira": {
+      "id": "joao-lucas-santos-vieira",
+      "name": "João Lucas Santos Vieira",
+      "searchKey": "joao lucas santos vieira",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "luiz-claudio-de-sa-cavalcante-generoso": {
+      "id": "luiz-claudio-de-sa-cavalcante-generoso",
+      "name": "Luiz Claudio de Sá Cavalcante Generoso",
+      "searchKey": "luiz claudio de sa cavalcante generoso",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "paulo-vinicius-rodrigues-de-azevedo": {
+      "id": "paulo-vinicius-rodrigues-de-azevedo",
+      "name": "Paulo Vinícius Rodrigues de Azevedo",
+      "searchKey": "paulo vinicius rodrigues de azevedo",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "vinicius-queiroz-dias": {
+      "id": "vinicius-queiroz-dias",
+      "name": "Vinícius Queiroz Dias",
+      "searchKey": "vinicius queiroz dias",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "artur-galiza-magalhaes": {
+      "id": "artur-galiza-magalhaes",
+      "name": "Artur Galiza Magalhães",
+      "searchKey": "artur galiza magalhaes",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2023,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gabriel-paz-sampaio-aguiar": {
+      "id": "gabriel-paz-sampaio-aguiar",
+      "name": "Gabriel Paz Sampaio Aguiar",
+      "searchKey": "gabriel paz sampaio aguiar",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "giovana-ayumi-matsumoto": {
+      "id": "giovana-ayumi-matsumoto",
+      "name": "Giovana Ayumi Matsumoto",
+      "searchKey": "giovana ayumi matsumoto",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
+    "lucas-nogueira-gilioti-loes": {
+      "id": "lucas-nogueira-gilioti-loes",
+      "name": "Lucas Nogueira Gilioti Loes",
+      "searchKey": "lucas nogueira gilioti loes",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "sophia-alves": {
+      "id": "sophia-alves",
+      "name": "Sophia Alves",
+      "searchKey": "sophia alves",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
+    "enzo-rosenfeld-franco-cabral": {
+      "id": "enzo-rosenfeld-franco-cabral",
+      "name": "Enzo Rosenfeld Franco Cabral",
+      "searchKey": "enzo rosenfeld franco cabral",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2023,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriela-torreao-marques-ferreira": {
+      "id": "gabriela-torreao-marques-ferreira",
+      "name": "Gabriela Torreão Marques Ferreira",
+      "searchKey": "gabriela torreao marques ferreira",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2023,
+          "medal": null
+        }
+      ]
+    },
+    "nailton-gama-de-castro": {
+      "id": "nailton-gama-de-castro",
+      "name": "Nailton Gama de Castro",
+      "searchKey": "nailton gama de castro",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "enzo-rosenfeld-franco-cabral",
+      "olympiad": "imcho",
+      "year": 2023
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "gabriela-torreao-marques-ferreira",
+      "olympiad": "imcho",
+      "year": 2023
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "nailton-gama-de-castro",
+      "olympiad": "imcho",
+      "year": 2023
+    },
+    {
+      "source": "enzo-rosenfeld-franco-cabral",
+      "target": "gabriela-torreao-marques-ferreira",
+      "olympiad": "imcho",
+      "year": 2023
+    },
+    {
+      "source": "enzo-rosenfeld-franco-cabral",
+      "target": "nailton-gama-de-castro",
+      "olympiad": "imcho",
+      "year": 2023
+    },
+    {
+      "source": "gabriela-torreao-marques-ferreira",
+      "target": "nailton-gama-de-castro",
+      "olympiad": "imcho",
+      "year": 2023
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "gabriel-paz-sampaio-aguiar",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "giovana-ayumi-matsumoto",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "lucas-nogueira-gilioti-loes",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "sophia-alves",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
+      "target": "giovana-ayumi-matsumoto",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
+      "target": "lucas-nogueira-gilioti-loes",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
+      "target": "sophia-alves",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "giovana-ayumi-matsumoto",
+      "target": "lucas-nogueira-gilioti-loes",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "giovana-ayumi-matsumoto",
+      "target": "sophia-alves",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "lucas-nogueira-gilioti-loes",
+      "target": "sophia-alves",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "cristian-levi-de-souza-silveira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "daniel-suda-hatushikano",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "ian-barreto-tavares-matos-de-vasconcelos",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "joao-lucas-santos-vieira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "daniel-suda-hatushikano",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "ian-barreto-tavares-matos-de-vasconcelos",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "joao-lucas-santos-vieira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "ian-barreto-tavares-matos-de-vasconcelos",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "joao-lucas-santos-vieira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "joao-lucas-santos-vieira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "luiz-claudio-de-sa-cavalcante-generoso",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "luiz-claudio-de-sa-cavalcante-generoso",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "paulo-vinicius-rodrigues-de-azevedo",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "guilherme-soares-costa",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "guilherme-soares-costa",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-08-27T04:42:37.359559+00:00",
+    "studentCount": 19,
+    "edgeCount": 55
+  }
+}

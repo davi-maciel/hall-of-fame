@@ -1,0 +1,151 @@
+{
+  "olympiadId": "imcho",
+  "description": "Sources confirming Brazilian Mendeleev-olympiad (IMChO) participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "IMChO protocols/results (chem.msu.ru, mendeleevolympiad.org, official xlsx).",
+    "primary": "CFQ, NOIC, Unifor, Brazilian press.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Medal mapping: Золото/Серебро/Бронза bands = gold/silver/bronze. DECISION (2026-08-27): IMChO's official protocols award medals only — no honorable-mention tier exists (verified 2021–2023; 2017–2020 scans inspectable but consistent) — so the site never displays HM for Brazilian IMChO records; the all-non-medalists 'participant diploma' = null, even where Brazilian sources or students' own pages style it 'menção honrosa'. The Lunin Prize (absolute top-3) is separate; no Brazilian holds it.",
+    "Rosters are PARTIAL by reality for 2024–2026: delegation sizes exceed documented names (10/15/10 vs 5/9/3 named). Only documented students carry records.",
+    "Selection via OBQ Fase IV/V; heavy overlap with the IChO pipeline (Galiza, Loes, Suda, Ian Barreto, João Marcelo, Guilherme Soares all in icho/)."
+  ],
+  "years": [
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://chem.msu.ru/rus/olimpiad/olimp2023/protocol-mendeleev-olymp-2023.pdf",
+          "domain": "chem.msu.ru",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "signed 57th-IMChO protocol, full 113-rank table — all 4 Brazilians with band + points",
+          "needle": "Nailton"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/primeira-participacao-do-brasil-na-mendelev-de-quimica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "first Brazilian participation; 1 prata + 2 bronzes + 1 'menção honrosa'",
+          "needle": "Mendelev"
+        },
+        {
+          "url": "https://cfq.org.br/noticia/brasil-leva-tres-medalhas-na-olimpiada-internacional-de-quimica-de-mendeleev/",
+          "domain": "cfq.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "4 names + states + leaders; Astana; only Americas team",
+          "needle": "Astana"
+        }
+      ],
+      "note": "First Brazilian participation (56th/2022 protocol has zero Brazilians — verified negative). Official band 'Диплом участника' (participation diploma) rendered as 'menção honrosa' by NOIC AND as 'Honorable Mention' on Gabriela Torreão's own LinkedIn (seen 2026-08-26) — stored as null nonetheless: the official protocol gives the participation diploma to ALL non-medalists (ranks 69–113), so it is not a selective HM tier; kept consistent with the IChO 'Participant'=null precedent."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20240617155529/http://mendeleevolympiad.org/en/itog",
+          "domain": "mendeleevolympiad.org (Wayback)",
+          "cls": "official",
+          "coverage": "medalists",
+          "confirms": "58th results page + medal-list images: Artur Galiza silver r39; Loes r51 + Gabriel Paz r88 bronze; no Brazilian gold",
+          "needle": "itog"
+        },
+        {
+          "url": "https://opiniaoempauta.com.br/alunas-cearenses-sao-as-unicas-a-representar-o-brasil-em-olimpiada-de-quimica-na-china/",
+          "domain": "opiniaoempauta.com.br",
+          "cls": "primary",
+          "coverage": "2/10",
+          "confirms": "Sophia Alves + Matsumoto, Farias Brito, only girls in the delegation",
+          "needle": "Sophia"
+        },
+        {
+          "url": "https://diariodonordeste.verdesmares.com.br/ceara/alunas-do-ceara-sao-unicas-meninas-a-representar-o-brasil-em-olimpiada-de-quimica-na-china-1.3486845",
+          "domain": "diariodonordeste.verdesmares.com.br",
+          "cls": "primary",
+          "coverage": "2/10",
+          "confirms": "delegation of ten; Ayumi Matsumoto; Shenzhen 20–27 Apr",
+          "needle": "Matsumoto"
+        }
+      ],
+      "note": "Delegation of 10; only 5 individually documented (3 medalists + the two Farias Brito students). The other 5 are unnamed in every located source — records not invented. ⚠️ Só Notícia Boa's Aug/2024 'ouro, prata e bronze' article naming Artur Galiza/Gabriel Paz is the IChO in Riyadh, NOT the Mendeleev."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://mendeleevolympiad.org/tpost/8yl9bnngo1-the-results-of-the-59th-international-me",
+          "domain": "mendeleevolympiad.org",
+          "cls": "official",
+          "coverage": "counts",
+          "confirms": "59th results release: 19G/38S/58B; links full lists",
+          "needle": "59th"
+        },
+        {
+          "url": "https://disk.yandex.ru/d/f33LC8HtC8uOQw",
+          "domain": "disk.yandex.ru (official full results)",
+          "cls": "official",
+          "coverage": "full (xlsx via JS viewer — status-only liveness check)",
+          "confirms": "official Gold/Silver/Bronze xlsx: exactly 8 Brazil rows, all Bronze (xlsx behind a JS viewer — content verified by API download at collection; liveness check is status-only)"
+        },
+        {
+          "url": "https://cfq.org.br/noticia/brasil-conquista-oito-medalhas-na-olimpiada-internacional-de-quimica-e-consolida-protagonismo-global-cfq-participou-da-abertura-do-evento/",
+          "domain": "cfq.org.br",
+          "cls": "primary",
+          "coverage": "8/15",
+          "confirms": "8 medalist names (7 CE + Daniel Suda SP)",
+          "needle": "oito medalhas"
+        },
+        {
+          "url": "https://www.unifor.br/-/com-apoio-da-unifor-cearenses-sao-destaque-na-olimpiada-internacional-de-quimica",
+          "domain": "unifor.br",
+          "cls": "primary",
+          "coverage": "partial",
+          "confirms": "10 of 15 Brazilian participants from Ceará; João Marcelo (Colégio Master) participated",
+          "needle": "Master"
+        }
+      ],
+      "note": "Host edition (UFMG, Belo Horizonte — first IMChO in the Americas; 40 countries). 15 Brazilian participants, 9 documented (8 bronzes + João Marcelo, no award); 6 unnamed. CFQ misattaches 'Hatushikano' to Arthur Uchoa and miscounts totals — official xlsx is authoritative."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://mendeleevolympiad.org/imcho60-eng/tpost/gnv8yh6ss1-the-results-of-the-60th-international-me",
+          "domain": "mendeleevolympiad.org",
+          "cls": "official",
+          "coverage": "medalists",
+          "confirms": "60th results: three '(Brazil)' entries in the bronze list; none in gold/silver",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://www.jornalapraca.com.br/estudante-iguatuense-ganha-medalha-de-bronze-na-60a-olimpiada-internacional-mendeleev-de-quimica-na-russia/",
+          "domain": "jornalapraca.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Guilherme Soares profile; names all 3 bronzes; delegation of 10",
+          "needle": "Iguatu"
+        }
+      ],
+      "note": "Jubilee 60th, Moscow. Delegation of 10; 3 bronzes documented; 7 non-medalists unnamed."
+    }
+  ]
+}

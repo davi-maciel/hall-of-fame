@@ -1,0 +1,105 @@
+{
+  "checkedAt": "2026-08-27T04:44:37+00:00",
+  "summary": {
+    "PASS": 11,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2023,
+      "url": "https://chem.msu.ru/rus/olimpiad/olimp2023/protocol-mendeleev-olymp-2023.pdf",
+      "domain": "chem.msu.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Nailton'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/primeira-participacao-do-brasil-na-mendelev-de-quimica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mendelev'"
+    },
+    {
+      "year": 2023,
+      "url": "https://cfq.org.br/noticia/brasil-leva-tres-medalhas-na-olimpiada-internacional-de-quimica-de-mendeleev/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Astana'"
+    },
+    {
+      "year": 2024,
+      "url": "http://web.archive.org/web/20240617155529/http://mendeleevolympiad.org/en/itog",
+      "domain": "mendeleevolympiad.org (Wayback)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'itog'"
+    },
+    {
+      "year": 2024,
+      "url": "https://opiniaoempauta.com.br/alunas-cearenses-sao-as-unicas-a-representar-o-brasil-em-olimpiada-de-quimica-na-china/",
+      "domain": "opiniaoempauta.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sophia'"
+    },
+    {
+      "year": 2024,
+      "url": "https://diariodonordeste.verdesmares.com.br/ceara/alunas-do-ceara-sao-unicas-meninas-a-representar-o-brasil-em-olimpiada-de-quimica-na-china-1.3486845",
+      "domain": "diariodonordeste.verdesmares.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Matsumoto'"
+    },
+    {
+      "year": 2025,
+      "url": "https://mendeleevolympiad.org/tpost/8yl9bnngo1-the-results-of-the-59th-international-me",
+      "domain": "mendeleevolympiad.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle '59th'"
+    },
+    {
+      "year": 2025,
+      "url": "https://disk.yandex.ru/d/f33LC8HtC8uOQw",
+      "domain": "disk.yandex.ru (official full results)",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://cfq.org.br/noticia/brasil-conquista-oito-medalhas-na-olimpiada-internacional-de-quimica-e-consolida-protagonismo-global-cfq-participou-da-abertura-do-evento/",
+      "domain": "cfq.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'oito medalhas'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.unifor.br/-/com-apoio-da-unifor-cearenses-sao-destaque-na-olimpiada-internacional-de-quimica",
+      "domain": "unifor.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Master'"
+    },
+    {
+      "year": 2026,
+      "url": "https://mendeleevolympiad.org/imcho60-eng/tpost/gnv8yh6ss1-the-results-of-the-60th-international-me",
+      "domain": "mendeleevolympiad.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.jornalapraca.com.br/estudante-iguatuense-ganha-medalha-de-bronze-na-60a-olimpiada-internacional-mendeleev-de-quimica-na-russia/",
+      "domain": "jornalapraca.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iguatu'"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "olympiadId": "oiaq",
+  "description": "Sources confirming Brazilian OIAQ participants + results, per edition.",
+  "provenanceClasses": {
+    "official": "obq.ufc.br per-edition medal lists (Wayback/arquivo.pt), PNOQ Anais + obquimica news, host-university lists.",
+    "primary": "CFQ, NOIC, Etapa, Abiclor, O Povo, FAPESP, RSEQ.",
+    "archive": "olimpiadascientificas.org teams page (1995–2012)."
+  },
+  "globalNotes": [
+    "PREMISE CORRECTION: Brazil participated from the I OIAQ (1995, Mendoza) — official UFC history states participation in every edition. 29 editions attended (1995–2025; no edition in 2001 or 2020).",
+    "Brazil hosted 1997, 2007, 2011, 2015, 2021-remote (2020 would have been Brazil — cancelled).",
+    "Brazilian overall champions: 2002 Yuri Sammuel, 2009 Levindo, 2010+2011 Raul Bruno, 2018 Armelin, 2021 Avelar, 2023 Enzo (Top Gold), 2024 Helena Viera Lima (+ Rafael Parra best theoretical).",
+    "Per-edition full medal lists live on old obq.ufc.br via Wayback AND arquivo.pt's fresh Nov-2025 crawl (dual archives). PNOQ Anais PDFs cover 2009, 2011, 2013–2019, 2021 fully; 2022–2024 have no online Anais or obquimica result posts.",
+    "Liveness caveat: web.archive.org throttles bulk checks — verifier runs show rotating timeouts on the obq.ufc.br snapshots (different URLs each run; 49–47/59 PASS). All were content-verified at collection (2026-08-26); arquivo.pt's Nov-2025 crawl is the alternate archive for the same pages."
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Lilian Teixeira Patitucci"
+        }
+      ],
+      "note": "Single-source year (OLC only) — and its two RJ bronzes look possibly duplicated from 1996's official list. Weakest year in the dataset; kept as documented, flagged."
+    },
+    {
+      "year": 1996,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://arquivo.pt/noFrame/replay/20251114064613/http://www.obq.ufc.br/resultMEX.htm",
+          "domain": "obq.ufc.br (arquivo.pt)",
+          "cls": "official",
+          "coverage": "2/3",
+          "confirms": "II OIAQ list: two Brazilian bronzes",
+          "needle": "Heron"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Caxilé"
+        }
+      ],
+      "note": "Official II-OIAQ page names only the two medalists; OLC adds the third (no-award) member."
+    },
+    {
+      "year": 1997,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultRIO.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full III OIAQ medal list",
+          "needle": "André da Silva Abreu"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Ataíde"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultBOG.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full IV OIAQ medal list",
+          "needle": "Pedro Madeira Nóbrega"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Rodolfo"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultSCQ.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full V OIAQ medal list",
+          "needle": "Ivan Mota Moura Fé"
+        },
+        {
+          "url": "https://arquivo.pt/noFrame/replay/20251114064222/http://www.obq.ufc.br/um_lustro.htm",
+          "domain": "obq.ufc.br (arquivo.pt)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "annual essay names the 1999 team",
+          "needle": "Joamara"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultCAR.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full VI OIAQ medal list",
+          "needle": "Michel"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Lavor"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultMdP.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full VII OIAQ medal list",
+          "needle": "Yuri Sammuel"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Janilo"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultVaca.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full VIII OIAQ medal list",
+          "needle": "Studart"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Haroldo"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultCastel.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full IX OIAQ medal list",
+          "needle": "Lucas Veloso Saraiva"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Karoline"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultLima.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full X OIAQ medal list",
+          "needle": "JULIANA"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Damasceno"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultAveiro.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full XI OIAQ medal list",
+          "needle": "Césaris"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Jório"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultRJ.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full XII OIAQ medal list",
+          "needle": "Nakasu"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Thaís"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultCR.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full XIII OIAQ medal list",
+          "needle": "David Willian"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Collyer"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/c9d729e99ba1c6ebb42ecf35fa6e00e3.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2009 pp.137-139: team + Levindo 1º lugar)",
+          "needle": "Levindo"
+        },
+        {
+          "url": "https://web.archive.org/web/2012id_/http://www.obq.ufc.br/resultHa.htm",
+          "domain": "obq.ufc.br (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full XIV OIAQ medal list",
+          "needle": "Kakiuthi"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20160501040643id_/http://obquimica.org/noticias/quimica-brasileira-em-destaque-no-mexico",
+          "domain": "obquimica.org (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "full team + 3 golds + 1º lugar",
+          "needle": "Okuma"
+        },
+        {
+          "url": "https://agencia.fapesp.br/brasil-e-primeiro-na-olimpiada-ibero-americana-de-quimica/12990",
+          "domain": "agencia.fapesp.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "press: team + schools",
+          "needle": "Kazumi"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20160430195744id_/http://obquimica.org/noticias/brasil-e-destaque-na-xvi-olimpiada-iberoamericana-de-quimica",
+          "domain": "obquimica.org (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "XVI team + medals (Arjona=prata here)",
+          "needle": "Tábata"
+        },
+        {
+          "url": "https://obquimica.org/storage/annals/files/c582c913d948828503dc91db890881fe.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2011 pp.90-91,157-158 — Arjona=bronze; see note)",
+          "needle": "Arjona"
+        }
+      ],
+      "note": "Medal conflict for Daniel Arjona: prata (obquimica news + OLC, followed) vs bronze (Anais 2011 — a volume with three demonstrated edition-numbering errors). The obq.ufc.br resultTHE.htm page is unusable (XVI header over a stale 2009 Havana list)."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20131115042046id_/http://www.obquimica.org/noticias/brasil-na-lideranca-17a-olimpiada-iberomericana",
+          "domain": "obquimica.org (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "XVII team + medals",
+          "needle": "Vitória"
+        },
+        {
+          "url": "http://olimpiadascientificas.org/equipes-brasileiras/quimica/oiaq/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "needle": "Arjona"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/d39688b643f7fc354c1e4fe1dc29e83f.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2013 pp.78-79 + destaques)",
+          "needle": "Maurocélio"
+        },
+        {
+          "url": "https://programanacionaldeolimpiadas.blogspot.com/2013/10/xviii-olimpiada-iberoamericana-de.html",
+          "domain": "programanacionaldeolimpiadas.blogspot.com",
+          "cls": "primary",
+          "coverage": "counts",
+          "confirms": "XVIII host/dates, Brazil among 17 countries",
+          "needle": "La Paz"
+        }
+      ],
+      "note": "Pedro Ítalo's full surname CONFIRMED as 'Oliveira Gomes' by Anais 2013 (seletiva table + prose, re-verified 2026-08-26); an external report's 'Carvalho Aderaldo' guess is wrong."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/436abb2167a1f32cd2b30246cad4cc7d.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2014 pp.110-111,180-181 incl. substitution)",
+          "needle": "Iwashita"
+        },
+        {
+          "url": "https://noic.com.br/quimica-2/quatro-medalhas-brasileiras-na-oiaq/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "4 medals",
+          "needle": "Iwashita"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20151026123903id_/http://www.obquimica.org/noticias/mais-medalhas-para-brasileiros",
+          "domain": "obquimica.org (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "XX Teresina team + schools + medals",
+          "needle": "Amgarten"
+        },
+        {
+          "url": "https://noic.com.br/quimica-2/brasil-conquista-medalhas-de-ouro-e-prata-na-olimpiada-iberoamericana-de-quimica-oiaq/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "identical",
+          "needle": "Cortez"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/26d196eae5e48dce2afb5e0296e33d5d.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2016 pp.176-177 Bogotá delegation)",
+          "needle": "Aragão"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/divulgada-a-equipe-brasileira-nas-olimpiadas-internacionais-de-quimica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full — selection",
+          "confirms": "2016 team + reserve",
+          "needle": "Seber"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/245b513dbf89dbe6ffa3c7847f58888f.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2017 p.215 destaques (João Vitor ouro / Celso prata))",
+          "needle": "Celso Renan"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/tres-ouros-e-um-prata-para-o-brasil-na-ibero-americana-de-quimica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full — CONFLICTING split, see note",
+          "confirms": "NOIC: Celso ouro / Pimentel prata",
+          "needle": "Toscano"
+        },
+        {
+          "url": "https://abqsp.org.br/oqsp/historico/",
+          "domain": "abqsp.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "XXII OIAQ delegation with medals (the tie-breaking third source); also notes Lígia = OQSP/ESP (SP)",
+          "needle": "Celso Soares"
+        }
+      ],
+      "note": "Gold/silver split RESOLVED 2026-08-26 by a third source: ABQ-SP's histórico states 'Ivna (ouro), Celso Soares (ouro), Lígia (ouro) e João Victor Pimentel (prata)' — agreeing with NOIC, 2-vs-1 against the Anais 2017 destaques (a volume family with demonstrated labeling errors). Dataset follows Celso=gold, Pimentel=silver."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20190720012053id_/http://www.obquimica.org/noticias/index/brasil-1o-colocado-na-olimpiada-ibero-americana-de-quimica-",
+          "domain": "obquimica.org (Wayback)",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "XXIII: 1º/2º geral + medals",
+          "needle": "Orisvaldo"
+        },
+        {
+          "url": "https://www.abiclor.com.br/brasil-e-ouro-na-olimpiada-ibero-americana-de-quimica-em-el-salvador/",
+          "domain": "abiclor.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "press",
+          "needle": "Salviano"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/7f75e1bbd4a05b105d8f0e655c8fdccb.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2019 p.208 destaques)",
+          "needle": "Joaquim"
+        },
+        {
+          "url": "https://cfq.org.br/noticia/brasil-ganha-quatro-medalhas-na-olimpiada-ibero-americana-de-quimica/",
+          "domain": "cfq.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "council news",
+          "needle": "Kuroishi"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/storage/annals/files/ffc04603d38a7afc1e6b1e18cb098ec2.pdf",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ Anais (2021 pp.211-212: team + champion + ACIPI)",
+          "needle": "Glauco"
+        },
+        {
+          "url": "https://cfq.org.br/noticia/brasil-tem-quatro-medalhistas-na-xxv-olimpiada-ibero-americana-de-quimica/",
+          "domain": "cfq.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "council: 4 medals + champion",
+          "needle": "Avelar"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://abiclor.com.br/brasil-conquista-4-medalhas-de-ouro-na-olimpiada-ibero-americana-de-quimica/",
+          "domain": "abiclor.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "4 golds — full delegation",
+          "needle": "Naílton"
+        },
+        {
+          "url": "https://www.opovo.com.br/noticias/ceara/2022/11/17/tres-cearenses-conquistam-medalha-de-ouro-em-olimpiada-de-quimica-no-mexico.html",
+          "domain": "opovo.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "press",
+          "needle": "Conrado"
+        },
+        {
+          "url": "https://blog.etapa.com.br/noticias/oiaq-2022",
+          "domain": "blog.etapa.com.br",
+          "cls": "primary",
+          "coverage": "1/4",
+          "confirms": "school news",
+          "needle": "Odebrecht"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://blog.etapa.com.br/noticias/olimpiadas-internacionais",
+          "domain": "blog.etapa.com.br",
+          "cls": "primary",
+          "coverage": "3/4",
+          "confirms": "Enzo ouro Top Gold + 2 pratas",
+          "needle": "Rosenfeld"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-seletiva-para-as-internacionais-de-quimica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full — roster only",
+          "confirms": "2023 team list incl. Gabriela",
+          "needle": "Torreao"
+        },
+        {
+          "url": "https://cfq.org.br/noticia/estudante-brasileiro-conquista-medalha-de-ouro-em-olimpiada-ibero-americana-de-quimica/",
+          "domain": "cfq.org.br",
+          "cls": "primary",
+          "coverage": "1/4",
+          "confirms": "Enzo maior nota",
+          "needle": "Enzo"
+        },
+        {
+          "url": "https://www.linkedin.com/",
+          "domain": "linkedin.com (student's own certificate post)",
+          "cls": "official",
+          "coverage": "1/4",
+          "confirms": "organizer-issued Primer Lugar diploma, XXVII OIAQ 2023 remote/Ecuador"
+        }
+      ],
+      "note": "Gabriela Torreão RESOLVED 2026-08-26: her official XXVII-OIAQ 'Diploma de Honor — Primer Lugar' (signed by OIAQ president Byron Cuaspud, Daule 9/10/2023), published on her LinkedIn and supplied by the project owner, confirms GOLD ('primer lugar' = the gold-band premio; consistent with Enzo separately holding 'Top Gold'/maior nota per CFQ). Brazil 2023 = 2 ouro + 2 prata. Archived: data/raw/gabriela-torreao-oiaq2023-diploma.png (local)."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.unacomunica.una.ac.cr/index.php/octubre-2024/5674-brasil-destaca-en-la-xxviii-olimpiada-iberoamericana-de-quimica",
+          "domain": "unacomunica.una.ac.cr",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "host-university medal lists (hispanicized spellings)",
+          "needle": "Viera Lima"
+        },
+        {
+          "url": "https://rseq.org/exito-espanol-en-la-xxviii-olimpiada-iberoamericana-de-quimica-2024/",
+          "domain": "rseq.org",
+          "cls": "primary",
+          "coverage": "counts",
+          "confirms": "dates/host/14 countries",
+          "needle": "Sarapiqu"
+        }
+      ],
+      "note": "Host-university source hispanicizes names (Helena Viera Lima, Rafael Joaquín Parra, Guillermo Camilo Acevedo) — kept verbatim pending Brazilian-source confirmation; 'Alexandre de Almeida' is ambiguous vs two existing students (kept separate). Watch: an Instagram-sourced report claims Giovana Ayumi Matsumoto was also on the 2024 team (5th member or duplicate of a medalist, unresolved) — high conflation risk with the April-2024 Mendeleev team she verifiably attended; not added."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://obquimica.org/noticias/estudantes-brasileiros-conquistam-medalhas-na-olimpiada-ibero-americana-de-quimica-2025",
+          "domain": "obquimica.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "PNOQ: full team + medals",
+          "needle": "Queiroz"
+        },
+        {
+          "url": "https://rseq.org/espana-gana-la-xxix-olimpiada-iberoamericana-de-quimica-2025/",
+          "domain": "rseq.org",
+          "cls": "primary",
+          "coverage": "counts",
+          "confirms": "dates/13 countries",
+          "needle": "Cuernavaca"
+        }
+      ]
+    }
+  ]
+}

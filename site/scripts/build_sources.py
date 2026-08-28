@@ -17,7 +17,7 @@ SITE = Path(__file__).resolve().parent.parent
 ROOT = SITE.parent
 OUT = SITE / "data" / "sources.json"
 
-WITH_TRAILS = ["imo", "icho", "ioi", "ioaa", "ijso", "oibf", "eupho", "nbpho", "ipho", "oii", "egoi"]
+WITH_TRAILS = ["imo", "icho", "ioi", "ioaa", "ijso", "oibf", "eupho", "nbpho", "ipho", "oii", "egoi", "imcho", "oiaq"]
 
 # Dataset-level fallbacks: one URL that genuinely lets a reader verify any year
 # of that dataset. (yearsNote kept human-readable in "c".)

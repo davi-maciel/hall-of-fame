@@ -38,12 +38,28 @@
     "gabriel-trigo": "gabriel-guerra-trigo",
     "gabriel-mazzili-pedroza": "gabriel-mazili-pedroza",
     "diogo-netto": "diogo-correia-netto",
-    "maria-freitas": "maria-eduarda-goncalves-freitas"
+    "maria-freitas": "maria-eduarda-goncalves-freitas",
+    "ian-barreto-tavares-m-vasconcelos": "ian-barreto-tavares-matos-de-vasconcelos",
+    "arthur-reis": "arthur-braga-reis",
+    "celso-renan-lima": "celso-renan-barbosa-soares-lima",
+    "davi-aragao": "davi-oliveira-aragao",
+    "joao-victor-magalhaes-caminha": "joao-victor-rocha-magalhaes-caminha",
+    "ligia-toscano-de-melo": "ligia-oliveira-toscano-de-melo",
+    "pedro-nobrega": "pedro-madeira-nobrega",
+    "maurocelio-rocha-pontes": "maurocelio-rocha-pontes-filho",
+    "pedro-teotonio-de-sousa": "pedro-teotonio-de-souza",
+    "yuri-sammuel-costa-de-morales": "yuri-sammuel-costa-de-moraes",
+    "bruno-damasceno-cavalcante-c-branco": "bruno-damasceno-cavalcante-castelo-branco",
+    "gabriel-mathews-viana-pinheiro": "gabriel-matheus-viana-pinheiro",
+    "ivna-de-lima-f-gomes": "ivna-de-lima-ferreira-gomes"
   },
   "preferredNames": {
     "cindy-yushi-tsai": "Cindy Yushi Tsai",
     "eleni-claire-shor": "Eleni Claire Shor",
-    "frederico-bulhoes-de-sousa-ribeiro": "Frederico Bulhões de Sousa Ribeiro"
+    "frederico-bulhoes-de-sousa-ribeiro": "Frederico Bulhões de Sousa Ribeiro",
+    "pedro-teotonio-de-souza": "Pedro Teotônio de Souza",
+    "yuri-sammuel-costa-de-moraes": "Yuri Sammuel Costa de Moraes",
+    "gabriel-matheus-viana-pinheiro": "Gabriel Matheus Viana Pinheiro"
   },
   "_notes": [
     "cindy-yushi-tsai: IJSO 2007 sources (OBC/wiki/OLC majority) spell Yushi; the IOAA 2008 dataset has Yuchi (single Objetivo-style variant). Provisional canonical = Yushi; revisit if a primary document surfaces.",
@@ -59,7 +75,9 @@
     "OII merge batch 2026-08-22: ten IOI-DB short forms folded into OII/OBI full forms — every pair pre-documented in the ioi collection's name-variants cross-check (plus Cesario 2002 IOI = 2004 CIIC, rare name + era). Frederico: IOI 'Souza' vs OII/OBI 'Sousa' — Sousa canonical.",
     "carolina-moura: IOI-DB short form (2020-22) = Carolina Moura Valle Costa (OII/EGOI; pre-documented in ioi variants table). Missed by the detector's last-token blocking — bug fixed same day (block on all tokens).",
     "leonardo-henrique-martins-florentino: OIbF 2015 dataset lacked the surname Florentino — NOIC's contemporary roster spells 'LEONARDO H. M. FLORENTINO' (flag opened in the oibf source pass, closed by the widened detector 2026-08-22). IJSO 2013 silver = same person.",
-    "2026-08-25: imported all 16 slug aliases from small-world's scripts/lib/aliases.ts as defensive no-ops — their merges are already baked into our canonical physics raw files, but the variant spellings survive in the provenance scrape files (ipho-unofficial.json, supplementary.json, eupho-pdfs.json); these aliases guard any future rebuild-from-scrape or source reusing the short/typo forms."
+    "2026-08-25: imported all 16 slug aliases from small-world's scripts/lib/aliases.ts as defensive no-ops — their merges are already baked into our canonical physics raw files, but the variant spellings survive in the provenance scrape files (ipho-unofficial.json, supplementary.json, eupho-pdfs.json); these aliases guard any future rebuild-from-scrape or source reusing the short/typo forms.",
+    "ian-barreto-tavares-matos-de-vasconcelos: IChO official DB abbreviates 'M' = Matos (IMChO 2025 official xlsx has the full form). Same student, IChO 2025 bronze + IMChO 2025 bronze.",
+    "OIAQ merge batch 2026-08-26: eleven IChO short/variant forms folded into OIAQ full forms (same-year chemistry pairs: Arthur Braga Reis, Celso Renan, Davi Aragão, Caminha, Lígia, Pedro Madeira Nóbrega, Maurocélio+Filho, Teotônio Sousa/Souza, Yuri Morales/Moraes, Castelo Branco, Mathews/Matheus, Ivna F.=Ferreira). Souza/Moraes/Matheus display forms chosen where sources conflict."
   ],
   "hideVariants": [
     "eleni-claire-shor"

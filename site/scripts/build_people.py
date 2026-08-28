@@ -30,7 +30,7 @@ SITE = Path(__file__).resolve().parent.parent
 ROOT = SITE.parent
 OUT = SITE / "data" / "people.json"
 
-DATASETS = ["imo", "icho", "ioi", "ioaa", "ipho", "eupho", "oibf", "nbpho", "ijso", "oii", "egoi"]
+DATASETS = ["imo", "icho", "ioi", "ioaa", "ipho", "eupho", "oibf", "nbpho", "ijso", "oii", "egoi", "imcho", "oiaq"]
 
 
 def strip_diacritics(s: str) -> str:
@@ -61,19 +61,21 @@ def name_richness(name: str):
 def load_medal_notes():
     """(slug, olympiad, year) -> medalNote for the known non-standard nulls."""
     notes = {}
-    ijso_raw = ROOT / "ijso" / "data" / "raw" / "ijso.json"
-    if ijso_raw.exists():
-        for r in json.loads(ijso_raw.read_text(encoding="utf-8")):
+    for ds in DATASETS:
+        raw = ROOT / ds / "data" / "raw" / f"{ds}.json"
+        if not raw.exists():
+            continue
+        for r in json.loads(raw.read_text(encoding="utf-8")):
             st = r.get("medalStatus")
             if not st:
                 continue
-            if st.startswith("unknown") or st == "medalist-color-unknown":
+            if st.startswith("unknown") or st == "medalist-color-unknown":  # any unknown-*
                 note = "unknown"
             elif st.startswith("no-award-inferred"):
                 note = "inferred-no-award"
             else:
                 note = st
-            notes[(slugify(r["rawName"]), "ijso", r["year"])] = note
+            notes[(slugify(r["rawName"]), ds, r["year"])] = note
     return notes
 
 
