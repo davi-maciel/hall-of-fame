@@ -22,7 +22,8 @@ let OL = null;
 let state = {
   view: "people", // 'people' | 'parts'
   q: "",
-  ols: new Set(),
+  ols: new Set(), // empty = no olympiad filter (all)
+  olsNone: false, // true = every olympiad deselected (shows nothing until one is ticked)
   field: "",
   scope: "",
   medal: "",
@@ -38,7 +39,9 @@ function readURL() {
   const p = new URLSearchParams(location.search);
   state.view = p.get("view") === "parts" ? "parts" : "people";
   state.q = p.get("q") || "";
-  state.ols = new Set((p.get("ols") || "").split(",").filter(Boolean));
+  const ols = p.get("ols") || "";
+  state.olsNone = ols === "none";
+  state.ols = new Set(state.olsNone ? [] : ols.split(",").filter(Boolean));
   state.field = p.get("area") || "";
   state.scope = p.get("escopo") || "";
   state.medal = p.get("medalha") || "";
@@ -55,7 +58,8 @@ function writeURL() {
   const p = new URLSearchParams();
   if (state.view !== "people") p.set("view", state.view);
   if (state.q) p.set("q", state.q);
-  if (state.ols.size) p.set("ols", [...state.ols].join(","));
+  if (state.olsNone) p.set("ols", "none");
+  else if (state.ols.size) p.set("ols", [...state.ols].join(","));
   if (state.field) p.set("area", state.field);
   if (state.scope) p.set("escopo", state.scope);
   if (state.medal) p.set("medalha", state.medal);
@@ -70,6 +74,7 @@ function writeURL() {
 /* ---------- filtering ---------- */
 function partMatches(part) {
   const ol = OL.olympiads[part.olympiad];
+  if (state.olsNone) return false;
   if (state.ols.size && !state.ols.has(part.olympiad)) return false;
   if (state.field && ol.field !== state.field) return false;
   if (state.scope && ol.scope !== state.scope) return false;
@@ -171,7 +176,7 @@ function renderBody(rows) {
   const tb = $("#tbody");
   if (state.view === "parts") {
     tb.innerHTML = rows.map((r) =>
-      `<tr class="data"><td class="num">${r.year}</td><td class="ols">${code(r.olympiad)}</td><td class="name">${r.name}</td><td>${medalCell(r)}</td></tr>`
+      `<tr class="data" data-id="${r.p.id}"><td class="num c-year">${r.year}</td><td class="ols c-ol">${code(r.olympiad)}</td><td class="name"><a href="person.html?id=${r.p.id}">${r.name}</a></td><td class="c-medal">${medalCell(r)}</td></tr>`
     ).join("");
     return;
   }
@@ -180,12 +185,12 @@ function renderBody(rows) {
     const yrs = r.yearMin === r.yearMax ? r.yearMin : `${r.yearMin}–${r.yearMax}`;
     return `<tr class="data" data-id="${r.p.id}">
       <td class="name"><a href="person.html?id=${r.p.id}">${r.name}</a></td>
-      <td class="num">${r.participations}</td>
-      <td class="num">${r.distinct}</td>
-      <td class="ols">${ols.map(code).join(" ")}</td>
-      <td>${yrs}</td>
-      <td class="num">${r.gold || ""}</td><td class="num">${r.silver || ""}</td>
-      <td class="num">${r.bronze || ""}</td><td class="num">${r.hm || ""}</td>
+      <td class="num c-parts">${r.participations}</td>
+      <td class="num c-distinct">${r.distinct}</td>
+      <td class="ols c-badges">${ols.map(code).join(" ")}</td>
+      <td class="c-years">${yrs}</td>
+      <td class="num c-gold">${r.gold || ""}</td><td class="num c-silver">${r.silver || ""}</td>
+      <td class="num c-bronze">${r.bronze || ""}</td><td class="num c-hm">${r.hm || ""}</td>
     </tr>`;
   }).join("");
 }
@@ -197,11 +202,34 @@ function render() {
   renderHead();
   renderBody(rows);
   const n = rows.length;
-  $("#result-line").textContent =
+  $("#result-line").innerHTML =
     state.view === "people"
-      ? `${n} estudante${n === 1 ? "" : "s"} — clique em uma linha para abrir a página do estudante; clique nos cabeçalhos para ordenar`
+      ? `${n} estudante${n === 1 ? "" : "s"}<span class="hint"> — clique em uma linha para abrir a página do estudante; clique nos cabeçalhos para ordenar</span>`
       : `${n} participaç${n === 1 ? "ão" : "ões"}`;
+  syncSortSelect();
   writeURL();
+}
+
+/* mobile sort select (the table header is hidden on small screens) */
+const SORT_OPTIONS = {
+  people: [
+    ["participations.desc", "Mais participações"], ["distinct.desc", "Mais olimpíadas"],
+    ["name.asc", "Nome (A–Z)"], ["years.desc", "Mais recentes"], ["years.asc", "Mais antigos"],
+    ["gold.desc", "Mais ouros"], ["silver.desc", "Mais pratas"], ["bronze.desc", "Mais bronzes"], ["hm.desc", "Mais menções honrosas"],
+  ],
+  parts: [["year.desc", "Ano (recentes)"], ["year.asc", "Ano (antigos)"], ["medal.desc", "Resultado"], ["name.asc", "Nome (A–Z)"], ["olympiad.asc", "Olimpíada"]],
+};
+function syncSortSelect() {
+  const sel = $("#sort-m");
+  if (!sel) return;
+  const want = SORT_OPTIONS[state.view];
+  if (sel.dataset.view !== state.view) {
+    sel.innerHTML = want.map(([v, l]) => `<option value="${v}">${l}</option>`).join("");
+    sel.dataset.view = state.view;
+  }
+  const cur = `${state.sort.key}.${state.sort.dir === 1 ? "asc" : "desc"}`;
+  if (!want.some(([v]) => v === cur)) sel.add(new Option(cur, cur));
+  sel.value = cur;
 }
 
 /* ---------- export ---------- */
@@ -229,6 +257,12 @@ function toDelim(sep) {
   const line = (r) => r.map(sep === "," ? esc : String).join(sep);
   return [line(header), ...rows.map(line)].join("\n");
 }
+function toMarkdown() {
+  const { header, rows } = exportRows();
+  const cell = (v) => String(v).replace(/\|/g, "\\|").replace(/\n/g, " ");
+  const line = (r) => `| ${r.map(cell).join(" | ")} |`;
+  return [line(header), `|${header.map(() => " --- |").join("")}`, ...rows.map(line)].join("\n");
+}
 function download(name, text, type) {
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob([text], { type }));
@@ -238,15 +272,56 @@ function download(name, text, type) {
 }
 
 /* ---------- wiring ---------- */
-function buildControls() {
-  const osel = $("#f-ol");
-  if (osel.options.length === 1)
-    for (const [id, o] of Object.entries(OL.olympiads)) osel.add(new Option(o.code, id));
-  osel.value = [...state.ols][0] || "";
-  osel.addEventListener("change", (e) => {
-    state.ols = e.target.value ? new Set([e.target.value]) : new Set();
+/* olympiad multi-select (checkbox panel) */
+function olLabel() {
+  const n = Object.keys(OL.olympiads).length;
+  if (state.olsNone) return "Nenhuma";
+  if (!state.ols.size || state.ols.size === n) return "Todas";
+  const codes = [...state.ols].map((id) => OL.olympiads[id].code);
+  return codes.length <= 3 ? codes.join(", ") : `${codes.length} selecionadas`;
+}
+function buildOlPicker() {
+  const list = $("#f-ol-list");
+  const byField = {};
+  for (const f of Object.keys(OL.fields)) byField[f] = []; // group order = order of fields in olympiads.json
+  for (const [id, o] of Object.entries(OL.olympiads)) (byField[o.field] ||= []).push([id, o]);
+  list.innerHTML = Object.entries(byField).filter(([, ols]) => ols.length).map(([field, ols]) =>
+    `<div class="msel-group"><div class="msel-group-title">${OL.fields[field]?.label || field}</div>` +
+    ols.map(([id, o]) =>
+      `<label class="msel-item" title="${o.name}"><input type="checkbox" value="${id}"><span class="code">${o.code}</span></label>`
+    ).join("") + "</div>"
+  ).join("");
+  const boxes = [...list.querySelectorAll("input[type=checkbox]")];
+  const sync = () => {
+    const all = !state.olsNone && !state.ols.size;
+    for (const b of boxes) b.checked = all || state.ols.has(b.value);
+    $("#f-ol-btn").firstChild.textContent = olLabel();
+  };
+  list.addEventListener("change", (e) => {
+    const box = e.target;
+    if (box.type !== "checkbox") return;
+    const wasAll = !state.olsNone && !state.ols.size;
+    if (wasAll) state.ols = new Set(boxes.map((b) => b.value)); // materialise "all" before removing one
+    state.olsNone = false;
+    if (box.checked) state.ols.add(box.value); else state.ols.delete(box.value);
+    if (state.ols.size === boxes.length) state.ols = new Set(); // all ticked = no filter
+    if (!state.ols.size && !box.checked) state.olsNone = true; // last one unticked = nothing
+    sync();
     render();
   });
+  $("#f-ol-all").addEventListener("click", () => { state.ols = new Set(); state.olsNone = false; sync(); render(); });
+  $("#f-ol-none").addEventListener("click", () => { state.ols = new Set(); state.olsNone = true; sync(); render(); });
+  const btn = $("#f-ol-btn"), panel = $("#f-ol-panel");
+  const setOpen = (open) => { panel.hidden = !open; btn.setAttribute("aria-expanded", String(open)); };
+  btn.addEventListener("click", () => setOpen(panel.hidden));
+  document.addEventListener("click", (e) => { if (!$("#f-ol").contains(e.target)) setOpen(false); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") setOpen(false); });
+  sync();
+  return sync;
+}
+
+function buildControls() {
+  const syncOl = buildOlPicker();
   const fsel = $("#f-field");
   for (const [id, f] of Object.entries(OL.fields)) fsel.add(new Option(f.label, id));
   fsel.value = state.field;
@@ -267,16 +342,34 @@ function buildControls() {
   $("#y0").addEventListener("change", (e) => { state.y0 = e.target.value ? +e.target.value : null; render(); });
   $("#y1").addEventListener("change", (e) => { state.y1 = e.target.value ? +e.target.value : null; render(); });
   $("#clear").addEventListener("click", () => {
-    Object.assign(state, { q: "", ols: new Set(), field: "", scope: "", medal: "", y0: null, y1: null });
-    $("#q").value = ""; osel.value = ""; fsel.value = ""; ssel.value = ""; $("#f-medal").value = ""; $("#y0").value = ""; $("#y1").value = "";
+    Object.assign(state, { q: "", ols: new Set(), olsNone: false, field: "", scope: "", medal: "", y0: null, y1: null });
+    $("#q").value = ""; fsel.value = ""; ssel.value = ""; $("#f-medal").value = ""; $("#y0").value = ""; $("#y1").value = "";
+    syncOl();
     render();
   });
   $("#view-people").addEventListener("click", () => setView("people"));
   $("#view-parts").addEventListener("click", () => setView("parts"));
+  $("#sort-m").addEventListener("change", (e) => {
+    const [key, dir] = e.target.value.split(".");
+    state.sort = { key, dir: dir === "asc" ? 1 : -1 };
+    render();
+  });
+  const toggle = $("#filters-toggle");
+  const setFilters = (open) => {
+    $("#controls").classList.toggle("filters-open", open);
+    toggle.setAttribute("aria-expanded", String(open));
+  };
+  toggle.addEventListener("click", () => setFilters(!$("#controls").classList.contains("filters-open")));
+  if (state.ols.size || state.olsNone || state.field || state.scope || state.medal || state.y0 || state.y1) setFilters(true);
   $("#copy").addEventListener("click", async () => {
     await navigator.clipboard.writeText(toDelim("\t"));
     $("#copy").textContent = "Copiado ✓";
     setTimeout(() => ($("#copy").textContent = "Copiar TSV"), 1200);
+  });
+  $("#copy-md").addEventListener("click", async () => {
+    await navigator.clipboard.writeText(toMarkdown());
+    $("#copy-md").textContent = "Copiado ✓";
+    setTimeout(() => ($("#copy-md").textContent = "Copiar Markdown"), 1200);
   });
   $("#dl-csv").addEventListener("click", () => download(`hall-da-fama-${state.view}.csv`, toDelim(","), "text/csv"));
   $("#dl-json").addEventListener("click", () => {

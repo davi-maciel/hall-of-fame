@@ -111,6 +111,118 @@ tr.detail td {
 
 footer { padding: 8px 24px 28px; color: var(--text-3); font-size: 12px; max-width: 900px; }
 footer code { font-size: 11px; }
-@media (max-width: 700px) {
+/* olympiad multi-select */
+.msel { position: relative; display: inline-block; }
+.msel-btn { display: inline-flex; align-items: center; gap: 8px; min-width: 120px; justify-content: space-between; }
+.msel-btn .chev {
+  width: 7px; height: 7px; margin: 0 2px 3px 0;
+  border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg);
+}
+.msel-btn[aria-expanded="true"] .chev { transform: rotate(-135deg); margin-bottom: -3px; }
+.msel-panel {
+  position: absolute; z-index: 20; top: calc(100% + 6px); left: 0; width: 250px; max-height: 60vh; overflow: auto;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18); padding: 8px 0 6px;
+}
+.msel-actions { display: flex; gap: 4px; padding: 0 8px 6px; border-bottom: 1px solid var(--border); }
+.msel-actions button { padding: 5px 8px; font-size: 12.5px; }
+.msel-group-title { padding: 8px 12px 2px; font-size: 11px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-3); }
+.msel-item { display: flex; align-items: center; gap: 8px; padding: 5px 12px; font-size: 13px; color: var(--text); cursor: pointer; white-space: nowrap; }
+.msel-item:hover { background: var(--row-hover); }
+.msel-item input { margin: 0; accent-color: var(--accent); width: 15px; height: 15px; flex: none; }
+.msel-item .code { font-weight: 550; }
+
+.only-mobile { display: none; }
+.export { gap: 8px; }
+.filters label { white-space: nowrap; }
+
+/* ---------- small screens ---------- */
+@media (max-width: 720px) {
+  body { font-size: 15px; }
+  header.top { padding: 14px 14px 4px; }
+  h1 { font-size: 18px; line-height: 1.25; }
+  .sub { font-size: 12.5px; }
+  .hint { display: none; }
+
+  .controls { padding: 6px 14px 2px; gap: 8px; }
+  .row { gap: 8px; }
+  .only-mobile { display: inline-flex; }
+  input[type="search"], input[type="number"], select, button { font-size: 16px; min-height: 40px; }
   input[type="search"] { width: 100%; }
+  .view-toggle { display: flex; width: 100%; }
+  .view-toggle button { flex: 1; padding: 8px 6px; }
+  label.sort-m { width: 100%; flex-direction: column; align-items: stretch; gap: 3px; }
+  label.sort-m select { width: 100%; }
+  /* "Filtros" section header with a chevron on the right */
+  #filters-toggle {
+    width: 100%; display: flex; align-items: center; justify-content: space-between;
+    background: transparent; border: 0; border-top: 1px solid var(--border); border-radius: 0;
+    padding: 10px 2px 6px; margin-top: 2px; color: var(--text-2); font-size: 12px; font-weight: 600;
+    letter-spacing: 0.02em; text-transform: uppercase; min-height: 0;
+  }
+  #filters-toggle .chev {
+    width: 9px; height: 9px; margin-right: 4px;
+    border-right: 2px solid var(--text-2); border-bottom: 2px solid var(--text-2);
+    transform: rotate(45deg) translateY(-2px); transition: transform 0.15s ease;
+  }
+  #filters-toggle[aria-expanded="true"] .chev { transform: rotate(-135deg) translateY(-2px); }
+
+  .filters { display: none; }
+  .controls.filters-open .filters {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px 10px; padding: 2px 0 6px;
+  }
+  .filters label { flex-direction: column; align-items: stretch; gap: 3px; white-space: nowrap; }
+  .filters select, .filters input[type="number"] { width: 100%; }
+  .filters .msel-label, .filters label:has(#f-medal) { grid-column: 1 / -1; }
+  .msel, .msel-btn { width: 100%; }
+  .msel-panel { position: static; width: 100%; max-height: 50vh; margin-top: 6px; box-shadow: none; }
+  .msel-group { display: grid; grid-template-columns: 1fr 1fr; }
+  .msel-group-title { grid-column: 1 / -1; }
+  .filters .msel-item { flex-direction: row; align-items: center; gap: 10px; white-space: normal; min-height: 40px; }
+  .msel-item input { width: 18px; height: 18px; }
+  .msel-actions button { min-height: 36px; font-size: 14px; flex: 1; }
+  .filters .spacer { display: none; }
+  .filters #clear { grid-column: 1 / -1; }
+  .export { display: none; }
+  .controls.filters-open .export { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding-bottom: 6px; }
+  .export button { padding: 8px 4px; white-space: nowrap; }
+
+  /* tables become stacked cards */
+  .table-wrap { padding: 0 14px 24px; overflow-x: visible; }
+  table, tbody { display: block; width: 100%; }
+  thead { display: none; }
+  tbody tr { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  tbody tr.data:hover { background: transparent; }
+  tbody tr.data:active { background: var(--row-hover); }
+  td, th { display: block; border: 0; padding: 0; white-space: normal; text-align: left; }
+  td.num { text-align: left; }
+  td:empty { display: none; }
+
+  td.name { flex-basis: 100%; font-size: 16px; }
+  td.name a { display: block; }
+  td.name { order: -1; }
+  td.c-badges { flex-basis: 100%; font-size: 12.5px; letter-spacing: 0.04em; }
+  td.c-ol { font-size: 12.5px; letter-spacing: 0.04em; }
+  td.c-parts, td.c-distinct, td.c-years, td.c-year, td.c-ol, td.c-medal { font-size: 13px; color: var(--text-2); }
+  td.c-parts::after { content: " particip."; }
+  td.c-distinct::after { content: " olimp."; }
+  td.c-gold, td.c-silver, td.c-bronze, td.c-hm {
+    font-size: 12.5px; padding: 1px 7px; border-radius: 6px;
+    background: var(--surface-2); border: 1px solid var(--border);
+  }
+  td.c-gold::before { content: "Ouro "; }
+  td.c-silver::before { content: "Prata "; }
+  td.c-bronze::before { content: "Bronze "; }
+  td.c-hm::before { content: "MH "; }
+
+  /* participations view + person page: one line of year · olympiad · result */
+  td.c-year { font-variant-numeric: tabular-nums; }
+  td.c-ol .olname { display: none; }
+  td.c-medal { color: var(--text); }
+  td.team { flex-basis: 100%; max-width: none; font-size: 13px; line-height: 1.7; }
+  td.team:not(:empty)::before { content: "Equipe: "; color: var(--text-3); }
+
+  .sources { padding: 4px 14px 0; }
+  .sources .src-key { min-width: 0; margin-right: 6px; }
+  footer { padding: 8px 14px 28px; }
 }

@@ -25,11 +25,6 @@
       "light": "#e87ba4",
       "dark": "#d55181"
     },
-    "ciencias": {
-      "label": "Ciências (integradas)",
-      "light": "#008300",
-      "dark": "#008300"
-    },
     "biologia": {
       "label": "Biologia",
       "light": "#7a4fbf",
@@ -40,6 +35,16 @@
       "light": "#c2410c",
       "dark": "#ea580c"
     },
+    "economia": {
+      "label": "Economia",
+      "light": "#475569",
+      "dark": "#94a3b8"
+    },
+    "ciencias": {
+      "label": "Ciências (integradas)",
+      "light": "#008300",
+      "dark": "#008300"
+    },
     "geografia": {
       "label": "Geografia",
       "light": "#0f766e",
@@ -49,11 +54,6 @@
       "label": "Geociências",
       "light": "#92400e",
       "dark": "#b45309"
-    },
-    "economia": {
-      "label": "Economia",
-      "light": "#475569",
-      "dark": "#94a3b8"
     }
   },
   "olympiads": {

@@ -76,9 +76,9 @@ async function boot() {
       .map((p) => `<a href="person.html?id=${p.id}">${p.name}</a>`)
       .join('<span class="sep"> · </span>');
     return `<tr>
-      <td class="num">${x.year}</td>
-      <td><span class="ols">${o.code}</span> <span class="muted olname">${o.name}</span></td>
-      <td>${resultText(x)}</td>
+      <td class="num c-year">${x.year}</td>
+      <td class="c-ol"><span class="ols">${o.code}</span> <span class="muted olname">${o.name}</span></td>
+      <td class="c-medal">${resultText(x)}</td>
       <td class="team">${mates}</td>
     </tr>`;
   }).join("");

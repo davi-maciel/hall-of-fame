@@ -21,10 +21,23 @@
       <button id="view-people" class="on" role="tab">Pessoas</button>
       <button id="view-parts" role="tab">Participações</button>
     </div>
+    <label class="only-mobile sort-m">Ordenar
+      <select id="sort-m"></select>
+    </label>
+    <button id="filters-toggle" class="only-mobile" aria-expanded="false" aria-controls="filters"><span>Filtros</span><span class="chev" aria-hidden="true"></span></button>
   </div>
-  <div class="row">
-    <label>Olimpíada
-      <select id="f-ol"><option value="">Todas</option></select>
+  <div class="row filters" id="filters">
+    <label class="msel-label">Olimpíada
+      <div class="msel" id="f-ol">
+        <button type="button" class="msel-btn" id="f-ol-btn" aria-haspopup="true" aria-expanded="false">Todas<span class="chev" aria-hidden="true"></span></button>
+        <div class="msel-panel" id="f-ol-panel" hidden>
+          <div class="msel-actions">
+            <button type="button" class="ghost" id="f-ol-all">Selecionar todas</button>
+            <button type="button" class="ghost" id="f-ol-none">Desmarcar todas</button>
+          </div>
+          <div class="msel-list" id="f-ol-list"></div>
+        </div>
+      </div>
     </label>
     <label>Área
       <select id="f-field"><option value="">Todas</option></select>
@@ -45,10 +58,12 @@
     <label>De <input id="y0" type="number" min="1979" max="2026" placeholder="1979"></label>
     <label>Até <input id="y1" type="number" min="1979" max="2026" placeholder="2026"></label>
     <button id="clear" class="ghost">Limpar filtros</button>
-    <span class="spacer"></span>
+  </div>
+  <div class="row export">
     <button id="copy">Copiar TSV</button>
-    <button id="dl-csv">CSV</button>
-    <button id="dl-json">JSON</button>
+    <button id="copy-md">Copiar Markdown</button>
+    <button id="dl-csv">Baixar CSV</button>
+    <button id="dl-json">Baixar JSON</button>
   </div>
   <p class="sub" id="result-line"></p>
 </section>
