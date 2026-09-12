@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-09-12T03:47:00+00:00",
+  "summary": {
+    "PASS": 5
+  },
+  "results": [
+    {
+      "year": 2012,
+      "url": "https://web.archive.org/web/20140907141700/http://www.wopho.org:80/about-detail.php?id=903",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ivan Tadeu Ferreira Antunes Filho'"
+    },
+    {
+      "year": 2012,
+      "url": "https://web.archive.org/web/20130127044018/http://www.wopho.org:80/news-news.php?id=29",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ivan Tadeu Ferreira Antunes Filho'"
+    },
+    {
+      "year": 2012,
+      "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/wopho/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ivan Tadeu Ferreira Antunes Filho'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=ivan-tadeu-recebe-medalha-inedita-e-destacase-entre-os-melhores-estudantes-do-mundo",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ivan Tadeu Ferreira Antunes Filho'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=mit-harvard-e-caltech-das-salas-de-aula-do-objetivo-para-as-principais-universidades-do-exterior",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ivan Tadeu'"
+    }
+  ]
+}

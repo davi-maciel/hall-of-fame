@@ -1,0 +1,22 @@
+{
+  "students": {
+    "ivan-tadeu-ferreira-antunes-filho": {
+      "id": "ivan-tadeu-ferreira-antunes-filho",
+      "name": "Ivan Tadeu Ferreira Antunes Filho",
+      "searchKey": "ivan tadeu ferreira antunes filho",
+      "participations": [
+        {
+          "olympiad": "wopho",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    }
+  },
+  "edges": [],
+  "metadata": {
+    "generatedAt": "2026-09-11T06:26:20.984826+00:00",
+    "studentCount": 1,
+    "edgeCount": 0
+  }
+}

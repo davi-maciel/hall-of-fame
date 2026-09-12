@@ -1,0 +1,272 @@
+[
+  {
+    "rawName": "Rafael Carlini",
+    "olympiadId": "ieo",
+    "year": 2018,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Marcio Akira Imanishi de Moraes",
+    "olympiadId": "ieo",
+    "year": 2018,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Henrique Lasevicius Azevedo",
+    "olympiadId": "ieo",
+    "year": 2018,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Tomas Aguirre Lessa Vaz",
+    "olympiadId": "ieo",
+    "year": 2018,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Adriano Kenzo Inoue Bonora",
+    "olympiadId": "ieo",
+    "year": 2018,
+    "medal": null
+  },
+  {
+    "rawName": "Guilhermo Cutrim Costa",
+    "olympiadId": "ieo",
+    "year": 2019,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Guilherme Leal Cardoso Pita",
+    "olympiadId": "ieo",
+    "year": 2019,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Vinícius Alves Teixeira",
+    "olympiadId": "ieo",
+    "year": 2019,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Victor Cortez Crocia Barros",
+    "olympiadId": "ieo",
+    "year": 2019,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Rafael Akira Okamura Ferro",
+    "olympiadId": "ieo",
+    "year": 2019,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Guilhermo Cutrim Costa",
+    "olympiadId": "ieo",
+    "year": 2020,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Luiz Eduardo Tojal Ramos Santos",
+    "olympiadId": "ieo",
+    "year": 2020,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Icaro Andrade Souza Bacelar",
+    "olympiadId": "ieo",
+    "year": 2020,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Ishan Matheus de Campos Unni",
+    "olympiadId": "ieo",
+    "year": 2020,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Diogo Mendonça Leite",
+    "olympiadId": "ieo",
+    "year": 2020,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Vítor Alexandre Theodosio de Carvalho Ayres de Camargo",
+    "olympiadId": "ieo",
+    "year": 2021,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Sebastião Fróes Nachtergaele Gomes Navarro",
+    "olympiadId": "ieo",
+    "year": 2021,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Caio Bento da Silva Luize",
+    "olympiadId": "ieo",
+    "year": 2021,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Nícolas Goulart de Moura",
+    "olympiadId": "ieo",
+    "year": 2021,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Ishan Matheus de Campos Unni",
+    "olympiadId": "ieo",
+    "year": 2021,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Nícolas Goulart de Moura",
+    "olympiadId": "ieo",
+    "year": 2022,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Sebastião Fróes Nachtergaele Gomes Navarro",
+    "olympiadId": "ieo",
+    "year": 2022,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Cauê Fornielles da Costa",
+    "olympiadId": "ieo",
+    "year": 2022,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Mirella Diniz Wunderlich",
+    "olympiadId": "ieo",
+    "year": 2022,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Daniel Ferracini Colli",
+    "olympiadId": "ieo",
+    "year": 2022,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Lucas Monteiro Rivelli",
+    "olympiadId": "ieo",
+    "year": 2023,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Pedro Porto de Carvalho Nunes",
+    "olympiadId": "ieo",
+    "year": 2023,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Leonardo Zanetti Souza",
+    "olympiadId": "ieo",
+    "year": 2023,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Luiz Filipe Peres Mendes",
+    "olympiadId": "ieo",
+    "year": 2023,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Renato Timoteo Wanderley",
+    "olympiadId": "ieo",
+    "year": 2023,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Frederico Schmaltz de Rezende Ribeiro",
+    "olympiadId": "ieo",
+    "year": 2024,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Lucas Monteiro Rivelli",
+    "olympiadId": "ieo",
+    "year": 2024,
+    "medal": "gold"
+  },
+  {
+    "rawName": "João Vitor de Castro Carvalho",
+    "olympiadId": "ieo",
+    "year": 2024,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Antonio Gama Lima",
+    "olympiadId": "ieo",
+    "year": 2024,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Manuela Miranda Buesa",
+    "olympiadId": "ieo",
+    "year": 2024,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Lucas Monteiro Rivelli",
+    "olympiadId": "ieo",
+    "year": 2025,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Antonio Gama Lima",
+    "olympiadId": "ieo",
+    "year": 2025,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Fernando Giron Paranhos de Ávila",
+    "olympiadId": "ieo",
+    "year": 2025,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Maria Clara Ribeiro Teixeira de Souza",
+    "olympiadId": "ieo",
+    "year": 2025,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Marina Cintra Luiz",
+    "olympiadId": "ieo",
+    "year": 2025,
+    "medal": null
+  },
+  {
+    "rawName": "Arthur Alencar Spuri",
+    "olympiadId": "ieo",
+    "year": 2026,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Artur Teixeira",
+    "olympiadId": "ieo",
+    "year": 2026,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Enzo Tavares",
+    "olympiadId": "ieo",
+    "year": 2026,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Luiza Araújo",
+    "olympiadId": "ieo",
+    "year": 2026,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Pedro Paraguassú Câmara",
+    "olympiadId": "ieo",
+    "year": 2026,
+    "medal": null
+  }
+]

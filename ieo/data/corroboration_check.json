@@ -1,0 +1,337 @@
+{
+  "checkedAt": "2026-09-12T04:08:39+00:00",
+  "summary": {
+    "PASS": 22,
+    "PASS-STATUS": 19
+  },
+  "results": [
+    {
+      "year": 2018,
+      "url": "https://2018.ieo-official.org/results/",
+      "domain": "2018.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Rafael Carlini'"
+    },
+    {
+      "year": 2018,
+      "url": "https://2018.ieo-official.org/the-final-results/",
+      "domain": "2018.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Marcio Akira Imanishi de Moraes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2018,
+      "url": "https://liberdadenews.com.br/educacao/25947-brasil-ficou-com-as-medalhas-de-ouro-e-prata-na-olimpiada-internacional-de-economia",
+      "domain": "liberdadenews.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lasevicius'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obecon.org.br/a-obecon-e-sua-marca-na-trajetoria-de-rafael-carlini/",
+      "domain": "obecon.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Rafael Carlini'"
+    },
+    {
+      "year": 2019,
+      "url": "https://2019.ieo-official.org/results",
+      "domain": "2019.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Guilhermo Cutrim Costa'"
+    },
+    {
+      "year": 2019,
+      "url": "https://files.ecolymp.org/2019/IEO_Results_2019.xlsx",
+      "domain": "files.ecolymp.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2019,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2019,
+      "url": "https://gauchazh.clicrbs.com.br/educacao/noticia/2019/08/comandado-por-tecnicos-gauchos-grupo-do-brasil-leva-1o-lugar-em-olimpiada-internacional-de-economia-cjzkc3ovc04fu01qm0nynvpk4.html",
+      "domain": "gauchazh.clicrbs.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://2020.ieo-official.org/results",
+      "domain": "2020.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Costa Guilhermo Cutrim'"
+    },
+    {
+      "year": 2020,
+      "url": "https://files.ecolymp.org/2020/IEO_Results_2020.xlsx",
+      "domain": "files.ecolymp.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2020/10/estudantes-medalhistas-das-olimpiadas-internacionais-de-economia-e-matematica-sao-recebidos-pelo-presidente-da-republica",
+      "domain": "gov.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2021,
+      "url": "https://2021.ieo-official.org/results",
+      "domain": "2021.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ayres de Camargo'"
+    },
+    {
+      "year": 2021,
+      "url": "https://files.ecolymp.org/2021/IEO_Results_2021.xlsx",
+      "domain": "files.ecolymp.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2021,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=brasil-e-tricampeao-consecutivo-na-olimpiada-internacional-de-economia-ieo-2",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Nachtergaele'"
+    },
+    {
+      "year": 2022,
+      "url": "https://2022.ieo-official.org/results",
+      "domain": "2022.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fornielles'"
+    },
+    {
+      "year": 2022,
+      "url": "https://files.ecolymp.org/2022/IEO_Results_2022.xlsx",
+      "domain": "files.ecolymp.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obecon.org.br/mirella-da-obecon-a-notre-dame/",
+      "domain": "obecon.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mirella Diniz Wunderlich'"
+    },
+    {
+      "year": 2023,
+      "url": "https://2023.ieo-official.org/results",
+      "domain": "2023.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Zanetti'"
+    },
+    {
+      "year": 2023,
+      "url": "https://files.ecolymp.org/2023/IEO_Results_2023.xlsx",
+      "domain": "files.ecolymp.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obecon.org.br/na-grecia-o-tao-aguardado-tetracampeonato/",
+      "domain": "obecon.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Renato Timoteo Wanderley'"
+    },
+    {
+      "year": 2024,
+      "url": "https://2024.ieo-official.org/results",
+      "domain": "2024.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Schmaltz'"
+    },
+    {
+      "year": 2024,
+      "url": "http://files.ieo-official.org/2024/IEO_2024_Results.xlsx",
+      "domain": "files.ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://exame.com/carreira/olimpiada-brasileira-de-economia-conheca-os-5-brasileiros-que-irao-participar-da-disputa-mundial/",
+      "domain": "exame.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://2025.ieo-official.org/results",
+      "domain": "2025.ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Rivelli'"
+    },
+    {
+      "year": 2025,
+      "url": "https://files.ieo-official.org/2025/IEO_2025_Results.xlsx",
+      "domain": "files.ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.bcb.gov.br/conteudo/agendas/Documents/Lista_de_presen%C3%A7a%20OBECON.pdf",
+      "domain": "bcb.gov.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Marina Cintra Luiz'"
+    },
+    {
+      "year": 2025,
+      "url": "https://portal.fgv.br/noticias/retrospectiva-2025-brasil-e-destaque-na-olimpiada-internacional-de-economia-com-premiacoes-historicas",
+      "domain": "portal.fgv.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Antonio Gama'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obecon.org.br/terceira-fase-obecon-2025/",
+      "domain": "obecon.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lucas Monteiro Rivelli'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ieo-official.org/results",
+      "domain": "ieo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Arthur Spuri'"
+    },
+    {
+      "year": 2026,
+      "url": "https://braziljournal.com/brasil-ganha-tres-ouros-na-olimpiada-de-economia-e-tem-maior-nota-da-historia/",
+      "domain": "braziljournal.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Artur Teixeira'"
+    },
+    {
+      "year": 2026,
+      "url": "https://tribunaonline.com.br/brasil/brasileiro-de-16-anos-conquista-recorde-na-olimpiada-internacional-de-economia-316687",
+      "domain": "tribunaonline.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arthur Spuri'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.radarurgente.com.br/site/ler/brasileiro-de-16-anos-e-o-primeiro-sul-americano-a-vencer-olimpiada-internacional-de-economia-/34872",
+      "domain": "radarurgente.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Spuri'"
+    },
+    {
+      "year": 2026,
+      "url": "https://pt.linkedin.com/posts/btgpactual_btgpactual-bancobtgpactual-obecon-activity-7447645060394835968-GJaB",
+      "domain": "linkedin.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiza Ara'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.instagram.com/p/DbL-mKDq6A4/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    }
+  ]
+}
