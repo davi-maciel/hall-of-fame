@@ -1,0 +1,1343 @@
+{
+  "olympiadId": "oim",
+  "description": "Sources confirming Brazilian OIM contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "(none online - OEI's historical OIM site is offline)",
+    "primary": "OBM (national organizer) all-years results table and news; olimpiadascientificas.org mirror; NOIC; IMPA.",
+    "archive": "Wayback snapshots of OBM's former site (1985-2016 team pages)."
+  },
+  "globalNotes": [
+    "Teams of up to four (under 18, at most two participations). OBM's all-years results table is the naming source for every edition; it lists medals only (no honourable mentions or certificates), and for 1985/1989/1991/1992 fewer than four names - rosters for those years may be partial.",
+    "rawName policy: OBM table forms with initials expanded from the archived OBM page, OLC and the IMO dataset (most-complete documented form); spellings aligned to the IMO dataset where the student is already there (~70 of 113 also appear in imo/).",
+    "medal null occurs once: Carlos Gustavo Tamm de Araújo Moreira 1990, hors concours (medalStatus).",
+    "Not added: 41st OIM 2026 (Buenos Aires) - team announced 2026-08-14, event not yet held on 2026-09-09."
+  ],
+  "years": [
+    {
+      "year": 1985,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "medalists only (2 named; delegation size undetermined)",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Teixeira"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "medalists only (2 named; delegation size undetermined)",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Teixeira"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "medalists only (2 named; delegation size undetermined)",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Teixeira"
+        }
+      ],
+      "note": "Debut. Only two names survive (gold + silver); whether Brazil sent fewer than four students or the others were never recorded is undetermined - same for 1989, 1991, 1992. No official per-name OIM database exists online (OEI's historical site is gone; Wayback only)."
+    },
+    {
+      "year": 1987,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Fritz Braga"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Fritz Braga"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Fritz Braga"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Adami"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Adami"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Adami"
+        }
+      ],
+      "note": "OBM table 'Jun Takamura' / 'Song San Woei' vs archived OBM + OLC 'Jun Takakura' / 'Sog San Woei'; the IMO 1988 official roster has Takakura and Song -> Takakura, Song."
+    },
+    {
+      "year": 1989,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "medalists only (2 named)",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Carvalho Torres"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "medalists only (2 named)",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Carvalho Torres"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "medalists only (2 named)",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Carvalho Torres"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Meggiolaro"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Meggiolaro"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Meggiolaro"
+        }
+      ],
+      "note": "Current OBM table gives Carlos Gustavo T. de A. Moreira 'Ouro' and omits the fourth student; the archived OBM page and OLC (older 4-row version) have him as '1o. Prêmio (Hors Concours)' and Luciano Guimarães de Castro gold. Archived version used: medalStatus hors-concours, Luciano written as the IMO 1990 form 'Luciano Guimarães Monteiro de Castro'. Gugu's full name from OBM's 2014/2018 posts (team leader)."
+    },
+    {
+      "year": 1991,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "medalists only (2 named)",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Laber"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "medalists only (2 named)",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Laber"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "medalists only (2 named)",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Laber"
+        }
+      ],
+      "note": "'Eduardo Laber' = IMO 1991 'Eduardo Sany Laber'."
+    },
+    {
+      "year": 1992,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "medalists only (3 named)",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Tengan"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "medalists only (3 named)",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Tengan"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "medalists only (3 named)",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Tengan"
+        }
+      ],
+      "note": "'Renato Caldas Madeira' (table) / 'Renato Caldas' (archived) = IMO 1992 'Renato de O. Caldas Madeira' (site alias)."
+    },
+    {
+      "year": 1993,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Penharrubia"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Penharrubia"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Penharrubia"
+        }
+      ],
+      "note": "'Reynaldo' (table) vs 'Reinaldo' Penharrubia Fagundes (archived, OLC, IMO 1993-94) -> Reinaldo; 'Paulo José B.' = Bonfim (IMO)."
+    },
+    {
+      "year": 1994,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Cancherini"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Cancherini"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Cancherini"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Cordeiro de Melo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Cordeiro de Melo"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1985-1995 teams + medals",
+          "needle": "Cordeiro de Melo"
+        }
+      ],
+      "note": "'André Luiz' (OBM) vs 'André Luís' de Souza Neves (IMO) - IMO form kept; 'Fernando A.' = Antonio (archived)."
+    },
+    {
+      "year": 1996,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Arroyo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Arroyo"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Arroyo"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Vajapeyam"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Vajapeyam"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Vajapeyam"
+        }
+      ],
+      "note": "'Vajapeyam' (OBM 1997, Cono Sur table, archived) / 'Vajapejam' (OBM 1998) / 'Vajapeyan' (IMO DB) -> Vajapeyam (site alias for the IMO form). 'Emanuel Carneiro' = Emanuel Augusto de Souza Carneiro (Cono Sur 1996 table)."
+    },
+    {
+      "year": 1998,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Catae"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Catae"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Catae"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Iveson"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Iveson"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Iveson"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Nobuo Uno"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Nobuo Uno"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Nobuo Uno"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Sobreira"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Sobreira"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Sobreira"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Naves"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Naves"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Naves"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Feitosa"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Feitosa"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Feitosa"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Hirama"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Hirama"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Hirama"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Hoshina"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Hoshina"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Hoshina"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Linhares Rodrigues"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Linhares Rodrigues"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Linhares Rodrigues"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Pondé"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Pondé"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Pondé"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Finder"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Finder"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Finder"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Lopes Pedroso"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Lopes Pedroso"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Lopes Pedroso"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Empinotti"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Empinotti"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Empinotti"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Camelo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Camelo"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Camelo"
+        }
+      ],
+      "note": "'Henrique G.' = Gasparini (IMO/APMO)."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Miyazaki"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Oliveira Reis"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1985-2013",
+          "needle": "Oliveira Reis"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Oliveira Reis"
+        }
+      ],
+      "note": "'Franco M. de Alencar Severo' / 2012 'Franco Matheus Alencar Severo' -> Franco Matheus de Alencar Severo (IMO form)."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://www.obm.org.br/2014/09/26/estudante-brasileiro-fica-com-a-primeira-colocacao-na-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, cities, points, medals; leaders",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/brasil-em-primeiro-na-ibero-americana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names, points, medals",
+          "needle": "Zanarella"
+        }
+      ],
+      "note": "Ana Karoline Borges Carneiro (silver) later led the EGMO 2017 and 2020 teams. Zanarella = individual winner (42/42)."
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Vercelli"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 1996-2015 teams + medals",
+          "needle": "Vercelli"
+        },
+        {
+          "url": "https://noic.com.br/matematica/ouro-e-mais-tres-medalhas-para-o-brasil-na-olimpiada-iberoamericana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Sacramento"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Jhen Shan"
+        },
+        {
+          "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/olimp_iberoamericana.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 2016 team, cities, medals, leaders",
+          "needle": "Jhen Shan"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/brasil-conquista-tres-ouros-na-olimpiada-iberoamericana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals (two 'ouro 42')",
+          "needle": "Campos Vargas"
+        }
+      ],
+      "note": "'Pedro H.' = Henrique. Two 'ouro 42' (perfect scores): Campos Vargas, Sacramento de Oliveira."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Hisatsuga"
+        },
+        {
+          "url": "https://www.obm.org.br/2017/09/26/com-quatro-medalhas-brasil-fica-em-2o-na-ibero-americana/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, cities, medals; 2nd place",
+          "needle": "Meinhart"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/dois-ouros-e-dois-pratas-para-o-brasil-na-ibero-americana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms) + medals",
+          "needle": "Tarcísio Teixeira"
+        },
+        {
+          "url": "https://impa.br/notices/com-quatro-medalhas-brasil-fica-em-segundo-na-ibero-americana/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names, cities, medals)",
+          "needle": "Meinhart"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://www.obm.org.br/2018/09/28/duas-medalhas-de-ouro-e-duas-de-prata-para-brasil-na-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; leaders",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://noic.com.br/matematica/saiu-o-resultado-da-ibero-americana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Sponchiado"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Prieto"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/09/19/equipe-brasileira-traz-tres-ouros-e-uma-prata-da-ibero-americana-realizada-no-mexico/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, cities, points, medals; leaders",
+          "needle": "Prieto"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/o-brasil-conquista-2o-lugar-geral-na-ibero-americana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Trevizan"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-tres-ouros-e-uma-prata-na-ibero-americana/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names, cities, points)",
+          "needle": "Prieto"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Zeus"
+        },
+        {
+          "url": "https://www.obm.org.br/2020/11/30/brasil-conquista-quatro-medalhas-na-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "results published as an image (no names in text)",
+          "confirms": "OBM news: 1G/2S/1B, virtual edition (Peru host)"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/confira-os-resultados-do-brasil-na-iberoamericana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Carvalho Barros"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Machado Lage"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/10/23/brasil-conquista-tres-ouros-e-uma-prata-na-36a-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, cities, points, medals; leaders",
+          "needle": "Machado Lage"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Torkomian"
+        },
+        {
+          "url": "https://www.obm.org.br/2022/10/01/ibero-2022-brasil-conquista-uma-medalha-de-ouro-e-tres-de-prata/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results table; 2nd place",
+          "needle": "Torkomian"
+        }
+      ],
+      "note": "'Gabriel Cruz Vitale Torkomian' = IMO-DB 'Gabriel Torkomian' (OBM IMO 2022 team post) - site alias."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Giglio"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/09/12/brasil-e-campeao-na-38a-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; leaders; team champion",
+          "needle": "Giglio"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-olimpiada-ibero-americana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Giglio"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Bandeira Lemos"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/09/25/brasil-brilha-na-39a-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names + medals",
+          "needle": "Bandeira Lemos"
+        }
+      ],
+      "note": "OBM table 'Marco Aurélio Nogueira D’ Emidio' -> D'Emidio; OBM post 'Castelo Branco' -> Castello (IMO/APMO)."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Feltran"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/09/28/brasil-e-campeao-na-olimpiada-ibero-americana-de-matematica-no-chile/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; leaders; team champion",
+          "needle": "Feltran"
+        }
+      ],
+      "note": "40th edition, Temuco; Brazil champion (3G+1S). Bruno Machado Feltran = the ipho/eupho/ijso/apmo contestant (São Paulo, OBM awardee)."
+    }
+  ]
+}

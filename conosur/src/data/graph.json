@@ -1,0 +1,2865 @@
+{
+  "students": {
+    "davi-lima-maia": {
+      "id": "davi-lima-maia",
+      "name": "Davi Lima Maia",
+      "searchKey": "davi lima maia",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "davi-lobo-fernandes": {
+      "id": "davi-lobo-fernandes",
+      "name": "Davi Lobo Fernandes",
+      "searchKey": "davi lobo fernandes",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-victor-benicio-candido": {
+      "id": "joao-victor-benicio-candido",
+      "name": "João Victor Benício Cândido",
+      "searchKey": "joao victor benicio candido",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "vinicius-martins-ribeiro": {
+      "id": "vinicius-martins-ribeiro",
+      "name": "Vinicius Martins Ribeiro",
+      "searchKey": "vinicius martins ribeiro",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "jose-elias-padovan-britto": {
+      "id": "jose-elias-padovan-britto",
+      "name": "José Elias Padovan Britto",
+      "searchKey": "jose elias padovan britto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "joao-pedro-de-almeida-da-silva": {
+      "id": "joao-pedro-de-almeida-da-silva",
+      "name": "João Pedro de Almeida da Silva",
+      "searchKey": "joao pedro de almeida da silva",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "maria-clara-fontes-silva": {
+      "id": "maria-clara-fontes-silva",
+      "name": "Maria Clara Fontes Silva",
+      "searchKey": "maria clara fontes silva",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-alves-amiune": {
+      "id": "rafael-alves-amiune",
+      "name": "Rafael Alves Amiune",
+      "searchKey": "rafael alves amiune",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "bruno-machado-feltran": {
+      "id": "bruno-machado-feltran",
+      "name": "Bruno Machado Feltran",
+      "searchKey": "bruno machado feltran",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "enzo-holanda-sampaio": {
+      "id": "enzo-holanda-sampaio",
+      "name": "Enzo Holanda Sampaio",
+      "searchKey": "enzo holanda sampaio",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "erick-akira-koga": {
+      "id": "erick-akira-koga",
+      "name": "Erick Akira Koga",
+      "searchKey": "erick akira koga",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "fabio-medeiros-ferraz-de-campos": {
+      "id": "fabio-medeiros-ferraz-de-campos",
+      "name": "Fábio Medeiros Ferraz de Campos",
+      "searchKey": "fabio medeiros ferraz de campos",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2023,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "joao-victor-silva-dos-santos": {
+      "id": "joao-victor-silva-dos-santos",
+      "name": "João Victor Silva dos Santos",
+      "searchKey": "joao victor silva dos santos",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "levi-magalhaes-pereira-castello-branco": {
+      "id": "levi-magalhaes-pereira-castello-branco",
+      "name": "Levi Magalhães Pereira Castello Branco",
+      "searchKey": "levi magalhaes pereira castello branco",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "rodrigo-fontenele-de-oliveira-linhares": {
+      "id": "rodrigo-fontenele-de-oliveira-linhares",
+      "name": "Rodrigo Fontenele de Oliveira Linhares",
+      "searchKey": "rodrigo fontenele de oliveira linhares",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gabriel-bastos-vasconcelos-duarte": {
+      "id": "gabriel-bastos-vasconcelos-duarte",
+      "name": "Gabriel Bastos Vasconcelos Duarte",
+      "searchKey": "gabriel bastos vasconcelos duarte",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2022,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-pedro-bandeira-lemos": {
+      "id": "joao-pedro-bandeira-lemos",
+      "name": "João Pedro Bandeira Lemos",
+      "searchKey": "joao pedro bandeira lemos",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2022,
+          "medal": "silver"
+        }
+      ]
+    },
+    "leonardo-henrique-fakhreddine-maldonado": {
+      "id": "leonardo-henrique-fakhreddine-maldonado",
+      "name": "Leonardo Henrique Fakhreddine Maldonado",
+      "searchKey": "leonardo henrique fakhreddine maldonado",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "matheus-alencar-de-moraes": {
+      "id": "matheus-alencar-de-moraes",
+      "name": "Matheus Alencar de Moraes",
+      "searchKey": "matheus alencar de moraes",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2021,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gabriel-seares-dellaroli": {
+      "id": "gabriel-seares-dellaroli",
+      "name": "Gabriel Seares Dellaroli",
+      "searchKey": "gabriel seares dellaroli",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-arthur-marques-linhares": {
+      "id": "joao-arthur-marques-linhares",
+      "name": "João Arthur Marques Linhares",
+      "searchKey": "joao arthur marques linhares",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "luis-felipe-pestana-giglio": {
+      "id": "luis-felipe-pestana-giglio",
+      "name": "Luís Felipe Pestana Giglio",
+      "searchKey": "luis felipe pestana giglio",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gustavo-neves-da-cruz": {
+      "id": "gustavo-neves-da-cruz",
+      "name": "Gustavo Neves da Cruz",
+      "searchKey": "gustavo neves da cruz",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2019,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "olavo-paschoal-longo": {
+      "id": "olavo-paschoal-longo",
+      "name": "Olavo Paschoal Longo",
+      "searchKey": "olavo paschoal longo",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2019,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rodrigo-salgado-domingos-porto": {
+      "id": "rodrigo-salgado-domingos-porto",
+      "name": "Rodrigo Salgado Domingos Porto",
+      "searchKey": "rodrigo salgado domingos porto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "yvens-ian-prado-porto": {
+      "id": "yvens-ian-prado-porto",
+      "name": "Yvens Ian Prado Porto",
+      "searchKey": "yvens ian prado porto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "enzo-pontes-saraiva-de-moraes": {
+      "id": "enzo-pontes-saraiva-de-moraes",
+      "name": "Enzo Pontes Saraiva de Moraes",
+      "searchKey": "enzo pontes saraiva de moraes",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2018,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "marcelo-machado-lage": {
+      "id": "marcelo-machado-lage",
+      "name": "Marcelo Machado Lage",
+      "searchKey": "marcelo machado lage",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gabriel-ribeiro-paiva": {
+      "id": "gabriel-ribeiro-paiva",
+      "name": "Gabriel Ribeiro Paiva",
+      "searchKey": "gabriel ribeiro paiva",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2018,
+          "medal": "silver"
+        }
+      ]
+    },
+    "pablo-andrade-carvalho-barros": {
+      "id": "pablo-andrade-carvalho-barros",
+      "name": "Pablo Andrade Carvalho Barros",
+      "searchKey": "pablo andrade carvalho barros",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2018,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-gomes-cabral": {
+      "id": "pedro-gomes-cabral",
+      "name": "Pedro Gomes Cabral",
+      "searchKey": "pedro gomes cabral",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bernardo-peruzzo-trevizan": {
+      "id": "bernardo-peruzzo-trevizan",
+      "name": "Bernardo Peruzzo Trevizan",
+      "searchKey": "bernardo peruzzo trevizan",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bruno-barros-de-sousa": {
+      "id": "bruno-barros-de-sousa",
+      "name": "Bruno Barros de Sousa",
+      "searchKey": "bruno barros de sousa",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "marcelo-hippolyto-de-sandes-peixoto": {
+      "id": "marcelo-hippolyto-de-sandes-peixoto",
+      "name": "Marcelo Hippólyto de Sandes Peixoto",
+      "searchKey": "marcelo hippolyto de sandes peixoto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2017,
+          "medal": "silver"
+        }
+      ]
+    },
+    "mariana-bigolin-groff": {
+      "id": "mariana-bigolin-groff",
+      "name": "Mariana Bigolin Groff",
+      "searchKey": "mariana bigolin groff",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2017,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "andrey-jhen-shan-chen": {
+      "id": "andrey-jhen-shan-chen",
+      "name": "Andrey Jhen Shan Chen",
+      "searchKey": "andrey jhen shan chen",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2014,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "guilherme-goulart-kowalczuk": {
+      "id": "guilherme-goulart-kowalczuk",
+      "name": "Guilherme Goulart Kowalczuk",
+      "searchKey": "guilherme goulart kowalczuk",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2015,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "mateus-siqueira-thimoteo": {
+      "id": "mateus-siqueira-thimoteo",
+      "name": "Mateus Siqueira Thimóteo",
+      "searchKey": "mateus siqueira thimoteo",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-lucas-lanaro-sponchiado": {
+      "id": "pedro-lucas-lanaro-sponchiado",
+      "name": "Pedro Lucas Lanaro Sponchiado",
+      "searchKey": "pedro lucas lanaro sponchiado",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "andre-yuji-hisatsuga": {
+      "id": "andre-yuji-hisatsuga",
+      "name": "André Yuji Hisatsuga",
+      "searchKey": "andre yuji hisatsuga",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "pedro-henrique-sacramento-de-oliveira": {
+      "id": "pedro-henrique-sacramento-de-oliveira",
+      "name": "Pedro Henrique Sacramento de Oliveira",
+      "searchKey": "pedro henrique sacramento de oliveira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2013,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2014,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2015,
+          "medal": "gold"
+        }
+      ]
+    },
+    "vitor-augusto-carneiro-porto": {
+      "id": "vitor-augusto-carneiro-porto",
+      "name": "Vitor Augusto Carneiro Porto",
+      "searchKey": "vitor augusto carneiro porto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gabriel-toneatti-vercelli": {
+      "id": "gabriel-toneatti-vercelli",
+      "name": "Gabriel Toneatti Vercelli",
+      "searchKey": "gabriel toneatti vercelli",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2014,
+          "medal": "gold"
+        }
+      ]
+    },
+    "joao-cesar-campos-vargas": {
+      "id": "joao-cesar-campos-vargas",
+      "name": "João César Campos Vargas",
+      "searchKey": "joao cesar campos vargas",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2014,
+          "medal": "silver"
+        }
+      ]
+    },
+    "daniel-santana-rocha": {
+      "id": "daniel-santana-rocha",
+      "name": "Daniel Santana Rocha",
+      "searchKey": "daniel santana rocha",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2013,
+          "medal": "silver"
+        }
+      ]
+    },
+    "murilo-corato-zanarella": {
+      "id": "murilo-corato-zanarella",
+      "name": "Murilo Corato Zanarella",
+      "searchKey": "murilo corato zanarella",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2013,
+          "medal": "gold"
+        }
+      ]
+    },
+    "victor-oliveira-reis": {
+      "id": "victor-oliveira-reis",
+      "name": "Victor Oliveira Reis",
+      "searchKey": "victor oliveira reis",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2013,
+          "medal": "gold"
+        }
+      ]
+    },
+    "henrique-gasparini-fiuza-do-nascimento": {
+      "id": "henrique-gasparini-fiuza-do-nascimento",
+      "name": "Henrique Gasparini Fiúza do Nascimento",
+      "searchKey": "henrique gasparini fiuza do nascimento",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2011,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-rodrigues-rocha-de-melo": {
+      "id": "rafael-rodrigues-rocha-de-melo",
+      "name": "Rafael Rodrigues Rocha de Melo",
+      "searchKey": "rafael rodrigues rocha de melo",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2011,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rodrigo-sanches-angelo": {
+      "id": "rodrigo-sanches-angelo",
+      "name": "Rodrigo Sanches Angelo",
+      "searchKey": "rodrigo sanches angelo",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2012,
+          "medal": "gold"
+        }
+      ]
+    },
+    "tadeu-pires-de-matos-belfort-neto": {
+      "id": "tadeu-pires-de-matos-belfort-neto",
+      "name": "Tadeu Pires de Matos Belfort Neto",
+      "searchKey": "tadeu pires de matos belfort neto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2012,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rafael-kazuhiro-miyazaki": {
+      "id": "rafael-kazuhiro-miyazaki",
+      "name": "Rafael Kazuhiro Miyazaki",
+      "searchKey": "rafael kazuhiro miyazaki",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2011,
+          "medal": "silver"
+        }
+      ]
+    },
+    "vinicius-canto-costa": {
+      "id": "vinicius-canto-costa",
+      "name": "Vinícius Canto Costa",
+      "searchKey": "vinicius canto costa",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2011,
+          "medal": "silver"
+        }
+      ]
+    },
+    "caique-porto-lira": {
+      "id": "caique-porto-lira",
+      "name": "Caíque Porto Lira",
+      "searchKey": "caique porto lira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2010,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriel-militao-vinhas-lopes": {
+      "id": "gabriel-militao-vinhas-lopes",
+      "name": "Gabriel Militão Vinhas Lopes",
+      "searchKey": "gabriel militao vinhas lopes",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2009,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2010,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-lucas-camelo-sa": {
+      "id": "joao-lucas-camelo-sa",
+      "name": "João Lucas Camelo Sá",
+      "searchKey": "joao lucas camelo sa",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2010,
+          "medal": "gold"
+        }
+      ]
+    },
+    "maria-clara-mendes-silva": {
+      "id": "maria-clara-mendes-silva",
+      "name": "Maria Clara Mendes Silva",
+      "searchKey": "maria clara mendes silva",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2010,
+          "medal": "silver"
+        }
+      ]
+    },
+    "deborah-barbosa-alves": {
+      "id": "deborah-barbosa-alves",
+      "name": "Deborah Barbosa Alves",
+      "searchKey": "deborah barbosa alves",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2009,
+          "medal": "silver"
+        }
+      ]
+    },
+    "matheus-barros-de-paula": {
+      "id": "matheus-barros-de-paula",
+      "name": "Matheus Barros de Paula",
+      "searchKey": "matheus barros de paula",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2009,
+          "medal": "silver"
+        }
+      ]
+    },
+    "matheus-secco-torres-da-silva": {
+      "id": "matheus-secco-torres-da-silva",
+      "name": "Matheus Secco Torres da Silva",
+      "searchKey": "matheus secco torres da silva",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2008,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2009,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gustavo-lisboa-empinotti": {
+      "id": "gustavo-lisboa-empinotti",
+      "name": "Gustavo Lisbôa Empinotti",
+      "searchKey": "gustavo lisboa empinotti",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2008,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "marcelo-tadeu-de-sa-oliveira-sales": {
+      "id": "marcelo-tadeu-de-sa-oliveira-sales",
+      "name": "Marcelo Tadeu de Sá Oliveira Sales",
+      "searchKey": "marcelo tadeu de sa oliveira sales",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2007,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2008,
+          "medal": "silver"
+        }
+      ]
+    },
+    "matheus-araujo-marins": {
+      "id": "matheus-araujo-marins",
+      "name": "Matheus Araújo Marins",
+      "searchKey": "matheus araujo marins",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2008,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "grazielly-muniz-da-cunha": {
+      "id": "grazielly-muniz-da-cunha",
+      "name": "Grazielly Muniz da Cunha",
+      "searchKey": "grazielly muniz da cunha",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2007,
+          "medal": "silver"
+        }
+      ]
+    },
+    "renan-henrique-finder": {
+      "id": "renan-henrique-finder",
+      "name": "Renan Henrique Finder",
+      "searchKey": "renan henrique finder",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2007,
+          "medal": "gold"
+        }
+      ]
+    },
+    "thiago-ribeiro-ramos": {
+      "id": "thiago-ribeiro-ramos",
+      "name": "Thiago Ribeiro Ramos",
+      "searchKey": "thiago ribeiro ramos",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2007,
+          "medal": "silver"
+        }
+      ]
+    },
+    "henrique-ponde-de-oliveira-pinto": {
+      "id": "henrique-ponde-de-oliveira-pinto",
+      "name": "Henrique Pondé de Oliveira Pinto",
+      "searchKey": "henrique ponde de oliveira pinto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2005,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2006,
+          "medal": "gold"
+        }
+      ]
+    },
+    "rafael-tupynamba-dutra": {
+      "id": "rafael-tupynamba-dutra",
+      "name": "Rafael Tupynambá Dutra",
+      "searchKey": "rafael tupynamba dutra",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2005,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2006,
+          "medal": "silver"
+        }
+      ]
+    },
+    "ramon-moreira-nunes": {
+      "id": "ramon-moreira-nunes",
+      "name": "Ramon Moreira Nunes",
+      "searchKey": "ramon moreira nunes",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2006,
+          "medal": "silver"
+        }
+      ]
+    },
+    "regis-prado-barbosa": {
+      "id": "regis-prado-barbosa",
+      "name": "Régis Prado Barbosa",
+      "searchKey": "regis prado barbosa",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2006,
+          "medal": "silver"
+        }
+      ]
+    },
+    "edson-augusto-bezerra-lopes": {
+      "id": "edson-augusto-bezerra-lopes",
+      "name": "Edson Augusto Bezerra Lopes",
+      "searchKey": "edson augusto bezerra lopes",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2005,
+          "medal": "silver"
+        }
+      ]
+    },
+    "guilherme-rodrigues-nogueira-de-souza": {
+      "id": "guilherme-rodrigues-nogueira-de-souza",
+      "name": "Guilherme Rodrigues Nogueira de Souza",
+      "searchKey": "guilherme rodrigues nogueira de souza",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2005,
+          "medal": "gold"
+        }
+      ]
+    },
+    "andre-linhares-rodrigues": {
+      "id": "andre-linhares-rodrigues",
+      "name": "André Linhares Rodrigues",
+      "searchKey": "andre linhares rodrigues",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriel-tavares-bujokas": {
+      "id": "gabriel-tavares-bujokas",
+      "name": "Gabriel Tavares Bujokas",
+      "searchKey": "gabriel tavares bujokas",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2004,
+          "medal": "gold"
+        }
+      ]
+    },
+    "leandro-farias-maia": {
+      "id": "leandro-farias-maia",
+      "name": "Leandro Farias Maia",
+      "searchKey": "leandro farias maia",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2004,
+          "medal": "silver"
+        }
+      ]
+    },
+    "telmo-luis-correa-junior": {
+      "id": "telmo-luis-correa-junior",
+      "name": "Telmo Luis Correa Júnior",
+      "searchKey": "telmo luis correa junior",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "fabio-dias-moreira": {
+      "id": "fabio-dias-moreira",
+      "name": "Fábio Dias Moreira",
+      "searchKey": "fabio dias moreira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2003,
+          "medal": "silver"
+        }
+      ]
+    },
+    "henry-wei-cheng-hsu": {
+      "id": "henry-wei-cheng-hsu",
+      "name": "Henry Wei Cheng Hsu",
+      "searchKey": "henry wei cheng hsu",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2003,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rodrigo-aguiar-pinheiro": {
+      "id": "rodrigo-aguiar-pinheiro",
+      "name": "Rodrigo Aguiar Pinheiro",
+      "searchKey": "rodrigo aguiar pinheiro",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2003,
+          "medal": "gold"
+        }
+      ]
+    },
+    "thiago-costa-leite-santos": {
+      "id": "thiago-costa-leite-santos",
+      "name": "Thiago Costa Leite Santos",
+      "searchKey": "thiago costa leite santos",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2003,
+          "medal": "silver"
+        }
+      ]
+    },
+    "alex-correa-abreu": {
+      "id": "alex-correa-abreu",
+      "name": "Alex Corrêa Abreu",
+      "searchKey": "alex correa abreu",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2002,
+          "medal": "gold"
+        }
+      ]
+    },
+    "israel-franklin-dourado-carrah": {
+      "id": "israel-franklin-dourado-carrah",
+      "name": "Israel Franklin Dourado Carrah",
+      "searchKey": "israel franklin dourado carrah",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2002,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "larissa-cavalcante-queiroz-de-lima": {
+      "id": "larissa-cavalcante-queiroz-de-lima",
+      "name": "Larissa Cavalcante Queiroz de Lima",
+      "searchKey": "larissa cavalcante queiroz de lima",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2000,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2001,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2002,
+          "medal": "gold"
+        }
+      ]
+    },
+    "rafael-daigo-hirama": {
+      "id": "rafael-daigo-hirama",
+      "name": "Rafael Daigo Hirama",
+      "searchKey": "rafael daigo hirama",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2001,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2002,
+          "medal": "gold"
+        }
+      ]
+    },
+    "einstein-do-nascimento-jr": {
+      "id": "einstein-do-nascimento-jr",
+      "name": "Einstein do Nascimento Jr.",
+      "searchKey": "einstein do nascimento jr.",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2001,
+          "medal": null
+        }
+      ]
+    },
+    "guilherme-issao-camarinha-fujiwara": {
+      "id": "guilherme-issao-camarinha-fujiwara",
+      "name": "Guilherme Issao Camarinha Fujiwara",
+      "searchKey": "guilherme issao camarinha fujiwara",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2001,
+          "medal": "silver"
+        }
+      ]
+    },
+    "carlos-stein-naves-de-brito": {
+      "id": "carlos-stein-naves-de-brito",
+      "name": "Carlos Stein Naves de Brito",
+      "searchKey": "carlos stein naves de brito",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2000,
+          "medal": "silver"
+        }
+      ]
+    },
+    "davi-maximo-alexandrino-nogueira": {
+      "id": "davi-maximo-alexandrino-nogueira",
+      "name": "Davi Máximo Alexandrino Nogueira",
+      "searchKey": "davi maximo alexandrino nogueira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 2000,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "humberto-silva-naves": {
+      "id": "humberto-silva-naves",
+      "name": "Humberto Silva Naves",
+      "searchKey": "humberto silva naves",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1999,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 2000,
+          "medal": "gold"
+        }
+      ]
+    },
+    "daniel-massaki-yamamoto": {
+      "id": "daniel-massaki-yamamoto",
+      "name": "Daniel Massaki Yamamoto",
+      "searchKey": "daniel massaki yamamoto",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1999,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "daniel-pinheiro-sobreira": {
+      "id": "daniel-pinheiro-sobreira",
+      "name": "Daniel Pinheiro Sobreira",
+      "searchKey": "daniel pinheiro sobreira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1999,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "fabricio-siqueira-benevides": {
+      "id": "fabricio-siqueira-benevides",
+      "name": "Fabrício Siqueira Benevides",
+      "searchKey": "fabricio siqueira benevides",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1998,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 1999,
+          "medal": "silver"
+        }
+      ]
+    },
+    "jonathas-diogenes-castello-branco": {
+      "id": "jonathas-diogenes-castello-branco",
+      "name": "Jônathas Diógenes Castello Branco",
+      "searchKey": "jonathas diogenes castello branco",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1998,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "mila-lopes-viana": {
+      "id": "mila-lopes-viana",
+      "name": "Mila Lopes Viana",
+      "searchKey": "mila lopes viana",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1998,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-paulo-de-simoni-gouveia": {
+      "id": "pedro-paulo-de-simoni-gouveia",
+      "name": "Pedro Paulo de Simoni Gouveia",
+      "searchKey": "pedro paulo de simoni gouveia",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1998,
+          "medal": "silver"
+        }
+      ]
+    },
+    "christian-iveson": {
+      "id": "christian-iveson",
+      "name": "Christian Iveson",
+      "searchKey": "christian iveson",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1997,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "danielle-veras-de-andrade": {
+      "id": "danielle-veras-de-andrade",
+      "name": "Danielle Veras de Andrade",
+      "searchKey": "danielle veras de andrade",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1997,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "murali-srinivasan-vajapeyam": {
+      "id": "murali-srinivasan-vajapeyam",
+      "name": "Murali Srinivasan Vajapeyam",
+      "searchKey": "murali srinivasan vajapeyam",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1996,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 1997,
+          "medal": "gold"
+        }
+      ]
+    },
+    "rui-lopes-viana-filho": {
+      "id": "rui-lopes-viana-filho",
+      "name": "Rui Lopes Viana Filho",
+      "searchKey": "rui lopes viana filho",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1996,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 1997,
+          "medal": "gold"
+        }
+      ]
+    },
+    "carlos-yuzo-shine": {
+      "id": "carlos-yuzo-shine",
+      "name": "Carlos Yuzo Shine",
+      "searchKey": "carlos yuzo shine",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1996,
+          "medal": "gold"
+        }
+      ]
+    },
+    "emanuel-augusto-de-souza-carneiro": {
+      "id": "emanuel-augusto-de-souza-carneiro",
+      "name": "Emanuel Augusto de Souza Carneiro",
+      "searchKey": "emanuel augusto de souza carneiro",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1996,
+          "medal": "silver"
+        }
+      ]
+    },
+    "artur-avila-cordeiro-de-melo": {
+      "id": "artur-avila-cordeiro-de-melo",
+      "name": "Artur Ávila Cordeiro de Melo",
+      "searchKey": "artur avila cordeiro de melo",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1994,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 1995,
+          "medal": "gold"
+        }
+      ]
+    },
+    "eduardo-cabral-balreira": {
+      "id": "eduardo-cabral-balreira",
+      "name": "Eduardo Cabral Balreira",
+      "searchKey": "eduardo cabral balreira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1994,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 1995,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "jose-aroldo-alves-junior": {
+      "id": "jose-aroldo-alves-junior",
+      "name": "José Aroldo Alves Júnior",
+      "searchKey": "jose aroldo alves junior",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1995,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "vitor-almeida-dos-santos": {
+      "id": "vitor-almeida-dos-santos",
+      "name": "Vitor Almeida dos Santos",
+      "searchKey": "vitor almeida dos santos",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1994,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "conosur",
+          "year": 1995,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "davi-ponciano-araujo-lima": {
+      "id": "davi-ponciano-araujo-lima",
+      "name": "Davi Ponciano Araújo Lima",
+      "searchKey": "davi ponciano araujo lima",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1994,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "anderson-couto-esteves": {
+      "id": "anderson-couto-esteves",
+      "name": "Anderson Couto Esteves",
+      "searchKey": "anderson couto esteves",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1993,
+          "medal": "gold"
+        }
+      ]
+    },
+    "esdras-medeiros": {
+      "id": "esdras-medeiros",
+      "name": "Esdras Medeiros",
+      "searchKey": "esdras medeiros",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1993,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "germano-bezerra": {
+      "id": "germano-bezerra",
+      "name": "Germano Bezerra",
+      "searchKey": "germano bezerra",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1993,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "guilherme-aguiar-allery": {
+      "id": "guilherme-aguiar-allery",
+      "name": "Guilherme Aguiar Allery",
+      "searchKey": "guilherme aguiar allery",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1993,
+          "medal": "silver"
+        }
+      ]
+    },
+    "breno-de-alencar-araripe-falcao": {
+      "id": "breno-de-alencar-araripe-falcao",
+      "name": "Breno de Alencar Araripe Falcão",
+      "searchKey": "breno de alencar araripe falcao",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1992,
+          "medal": null
+        }
+      ]
+    },
+    "jose-carlos-juca-pompeu-filho": {
+      "id": "jose-carlos-juca-pompeu-filho",
+      "name": "José Carlos Jucá Pompeu Filho",
+      "searchKey": "jose carlos juca pompeu filho",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1992,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "marcondes-franca-junior": {
+      "id": "marcondes-franca-junior",
+      "name": "Marcondes França Júnior",
+      "searchKey": "marcondes franca junior",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1992,
+          "medal": null
+        }
+      ]
+    },
+    "paulo-jose-bonfim-gomes-rodrigues": {
+      "id": "paulo-jose-bonfim-gomes-rodrigues",
+      "name": "Paulo José Bonfim Gomes Rodrigues",
+      "searchKey": "paulo jose bonfim gomes rodrigues",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1992,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "albino-feijo": {
+      "id": "albino-feijo",
+      "name": "Albino Feijó",
+      "searchKey": "albino feijo",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1991,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "mauricio-palmeira": {
+      "id": "mauricio-palmeira",
+      "name": "Mauricio Palmeira",
+      "searchKey": "mauricio palmeira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1991,
+          "medal": "silver"
+        }
+      ]
+    },
+    "renato-caldas-madeira": {
+      "id": "renato-caldas-madeira",
+      "name": "Renato Caldas Madeira",
+      "searchKey": "renato caldas madeira",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1991,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rodrigo-onias": {
+      "id": "rodrigo-onias",
+      "name": "Rodrigo Onias",
+      "searchKey": "rodrigo onias",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1991,
+          "medal": null
+        }
+      ]
+    },
+    "raul-bazkhaus": {
+      "id": "raul-bazkhaus",
+      "name": "Raul Bazkhaus",
+      "searchKey": "raul bazkhaus",
+      "participations": [
+        {
+          "olympiad": "conosur",
+          "year": 1988,
+          "medal": "bronze"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "albino-feijo",
+      "target": "mauricio-palmeira",
+      "olympiad": "conosur",
+      "year": 1991
+    },
+    {
+      "source": "albino-feijo",
+      "target": "renato-caldas-madeira",
+      "olympiad": "conosur",
+      "year": 1991
+    },
+    {
+      "source": "albino-feijo",
+      "target": "rodrigo-onias",
+      "olympiad": "conosur",
+      "year": 1991
+    },
+    {
+      "source": "mauricio-palmeira",
+      "target": "renato-caldas-madeira",
+      "olympiad": "conosur",
+      "year": 1991
+    },
+    {
+      "source": "mauricio-palmeira",
+      "target": "rodrigo-onias",
+      "olympiad": "conosur",
+      "year": 1991
+    },
+    {
+      "source": "renato-caldas-madeira",
+      "target": "rodrigo-onias",
+      "olympiad": "conosur",
+      "year": 1991
+    },
+    {
+      "source": "breno-de-alencar-araripe-falcao",
+      "target": "jose-carlos-juca-pompeu-filho",
+      "olympiad": "conosur",
+      "year": 1992
+    },
+    {
+      "source": "breno-de-alencar-araripe-falcao",
+      "target": "marcondes-franca-junior",
+      "olympiad": "conosur",
+      "year": 1992
+    },
+    {
+      "source": "breno-de-alencar-araripe-falcao",
+      "target": "paulo-jose-bonfim-gomes-rodrigues",
+      "olympiad": "conosur",
+      "year": 1992
+    },
+    {
+      "source": "jose-carlos-juca-pompeu-filho",
+      "target": "marcondes-franca-junior",
+      "olympiad": "conosur",
+      "year": 1992
+    },
+    {
+      "source": "jose-carlos-juca-pompeu-filho",
+      "target": "paulo-jose-bonfim-gomes-rodrigues",
+      "olympiad": "conosur",
+      "year": 1992
+    },
+    {
+      "source": "marcondes-franca-junior",
+      "target": "paulo-jose-bonfim-gomes-rodrigues",
+      "olympiad": "conosur",
+      "year": 1992
+    },
+    {
+      "source": "anderson-couto-esteves",
+      "target": "esdras-medeiros",
+      "olympiad": "conosur",
+      "year": 1993
+    },
+    {
+      "source": "anderson-couto-esteves",
+      "target": "germano-bezerra",
+      "olympiad": "conosur",
+      "year": 1993
+    },
+    {
+      "source": "anderson-couto-esteves",
+      "target": "guilherme-aguiar-allery",
+      "olympiad": "conosur",
+      "year": 1993
+    },
+    {
+      "source": "esdras-medeiros",
+      "target": "germano-bezerra",
+      "olympiad": "conosur",
+      "year": 1993
+    },
+    {
+      "source": "esdras-medeiros",
+      "target": "guilherme-aguiar-allery",
+      "olympiad": "conosur",
+      "year": 1993
+    },
+    {
+      "source": "germano-bezerra",
+      "target": "guilherme-aguiar-allery",
+      "olympiad": "conosur",
+      "year": 1993
+    },
+    {
+      "source": "artur-avila-cordeiro-de-melo",
+      "target": "davi-ponciano-araujo-lima",
+      "olympiad": "conosur",
+      "year": 1994
+    },
+    {
+      "source": "artur-avila-cordeiro-de-melo",
+      "target": "eduardo-cabral-balreira",
+      "olympiad": "conosur",
+      "year": 1994
+    },
+    {
+      "source": "artur-avila-cordeiro-de-melo",
+      "target": "vitor-almeida-dos-santos",
+      "olympiad": "conosur",
+      "year": 1994
+    },
+    {
+      "source": "davi-ponciano-araujo-lima",
+      "target": "eduardo-cabral-balreira",
+      "olympiad": "conosur",
+      "year": 1994
+    },
+    {
+      "source": "davi-ponciano-araujo-lima",
+      "target": "vitor-almeida-dos-santos",
+      "olympiad": "conosur",
+      "year": 1994
+    },
+    {
+      "source": "eduardo-cabral-balreira",
+      "target": "vitor-almeida-dos-santos",
+      "olympiad": "conosur",
+      "year": 1994
+    },
+    {
+      "source": "artur-avila-cordeiro-de-melo",
+      "target": "eduardo-cabral-balreira",
+      "olympiad": "conosur",
+      "year": 1995
+    },
+    {
+      "source": "artur-avila-cordeiro-de-melo",
+      "target": "jose-aroldo-alves-junior",
+      "olympiad": "conosur",
+      "year": 1995
+    },
+    {
+      "source": "artur-avila-cordeiro-de-melo",
+      "target": "vitor-almeida-dos-santos",
+      "olympiad": "conosur",
+      "year": 1995
+    },
+    {
+      "source": "eduardo-cabral-balreira",
+      "target": "jose-aroldo-alves-junior",
+      "olympiad": "conosur",
+      "year": 1995
+    },
+    {
+      "source": "eduardo-cabral-balreira",
+      "target": "vitor-almeida-dos-santos",
+      "olympiad": "conosur",
+      "year": 1995
+    },
+    {
+      "source": "jose-aroldo-alves-junior",
+      "target": "vitor-almeida-dos-santos",
+      "olympiad": "conosur",
+      "year": 1995
+    },
+    {
+      "source": "carlos-yuzo-shine",
+      "target": "emanuel-augusto-de-souza-carneiro",
+      "olympiad": "conosur",
+      "year": 1996
+    },
+    {
+      "source": "carlos-yuzo-shine",
+      "target": "murali-srinivasan-vajapeyam",
+      "olympiad": "conosur",
+      "year": 1996
+    },
+    {
+      "source": "carlos-yuzo-shine",
+      "target": "rui-lopes-viana-filho",
+      "olympiad": "conosur",
+      "year": 1996
+    },
+    {
+      "source": "emanuel-augusto-de-souza-carneiro",
+      "target": "murali-srinivasan-vajapeyam",
+      "olympiad": "conosur",
+      "year": 1996
+    },
+    {
+      "source": "emanuel-augusto-de-souza-carneiro",
+      "target": "rui-lopes-viana-filho",
+      "olympiad": "conosur",
+      "year": 1996
+    },
+    {
+      "source": "murali-srinivasan-vajapeyam",
+      "target": "rui-lopes-viana-filho",
+      "olympiad": "conosur",
+      "year": 1996
+    },
+    {
+      "source": "christian-iveson",
+      "target": "danielle-veras-de-andrade",
+      "olympiad": "conosur",
+      "year": 1997
+    },
+    {
+      "source": "christian-iveson",
+      "target": "murali-srinivasan-vajapeyam",
+      "olympiad": "conosur",
+      "year": 1997
+    },
+    {
+      "source": "christian-iveson",
+      "target": "rui-lopes-viana-filho",
+      "olympiad": "conosur",
+      "year": 1997
+    },
+    {
+      "source": "danielle-veras-de-andrade",
+      "target": "murali-srinivasan-vajapeyam",
+      "olympiad": "conosur",
+      "year": 1997
+    },
+    {
+      "source": "danielle-veras-de-andrade",
+      "target": "rui-lopes-viana-filho",
+      "olympiad": "conosur",
+      "year": 1997
+    },
+    {
+      "source": "murali-srinivasan-vajapeyam",
+      "target": "rui-lopes-viana-filho",
+      "olympiad": "conosur",
+      "year": 1997
+    },
+    {
+      "source": "fabricio-siqueira-benevides",
+      "target": "jonathas-diogenes-castello-branco",
+      "olympiad": "conosur",
+      "year": 1998
+    },
+    {
+      "source": "fabricio-siqueira-benevides",
+      "target": "mila-lopes-viana",
+      "olympiad": "conosur",
+      "year": 1998
+    },
+    {
+      "source": "fabricio-siqueira-benevides",
+      "target": "pedro-paulo-de-simoni-gouveia",
+      "olympiad": "conosur",
+      "year": 1998
+    },
+    {
+      "source": "jonathas-diogenes-castello-branco",
+      "target": "mila-lopes-viana",
+      "olympiad": "conosur",
+      "year": 1998
+    },
+    {
+      "source": "jonathas-diogenes-castello-branco",
+      "target": "pedro-paulo-de-simoni-gouveia",
+      "olympiad": "conosur",
+      "year": 1998
+    },
+    {
+      "source": "mila-lopes-viana",
+      "target": "pedro-paulo-de-simoni-gouveia",
+      "olympiad": "conosur",
+      "year": 1998
+    },
+    {
+      "source": "daniel-massaki-yamamoto",
+      "target": "daniel-pinheiro-sobreira",
+      "olympiad": "conosur",
+      "year": 1999
+    },
+    {
+      "source": "daniel-massaki-yamamoto",
+      "target": "fabricio-siqueira-benevides",
+      "olympiad": "conosur",
+      "year": 1999
+    },
+    {
+      "source": "daniel-massaki-yamamoto",
+      "target": "humberto-silva-naves",
+      "olympiad": "conosur",
+      "year": 1999
+    },
+    {
+      "source": "daniel-pinheiro-sobreira",
+      "target": "fabricio-siqueira-benevides",
+      "olympiad": "conosur",
+      "year": 1999
+    },
+    {
+      "source": "daniel-pinheiro-sobreira",
+      "target": "humberto-silva-naves",
+      "olympiad": "conosur",
+      "year": 1999
+    },
+    {
+      "source": "fabricio-siqueira-benevides",
+      "target": "humberto-silva-naves",
+      "olympiad": "conosur",
+      "year": 1999
+    },
+    {
+      "source": "carlos-stein-naves-de-brito",
+      "target": "davi-maximo-alexandrino-nogueira",
+      "olympiad": "conosur",
+      "year": 2000
+    },
+    {
+      "source": "carlos-stein-naves-de-brito",
+      "target": "humberto-silva-naves",
+      "olympiad": "conosur",
+      "year": 2000
+    },
+    {
+      "source": "carlos-stein-naves-de-brito",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2000
+    },
+    {
+      "source": "davi-maximo-alexandrino-nogueira",
+      "target": "humberto-silva-naves",
+      "olympiad": "conosur",
+      "year": 2000
+    },
+    {
+      "source": "davi-maximo-alexandrino-nogueira",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2000
+    },
+    {
+      "source": "humberto-silva-naves",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2000
+    },
+    {
+      "source": "einstein-do-nascimento-jr",
+      "target": "guilherme-issao-camarinha-fujiwara",
+      "olympiad": "conosur",
+      "year": 2001
+    },
+    {
+      "source": "einstein-do-nascimento-jr",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2001
+    },
+    {
+      "source": "einstein-do-nascimento-jr",
+      "target": "rafael-daigo-hirama",
+      "olympiad": "conosur",
+      "year": 2001
+    },
+    {
+      "source": "guilherme-issao-camarinha-fujiwara",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2001
+    },
+    {
+      "source": "guilherme-issao-camarinha-fujiwara",
+      "target": "rafael-daigo-hirama",
+      "olympiad": "conosur",
+      "year": 2001
+    },
+    {
+      "source": "larissa-cavalcante-queiroz-de-lima",
+      "target": "rafael-daigo-hirama",
+      "olympiad": "conosur",
+      "year": 2001
+    },
+    {
+      "source": "alex-correa-abreu",
+      "target": "israel-franklin-dourado-carrah",
+      "olympiad": "conosur",
+      "year": 2002
+    },
+    {
+      "source": "alex-correa-abreu",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2002
+    },
+    {
+      "source": "alex-correa-abreu",
+      "target": "rafael-daigo-hirama",
+      "olympiad": "conosur",
+      "year": 2002
+    },
+    {
+      "source": "israel-franklin-dourado-carrah",
+      "target": "larissa-cavalcante-queiroz-de-lima",
+      "olympiad": "conosur",
+      "year": 2002
+    },
+    {
+      "source": "israel-franklin-dourado-carrah",
+      "target": "rafael-daigo-hirama",
+      "olympiad": "conosur",
+      "year": 2002
+    },
+    {
+      "source": "larissa-cavalcante-queiroz-de-lima",
+      "target": "rafael-daigo-hirama",
+      "olympiad": "conosur",
+      "year": 2002
+    },
+    {
+      "source": "fabio-dias-moreira",
+      "target": "henry-wei-cheng-hsu",
+      "olympiad": "conosur",
+      "year": 2003
+    },
+    {
+      "source": "fabio-dias-moreira",
+      "target": "rodrigo-aguiar-pinheiro",
+      "olympiad": "conosur",
+      "year": 2003
+    },
+    {
+      "source": "fabio-dias-moreira",
+      "target": "thiago-costa-leite-santos",
+      "olympiad": "conosur",
+      "year": 2003
+    },
+    {
+      "source": "henry-wei-cheng-hsu",
+      "target": "rodrigo-aguiar-pinheiro",
+      "olympiad": "conosur",
+      "year": 2003
+    },
+    {
+      "source": "henry-wei-cheng-hsu",
+      "target": "thiago-costa-leite-santos",
+      "olympiad": "conosur",
+      "year": 2003
+    },
+    {
+      "source": "rodrigo-aguiar-pinheiro",
+      "target": "thiago-costa-leite-santos",
+      "olympiad": "conosur",
+      "year": 2003
+    },
+    {
+      "source": "andre-linhares-rodrigues",
+      "target": "gabriel-tavares-bujokas",
+      "olympiad": "conosur",
+      "year": 2004
+    },
+    {
+      "source": "andre-linhares-rodrigues",
+      "target": "leandro-farias-maia",
+      "olympiad": "conosur",
+      "year": 2004
+    },
+    {
+      "source": "andre-linhares-rodrigues",
+      "target": "telmo-luis-correa-junior",
+      "olympiad": "conosur",
+      "year": 2004
+    },
+    {
+      "source": "gabriel-tavares-bujokas",
+      "target": "leandro-farias-maia",
+      "olympiad": "conosur",
+      "year": 2004
+    },
+    {
+      "source": "gabriel-tavares-bujokas",
+      "target": "telmo-luis-correa-junior",
+      "olympiad": "conosur",
+      "year": 2004
+    },
+    {
+      "source": "leandro-farias-maia",
+      "target": "telmo-luis-correa-junior",
+      "olympiad": "conosur",
+      "year": 2004
+    },
+    {
+      "source": "edson-augusto-bezerra-lopes",
+      "target": "guilherme-rodrigues-nogueira-de-souza",
+      "olympiad": "conosur",
+      "year": 2005
+    },
+    {
+      "source": "edson-augusto-bezerra-lopes",
+      "target": "henrique-ponde-de-oliveira-pinto",
+      "olympiad": "conosur",
+      "year": 2005
+    },
+    {
+      "source": "edson-augusto-bezerra-lopes",
+      "target": "rafael-tupynamba-dutra",
+      "olympiad": "conosur",
+      "year": 2005
+    },
+    {
+      "source": "guilherme-rodrigues-nogueira-de-souza",
+      "target": "henrique-ponde-de-oliveira-pinto",
+      "olympiad": "conosur",
+      "year": 2005
+    },
+    {
+      "source": "guilherme-rodrigues-nogueira-de-souza",
+      "target": "rafael-tupynamba-dutra",
+      "olympiad": "conosur",
+      "year": 2005
+    },
+    {
+      "source": "henrique-ponde-de-oliveira-pinto",
+      "target": "rafael-tupynamba-dutra",
+      "olympiad": "conosur",
+      "year": 2005
+    },
+    {
+      "source": "henrique-ponde-de-oliveira-pinto",
+      "target": "rafael-tupynamba-dutra",
+      "olympiad": "conosur",
+      "year": 2006
+    },
+    {
+      "source": "henrique-ponde-de-oliveira-pinto",
+      "target": "ramon-moreira-nunes",
+      "olympiad": "conosur",
+      "year": 2006
+    },
+    {
+      "source": "henrique-ponde-de-oliveira-pinto",
+      "target": "regis-prado-barbosa",
+      "olympiad": "conosur",
+      "year": 2006
+    },
+    {
+      "source": "rafael-tupynamba-dutra",
+      "target": "ramon-moreira-nunes",
+      "olympiad": "conosur",
+      "year": 2006
+    },
+    {
+      "source": "rafael-tupynamba-dutra",
+      "target": "regis-prado-barbosa",
+      "olympiad": "conosur",
+      "year": 2006
+    },
+    {
+      "source": "ramon-moreira-nunes",
+      "target": "regis-prado-barbosa",
+      "olympiad": "conosur",
+      "year": 2006
+    },
+    {
+      "source": "grazielly-muniz-da-cunha",
+      "target": "marcelo-tadeu-de-sa-oliveira-sales",
+      "olympiad": "conosur",
+      "year": 2007
+    },
+    {
+      "source": "grazielly-muniz-da-cunha",
+      "target": "renan-henrique-finder",
+      "olympiad": "conosur",
+      "year": 2007
+    },
+    {
+      "source": "grazielly-muniz-da-cunha",
+      "target": "thiago-ribeiro-ramos",
+      "olympiad": "conosur",
+      "year": 2007
+    },
+    {
+      "source": "marcelo-tadeu-de-sa-oliveira-sales",
+      "target": "renan-henrique-finder",
+      "olympiad": "conosur",
+      "year": 2007
+    },
+    {
+      "source": "marcelo-tadeu-de-sa-oliveira-sales",
+      "target": "thiago-ribeiro-ramos",
+      "olympiad": "conosur",
+      "year": 2007
+    },
+    {
+      "source": "renan-henrique-finder",
+      "target": "thiago-ribeiro-ramos",
+      "olympiad": "conosur",
+      "year": 2007
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "marcelo-tadeu-de-sa-oliveira-sales",
+      "olympiad": "conosur",
+      "year": 2008
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "matheus-araujo-marins",
+      "olympiad": "conosur",
+      "year": 2008
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "conosur",
+      "year": 2008
+    },
+    {
+      "source": "marcelo-tadeu-de-sa-oliveira-sales",
+      "target": "matheus-araujo-marins",
+      "olympiad": "conosur",
+      "year": 2008
+    },
+    {
+      "source": "marcelo-tadeu-de-sa-oliveira-sales",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "conosur",
+      "year": 2008
+    },
+    {
+      "source": "matheus-araujo-marins",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "conosur",
+      "year": 2008
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "gabriel-militao-vinhas-lopes",
+      "olympiad": "conosur",
+      "year": 2009
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "matheus-barros-de-paula",
+      "olympiad": "conosur",
+      "year": 2009
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "conosur",
+      "year": 2009
+    },
+    {
+      "source": "gabriel-militao-vinhas-lopes",
+      "target": "matheus-barros-de-paula",
+      "olympiad": "conosur",
+      "year": 2009
+    },
+    {
+      "source": "gabriel-militao-vinhas-lopes",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "conosur",
+      "year": 2009
+    },
+    {
+      "source": "matheus-barros-de-paula",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "conosur",
+      "year": 2009
+    },
+    {
+      "source": "caique-porto-lira",
+      "target": "gabriel-militao-vinhas-lopes",
+      "olympiad": "conosur",
+      "year": 2010
+    },
+    {
+      "source": "caique-porto-lira",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "conosur",
+      "year": 2010
+    },
+    {
+      "source": "caique-porto-lira",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "conosur",
+      "year": 2010
+    },
+    {
+      "source": "gabriel-militao-vinhas-lopes",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "conosur",
+      "year": 2010
+    },
+    {
+      "source": "gabriel-militao-vinhas-lopes",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "conosur",
+      "year": 2010
+    },
+    {
+      "source": "joao-lucas-camelo-sa",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "conosur",
+      "year": 2010
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "rafael-kazuhiro-miyazaki",
+      "olympiad": "conosur",
+      "year": 2011
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "rafael-rodrigues-rocha-de-melo",
+      "olympiad": "conosur",
+      "year": 2011
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "vinicius-canto-costa",
+      "olympiad": "conosur",
+      "year": 2011
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "rafael-rodrigues-rocha-de-melo",
+      "olympiad": "conosur",
+      "year": 2011
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "vinicius-canto-costa",
+      "olympiad": "conosur",
+      "year": 2011
+    },
+    {
+      "source": "rafael-rodrigues-rocha-de-melo",
+      "target": "vinicius-canto-costa",
+      "olympiad": "conosur",
+      "year": 2011
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "rafael-rodrigues-rocha-de-melo",
+      "olympiad": "conosur",
+      "year": 2012
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "conosur",
+      "year": 2012
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "tadeu-pires-de-matos-belfort-neto",
+      "olympiad": "conosur",
+      "year": 2012
+    },
+    {
+      "source": "rafael-rodrigues-rocha-de-melo",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "conosur",
+      "year": 2012
+    },
+    {
+      "source": "rafael-rodrigues-rocha-de-melo",
+      "target": "tadeu-pires-de-matos-belfort-neto",
+      "olympiad": "conosur",
+      "year": 2012
+    },
+    {
+      "source": "rodrigo-sanches-angelo",
+      "target": "tadeu-pires-de-matos-belfort-neto",
+      "olympiad": "conosur",
+      "year": 2012
+    },
+    {
+      "source": "daniel-santana-rocha",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "conosur",
+      "year": 2013
+    },
+    {
+      "source": "daniel-santana-rocha",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2013
+    },
+    {
+      "source": "daniel-santana-rocha",
+      "target": "victor-oliveira-reis",
+      "olympiad": "conosur",
+      "year": 2013
+    },
+    {
+      "source": "murilo-corato-zanarella",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2013
+    },
+    {
+      "source": "murilo-corato-zanarella",
+      "target": "victor-oliveira-reis",
+      "olympiad": "conosur",
+      "year": 2013
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "victor-oliveira-reis",
+      "olympiad": "conosur",
+      "year": 2013
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "gabriel-toneatti-vercelli",
+      "olympiad": "conosur",
+      "year": 2014
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "conosur",
+      "year": 2014
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2014
+    },
+    {
+      "source": "gabriel-toneatti-vercelli",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "conosur",
+      "year": 2014
+    },
+    {
+      "source": "gabriel-toneatti-vercelli",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2014
+    },
+    {
+      "source": "joao-cesar-campos-vargas",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2014
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "guilherme-goulart-kowalczuk",
+      "olympiad": "conosur",
+      "year": 2015
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2015
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "vitor-augusto-carneiro-porto",
+      "olympiad": "conosur",
+      "year": 2015
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "conosur",
+      "year": 2015
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "vitor-augusto-carneiro-porto",
+      "olympiad": "conosur",
+      "year": 2015
+    },
+    {
+      "source": "pedro-henrique-sacramento-de-oliveira",
+      "target": "vitor-augusto-carneiro-porto",
+      "olympiad": "conosur",
+      "year": 2015
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "guilherme-goulart-kowalczuk",
+      "olympiad": "conosur",
+      "year": 2016
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "conosur",
+      "year": 2016
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "conosur",
+      "year": 2016
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "conosur",
+      "year": 2016
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "conosur",
+      "year": 2016
+    },
+    {
+      "source": "mateus-siqueira-thimoteo",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "conosur",
+      "year": 2016
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "bruno-barros-de-sousa",
+      "olympiad": "conosur",
+      "year": 2017
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "marcelo-hippolyto-de-sandes-peixoto",
+      "olympiad": "conosur",
+      "year": 2017
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "conosur",
+      "year": 2017
+    },
+    {
+      "source": "bruno-barros-de-sousa",
+      "target": "marcelo-hippolyto-de-sandes-peixoto",
+      "olympiad": "conosur",
+      "year": 2017
+    },
+    {
+      "source": "bruno-barros-de-sousa",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "conosur",
+      "year": 2017
+    },
+    {
+      "source": "marcelo-hippolyto-de-sandes-peixoto",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "conosur",
+      "year": 2017
+    },
+    {
+      "source": "enzo-pontes-saraiva-de-moraes",
+      "target": "gabriel-ribeiro-paiva",
+      "olympiad": "conosur",
+      "year": 2018
+    },
+    {
+      "source": "enzo-pontes-saraiva-de-moraes",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "conosur",
+      "year": 2018
+    },
+    {
+      "source": "enzo-pontes-saraiva-de-moraes",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "conosur",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-ribeiro-paiva",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "conosur",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-ribeiro-paiva",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "conosur",
+      "year": 2018
+    },
+    {
+      "source": "pablo-andrade-carvalho-barros",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "conosur",
+      "year": 2018
+    },
+    {
+      "source": "enzo-pontes-saraiva-de-moraes",
+      "target": "gustavo-neves-da-cruz",
+      "olympiad": "conosur",
+      "year": 2019
+    },
+    {
+      "source": "enzo-pontes-saraiva-de-moraes",
+      "target": "marcelo-machado-lage",
+      "olympiad": "conosur",
+      "year": 2019
+    },
+    {
+      "source": "enzo-pontes-saraiva-de-moraes",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "conosur",
+      "year": 2019
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "marcelo-machado-lage",
+      "olympiad": "conosur",
+      "year": 2019
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "conosur",
+      "year": 2019
+    },
+    {
+      "source": "marcelo-machado-lage",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "conosur",
+      "year": 2019
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "conosur",
+      "year": 2020
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "conosur",
+      "year": 2020
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "yvens-ian-prado-porto",
+      "olympiad": "conosur",
+      "year": 2020
+    },
+    {
+      "source": "olavo-paschoal-longo",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "conosur",
+      "year": 2020
+    },
+    {
+      "source": "olavo-paschoal-longo",
+      "target": "yvens-ian-prado-porto",
+      "olympiad": "conosur",
+      "year": 2020
+    },
+    {
+      "source": "rodrigo-salgado-domingos-porto",
+      "target": "yvens-ian-prado-porto",
+      "olympiad": "conosur",
+      "year": 2020
+    },
+    {
+      "source": "gabriel-seares-dellaroli",
+      "target": "joao-arthur-marques-linhares",
+      "olympiad": "conosur",
+      "year": 2021
+    },
+    {
+      "source": "gabriel-seares-dellaroli",
+      "target": "luis-felipe-pestana-giglio",
+      "olympiad": "conosur",
+      "year": 2021
+    },
+    {
+      "source": "gabriel-seares-dellaroli",
+      "target": "matheus-alencar-de-moraes",
+      "olympiad": "conosur",
+      "year": 2021
+    },
+    {
+      "source": "joao-arthur-marques-linhares",
+      "target": "luis-felipe-pestana-giglio",
+      "olympiad": "conosur",
+      "year": 2021
+    },
+    {
+      "source": "joao-arthur-marques-linhares",
+      "target": "matheus-alencar-de-moraes",
+      "olympiad": "conosur",
+      "year": 2021
+    },
+    {
+      "source": "luis-felipe-pestana-giglio",
+      "target": "matheus-alencar-de-moraes",
+      "olympiad": "conosur",
+      "year": 2021
+    },
+    {
+      "source": "gabriel-bastos-vasconcelos-duarte",
+      "target": "joao-pedro-bandeira-lemos",
+      "olympiad": "conosur",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-bastos-vasconcelos-duarte",
+      "target": "leonardo-henrique-fakhreddine-maldonado",
+      "olympiad": "conosur",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-bastos-vasconcelos-duarte",
+      "target": "matheus-alencar-de-moraes",
+      "olympiad": "conosur",
+      "year": 2022
+    },
+    {
+      "source": "joao-pedro-bandeira-lemos",
+      "target": "leonardo-henrique-fakhreddine-maldonado",
+      "olympiad": "conosur",
+      "year": 2022
+    },
+    {
+      "source": "joao-pedro-bandeira-lemos",
+      "target": "matheus-alencar-de-moraes",
+      "olympiad": "conosur",
+      "year": 2022
+    },
+    {
+      "source": "leonardo-henrique-fakhreddine-maldonado",
+      "target": "matheus-alencar-de-moraes",
+      "olympiad": "conosur",
+      "year": 2022
+    },
+    {
+      "source": "fabio-medeiros-ferraz-de-campos",
+      "target": "joao-victor-silva-dos-santos",
+      "olympiad": "conosur",
+      "year": 2023
+    },
+    {
+      "source": "fabio-medeiros-ferraz-de-campos",
+      "target": "levi-magalhaes-pereira-castello-branco",
+      "olympiad": "conosur",
+      "year": 2023
+    },
+    {
+      "source": "fabio-medeiros-ferraz-de-campos",
+      "target": "rodrigo-fontenele-de-oliveira-linhares",
+      "olympiad": "conosur",
+      "year": 2023
+    },
+    {
+      "source": "joao-victor-silva-dos-santos",
+      "target": "levi-magalhaes-pereira-castello-branco",
+      "olympiad": "conosur",
+      "year": 2023
+    },
+    {
+      "source": "joao-victor-silva-dos-santos",
+      "target": "rodrigo-fontenele-de-oliveira-linhares",
+      "olympiad": "conosur",
+      "year": 2023
+    },
+    {
+      "source": "levi-magalhaes-pereira-castello-branco",
+      "target": "rodrigo-fontenele-de-oliveira-linhares",
+      "olympiad": "conosur",
+      "year": 2023
+    },
+    {
+      "source": "bruno-machado-feltran",
+      "target": "enzo-holanda-sampaio",
+      "olympiad": "conosur",
+      "year": 2024
+    },
+    {
+      "source": "bruno-machado-feltran",
+      "target": "erick-akira-koga",
+      "olympiad": "conosur",
+      "year": 2024
+    },
+    {
+      "source": "bruno-machado-feltran",
+      "target": "fabio-medeiros-ferraz-de-campos",
+      "olympiad": "conosur",
+      "year": 2024
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "erick-akira-koga",
+      "olympiad": "conosur",
+      "year": 2024
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "fabio-medeiros-ferraz-de-campos",
+      "olympiad": "conosur",
+      "year": 2024
+    },
+    {
+      "source": "erick-akira-koga",
+      "target": "fabio-medeiros-ferraz-de-campos",
+      "olympiad": "conosur",
+      "year": 2024
+    },
+    {
+      "source": "joao-pedro-de-almeida-da-silva",
+      "target": "jose-elias-padovan-britto",
+      "olympiad": "conosur",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-de-almeida-da-silva",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "conosur",
+      "year": 2025
+    },
+    {
+      "source": "joao-pedro-de-almeida-da-silva",
+      "target": "rafael-alves-amiune",
+      "olympiad": "conosur",
+      "year": 2025
+    },
+    {
+      "source": "jose-elias-padovan-britto",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "conosur",
+      "year": 2025
+    },
+    {
+      "source": "jose-elias-padovan-britto",
+      "target": "rafael-alves-amiune",
+      "olympiad": "conosur",
+      "year": 2025
+    },
+    {
+      "source": "maria-clara-fontes-silva",
+      "target": "rafael-alves-amiune",
+      "olympiad": "conosur",
+      "year": 2025
+    },
+    {
+      "source": "davi-lima-maia",
+      "target": "davi-lobo-fernandes",
+      "olympiad": "conosur",
+      "year": 2026
+    },
+    {
+      "source": "davi-lima-maia",
+      "target": "joao-victor-benicio-candido",
+      "olympiad": "conosur",
+      "year": 2026
+    },
+    {
+      "source": "davi-lima-maia",
+      "target": "vinicius-martins-ribeiro",
+      "olympiad": "conosur",
+      "year": 2026
+    },
+    {
+      "source": "davi-lobo-fernandes",
+      "target": "joao-victor-benicio-candido",
+      "olympiad": "conosur",
+      "year": 2026
+    },
+    {
+      "source": "davi-lobo-fernandes",
+      "target": "vinicius-martins-ribeiro",
+      "olympiad": "conosur",
+      "year": 2026
+    },
+    {
+      "source": "joao-victor-benicio-candido",
+      "target": "vinicius-martins-ribeiro",
+      "olympiad": "conosur",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-09T21:17:26.881388+00:00",
+    "studentCount": 119,
+    "edgeCount": 216
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "checkedAt": "2026-09-09T07:49:58+00:00",
+  "summary": {
+    "PASS": 37,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2011,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Haddad'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/lusofonia/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Haddad'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/lusofonia/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Siaudizionis'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/uncategorized/resultados-da-3a-omcplp/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Siaudzionis'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/matematica/comeca-a-olimpiada-matematica-da-lusofonia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Campos Vargas'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/matematica/resultado-brasileira-da-lusofonia-2014/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/matematica/brasil-conquista-primeiro-lugar-na-olimpiada-de-matematica-da-cplp/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/matematica/divulgada-a-equipe-brasileira-para-a-olimpiada-de-matematica-da-cplp/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2015,
+      "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hippólyto'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Hippólyto'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/2016/10/10/o-brasil-conquistou-o-segundo-lugar-na-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Koga'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/2017/05/16/confira-a-equipe-que-participara-da-7a-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Koga'"
+    },
+    {
+      "year": 2017,
+      "url": "https://impa.br/notices/brasil-conquista-quatro-medalhas-na-olimpiada-dos-paises-lusofonos/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Koga'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quirino'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/2018/09/11/com-ouro-maximo-equipe-do-brasil-volta-da-omcplp-2018/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quirino'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/matematica/brasil-conquista-4-medalhas-na-cplp-2018/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quirino'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/com-ouro-perfeito-brasil-conquista-quatro-medalhas-na-omcplp/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quirino'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/11/04/9a-olimpiada-de-matematica-dos-paises-da-cplp-comecou-neste-domingo-em-nova-friburgo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/11/08/12007/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ouro'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/matematica/brasil-conquista-dois-ouros-e-duas-pratas-na-omcplp/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-e-ouro-na-olimpiada-de-matematica-de-paises-de-lingua-portuguesa/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-sedia-9a-omcplp-a-partir-de-domingo-3/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fontenele'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2022/11/05/com-tres-ouros-e-uma-prata-brasil-fica-em-primeiro-lugar-na-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fontenele'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fujibayashi'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/05/28/com-dois-ouros-e-duas-pratas-brasil-fica-em-primeiro-lugar-na-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fujibayashi'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/times-luso-e-cone-sul-anunciados/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lucas Kenji'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/07/27/brasil-e-campeao-da-olimpiada-de-matematica-da-cplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/resultados-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Basílio'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/11/01/brasil-e-campeao-da-13a-omcplp/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Basílio'"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "olympiadId": "rioplatense",
+  "description": "Sources confirming Brazilian Rioplatense medallists, per edition.",
+  "provenanceClasses": {
+    "official": "oma.org.ar per-edition medal tables (old site .htm/.html pages and the new-CMS 32nd-edition page).",
+    "primary": "NOIC format page (no names).",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "OMA (Argentina) publishes one medal table per edition - medallists and, since 2018, honourable mentions - so the dataset is medallists-only: non-medalling Brazilians are unknown and delegation sizes (normally 3 per level per team) cannot be reconstructed from it.",
+    "Two Brazilian teams compete (Fortaleza and São Paulo); the 'team' field keeps OMA's label. Levels: A (grades 6-7), 1 (8-9), 2 (10-11), 3 (12).",
+    "OMA's pages are the only per-name source online (no OBM page exists - the teams are selected by the Ceará and São Paulo state olympiads); NOIC describes the format only. Every edition is therefore single-source, official.",
+    "rawName policy: OMA forms normalised (surname-first reordered, capitals title-cased, mojibake repaired) and short forms expanded against the pool; assumed identities are flagged per year."
+  ],
+  "years": [
+    {
+      "year": 1996,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr5.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 5th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Catae"
+        },
+        {
+          "url": "https://noic.com.br/olimpiadas/matematica/rioplatense/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "format description only (no names)",
+          "confirms": "NOIC: Brazil = the only country with two teams (Fortaleza via OCM, São Paulo via OPM); four levels A/1/2/3"
+        }
+      ],
+      "note": "Debut (V edition, Mendoza): two Brazilians under the single label 'Brasil' (Catae silver, Arroyo Ruiz gold). Editions I-IV (1992-95) have no published participant data."
+    },
+    {
+      "year": 1997,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr6.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 6th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Nascimento"
+        }
+      ],
+      "note": "From 1997 OMA labels the two Brazilian teams 'Fortaleza' and 'SAO' / 'Sao Paulo' / 'San Pablo' / 'São Pablo' (label drift, all normalised to São Paulo). 1997-1999 tables are surname-first ('Abe, Eduardo') and were reordered."
+    },
+    {
+      "year": 1998,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr7.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 7th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Honda Saito"
+        }
+      ],
+      "note": "'Thiago Costa' (Fortaleza, Nivel 1) written as Thiago Barros Rodrigues Costa - ASSUMED (Fortaleza, OIM/IMO 2001)."
+    },
+    {
+      "year": 1999,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr8.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 8th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Alinson"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr9.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 9th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Gukovas"
+        }
+      ],
+      "note": "'Ulises Albuquerque' (Nivel 3) = Maio 1998 'Ulisses Medeiros de Albuquerque' (Fortaleza) - assumed. 'Adriano Vieira' (Nivel A) = 2001 'Adriano Jorge Braun Vieira Neto'."
+    },
+    {
+      "year": 2001,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr10.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 10th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Braun Vieira"
+        }
+      ],
+      "note": "OMA's page has mojibake spaces inside accented words ('Andr é', 'Per ú') - repaired before parsing."
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr11.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 11th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Luty"
+        }
+      ],
+      "note": "OMA's page repeats the Nivel 1 silver trio (Katz, Luty Rodrigues Ribeiro, Kozynski) verbatim under 'Medallas de Bronce / Nivel A' - the duplicated bronze row is dropped (a student sits one level)."
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr12.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 12th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Carrah"
+        }
+      ],
+      "note": "'Israel Franklin Dourado Carrah' - fullest form, adopted in conosur/ too."
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr13.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 13th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Regitano"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr14.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 14th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Sorensen"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr15.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 15th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Gleycianne"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr16.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 16th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Camelo"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr17.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 17th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Guinsberg"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr18.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 18th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Achjian"
+        }
+      ],
+      "note": "Only São Paulo medallists appear (18th edition); Fortaleza's attendance that year is undetermined (medal-only table)."
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr19.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 19th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Tsuzuki"
+        }
+      ],
+      "note": "Rows carry the medal and team on one line ('Medalla de Oro Fortaleza') - parsed accordingly."
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr20.htm",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 20th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Fazoli"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr21.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 21th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Hisatsuga"
+        }
+      ],
+      "note": "Short forms in OMA's table (Bruno Meinhart, Daniel Lima, Pedro Costa, Tadeu Belfort, Lucca Siaudzionis, Rafael Rodrigues) expanded against the pool (all Fortaleza/São Paulo juniors of the Maio/Cono Sur pipeline)."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr22.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 22th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Nishimoto"
+        }
+      ],
+      "note": "'Matheus Carioca' (Fortaleza, Nivel 2) written as Matheus Carioca Sampaio (OIbF) - assumed."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr23.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 23th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Degelo"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr24.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 24th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Dominguez"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr25.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 25th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Ticianelli"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr26.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 26th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Saneshima"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr27.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 27th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Maziviero"
+        }
+      ],
+      "note": "Honourable mentions first appear in OMA's tables (2018, 2019, 2023-2025)."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr28.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 28th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Vichinsky"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr29.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 29th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Busetti"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr30.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 30th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Stabenow"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/old_oma/internacional/resultados-omr31.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 31th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Koshimizu"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://oma.org.ar/contents/paginas/contents/32_rio_resultados.html",
+          "domain": "oma.org.ar",
+          "cls": "official",
+          "coverage": "medallists and honourable mentions only",
+          "confirms": "OMA medal table of the 32th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
+          "needle": "Gastao"
+        }
+      ],
+      "note": "32nd edition (new OMA CMS page): surnames in capitals ('Davi LIMA MAIA'), title-cased here; fuller forms adopted for Alice Ella Schneider and Heloísa Guedes de Azevedo O. Mysczak (EGMO short forms)."
+    }
+  ]
+}

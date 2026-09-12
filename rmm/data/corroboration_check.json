@@ -1,0 +1,384 @@
+{
+  "checkedAt": "2026-09-09T21:29:00+00:00",
+  "summary": {
+    "PASS": 47
+  },
+  "results": [
+    {
+      "year": 2010,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Davi Lopes de Medeiros'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hugo Fonseca Araújo'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lucas Lourenço Hernandes'"
+    },
+    {
+      "year": 2011,
+      "url": "https://rmms.lbi.ro/rmm2011/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Empinotti'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lourenço Hernandes'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Henrique Gasparini Fiúza do Nascimento'"
+    },
+    {
+      "year": 2012,
+      "url": "https://rmms.lbi.ro/rmm2012/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Macieira'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bitarães'"
+    },
+    {
+      "year": 2013,
+      "url": "https://rmms.lbi.ro/rmm2013/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bitaraes'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Fazoli Domingos'"
+    },
+    {
+      "year": 2015,
+      "url": "https://rmms.lbi.ro/rmm2015/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'ZANARELLA'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/uncategorized/divulgado-resultado-da-romanian-master-mathematics-2015/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/uncategorized/e-comeca-romanian-master-mathematics-2015/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sacramento'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Toneatti Vercelli'"
+    },
+    {
+      "year": 2016,
+      "url": "https://rmms.lbi.ro/rmm2016/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Toneatti'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/2016/03/03/brasil-conquista-quatro-bronzes-na-romanian-master-of-mathematics-2016/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Campos Vargas'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mateus Siqueira Thimoteo'"
+    },
+    {
+      "year": 2017,
+      "url": "https://rmms.lbi.ro/rmm2017/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'THIMÓTEO'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/matematica/brasil-conquista-decimo-lugar-na-romenia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Tostes Messias Pereira'"
+    },
+    {
+      "year": 2018,
+      "url": "https://rmms.lbi.ro/rmm2018/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'TREVIZAN'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/2018/02/26/com-2-medalhas-de-bronze-brasil-retorna-da-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tostes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/brasil-ganha-dois-bronzes-na-romenian-masters-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tostes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/brasil-ganha-duas-medalhas-em-olimpiada-na-romenia/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tostes'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/brasil-esta-escalado-para-a-10a-romanian-master-of-mathematics/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tostes'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Samuel Prieto Lima'"
+    },
+    {
+      "year": 2019,
+      "url": "https://rmms.lbi.ro/rmm2019/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'SPONCHIADO'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/02/24/brasileiros-voltam-da-romenia-com-tres-medalhas-na-bagagem/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/01/24/conheca-a-equipe-que-competira-na-proxima-rmm-na-romenia/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/matematica/brasil-conquista-tres-bronzes-na-romanian-masters-of-mathematics-2019/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-conquista-tres-medalhas-na-romanian-master-of-mathematics/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-anuncia-equipe-que-disputara-olimpiada-na-romenia/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Francisco Moreira Machado Neto'"
+    },
+    {
+      "year": 2020,
+      "url": "https://rmms.lbi.ro/rmm2020/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'GOMES CABRAL'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/2020/03/02/brasil-volta-da-romenia-com-medalha-de-bronze/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gomes Cabral'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/2020/02/11/selecao-olimpica-e-escalada-para-competir-na-romenia/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zeus'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/uncategorized/divulgado-o-resultado-da-olimpiada-romeniana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Paschoal'"
+    },
+    {
+      "year": 2020,
+      "url": "https://impa.br/notices/equipe-brasileira-conquista-bronze-em-olimpiada-romena/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gomes Cabral'"
+    },
+    {
+      "year": 2020,
+      "url": "https://impa.br/notices/definida-equipe-do-brasil-para-olimpiada-romena-de-matematica/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zeus'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miguel de Carvalho Oliveira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://rmms.lbi.ro/rmm2021/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'MACHADO LAGE'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/10/16/equipe-brasileira-conquista-tres-medalhas-da-13a-rmm/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Machado Lage'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alessandro Mathias Machado'"
+    },
+    {
+      "year": 2026,
+      "url": "https://rmms.lbi.ro/rmm2026/index.php?id=results_math",
+      "domain": "rmms.lbi.ro",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mathias Machado'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/02/28/brasil-conquista-melhor-resultado-da-historia-na-rmm-2026-e-alcanca-5a-posicao-geral/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/01/12/10a-romanian-master-of-mathematics-confira-a-escalacao-do-brasil/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    }
+  ]
+}

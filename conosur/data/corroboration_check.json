@@ -1,0 +1,874 @@
+{
+  "checkedAt": "2026-09-09T07:28:50+00:00",
+  "summary": {
+    "PASS": 94,
+    "FAIL-HTTP": 13,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 1988,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bazkhaus'"
+    },
+    {
+      "year": 1988,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bazkhaus'"
+    },
+    {
+      "year": 1988,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1991,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Palmeira'"
+    },
+    {
+      "year": 1991,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Palmeira'"
+    },
+    {
+      "year": 1991,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Palmeira'"
+    },
+    {
+      "year": 1992,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pompeu'"
+    },
+    {
+      "year": 1992,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pompeu'"
+    },
+    {
+      "year": 1992,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1993,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Esteves'"
+    },
+    {
+      "year": 1993,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Esteves'"
+    },
+    {
+      "year": 1993,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1994,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Balreira'"
+    },
+    {
+      "year": 1994,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Balreira'"
+    },
+    {
+      "year": 1994,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1995,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Aroldo'"
+    },
+    {
+      "year": 1995,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Aroldo'"
+    },
+    {
+      "year": 1995,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1996,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vajapeyam'"
+    },
+    {
+      "year": 1996,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vajapeyam'"
+    },
+    {
+      "year": 1996,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1997,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iveson'"
+    },
+    {
+      "year": 1997,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iveson'"
+    },
+    {
+      "year": 1997,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Simoni Gouveia'"
+    },
+    {
+      "year": 1998,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Simoni Gouveia'"
+    },
+    {
+      "year": 1998,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Simoni Gouveia'"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 1999,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 1999,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Naves de Brito'"
+    },
+    {
+      "year": 2000,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Naves de Brito'"
+    },
+    {
+      "year": 2000,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Einstein'"
+    },
+    {
+      "year": 2001,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Einstein'"
+    },
+    {
+      "year": 2001,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2002,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carrah'"
+    },
+    {
+      "year": 2002,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carrah'"
+    },
+    {
+      "year": 2002,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Carrah'"
+    },
+    {
+      "year": 2003,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hsu'"
+    },
+    {
+      "year": 2003,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hsu'"
+    },
+    {
+      "year": 2003,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2004,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Telmo'"
+    },
+    {
+      "year": 2004,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Telmo'"
+    },
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2005,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tupynambá'"
+    },
+    {
+      "year": 2005,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tupynambá'"
+    },
+    {
+      "year": 2005,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pondé'"
+    },
+    {
+      "year": 2006,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pondé'"
+    },
+    {
+      "year": 2006,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Pondé'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Grazielly'"
+    },
+    {
+      "year": 2007,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Grazielly'"
+    },
+    {
+      "year": 2007,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Grazielly'"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Marins'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Marins'"
+    },
+    {
+      "year": 2008,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Marins'"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Militão'"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Militão'"
+    },
+    {
+      "year": 2009,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Militão'"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Canto Costa'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Canto Costa'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Belfort'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Belfort'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Santana Rocha'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Santana Rocha'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/uncategorized/brasileiros-vencem-cone-sul-2013/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vercelli'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/matematica/quatro-medalhas-brasileiras-na-olimpiada-cone-sul/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vercelli'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.obm.org.br/2015/05/18/brasil-conquista-o-primeiro-lugar-geral-por-paises-na-26a-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/matematica/quatro-medalhas-para-o-brasil-na-cone-sul-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carneiro Porto'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/2016/05/11/brasil-conquista-quatro-medalhas-na-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/matematica/quatro-medalhas-para-o-brasil-na-olimpiada-matematica-do-cone-sul/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/olimp_conesul.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hippolyto'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/2017/08/21/ouro-perfeito-coroa-participacao-do-brasil-na-olimpiada-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Trevizan'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/matematica/dois-ouros-para-o-brasil-na-olimpiada-de-matematica-cone-sul/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Marcelo Hippolyto'"
+    },
+    {
+      "year": 2017,
+      "url": "https://impa.br/notices/ouro-perfeito-coroa-participacao-do-brasil-na-olimpiada-cone-sul/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hippolyto'"
+    },
+    {
+      "year": 2017,
+      "url": "https://impa.br/notices/com-presenca-feminina-brasil-quer-o-topo-na-cone-sul/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bigolin'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gomes Cabral'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/2018/08/28/brasil-conquista-quatro-medalhas-na-olimpiada-do-cone-sul-em-maceio/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gomes Cabral'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/matematica/brasil-leva-ouro-perfeito-na-cone-sul-2018-veja-o-resultado/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Ribeiro Paiva'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/brasil-conquista-quatro-medalhas-na-cone-sul/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gomes Cabral'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/definidas-as-equipes-para-as-disputas-da-cone-sul-e-cplp/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gomes Cabral'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Neves da Cruz'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/09/02/11538/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Neves da Cruz'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/matematica/cone-sul/2-ouros-e-2-pratas-para-o-brasil-na-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Longo'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-e-campeao-da-30a-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Neves da Cruz'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/equipe-brasileira-esta-na-bolivia-para-disputar-a-cone-sul/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Neves da Cruz'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Yvens'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/2020/12/07/brasil-encerra-participacao-na-cone-sul-com-quatro-medalhas/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/matematica/cone-sul/saiu-o-resultado-da-olimpiada-de-matematica-do-cone-sul-2020/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Domingos Porto'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Dellaroli'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/12/03/brasil-conquista-quatro-medalhas-na-32a-olimpiada-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Dellaroli'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bastos'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2022/08/08/brasil-e-campeao-na-33a-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bastos'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Linhares'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/08/10/brasil-vence-olimpiada-de-matematica-do-cone-sul-e-fica-em-1o-lugar-no-ranking-de-paises/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fontenele'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/09/30/brasil-e-campeao-da-35a-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/06/08/brasil-conquista-tres-pratas-e-um-bronze-na-36a-olimpiada-de-matematica-do-cone-sul-e-garante-segundo-lugar-por-paises/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Benício'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/08/09/brasil-conquista-segundo-lugar-na-37a-olimpiada-de-matematica-do-cone-sul/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Benício'"
+    }
+  ]
+}

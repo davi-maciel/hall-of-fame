@@ -1,0 +1,443 @@
+{
+  "olympiadId": "omcplp",
+  "description": "Sources confirming Brazilian OMCPLP contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "(none online - the olympiad's site omcplp.obmep.org.br publishes no results archive)",
+    "primary": "OBM (national organizer) all-years results table and news; olimpiadascientificas.org mirror; NOIC; IMPA.",
+    "archive": "Wayback snapshot of OBM's former site (2015-2016 tables)."
+  },
+  "globalNotes": [
+    "Lusophone olympiad (Angola, Brazil, Cabo Verde, Guiné-Bissau, Moçambique, Portugal, São Tomé e Príncipe, Timor-Leste); teams of four, under 18. Annual 2011-2019, cancelled 2020-2021, annual again from 2022.",
+    "OBM's all-years results table is the naming source for every edition; medals only (Brazil has never had a non-medallist here: 26 gold, 25 silver, 1 bronze through 2025).",
+    "rawName policy: OBM table forms, aligned to the pool (imo/apmo/oim/conosur/maio) where the student is already there - three spelling fixes noted per year."
+  ],
+  "years": [
+    {
+      "year": 2011,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Haddad"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/lusofonia/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 2011-2012",
+          "needle": "Haddad"
+        }
+      ],
+      "note": "First edition (Coimbra), then called Olimpíada de Matemática da Lusofonia. 'Daniel Nishida Kawai' = APMO 2011-12 / OLC 'Daniel Eiti Nishida Kawai'."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/lusofonia/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 2011-2012",
+          "needle": "Zanarella"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Siaudizionis"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/resultados-da-3a-omcplp/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals (Maputo)",
+          "needle": "Siaudzionis"
+        },
+        {
+          "url": "https://noic.com.br/matematica/comeca-a-olimpiada-matematica-da-lusofonia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC: team at the start (names, cities)",
+          "needle": "Campos Vargas"
+        }
+      ],
+      "note": "OBM/NOIC spell the silver medallist 'Siaudizionis' / 'Siaudzionis' - the latter (his own byline; ijso/ioi/oii) used."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Kowalczuk"
+        },
+        {
+          "url": "https://noic.com.br/matematica/resultado-brasileira-da-lusofonia-2014/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post (Luanda)",
+          "needle": "Kowalczuk"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-conquista-primeiro-lugar-na-olimpiada-de-matematica-da-cplp/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals; team champion (Praia)",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://noic.com.br/matematica/divulgada-a-equipe-brasileira-para-a-olimpiada-de-matematica-da-cplp/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 2015 table (names, cities, medals)",
+          "needle": "Sponchiado"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Hippólyto"
+        },
+        {
+          "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 2016 table (names, cities, medals) + leaders",
+          "needle": "Hippólyto"
+        },
+        {
+          "url": "https://www.obm.org.br/2016/10/10/o-brasil-conquistou-o-segundo-lugar-na-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "team placing only (results linked, no names)",
+          "confirms": "OBM news: 2nd place (117 pts vs Portugal 121), Fortaleza 5-9 Oct"
+        }
+      ],
+      "note": "OBM table 'Bernardo Peruzzo Trevisan' -> Trevizan (IMO/APMO/Cono Sur). Marcelo Hippólyto de Sandes Peixoto = Cono Sur 2017 'Marcelo Hippolyto Peixoto' (fuller form adopted there)."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Koga"
+        },
+        {
+          "url": "https://www.obm.org.br/2017/05/16/confira-a-equipe-que-participara-da-7a-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBM: team announcement (Porto, 24-30 Jul)",
+          "needle": "Koga"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-quatro-medalhas-na-olimpiada-dos-paises-lusofonos/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names, cities, medals)",
+          "needle": "Koga"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Quirino"
+        },
+        {
+          "url": "https://www.obm.org.br/2018/09/11/com-ouro-maximo-equipe-do-brasil-volta-da-omcplp-2018/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names (short forms) + medals; leaders; team champion (São Tomé)",
+          "needle": "Quirino"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-conquista-4-medalhas-na-cplp-2018/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms) + medals",
+          "needle": "Quirino"
+        },
+        {
+          "url": "https://impa.br/notices/com-ouro-perfeito-brasil-conquista-quatro-medalhas-na-omcplp/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names, cities, medals)",
+          "needle": "Quirino"
+        }
+      ],
+      "note": "'Luciano Rodrigues de Oliveira Jr.' -> Junior (APMO 2020, Maio 2016). Eduardo Quirino de Oliveira: perfect score."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Lengruber"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/11/04/9a-olimpiada-de-matematica-dos-paises-da-cplp-comecou-neste-domingo-em-nova-friburgo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBM: team at the opening (full names, cities), leaders",
+          "needle": "Lengruber"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/11/08/12007/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "medal counts",
+          "confirms": "OBM news: medal table; team champion (Nova Friburgo)",
+          "needle": "Ouro"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-conquista-dois-ouros-e-duas-pratas-na-omcplp/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Lengruber"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-e-ouro-na-olimpiada-de-matematica-de-paises-de-lingua-portuguesa/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names, cities, medals); leaders",
+          "needle": "Lengruber"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-sedia-9a-omcplp-a-partir-de-domingo-3/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team at the venue (full names)",
+          "needle": "Lengruber"
+        }
+      ],
+      "note": "9th edition, Nova Friburgo (Brazil's 3rd hosting after 2012 Salvador and 2016 Fortaleza)."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Fontenele"
+        },
+        {
+          "url": "https://www.obm.org.br/2022/11/05/com-tres-ouros-e-uma-prata-brasil-fica-em-primeiro-lugar-na-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; leader; team champion (Maputo)",
+          "needle": "Fontenele"
+        }
+      ],
+      "note": "Resumed after the 2020-2021 cancellations (COVID); Maputo, 2-5 Nov."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Fujibayashi"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/05/28/com-dois-ouros-e-duas-pratas-brasil-fica-em-primeiro-lugar-na-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results table; team champion (Fortaleza)",
+          "needle": "Fujibayashi"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/times-luso-e-cone-sul-anunciados/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement (first-name short forms)",
+          "needle": "Lucas Kenji"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Amiune"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/07/27/brasil-e-campeao-da-olimpiada-de-matematica-da-cplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; leaders; team champion (Oeiras)",
+          "needle": "Amiune"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
+          "needle": "Basílio"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/11/01/brasil-e-campeao-da-13a-omcplp/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results table; team champion (Fortaleza)",
+          "needle": "Basílio"
+        }
+      ],
+      "note": "13th edition, Fortaleza; team champion. 14th (2026) team selected 2026-04-28, event not yet held on 2026-09-09."
+    }
+  ]
+}

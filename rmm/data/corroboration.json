@@ -1,0 +1,509 @@
+{
+  "olympiadId": "rmm",
+  "description": "Sources confirming Brazilian RMM contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "rmms.lbi.ro per-edition individual results (2011-2013, 2015-2021, 2026).",
+    "primary": "OBM (national organizer) all-years results table and news; olimpiadascientificas.org mirror; NOIC; IMPA.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Invitational olympiad in Bucharest (February; 2021 virtual in October). Brazil attended 2010-2013, 2015-2021 and 2026; no editions in 2014 and 2022; Brazil absent 2023-2025 (official country lists checked). Delegations of 4-9 (six is usual; the official page marks 'official team' members with an asterisk in later years - not stored).",
+    "Naming source: OBM's all-years table (full names); official pages give surname-first or all-caps forms and were used for medals/scores and the 2017 extra contestants. Certificates (no award) = medal null.",
+    "All contestants are IMO-track students - every name aligned to the pool (imo/apmo/oim/conosur/...) before building."
+  ],
+  "years": [
+    {
+      "year": 2010,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Davi Lopes de Medeiros"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM) - listed under the label '2009'",
+          "needle": "Hugo Fonseca Araújo"
+        }
+      ],
+      "note": "3rd edition (then 'Romanian Master of Sciences'); the official 2010 site serves raw PHP, so no official per-name page survives - OBM table + OLC only. Two certificates (no award). 'Davi Lopes de Medeiros' = IMO 'Davi Lopes Alves de Medeiros'."
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Lucas Lourenço Hernandes"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2011/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "Empinotti"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM) - listed under the label '2010'",
+          "needle": "Lourenço Hernandes"
+        }
+      ],
+      "note": "Official page uses codes BRZ/BRA and 'Lourenco Hernandes Lucas' forms; OLC lists this year under '2010' (its labels lag by one for 2010-2011)."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Henrique Gasparini Fiúza do Nascimento"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2012/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "Camelo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), label '2012'",
+          "needle": "Macieira"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Bitarães"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2013/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "Bitaraes"
+        }
+      ],
+      "note": "OBM table 'Victor de Oliveira Reis' -> pool form Victor Oliveira Reis (IMO/OIM)."
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Gabriel Fazoli Domingos"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2015/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "ZANARELLA"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/divulgado-resultado-da-romanian-master-mathematics-2015/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/e-comeca-romanian-master-mathematics-2015/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC: team at the start",
+          "needle": "Sacramento"
+        }
+      ],
+      "note": "'Alessandro Pacanowski' -> full IMO form."
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Gabriel Toneatti Vercelli"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2016/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "Toneatti"
+        },
+        {
+          "url": "https://www.obm.org.br/2016/03/03/brasil-conquista-quatro-bronzes-na-romanian-master-of-mathematics-2016/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 bronzes by name",
+          "needle": "Campos Vargas"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Mateus Siqueira Thimoteo"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2017/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full (9 contestants; OBM lists the 6 awardees/certificates)",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "THIMÓTEO"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-conquista-decimo-lugar-na-romenia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: names + awards, 10th place",
+          "needle": "Kowalczuk"
+        }
+      ],
+      "note": "Brazil fielded nine contestants (official page: BRA 1-9); OBM's table lists only the six with an award or certificate. The three unawarded (Davi Cavalcanti Sena, Pedro Henrique Sacramento de Oliveira, Lucas Hiroshi Hanke Harada) are added from the official page. 'Thimoteo' -> Thimóteo."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Gabriel Tostes Messias Pereira"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2018/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "TREVIZAN"
+        },
+        {
+          "url": "https://www.obm.org.br/2018/02/26/com-2-medalhas-de-bronze-brasil-retorna-da-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 2 bronzes + HMs by name",
+          "needle": "Tostes"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/brasil-ganha-dois-bronzes-na-romenian-masters-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Tostes"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-ganha-duas-medalhas-em-olimpiada-na-romenia/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (names, medals)",
+          "needle": "Tostes"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-esta-escalado-para-a-10a-romanian-master-of-mathematics/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement",
+          "needle": "Tostes"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 7,
+      "independentPrimaryCount": 7,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Samuel Prieto Lima"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2019/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "SPONCHIADO"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/02/24/brasileiros-voltam-da-romenia-com-tres-medalhas-na-bagagem/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 3 bronzes + HM by name",
+          "needle": "Prieto"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/01/24/conheca-a-equipe-que-competira-na-proxima-rmm-na-romenia/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBM: team announcement",
+          "needle": "Prieto"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-conquista-tres-bronzes-na-romanian-masters-of-mathematics-2019/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Prieto"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-tres-medalhas-na-romanian-master-of-mathematics/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (names, medals)",
+          "needle": "Prieto"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-anuncia-equipe-que-disputara-olimpiada-na-romenia/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement",
+          "needle": "Prieto"
+        }
+      ],
+      "note": "Four contestants only (all documented by official + OBM + NOIC + IMPA)."
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 7,
+      "independentPrimaryCount": 7,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Francisco Moreira Machado Neto"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2020/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "GOMES CABRAL"
+        },
+        {
+          "url": "https://www.obm.org.br/2020/03/02/brasil-volta-da-romenia-com-medalha-de-bronze/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: bronze + HMs by name",
+          "needle": "Gomes Cabral"
+        },
+        {
+          "url": "https://www.obm.org.br/2020/02/11/selecao-olimpica-e-escalada-para-competir-na-romenia/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBM: team announcement",
+          "needle": "Zeus"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/divulgado-o-resultado-da-olimpiada-romeniana-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Paschoal"
+        },
+        {
+          "url": "https://impa.br/notices/equipe-brasileira-conquista-bronze-em-olimpiada-romena/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (names, awards)",
+          "needle": "Gomes Cabral"
+        },
+        {
+          "url": "https://impa.br/notices/definida-equipe-do-brasil-para-olimpiada-romena-de-matematica/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement",
+          "needle": "Zeus"
+        }
+      ],
+      "note": "Seven contestants (official BRA 1-7), all in OBM's table."
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Miguel de Carvalho Oliveira"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2021/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "MACHADO LAGE"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/10/16/equipe-brasileira-conquista-tres-medalhas-da-13a-rmm/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: silver + 2 bronzes + 3 HMs by name (virtual edition, October)",
+          "needle": "Machado Lage"
+        }
+      ],
+      "note": "13th edition held virtually in October 2021."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
+          "needle": "Alessandro Mathias Machado"
+        },
+        {
+          "url": "https://rmms.lbi.ro/rmm2026/index.php?id=results_math",
+          "domain": "rmms.lbi.ro",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
+          "needle": "Mathias Machado"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/02/28/brasil-conquista-melhor-resultado-da-historia-na-rmm-2026-e-alcanca-5a-posicao-geral/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 2 silvers + 2 bronzes + HM by name; 5th place",
+          "needle": "Amiune"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/01/12/10a-romanian-master-of-mathematics-confira-a-escalacao-do-brasil/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBM: team announcement",
+          "needle": "Amiune"
+        }
+      ],
+      "note": "18th edition (OBM numbering) / 17th RMM: Brazil's best result (2S+2B+1HM, 5th place). Two organizations only (official results + OBM table/news) - THIRD SOURCE PENDING."
+    }
+  ]
+}

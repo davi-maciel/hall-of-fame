@@ -1,0 +1,1232 @@
+{
+  "olympiadId": "conosur",
+  "description": "Sources confirming Brazilian Cono Sur contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "(none online - the olympiad has no permanent results site)",
+    "primary": "OBM (national organizer) all-years results table and news; olimpiadascientificas.org mirror; NOIC; IMPA.",
+    "archive": "Wayback snapshots of OBM's former site (1988-2009 and 2016 team pages)."
+  },
+  "globalNotes": [
+    "Under-16 olympiad of the southern-cone countries; teams of four. OBM's all-years table is the only Brazilian all-years source (OLC mirrors it to 2013); it records non-medalists as 'Certificado' where known (1991, 1992, 2001) but the 1988 debut keeps a single name.",
+    "rawName policy: OBM table forms with initials expanded from the archived OBM page, OLC, OBM award lists and the IMO/APMO datasets (most-complete documented form). medal null = certificate (confirmed no medal).",
+    "Many contestants reappear in imo/, apmo/ and oim/ (the Cono Sur is the under-16 feeder of the IMO team) - identities were aligned against that pool before building."
+  ],
+  "years": [
+    {
+      "year": 1988,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "1 name (bronze); delegation size undetermined",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Bazkhaus"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "1 name (bronze); delegation size undetermined",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Bazkhaus"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "1 name (bronze); delegation size undetermined",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Bazkhaus"
+        }
+      ],
+      "note": "Debut (1st edition, Montevideo): a single name survives, Raul Bazkhaus (bronze); delegation size undetermined. No 1989-1990 editions."
+    },
+    {
+      "year": 1991,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Palmeira"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Palmeira"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Palmeira"
+        }
+      ],
+      "note": "OBM table 'Mauricio Palmeira' vs archived OBM/OLC 'Márcio Palmeira' - table kept. 'Renato Madeira' (Rio) = OIM 1992 'Renato Caldas Madeira' = IMO 1992 'Renato de O. Caldas Madeira' (site alias). Rodrigo Onias: certificate (no medal)."
+    },
+    {
+      "year": 1992,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Pompeu"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Pompeu"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Pompeu"
+        }
+      ],
+      "note": "Table 'Breno de Alencar Araripe Falcão' (= IMO 1995) vs archived 'João Carlos Alencar Araripe Falcão' - table kept (matches the IMO roster). Two certificates (Marcondes França Júnior = IMO 1994; Breno)."
+    },
+    {
+      "year": 1993,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Esteves"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Esteves"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Esteves"
+        }
+      ],
+      "note": "Table 'Guilherme Aguiar Allery' vs archived OBM/OLC 'Guilherme Ellery' - table kept, unverified."
+    },
+    {
+      "year": 1994,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Balreira"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Balreira"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Balreira"
+        }
+      ],
+      "note": "Table 'Davi Araújo Lima' / archived 'Davi Araújo' written as IMO 1995 'Davi Ponciano Araújo Lima' - ASSUMED same person (Fortaleza junior team -> IMO the following year); not independently documented."
+    },
+    {
+      "year": 1995,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Aroldo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Aroldo"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Aroldo"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Vajapeyam"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Vajapeyam"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Vajapeyam"
+        }
+      ],
+      "note": "'Emanuel A. de Souza Carneiro' expanded per the archived OBM page (Emanuel Augusto de Souza Carneiro = IMO 'Emanuel Carneiro'). 'Vajapeyam' as in the OIM dataset."
+    },
+    {
+      "year": 1997,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Iveson"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Iveson"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Iveson"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Simoni Gouveia"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Simoni Gouveia"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Simoni Gouveia"
+        }
+      ],
+      "note": "'Jônathas D.' = Diógenes (archived OBM, OLC)."
+    },
+    {
+      "year": 1999,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Sobreira"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Sobreira"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Sobreira"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Naves de Brito"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Naves de Brito"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Naves de Brito"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Einstein"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Einstein"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Einstein"
+        }
+      ],
+      "note": "Einstein do Nascimento Jr.: certificate (no medal)."
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Carrah"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Carrah"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Carrah"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Hsu"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Hsu"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Hsu"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Telmo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Telmo"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Telmo"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Tupynambá"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Tupynambá"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Tupynambá"
+        }
+      ],
+      "note": "Edson Augusto Bezerra Lopes = IMO 2005 'Edson Bezerra Lopes' (site alias)."
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Pondé"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Pondé"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Pondé"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Grazielly"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Grazielly"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Grazielly"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Marins"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Marins"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Marins"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Militão"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Militão"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/conesul_88_07.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 1988-2009 teams + medals",
+          "needle": "Militão"
+        }
+      ],
+      "note": "Matheus Barros de Paula (São Paulo) merges by exact name with the IJSO 2007-08 / OIbF 2010 contestant - junior science -> under-16 math -> physics progression, same city."
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Camelo"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Camelo"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Canto Costa"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Canto Costa"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Belfort"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Belfort"
+        }
+      ],
+      "note": "'Tadeu P. de Matos Belfort Neto' = Tadeu Pires (OBM award lists 2012-15). 'Henrique G. Fiuza' = Gasparini Fiúza."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Santana Rocha"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 1988-2013",
+          "needle": "Santana Rocha"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/brasileiros-vencem-cone-sul-2013/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: 4 names, ages, cities, medals; leaders (photo caption)",
+          "needle": "Zanarella"
+        }
+      ],
+      "note": "Sacramento de Oliveira at 13 (NOIC) - first of three Cono Sur medals (2013-15)."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Vercelli"
+        },
+        {
+          "url": "https://noic.com.br/matematica/quatro-medalhas-brasileiras-na-olimpiada-cone-sul/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Vercelli"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Kowalczuk"
+        },
+        {
+          "url": "https://www.obm.org.br/2015/05/18/brasil-conquista-o-primeiro-lugar-geral-por-paises-na-26a-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, cities, medals; leaders; team champion (Temuco)",
+          "needle": "Kowalczuk"
+        },
+        {
+          "url": "https://noic.com.br/matematica/quatro-medalhas-para-o-brasil-na-cone-sul-de-matematica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Carneiro Porto"
+        }
+      ],
+      "note": "Vitor Augusto CARNEIRO Porto - OBM's award lists 2013-16 and this table agree; the 'Cariveiro' of the APMO sources is a typo (see apmo/ 2016 note)."
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://www.obm.org.br/2016/05/11/brasil-conquista-quatro-medalhas-na-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, cities, points, medals; leaders",
+          "needle": "Kowalczuk"
+        },
+        {
+          "url": "https://noic.com.br/matematica/quatro-medalhas-para-o-brasil-na-olimpiada-matematica-do-cone-sul/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Sponchiado"
+        },
+        {
+          "url": "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/olimp_conesul.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2017 snapshot): 2016 team, cities, medals",
+          "needle": "Kowalczuk"
+        }
+      ],
+      "note": "'Mateus Siqueira Thimóteo' (OBM post: 'Timóteo'). Vicente López, Argentina."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Hippolyto"
+        },
+        {
+          "url": "https://www.obm.org.br/2017/08/21/ouro-perfeito-coroa-participacao-do-brasil-na-olimpiada-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results (Guayaquil)",
+          "needle": "Trevizan"
+        },
+        {
+          "url": "https://noic.com.br/matematica/dois-ouros-para-o-brasil-na-olimpiada-de-matematica-cone-sul/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms) + medals",
+          "needle": "Marcelo Hippolyto"
+        },
+        {
+          "url": "https://impa.br/notices/ouro-perfeito-coroa-participacao-do-brasil-na-olimpiada-cone-sul/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names + medals), Guayaquil 15-21 Aug",
+          "needle": "Hippolyto"
+        },
+        {
+          "url": "https://impa.br/notices/com-presenca-feminina-brasil-quer-o-topo-na-cone-sul/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "partial (pre-event)",
+          "confirms": "IMPA: team feature (first girl on a Brazilian Cono Sur team)",
+          "needle": "Bigolin"
+        }
+      ],
+      "note": "Mariana Bigolin Groff (EGMO 2017-19) - first girl on a Brazilian Cono Sur team (IMPA). Bruno Barros de Sousa (Xambioá - TO). Guayaquil."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Gomes Cabral"
+        },
+        {
+          "url": "https://www.obm.org.br/2018/08/28/brasil-conquista-quatro-medalhas-na-olimpiada-do-cone-sul-em-maceio/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names + medals; leaders; Maceió",
+          "needle": "Gomes Cabral"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-leva-ouro-perfeito-na-cone-sul-2018-veja-o-resultado/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms) + medals",
+          "needle": "Gabriel Ribeiro Paiva"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-quatro-medalhas-na-cone-sul/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names + medals)",
+          "needle": "Gomes Cabral"
+        },
+        {
+          "url": "https://impa.br/notices/definidas-as-equipes-para-as-disputas-da-cone-sul-e-cplp/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement (full names, cities, leader)",
+          "needle": "Gomes Cabral"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Neves da Cruz"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/09/02/11538/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results table; leaders; Sucre; team champion",
+          "needle": "Neves da Cruz"
+        },
+        {
+          "url": "https://noic.com.br/matematica/cone-sul/2-ouros-e-2-pratas-para-o-brasil-na-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Longo"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-e-campeao-da-30a-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (4 names, cities, points); leaders",
+          "needle": "Neves da Cruz"
+        },
+        {
+          "url": "https://impa.br/notices/equipe-brasileira-esta-na-bolivia-para-disputar-a-cone-sul/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team at the venue (full names, cities)",
+          "needle": "Neves da Cruz"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Yvens"
+        },
+        {
+          "url": "https://www.obm.org.br/2020/12/07/brasil-encerra-participacao-na-cone-sul-com-quatro-medalhas/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "results published as an image (no names in text)",
+          "confirms": "OBM news: 1G/3S, 2nd place, virtual edition"
+        },
+        {
+          "url": "https://noic.com.br/matematica/cone-sul/saiu-o-resultado-da-olimpiada-de-matematica-do-cone-sul-2020/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names + medals",
+          "needle": "Domingos Porto"
+        }
+      ],
+      "note": "Virtual edition (Brazil host); 2021 also virtual (Paraguay host)."
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Dellaroli"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/12/03/brasil-conquista-quatro-medalhas-na-32a-olimpiada-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results table (virtual edition)",
+          "needle": "Dellaroli"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Bastos"
+        },
+        {
+          "url": "https://www.obm.org.br/2022/08/08/brasil-e-campeao-na-33a-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: results table; Mehuín; team champion",
+          "needle": "Bastos"
+        }
+      ],
+      "note": "Short forms 'Leonardo Maldonado' / 'Gabriel Bastos Duarte' expanded per APMO/OBM (Leonardo Henrique Fakhreddine Maldonado, Gabriel Bastos Vasconcelos Duarte). Mehuín, Chile."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Linhares"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/08/10/brasil-vence-olimpiada-de-matematica-do-cone-sul-e-fica-em-1o-lugar-no-ranking-de-paises/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; Buenos Aires; team champion",
+          "needle": "Fontenele"
+        }
+      ],
+      "note": "Table 'Fontenelle' vs OBM post + APMO official/OBM 'Fontenele' -> Rodrigo Fontenele de Oliveira Linhares. Buenos Aires."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Feltran"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/09/30/brasil-e-campeao-da-35a-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; Fortaleza; team champion",
+          "needle": "Feltran"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Amiune"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/06/08/brasil-conquista-tres-pratas-e-um-bronze-na-36a-olimpiada-de-matematica-do-cone-sul-e-garante-segundo-lugar-por-paises/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; Uruguay; 2nd place",
+          "needle": "Amiune"
+        }
+      ],
+      "note": "36th edition, Uruguay. Maria Clara Fontes Silva = the EGOI/IOI/OII/EGMO/APMO contestant (Aracaju)."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 37 editions): names, city/state, medal/certificate",
+          "needle": "Benício"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/08/09/brasil-conquista-segundo-lugar-na-37a-olimpiada-de-matematica-do-cone-sul/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, points, medals; leaders; Peru; 2nd place",
+          "needle": "Benício"
+        }
+      ],
+      "note": "37th edition, Peru, held August 2026 (OBM post 2026-08-09). Two sources, one organization (OBM table + OBM news) - THIRD SOURCE PENDING (searched NOIC, IMPA, Google News 2026-09-09)."
+    }
+  ]
+}

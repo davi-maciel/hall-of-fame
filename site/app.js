@@ -14,6 +14,7 @@ const NOTE = {
   "inferred-no-award": { text: "—", label: "Sem medalha (inferido da contagem oficial)" },
   unknown: { text: "", label: "Medalha ainda não atribuída individualmente" },
   pending: { text: "pendente", label: "Evento ainda não realizado / resultado pendente" },
+  "hors-concours": { text: "h.c.", label: "Participou hors concours (fora da classificação; 1º prêmio em 1990)" },
 };
 
 let DATA = null;

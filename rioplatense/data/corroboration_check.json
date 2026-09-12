@@ -1,0 +1,241 @@
+{
+  "checkedAt": "2026-09-09T21:29:22+00:00",
+  "summary": {
+    "PASS": 28,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 1996,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr5.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Catae'"
+    },
+    {
+      "year": 1996,
+      "url": "https://noic.com.br/olimpiadas/matematica/rioplatense/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 1997,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr6.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Nascimento'"
+    },
+    {
+      "year": 1998,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr7.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Honda Saito'"
+    },
+    {
+      "year": 1999,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr8.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Alinson'"
+    },
+    {
+      "year": 2000,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr9.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gukovas'"
+    },
+    {
+      "year": 2001,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr10.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Braun Vieira'"
+    },
+    {
+      "year": 2002,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr11.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Luty'"
+    },
+    {
+      "year": 2003,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr12.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Carrah'"
+    },
+    {
+      "year": 2004,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr13.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Regitano'"
+    },
+    {
+      "year": 2005,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr14.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Sorensen'"
+    },
+    {
+      "year": 2006,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr15.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gleycianne'"
+    },
+    {
+      "year": 2007,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr16.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2008,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr17.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2009,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr18.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Achjian'"
+    },
+    {
+      "year": 2010,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr19.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tsuzuki'"
+    },
+    {
+      "year": 2011,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr20.htm",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fazoli'"
+    },
+    {
+      "year": 2012,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr21.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Hisatsuga'"
+    },
+    {
+      "year": 2013,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr22.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Nishimoto'"
+    },
+    {
+      "year": 2014,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr23.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Degelo'"
+    },
+    {
+      "year": 2015,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr24.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Dominguez'"
+    },
+    {
+      "year": 2016,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr25.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ticianelli'"
+    },
+    {
+      "year": 2017,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr26.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Saneshima'"
+    },
+    {
+      "year": 2018,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr27.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Maziviero'"
+    },
+    {
+      "year": 2019,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr28.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vichinsky'"
+    },
+    {
+      "year": 2022,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr29.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Busetti'"
+    },
+    {
+      "year": 2023,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr30.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Stabenow'"
+    },
+    {
+      "year": 2024,
+      "url": "https://oma.org.ar/old_oma/internacional/resultados-omr31.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Koshimizu'"
+    },
+    {
+      "year": 2025,
+      "url": "https://oma.org.ar/contents/paginas/contents/32_rio_resultados.html",
+      "domain": "oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gastao'"
+    }
+  ]
+}

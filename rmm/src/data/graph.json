@@ -1,0 +1,1954 @@
+{
+  "students": {
+    "alessandro-mathias-machado": {
+      "id": "alessandro-mathias-machado",
+      "name": "Alessandro Mathias Machado",
+      "searchKey": "alessandro mathias machado",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "enzo-holanda-sampaio": {
+      "id": "enzo-holanda-sampaio",
+      "name": "Enzo Holanda Sampaio",
+      "searchKey": "enzo holanda sampaio",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "fabio-medeiros-ferraz-de-campos": {
+      "id": "fabio-medeiros-ferraz-de-campos",
+      "name": "Fábio Medeiros Ferraz de Campos",
+      "searchKey": "fabio medeiros ferraz de campos",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2026,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "levi-magalhaes-pereira-castello-branco": {
+      "id": "levi-magalhaes-pereira-castello-branco",
+      "name": "Levi Magalhães Pereira Castello Branco",
+      "searchKey": "levi magalhaes pereira castello branco",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "paulo-jonatas-de-oliveira-pimentel-leite": {
+      "id": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "name": "Paulo Jônatas de Oliveira Pimentel Leite",
+      "searchKey": "paulo jonatas de oliveira pimentel leite",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rafael-alves-amiune": {
+      "id": "rafael-alves-amiune",
+      "name": "Rafael Alves Amiune",
+      "searchKey": "rafael alves amiune",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gustavo-neves-da-cruz": {
+      "id": "gustavo-neves-da-cruz",
+      "name": "Gustavo Neves da Cruz",
+      "searchKey": "gustavo neves da cruz",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "marcelo-machado-lage": {
+      "id": "marcelo-machado-lage",
+      "name": "Marcelo Machado Lage",
+      "searchKey": "marcelo machado lage",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "miguel-de-carvalho-oliveira": {
+      "id": "miguel-de-carvalho-oliveira",
+      "name": "Miguel de Carvalho Oliveira",
+      "searchKey": "miguel de carvalho oliveira",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2021,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "olavo-paschoal-longo": {
+      "id": "olavo-paschoal-longo",
+      "name": "Olavo Paschoal Longo",
+      "searchKey": "olavo paschoal longo",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pablo-andrade-carvalho-barros": {
+      "id": "pablo-andrade-carvalho-barros",
+      "name": "Pablo Andrade Carvalho Barros",
+      "searchKey": "pablo andrade carvalho barros",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2021,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "rodrigo-salgado-domingos-porto": {
+      "id": "rodrigo-salgado-domingos-porto",
+      "name": "Rodrigo Salgado Domingos Porto",
+      "searchKey": "rodrigo salgado domingos porto",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2021,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "bernardo-peruzzo-trevizan": {
+      "id": "bernardo-peruzzo-trevizan",
+      "name": "Bernardo Peruzzo Trevizan",
+      "searchKey": "bernardo peruzzo trevizan",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2018,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2019,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "francisco-moreira-machado-neto": {
+      "id": "francisco-moreira-machado-neto",
+      "name": "Francisco Moreira Machado Neto",
+      "searchKey": "francisco moreira machado neto",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "gabriel-ribeiro-paiva": {
+      "id": "gabriel-ribeiro-paiva",
+      "name": "Gabriel Ribeiro Paiva",
+      "searchKey": "gabriel ribeiro paiva",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "guilherme-zeus-dantas-e-moura": {
+      "id": "guilherme-zeus-dantas-e-moura",
+      "name": "Guilherme Zeus Dantas e Moura",
+      "searchKey": "guilherme zeus dantas e moura",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2019,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "pedro-gomes-cabral": {
+      "id": "pedro-gomes-cabral",
+      "name": "Pedro Gomes Cabral",
+      "searchKey": "pedro gomes cabral",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2018,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-lucas-lanaro-sponchiado": {
+      "id": "pedro-lucas-lanaro-sponchiado",
+      "name": "Pedro Lucas Lanaro Sponchiado",
+      "searchKey": "pedro lucas lanaro sponchiado",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "samuel-prieto-lima": {
+      "id": "samuel-prieto-lima",
+      "name": "Samuel Prieto Lima",
+      "searchKey": "samuel prieto lima",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "bruno-brasil-meinhart": {
+      "id": "bruno-brasil-meinhart",
+      "name": "Bruno Brasil Meinhart",
+      "searchKey": "bruno brasil meinhart",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2018,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "gabriel-tostes-messias-pereira": {
+      "id": "gabriel-tostes-messias-pereira",
+      "name": "Gabriel Tostes Messias Pereira",
+      "searchKey": "gabriel tostes messias pereira",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2018,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "lucas-hiroshi-hanke-harada": {
+      "id": "lucas-hiroshi-hanke-harada",
+      "name": "Lucas Hiroshi Hanke Harada",
+      "searchKey": "lucas hiroshi hanke harada",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": null
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2018,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "tarcisio-soares-teixeira-neto": {
+      "id": "tarcisio-soares-teixeira-neto",
+      "name": "Tarcísio Soares Teixeira Neto",
+      "searchKey": "tarcisio soares teixeira neto",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2018,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "andre-yuji-hisatsuga": {
+      "id": "andre-yuji-hisatsuga",
+      "name": "André Yuji Hisatsuga",
+      "searchKey": "andre yuji hisatsuga",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "davi-cavalcanti-sena": {
+      "id": "davi-cavalcanti-sena",
+      "name": "Davi Cavalcanti Sena",
+      "searchKey": "davi cavalcanti sena",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": null
+        }
+      ]
+    },
+    "george-lucas-diniz-alencar": {
+      "id": "george-lucas-diniz-alencar",
+      "name": "George Lucas Diniz Alencar",
+      "searchKey": "george lucas diniz alencar",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2016,
+          "medal": null
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "guilherme-goulart-kowalczuk": {
+      "id": "guilherme-goulart-kowalczuk",
+      "name": "Guilherme Goulart Kowalczuk",
+      "searchKey": "guilherme goulart kowalczuk",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "joao-cesar-campos-vargas": {
+      "id": "joao-cesar-campos-vargas",
+      "name": "João César Campos Vargas",
+      "searchKey": "joao cesar campos vargas",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2016,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "mateus-siqueira-thimoteo": {
+      "id": "mateus-siqueira-thimoteo",
+      "name": "Mateus Siqueira Thimóteo",
+      "searchKey": "mateus siqueira thimoteo",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-henrique-sacramento-de-oliveira": {
+      "id": "pedro-henrique-sacramento-de-oliveira",
+      "name": "Pedro Henrique Sacramento de Oliveira",
+      "searchKey": "pedro henrique sacramento de oliveira",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2015,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2016,
+          "medal": null
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2017,
+          "medal": null
+        }
+      ]
+    },
+    "andrey-jhen-shan-chen": {
+      "id": "andrey-jhen-shan-chen",
+      "name": "Andrey Jhen Shan Chen",
+      "searchKey": "andrey jhen shan chen",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "daniel-lima-braga": {
+      "id": "daniel-lima-braga",
+      "name": "Daniel Lima Braga",
+      "searchKey": "daniel lima braga",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2015,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriel-toneatti-vercelli": {
+      "id": "gabriel-toneatti-vercelli",
+      "name": "Gabriel Toneatti Vercelli",
+      "searchKey": "gabriel toneatti vercelli",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "alessandro-augusto-pinto-de-oliveira-pacanowski": {
+      "id": "alessandro-augusto-pinto-de-oliveira-pacanowski",
+      "name": "Alessandro Augusto Pinto de Oliveira Pacanowski",
+      "searchKey": "alessandro augusto pinto de oliveira pacanowski",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2015,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "gabriel-fazoli-domingos": {
+      "id": "gabriel-fazoli-domingos",
+      "name": "Gabriel Fazoli Domingos",
+      "searchKey": "gabriel fazoli domingos",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2015,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "lucas-pereira-galvao-de-barros": {
+      "id": "lucas-pereira-galvao-de-barros",
+      "name": "Lucas Pereira Galvão de Barros",
+      "searchKey": "lucas pereira galvao de barros",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2015,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "murilo-corato-zanarella": {
+      "id": "murilo-corato-zanarella",
+      "name": "Murilo Corato Zanarella",
+      "searchKey": "murilo corato zanarella",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2015,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "franco-matheus-de-alencar-severo": {
+      "id": "franco-matheus-de-alencar-severo",
+      "name": "Franco Matheus de Alencar Severo",
+      "searchKey": "franco matheus de alencar severo",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2013,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "rafael-kazuhiro-miyazaki": {
+      "id": "rafael-kazuhiro-miyazaki",
+      "name": "Rafael Kazuhiro Miyazaki",
+      "searchKey": "rafael kazuhiro miyazaki",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2012,
+          "medal": null
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2013,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "rafael-rodrigues-rocha-de-melo": {
+      "id": "rafael-rodrigues-rocha-de-melo",
+      "name": "Rafael Rodrigues Rocha de Melo",
+      "searchKey": "rafael rodrigues rocha de melo",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rodrigo-sanches-angelo": {
+      "id": "rodrigo-sanches-angelo",
+      "name": "Rodrigo Sanches Angelo",
+      "searchKey": "rodrigo sanches angelo",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2012,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2013,
+          "medal": "silver"
+        }
+      ]
+    },
+    "victor-oliveira-reis": {
+      "id": "victor-oliveira-reis",
+      "name": "Victor Oliveira Reis",
+      "searchKey": "victor oliveira reis",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "victor-de-oliveira-bitaraes": {
+      "id": "victor-de-oliveira-bitaraes",
+      "name": "Victor de Oliveira Bitarães",
+      "searchKey": "victor de oliveira bitaraes",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2013,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "andre-macieira-braga-costa": {
+      "id": "andre-macieira-braga-costa",
+      "name": "André Macieira Braga Costa",
+      "searchKey": "andre macieira braga costa",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2012,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "henrique-gasparini-fiuza-do-nascimento": {
+      "id": "henrique-gasparini-fiuza-do-nascimento",
+      "name": "Henrique Gasparini Fiúza do Nascimento",
+      "searchKey": "henrique gasparini fiuza do nascimento",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2012,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "joao-lucas-camelo-sa": {
+      "id": "joao-lucas-camelo-sa",
+      "name": "João Lucas Camelo Sá",
+      "searchKey": "joao lucas camelo sa",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2011,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "maria-clara-mendes-silva": {
+      "id": "maria-clara-mendes-silva",
+      "name": "Maria Clara Mendes Silva",
+      "searchKey": "maria clara mendes silva",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2011,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2012,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "deborah-barbosa-alves": {
+      "id": "deborah-barbosa-alves",
+      "name": "Deborah Barbosa Alves",
+      "searchKey": "deborah barbosa alves",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2010,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2011,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gustavo-lisboa-empinotti": {
+      "id": "gustavo-lisboa-empinotti",
+      "name": "Gustavo Lisbôa Empinotti",
+      "searchKey": "gustavo lisboa empinotti",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2010,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "rmm",
+          "year": 2011,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "hanon-guy-lima-rossi": {
+      "id": "hanon-guy-lima-rossi",
+      "name": "Hanon Guy Lima Rossi",
+      "searchKey": "hanon guy lima rossi",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2011,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "lucas-lourenco-hernandes": {
+      "id": "lucas-lourenco-hernandes",
+      "name": "Lucas Lourenço Hernandes",
+      "searchKey": "lucas lourenco hernandes",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2011,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "davi-lopes-alves-de-medeiros": {
+      "id": "davi-lopes-alves-de-medeiros",
+      "name": "Davi Lopes Alves de Medeiros",
+      "searchKey": "davi lopes alves de medeiros",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2010,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "hugo-fonseca-araujo": {
+      "id": "hugo-fonseca-araujo",
+      "name": "Hugo Fonseca Araújo",
+      "searchKey": "hugo fonseca araujo",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2010,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "marcelo-tadeu-de-sa-oliveira-sales": {
+      "id": "marcelo-tadeu-de-sa-oliveira-sales",
+      "name": "Marcelo Tadeu de Sá Oliveira Sales",
+      "searchKey": "marcelo tadeu de sa oliveira sales",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2010,
+          "medal": null
+        }
+      ]
+    },
+    "matheus-secco-torres-da-silva": {
+      "id": "matheus-secco-torres-da-silva",
+      "name": "Matheus Secco Torres da Silva",
+      "searchKey": "matheus secco torres da silva",
+      "participations": [
+        {
+          "olympiad": "rmm",
+          "year": 2010,
+          "medal": null
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "davi-lopes-alves-de-medeiros",
+      "target": "deborah-barbosa-alves",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "davi-lopes-alves-de-medeiros",
+      "target": "gustavo-lisboa-empinotti",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "davi-lopes-alves-de-medeiros",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "davi-lopes-alves-de-medeiros",
+      "target": "marcelo-tadeu-de-sa-oliveira-sales",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "davi-lopes-alves-de-medeiros",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "gustavo-lisboa-empinotti",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "marcelo-tadeu-de-sa-oliveira-sales",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "marcelo-tadeu-de-sa-oliveira-sales",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "hugo-fonseca-araujo",
+      "target": "marcelo-tadeu-de-sa-oliveira-sales",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "hugo-fonseca-araujo",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "marcelo-tadeu-de-sa-oliveira-sales",
+      "target": "matheus-secco-torres-da-silva",
+      "olympiad": "rmm",
+      "year": 2010
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "gustavo-lisboa-empinotti",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "hanon-guy-lima-rossi",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "lucas-lourenco-hernandes",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "deborah-barbosa-alves",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "hanon-guy-lima-rossi",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "lucas-lourenco-hernandes",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "gustavo-lisboa-empinotti",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "hanon-guy-lima-rossi",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "hanon-guy-lima-rossi",
+      "target": "lucas-lourenco-hernandes",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "hanon-guy-lima-rossi",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "joao-lucas-camelo-sa",
+      "target": "lucas-lourenco-hernandes",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "joao-lucas-camelo-sa",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "lucas-lourenco-hernandes",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2011
+    },
+    {
+      "source": "andre-macieira-braga-costa",
+      "target": "henrique-gasparini-fiuza-do-nascimento",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "andre-macieira-braga-costa",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "andre-macieira-braga-costa",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "andre-macieira-braga-costa",
+      "target": "rafael-kazuhiro-miyazaki",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "andre-macieira-braga-costa",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "joao-lucas-camelo-sa",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "rafael-kazuhiro-miyazaki",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "henrique-gasparini-fiuza-do-nascimento",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "joao-lucas-camelo-sa",
+      "target": "maria-clara-mendes-silva",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "joao-lucas-camelo-sa",
+      "target": "rafael-kazuhiro-miyazaki",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "joao-lucas-camelo-sa",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "maria-clara-mendes-silva",
+      "target": "rafael-kazuhiro-miyazaki",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "maria-clara-mendes-silva",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2012
+    },
+    {
+      "source": "franco-matheus-de-alencar-severo",
+      "target": "rafael-kazuhiro-miyazaki",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "franco-matheus-de-alencar-severo",
+      "target": "rafael-rodrigues-rocha-de-melo",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "franco-matheus-de-alencar-severo",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "franco-matheus-de-alencar-severo",
+      "target": "victor-de-oliveira-bitaraes",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "franco-matheus-de-alencar-severo",
+      "target": "victor-oliveira-reis",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "rafael-rodrigues-rocha-de-melo",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "victor-de-oliveira-bitaraes",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-kazuhiro-miyazaki",
+      "target": "victor-oliveira-reis",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-rodrigues-rocha-de-melo",
+      "target": "rodrigo-sanches-angelo",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-rodrigues-rocha-de-melo",
+      "target": "victor-de-oliveira-bitaraes",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rafael-rodrigues-rocha-de-melo",
+      "target": "victor-oliveira-reis",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rodrigo-sanches-angelo",
+      "target": "victor-de-oliveira-bitaraes",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "rodrigo-sanches-angelo",
+      "target": "victor-oliveira-reis",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "victor-de-oliveira-bitaraes",
+      "target": "victor-oliveira-reis",
+      "olympiad": "rmm",
+      "year": 2013
+    },
+    {
+      "source": "alessandro-augusto-pinto-de-oliveira-pacanowski",
+      "target": "daniel-lima-braga",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "alessandro-augusto-pinto-de-oliveira-pacanowski",
+      "target": "gabriel-fazoli-domingos",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "alessandro-augusto-pinto-de-oliveira-pacanowski",
+      "target": "lucas-pereira-galvao-de-barros",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "alessandro-augusto-pinto-de-oliveira-pacanowski",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "alessandro-augusto-pinto-de-oliveira-pacanowski",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "gabriel-fazoli-domingos",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "lucas-pereira-galvao-de-barros",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "gabriel-fazoli-domingos",
+      "target": "lucas-pereira-galvao-de-barros",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "gabriel-fazoli-domingos",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "gabriel-fazoli-domingos",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "lucas-pereira-galvao-de-barros",
+      "target": "murilo-corato-zanarella",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "lucas-pereira-galvao-de-barros",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "murilo-corato-zanarella",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2015
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "daniel-lima-braga",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "gabriel-toneatti-vercelli",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "george-lucas-diniz-alencar",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "andrey-jhen-shan-chen",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "gabriel-toneatti-vercelli",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "george-lucas-diniz-alencar",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "daniel-lima-braga",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "gabriel-toneatti-vercelli",
+      "target": "george-lucas-diniz-alencar",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "gabriel-toneatti-vercelli",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "gabriel-toneatti-vercelli",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "joao-cesar-campos-vargas",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2016
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "bruno-brasil-meinhart",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "davi-cavalcanti-sena",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "george-lucas-diniz-alencar",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "guilherme-goulart-kowalczuk",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "andre-yuji-hisatsuga",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "davi-cavalcanti-sena",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "george-lucas-diniz-alencar",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "guilherme-goulart-kowalczuk",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "davi-cavalcanti-sena",
+      "target": "george-lucas-diniz-alencar",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "davi-cavalcanti-sena",
+      "target": "guilherme-goulart-kowalczuk",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "davi-cavalcanti-sena",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "davi-cavalcanti-sena",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "davi-cavalcanti-sena",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "davi-cavalcanti-sena",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "guilherme-goulart-kowalczuk",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "george-lucas-diniz-alencar",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "joao-cesar-campos-vargas",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "guilherme-goulart-kowalczuk",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "joao-cesar-campos-vargas",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "joao-cesar-campos-vargas",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "joao-cesar-campos-vargas",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "lucas-hiroshi-hanke-harada",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "lucas-hiroshi-hanke-harada",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "mateus-siqueira-thimoteo",
+      "target": "pedro-henrique-sacramento-de-oliveira",
+      "olympiad": "rmm",
+      "year": 2017
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "bruno-brasil-meinhart",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "gabriel-tostes-messias-pereira",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "tarcisio-soares-teixeira-neto",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "gabriel-tostes-messias-pereira",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bruno-brasil-meinhart",
+      "target": "tarcisio-soares-teixeira-neto",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-tostes-messias-pereira",
+      "target": "lucas-hiroshi-hanke-harada",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-tostes-messias-pereira",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-tostes-messias-pereira",
+      "target": "tarcisio-soares-teixeira-neto",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "lucas-hiroshi-hanke-harada",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "lucas-hiroshi-hanke-harada",
+      "target": "tarcisio-soares-teixeira-neto",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "pedro-gomes-cabral",
+      "target": "tarcisio-soares-teixeira-neto",
+      "olympiad": "rmm",
+      "year": 2018
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "guilherme-zeus-dantas-e-moura",
+      "olympiad": "rmm",
+      "year": 2019
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "rmm",
+      "year": 2019
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "samuel-prieto-lima",
+      "olympiad": "rmm",
+      "year": 2019
+    },
+    {
+      "source": "guilherme-zeus-dantas-e-moura",
+      "target": "pedro-lucas-lanaro-sponchiado",
+      "olympiad": "rmm",
+      "year": 2019
+    },
+    {
+      "source": "guilherme-zeus-dantas-e-moura",
+      "target": "samuel-prieto-lima",
+      "olympiad": "rmm",
+      "year": 2019
+    },
+    {
+      "source": "pedro-lucas-lanaro-sponchiado",
+      "target": "samuel-prieto-lima",
+      "olympiad": "rmm",
+      "year": 2019
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "francisco-moreira-machado-neto",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "gabriel-ribeiro-paiva",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "guilherme-zeus-dantas-e-moura",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "bernardo-peruzzo-trevizan",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "francisco-moreira-machado-neto",
+      "target": "gabriel-ribeiro-paiva",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "francisco-moreira-machado-neto",
+      "target": "guilherme-zeus-dantas-e-moura",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "francisco-moreira-machado-neto",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "francisco-moreira-machado-neto",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "francisco-moreira-machado-neto",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "gabriel-ribeiro-paiva",
+      "target": "guilherme-zeus-dantas-e-moura",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "gabriel-ribeiro-paiva",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "gabriel-ribeiro-paiva",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "gabriel-ribeiro-paiva",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "guilherme-zeus-dantas-e-moura",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "guilherme-zeus-dantas-e-moura",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "guilherme-zeus-dantas-e-moura",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "olavo-paschoal-longo",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "olavo-paschoal-longo",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "pablo-andrade-carvalho-barros",
+      "target": "pedro-gomes-cabral",
+      "olympiad": "rmm",
+      "year": 2020
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "marcelo-machado-lage",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "miguel-de-carvalho-oliveira",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "gustavo-neves-da-cruz",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "marcelo-machado-lage",
+      "target": "miguel-de-carvalho-oliveira",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "marcelo-machado-lage",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "marcelo-machado-lage",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "marcelo-machado-lage",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "miguel-de-carvalho-oliveira",
+      "target": "olavo-paschoal-longo",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "miguel-de-carvalho-oliveira",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "miguel-de-carvalho-oliveira",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "olavo-paschoal-longo",
+      "target": "pablo-andrade-carvalho-barros",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "olavo-paschoal-longo",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "pablo-andrade-carvalho-barros",
+      "target": "rodrigo-salgado-domingos-porto",
+      "olympiad": "rmm",
+      "year": 2021
+    },
+    {
+      "source": "alessandro-mathias-machado",
+      "target": "enzo-holanda-sampaio",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "alessandro-mathias-machado",
+      "target": "fabio-medeiros-ferraz-de-campos",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "alessandro-mathias-machado",
+      "target": "levi-magalhaes-pereira-castello-branco",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "alessandro-mathias-machado",
+      "target": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "alessandro-mathias-machado",
+      "target": "rafael-alves-amiune",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "fabio-medeiros-ferraz-de-campos",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "levi-magalhaes-pereira-castello-branco",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "rafael-alves-amiune",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "fabio-medeiros-ferraz-de-campos",
+      "target": "levi-magalhaes-pereira-castello-branco",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "fabio-medeiros-ferraz-de-campos",
+      "target": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "fabio-medeiros-ferraz-de-campos",
+      "target": "rafael-alves-amiune",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "levi-magalhaes-pereira-castello-branco",
+      "target": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "levi-magalhaes-pereira-castello-branco",
+      "target": "rafael-alves-amiune",
+      "olympiad": "rmm",
+      "year": 2026
+    },
+    {
+      "source": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "target": "rafael-alves-amiune",
+      "olympiad": "rmm",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-09T21:17:59.529612+00:00",
+    "studentCount": 55,
+    "edgeCount": 198
+  }
+}

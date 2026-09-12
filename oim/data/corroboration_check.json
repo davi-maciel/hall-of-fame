@@ -1,0 +1,962 @@
+{
+  "checkedAt": "2026-09-09T07:27:50+00:00",
+  "summary": {
+    "PASS": 102,
+    "FAIL-HTTP": 16,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 1985,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Teixeira'"
+    },
+    {
+      "year": 1985,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Teixeira'"
+    },
+    {
+      "year": 1985,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Teixeira'"
+    },
+    {
+      "year": 1987,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fritz Braga'"
+    },
+    {
+      "year": 1987,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fritz Braga'"
+    },
+    {
+      "year": 1987,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "year": 1988,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Adami'"
+    },
+    {
+      "year": 1988,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Adami'"
+    },
+    {
+      "year": 1988,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Adami'"
+    },
+    {
+      "year": 1989,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carvalho Torres'"
+    },
+    {
+      "year": 1989,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carvalho Torres'"
+    },
+    {
+      "year": 1989,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Carvalho Torres'"
+    },
+    {
+      "year": 1990,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Meggiolaro'"
+    },
+    {
+      "year": 1990,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Meggiolaro'"
+    },
+    {
+      "year": 1990,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Meggiolaro'"
+    },
+    {
+      "year": 1991,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Laber'"
+    },
+    {
+      "year": 1991,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Laber'"
+    },
+    {
+      "year": 1991,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Laber'"
+    },
+    {
+      "year": 1992,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tengan'"
+    },
+    {
+      "year": 1992,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tengan'"
+    },
+    {
+      "year": 1992,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Tengan'"
+    },
+    {
+      "year": 1993,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Penharrubia'"
+    },
+    {
+      "year": 1993,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Penharrubia'"
+    },
+    {
+      "year": 1993,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Penharrubia'"
+    },
+    {
+      "year": 1994,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cancherini'"
+    },
+    {
+      "year": 1994,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cancherini'"
+    },
+    {
+      "year": 1994,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Cancherini'"
+    },
+    {
+      "year": 1995,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cordeiro de Melo'"
+    },
+    {
+      "year": 1995,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cordeiro de Melo'"
+    },
+    {
+      "year": 1995,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_85_95.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1996,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arroyo'"
+    },
+    {
+      "year": 1996,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Arroyo'"
+    },
+    {
+      "year": 1996,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1997,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vajapeyam'"
+    },
+    {
+      "year": 1997,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vajapeyam'"
+    },
+    {
+      "year": 1997,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Catae'"
+    },
+    {
+      "year": 1998,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Catae'"
+    },
+    {
+      "year": 1998,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 1999,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iveson'"
+    },
+    {
+      "year": 1999,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iveson'"
+    },
+    {
+      "year": 1999,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2000,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Nobuo Uno'"
+    },
+    {
+      "year": 2000,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Nobuo Uno'"
+    },
+    {
+      "year": 2000,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 2001,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 2001,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2002,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Naves'"
+    },
+    {
+      "year": 2002,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Naves'"
+    },
+    {
+      "year": 2002,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2003,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feitosa'"
+    },
+    {
+      "year": 2003,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feitosa'"
+    },
+    {
+      "year": 2003,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2004,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hirama'"
+    },
+    {
+      "year": 2004,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hirama'"
+    },
+    {
+      "year": 2004,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2005,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hoshina'"
+    },
+    {
+      "year": 2005,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hoshina'"
+    },
+    {
+      "year": 2005,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Linhares Rodrigues'"
+    },
+    {
+      "year": 2006,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Linhares Rodrigues'"
+    },
+    {
+      "year": 2006,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pondé'"
+    },
+    {
+      "year": 2007,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pondé'"
+    },
+    {
+      "year": 2007,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Finder'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Finder'"
+    },
+    {
+      "year": 2008,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lopes Pedroso'"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lopes Pedroso'"
+    },
+    {
+      "year": 2009,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error timed out>"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Empinotti'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Empinotti'"
+    },
+    {
+      "year": 2010,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Empinotti'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2011,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Camelo'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Oliveira Reis'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Oliveira Reis'"
+    },
+    {
+      "year": 2013,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Oliveira Reis'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2014,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.obm.org.br/2014/09/26/estudante-brasileiro-fica-com-a-primeira-colocacao-na-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/uncategorized/brasil-em-primeiro-na-ibero-americana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vercelli'"
+    },
+    {
+      "year": 2015,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/ibero_96_07.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Vercelli'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/matematica/ouro-e-mais-tres-medalhas-para-o-brasil-na-olimpiada-iberoamericana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sacramento'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Jhen Shan'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/olimp_iberoamericana.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Jhen Shan'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/uncategorized/brasil-conquista-tres-ouros-na-olimpiada-iberoamericana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Campos Vargas'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hisatsuga'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/2017/09/26/com-quatro-medalhas-brasil-fica-em-2o-na-ibero-americana/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Meinhart'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/uncategorized/dois-ouros-e-dois-pratas-para-o-brasil-na-ibero-americana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tarcísio Teixeira'"
+    },
+    {
+      "year": 2017,
+      "url": "https://impa.br/notices/com-quatro-medalhas-brasil-fica-em-segundo-na-ibero-americana/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Meinhart'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/2018/09/28/duas-medalhas-de-ouro-e-duas-de-prata-para-brasil-na-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/matematica/saiu-o-resultado-da-ibero-americana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/09/19/equipe-brasileira-traz-tres-ouros-e-uma-prata-da-ibero-americana-realizada-no-mexico/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/uncategorized/o-brasil-conquista-2o-lugar-geral-na-ibero-americana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Trevizan'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/brasil-conquista-tres-ouros-e-uma-prata-na-ibero-americana/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Prieto'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Zeus'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/2020/11/30/brasil-conquista-quatro-medalhas-na-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/uncategorized/confira-os-resultados-do-brasil-na-iberoamericana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carvalho Barros'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Machado Lage'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/10/23/brasil-conquista-tres-ouros-e-uma-prata-na-36a-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Machado Lage'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Torkomian'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2022/10/01/ibero-2022-brasil-conquista-uma-medalha-de-ouro-e-tres-de-prata/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Torkomian'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Giglio'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/09/12/brasil-e-campeao-na-38a-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Giglio'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-olimpiada-ibero-americana-de-matematica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Giglio'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bandeira Lemos'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/09/25/brasil-brilha-na-39a-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bandeira Lemos'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/09/28/brasil-e-campeao-na-olimpiada-ibero-americana-de-matematica-no-chile/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Feltran'"
+    }
+  ]
+}
