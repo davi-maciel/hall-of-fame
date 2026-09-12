@@ -35,7 +35,7 @@ cd site && python3 -m http.server 8741 # then open http://localhost:8741/
 scripts/build_people.py   entity resolution: all */src/data/graph.json -> data/people.json
                           (unified slugifier; prints every multi-variant merge for review)
 scripts/aliases.json      cross-dataset identity fixes (e.g. Cindy Yushi/Yuchi Tsai)
-data/people.json          GENERATED — canonical people + participations (743 / 1012)
+data/people.json          GENERATED — canonical people + participations (1469 / 2979)
 data/olympiads.json       olympiad metadata: code, name, field, scope, palette colors
 index.html / style.css / app.js
 ```

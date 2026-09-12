@@ -29,6 +29,31 @@
       "label": "Ciências (integradas)",
       "light": "#008300",
       "dark": "#008300"
+    },
+    "biologia": {
+      "label": "Biologia",
+      "light": "#7a4fbf",
+      "dark": "#8f66d4"
+    },
+    "linguistica": {
+      "label": "Linguística",
+      "light": "#c2410c",
+      "dark": "#ea580c"
+    },
+    "geografia": {
+      "label": "Geografia",
+      "light": "#0f766e",
+      "dark": "#14b8a6"
+    },
+    "geociencias": {
+      "label": "Geociências",
+      "light": "#92400e",
+      "dark": "#b45309"
+    },
+    "economia": {
+      "label": "Economia",
+      "light": "#475569",
+      "dark": "#94a3b8"
     }
   },
   "olympiads": {
@@ -64,7 +89,7 @@
     },
     "eupho": {
       "code": "EuPhO",
-      "name": "European Physics Olympiad (convidado)",
+      "name": "European Physics Olympiad",
       "field": "fisica",
       "scope": "convidado"
     },
@@ -76,7 +101,7 @@
     },
     "nbpho": {
       "code": "NBPhO",
-      "name": "Nordic-Baltic Physics Olympiad (convidado)",
+      "name": "Nordic-Baltic Physics Olympiad",
       "field": "fisica",
       "scope": "convidado"
     },
@@ -94,7 +119,7 @@
     },
     "egoi": {
       "code": "EGOI",
-      "name": "European Girls' Olympiad in Informatics (convidado)",
+      "name": "European Girls' Olympiad in Informatics",
       "field": "informatica",
       "scope": "convidado"
     },
@@ -109,11 +134,129 @@
       "name": "Olimpíada Ibero-americana de Química",
       "field": "quimica",
       "scope": "ibero"
+    },
+    "apmo": {
+      "code": "APMO",
+      "name": "Asian Pacific Mathematics Olympiad",
+      "field": "matematica",
+      "scope": "asiapac"
+    },
+    "egmo": {
+      "code": "EGMO",
+      "name": "European Girls' Mathematical Olympiad",
+      "field": "matematica",
+      "scope": "convidado"
+    },
+    "oim": {
+      "code": "OIM",
+      "name": "Olimpíada Ibero-americana de Matemática",
+      "field": "matematica",
+      "scope": "ibero"
+    },
+    "conosur": {
+      "code": "Cone Sul",
+      "name": "Olimpíada de Matemática do Cone Sul",
+      "field": "matematica",
+      "scope": "latam"
+    },
+    "omcplp": {
+      "code": "OMCPLP",
+      "name": "Olimpíada de Matemática da Comunidade dos Países de Língua Portuguesa",
+      "field": "matematica",
+      "scope": "lusofona"
+    },
+    "rioplatense": {
+      "code": "Rioplatense",
+      "name": "Olimpíada Rioplatense de Matemática",
+      "field": "matematica",
+      "scope": "latam"
+    },
+    "rmm": {
+      "code": "RMM",
+      "name": "Romanian Master of Mathematics",
+      "field": "matematica",
+      "scope": "convidado"
+    },
+    "pagmo": {
+      "code": "PAGMO",
+      "name": "Pan-American Girls' Mathematical Olympiad",
+      "field": "matematica",
+      "scope": "panam"
+    },
+    "igo": {
+      "code": "IGO",
+      "name": "Iranian Geometry Olympiad",
+      "field": "matematica",
+      "scope": "mundial"
+    },
+    "ibo": {
+      "code": "IBO",
+      "name": "International Biology Olympiad",
+      "field": "biologia",
+      "scope": "mundial"
+    },
+    "oiab": {
+      "code": "OIAB",
+      "name": "Olimpíada Ibero-americana de Biologia",
+      "field": "biologia",
+      "scope": "ibero"
+    },
+    "iao": {
+      "code": "IAO",
+      "name": "International Astronomy Olympiad",
+      "field": "astronomia",
+      "scope": "mundial"
+    },
+    "olaa": {
+      "code": "OLAA",
+      "name": "Olimpíada Latino-Americana de Astronomia e Astronáutica",
+      "field": "astronomia",
+      "scope": "latam"
+    },
+    "iypt": {
+      "code": "IYPT",
+      "name": "International Young Physicists' Tournament",
+      "field": "fisica",
+      "scope": "mundial"
+    },
+    "iol": {
+      "code": "IOL",
+      "name": "International Linguistics Olympiad",
+      "field": "linguistica",
+      "scope": "mundial"
+    },
+    "ieso": {
+      "code": "IESO",
+      "name": "International Earth Science Olympiad",
+      "field": "geociencias",
+      "scope": "mundial"
+    },
+    "igeo": {
+      "code": "iGeo",
+      "name": "International Geography Olympiad",
+      "field": "geografia",
+      "scope": "mundial"
+    },
+    "wopho": {
+      "code": "WoPhO",
+      "name": "World Physics Olympiad",
+      "field": "fisica",
+      "scope": "mundial"
+    },
+    "ieo": {
+      "code": "IEO",
+      "name": "International Economics Olympiad",
+      "field": "economia",
+      "scope": "mundial"
     }
   },
   "scopes": {
     "mundial": "Mundial",
     "ibero": "Ibero-americana",
-    "convidado": "Europeia (convidado)"
+    "convidado": "Europeia",
+    "asiapac": "Ásia-Pacífico",
+    "latam": "Latino-americana / Cone Sul",
+    "lusofona": "Lusófona (CPLP)",
+    "panam": "Pan-americana"
   }
 }

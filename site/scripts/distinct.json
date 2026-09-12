@@ -105,6 +105,411 @@
       "joao-guilherme-odebrecht-rosa",
       "joao-pedro-ramos-viana-costa",
       "unrelated names; surname edit-distance coincidence"
+    ],
+    [
+      "carlos-henrique",
+      "carlos-henrique-de-andrade-silva",
+      "IChO 2001 contestant (short form) vs Fortaleza OBM medalist at APMO 2010 — nine-year gap, different generations (apmo collection, 2026-09-08)"
+    ],
+    [
+      "maria-antonia-correa-picanco-del-nero",
+      "maria-cecilia-ribeiro-pereira-de-melo",
+      "unrelated names; FUZZY class false positive on 'Maria' + Nero/Melo edit distance (egmo collection, 2026-09-08)"
+    ],
+    [
+      "lucas-almeida-oliveira",
+      "lucas-melo-de-oliveira",
+      "different middle names (Almeida vs Melo); OIbF 2021 physics vs Rio de Janeiro OBM medalist at APMO 2018 (apmo collection, 2026-09-08)"
+    ],
+    [
+      "lucas-melo-de-oliveira",
+      "lucas-praca-oliveira",
+      "different middle names (Melo vs Praça); APMO 2018 (RJ) vs EuPhO 2024-25 (apmo collection, 2026-09-08)"
+    ],
+    [
+      "thiago-ribeiro",
+      "thiago-ribeiro-ramos",
+      "IChO 1999 contestant (short form) vs Fortaleza under-16 Cono Sur 2007 silver — eight-year gap, different generations (conosur collection, 2026-09-09)"
+    ],
+    [
+      "henrique-oliveira",
+      "henrique-pongelupp-oliveira",
+      "2020 OBM Maio table short form (Brasília, N2 = born 2005-06) vs IJSO 2023 contestant (born 2007+): age-incompatible (maio collection, 2026-09-09)"
+    ],
+    [
+      "henrique-oliveira",
+      "joao-henrique-oliveira-fontes",
+      "2020 Maio short form (Brasília) vs 2015 Maio bronze (Rio): different first name/city (maio collection, 2026-09-09)"
+    ],
+    [
+      "henrique-oliveira",
+      "pedro-henrique-sacramento-de-oliveira",
+      "2020 Maio short form (Brasília, under 15) vs the 2011-17 SP olympian: era and city (maio collection, 2026-09-09)"
+    ],
+    [
+      "henrique-oliveira",
+      "pedro-henrique-silva-de-oliveira",
+      "2020 Maio short form (Brasília) vs IJSO 2015-16 Fortaleza student: era and city (maio collection, 2026-09-09)"
+    ],
+    [
+      "joao-guilherme-costa-viana",
+      "joao-viana",
+      "2020 Maio short form (Fortaleza) vs APMO 2023 Goiânia student: city mismatch, no documented move (maio collection, 2026-09-09)"
+    ],
+    [
+      "joao-pedro-ramos-viana-costa",
+      "joao-viana",
+      "João Pedro was Maio 2018 N2 (under 15) so over-age for Maio 2020 N2 (maio collection, 2026-09-09)"
+    ],
+    [
+      "andre-saraiva-nobre-dos-santos",
+      "andre-y-o-bastos",
+      "different surnames; FUZZY class false positive (maio collection, 2026-09-09)"
+    ],
+    [
+      "andre-diogo-firmino-dos-santos",
+      "andre-saraiva-nobre-dos-santos",
+      "different middle names; 2016 Maio Fortaleza vs APMO 2010 Fortaleza, six years apart (maio collection, 2026-09-09)"
+    ],
+    [
+      "davi-carvalho-mota",
+      "davi-lima-maia",
+      "different surnames (Mota vs Maia); FUZZY false positive (maio collection, 2026-09-09)"
+    ],
+    [
+      "felipe-abella-cavalcante-mendonca-de-souza",
+      "felipe-bezerra-de-menezes-benicio-de-sousa",
+      "different middle names; IOI 2009-11 vs Maio 2014-16 (maio collection, 2026-09-09)"
+    ],
+    [
+      "joao-santos-pereira",
+      "joao-vitor-tomaz-alves-ferreira",
+      "different surnames (Pereira vs Ferreira); FUZZY false positive (maio collection, 2026-09-09)"
+    ],
+    [
+      "otavio-augusto-de-oliveira-mendes",
+      "otavio-de-macedo-menezes",
+      "different surnames (Mendes vs Menezes) (maio collection, 2026-09-09)"
+    ],
+    [
+      "paulo-andre-carvalho-de-melo",
+      "paulo-ribeiro-de-almeida-neto",
+      "unrelated names; FUZZY false positive (maio collection, 2026-09-09)"
+    ],
+    [
+      "pedro-lopes-carneiro-neto",
+      "pedro-victor-barbosa-noleto",
+      "different surnames (Neto suffix vs Noleto) (maio collection, 2026-09-09)"
+    ],
+    [
+      "pedro-alves-de-souza-neto",
+      "pedro-lopes-carneiro-neto",
+      "different surnames; OIbF 2014 vs Maio 2015 Fortaleza (maio collection, 2026-09-09)"
+    ],
+    [
+      "rodrigo-onias",
+      "rodrigo-roque-dias",
+      "Cono Sur 1991 vs Maio 1999 São Paulo; different surnames, eight years apart (maio collection, 2026-09-09)"
+    ],
+    [
+      "adriano-silva",
+      "tadeu-alexandre-de-a-e-silva",
+      "unrelated (1998 Rioplatense Nivel A vs IMO 1989) (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "arthur-henrique-paixao-santos",
+      "arthur-santos",
+      "2019 Rioplatense São Paulo vs 2020 Maio short form from Recife: city mismatch (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "bruno-martins",
+      "cesario-bruno-de-barros-martins",
+      "2012 Rioplatense Nivel A (Fortaleza, under 13) vs IOI 2002 contestant: era (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "daniel-martins",
+      "daniel-pessoa-martins-cunha",
+      "1997 Rioplatense Nivel 1 short form vs OIbF 2002; different last token, no city evidence (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "lincoln-silva",
+      "marlen-lincoln-da-silva",
+      "IOI 2001 vs 2007 Rioplatense Nivel 3 (under 17): era (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "arthur-kui",
+      "arthur-renaux-luz",
+      "unrelated names; FUZZY false positive (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "eduardo-abe",
+      "eduardo-sany-laber",
+      "unrelated names; FUZZY false positive (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "gabriel-capelo-domingues",
+      "gabriel-fazoli-domingos",
+      "different surnames (Domingues vs Domingos), different cities (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "guilherme-honda-saito",
+      "guilherme-salermo-santos",
+      "unrelated names; FUZZY false positive (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "gustavo-salinas-de-souza",
+      "gustavo-sampaio-sousa",
+      "different surnames (Salinas vs Sampaio) (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "maria-carolina-paraiso-lopes",
+      "maria-eduarda-ticianelli-lopes",
+      "different given and middle names (rioplatense collection, 2026-09-09)"
+    ],
+    [
+      "mateus-henrique-ramos-de-souza",
+      "mateus-lopes-barreto-de-sousa",
+      "different middle names; Maio 2010 (Pirapora – MG) vs IBO 2013 (Recife) (ibo collection, 2026-09-09)"
+    ],
+    [
+      "pedro-sabino-gomes-neto",
+      "pedro-victor-barbosa-noleto",
+      "different surnames (Gomes Neto vs Noleto); FUZZY false positive (ibo collection, 2026-09-09)"
+    ],
+    [
+      "thiago-matheus-santos-rios",
+      "thiago-ribeiro-ramos",
+      "different surnames; IBO 2014 vs 2005-07 math olympian (ibo collection, 2026-09-09)"
+    ],
+    [
+      "bruno-almeida-costa",
+      "bruno-arderucio-costa",
+      "different middle names; IBO 2014 vs OIbF 2007 (ibo collection, 2026-09-09)"
+    ],
+    [
+      "joao-helio-sales-carvalho",
+      "joao-pedro-moritz-carvalho",
+      "different given/middle names (ibo collection, 2026-09-09)"
+    ],
+    [
+      "joao-pedro-de-almeida-da-silva",
+      "joao-tomas-de-camargo-silva",
+      "different given/middle names; IBO 2023 vs the Caruaru/Fortaleza math student (ibo collection, 2026-09-09)"
+    ],
+    [
+      "joao-pedro-mello-de-carvalho",
+      "joao-pedro-moritz-carvalho",
+      "different middle names; Maio 2015 (Rio) vs IBO 2021 (ibo collection, 2026-09-09)"
+    ],
+    [
+      "matheus-henrique-sicupira-lima",
+      "matheus-lopes-ponciano-lima",
+      "different middle names; IBO 2021 vs IPhO 2020 (ibo collection, 2026-09-09)"
+    ],
+    [
+      "pedro-alves-de-souza-neto",
+      "pedro-sabino-gomes-neto",
+      "different surnames; OIbF 2014 vs IBO 2008-09 (ibo collection, 2026-09-09)"
+    ],
+    [
+      "pedro-lopes-carneiro-neto",
+      "pedro-sabino-gomes-neto",
+      "different surnames; Maio 2015 vs IBO 2008-09 (ibo collection, 2026-09-09)"
+    ],
+    [
+      "italo-oliveira",
+      "pedro-italo-oliveira-gomes",
+      "OIAB 2008 vs OIAQ 2013: five-year gap, both high-school contestants"
+    ],
+    [
+      "gabriel-drumond-ferreira",
+      "gabriel-tostes-messias-pereira",
+      "different surnames (Drumond Ferreira vs Tostes Messias Pereira)"
+    ],
+    [
+      "pedro-jatoba-arteiro",
+      "pedro-pompeu-brasil-carneiro",
+      "different surnames"
+    ],
+    [
+      "antonio-pedro-de-sousa-vieira",
+      "antonio-wesley-de-brito-vieira",
+      "different given/middle names"
+    ],
+    [
+      "lucas-almeida-oliveira",
+      "lucas-goncalves-de-oliveira",
+      "different middle names (Almeida vs Gonçalves de); OIAB 2017 contestant is from GO"
+    ],
+    [
+      "lucas-goncalves-de-oliveira",
+      "lucas-melo-de-oliveira",
+      "different middle names (Gonçalves vs Melo)"
+    ],
+    [
+      "lucas-goncalves-de-oliveira",
+      "lucas-praca-oliveira",
+      "different middle names (Gonçalves de vs Praça)"
+    ],
+    [
+      "raul-celistrino-teixeira",
+      "raul-teixeira",
+      "IAO 2003 (SP) vs Rioplatense 2000 level-1 (São Paulo): ages would fit but no source links them — kept distinct, unproven"
+    ],
+    [
+      "felipe-augusto-cardoso-pereira",
+      "felipe-bonfim-ferreira",
+      "different surnames"
+    ],
+    [
+      "rafael-faria-da-silva",
+      "rafael-marini-silva",
+      "different middle names (Faria vs Marini)"
+    ],
+    [
+      "henrique-barbosa-de-oliveira",
+      "henrique-oliveira",
+      "OLAA 2016-17 (Valinhos) vs Maio 2020 short form: nine-year gap, different eras"
+    ],
+    [
+      "gabriel-oliveira-mota",
+      "gabriel-queiroz-moura",
+      "different surnames"
+    ],
+    [
+      "gustavo-farani-de-farias",
+      "gustavo-guedes-faria",
+      "different surnames (Farani de Farias vs Guedes Faria)"
+    ],
+    [
+      "gustavo-globig-farina",
+      "gustavo-guedes-faria",
+      "different surnames; ten years apart"
+    ],
+    [
+      "henrique-barbosa-de-oliveira",
+      "henrique-pongelupp-oliveira",
+      "different middle names; different eras"
+    ],
+    [
+      "lucas-camargo-da-silva",
+      "lucas-cavalcante-silva",
+      "different middle names (Camargo vs Cavalcante); OLAA 2016 SC vs IJSO 2021"
+    ],
+    [
+      "lucas-henrique-moraes",
+      "lucas-santos-moraes",
+      "different middle names; eight years apart"
+    ],
+    [
+      "gabriel-bassi-de-barros-moreira",
+      "gabriel-tostes-messias-pereira",
+      "different surnames"
+    ],
+    [
+      "lucas-henrique-morais",
+      "lucas-levy-alves-de-moraes",
+      "two different IYPT members (2011 vs 2014), different surnames"
+    ],
+    [
+      "lucas-henrique-morais",
+      "lucas-santos-moraes",
+      "different middle names; eight years apart"
+    ],
+    [
+      "matheus-de-lima-barros",
+      "matheus-laureano-nunes-barbosa",
+      "different surnames (Barros vs Barbosa)"
+    ],
+    [
+      "pedro-henrique-de-sousa-lopes",
+      "pedro-italo-oliveira-gomes",
+      "different names"
+    ],
+    [
+      "victor-cortez-crocia-barros",
+      "victor-hugo-de-oliveira-bastos",
+      "different names"
+    ],
+    [
+      "daniel-fernando-pinto",
+      "daniel-vasconcelos-pinto",
+      "different middle names; IYPT 2006 vs IChO 2000"
+    ],
+    [
+      "heitor-guedes-silva",
+      "heitor-nunes-silva",
+      "different middle names (Guedes vs Nunes), both 2026"
+    ],
+    [
+      "pedro-henrique-tomas-da-rocha",
+      "pedro-rocha",
+      "IOL 2024 'Pedro Rocha' (Colégio Núcleo, Recife) vs the IGO/OMCPLP mathematician: no link"
+    ],
+    [
+      "pedro-marinho-rocha",
+      "pedro-rocha",
+      "different people: IOL 2018 (Lauro de Freitas-BA) vs IOL 2024 (Recife-PE)"
+    ],
+    [
+      "andre-navarro-barros",
+      "andre-y-o-bastos",
+      "different surnames"
+    ],
+    [
+      "felipe-araujo-moraes-barros",
+      "felipe-saneshima-brasil-barbosa",
+      "different surnames"
+    ],
+    [
+      "joao-pedro-alves-ferreira",
+      "joao-santos-pereira",
+      "different names"
+    ],
+    [
+      "pedro-alves-de-souza-neto",
+      "pedro-machado-martins-leao",
+      "different names"
+    ],
+    [
+      "pedro-arthur-sales-reboucas",
+      "pedro-lopes-boucas",
+      "different names"
+    ],
+    [
+      "pedro-italo-oliveira-gomes",
+      "pedro-neves-lopes",
+      "different names"
+    ],
+    [
+      "pedro-lopes-carneiro-neto",
+      "pedro-machado-martins-leao",
+      "different names"
+    ],
+    [
+      "matheus-evangelista-de-souza",
+      "matheus-martins-de-sousa",
+      "different surnames"
+    ],
+    [
+      "frederico-bulhoes-de-sousa-ribeiro",
+      "frederico-schmaltz-de-rezende-ribeiro",
+      "Different middle names; the OII/IOI 2018–19 student would have left school before IEO 2024 (ieo collection, 2026-09-11)"
+    ],
+    [
+      "joao-helio-sales-carvalho",
+      "joao-vitor-de-castro-carvalho",
+      "Different given names (João Hélio vs João Vitor) (ieo collection, 2026-09-11)"
+    ],
+    [
+      "joao-pedro-mello-de-carvalho",
+      "joao-vitor-de-castro-carvalho",
+      "Different given names (João Pedro vs João Vitor); Maio 2015 vs IEO 2024 (ieo collection, 2026-09-11)"
+    ],
+    [
+      "joao-pedro-moritz-carvalho",
+      "joao-vitor-de-castro-carvalho",
+      "Different given names (João Pedro vs João Vitor) (ieo collection, 2026-09-11)"
     ]
   ]
 }
