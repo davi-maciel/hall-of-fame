@@ -1,0 +1,240 @@
+{
+  "olympiadId": "ieso",
+  "description": "Sources confirming Brazilian IESO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "IGEO medal lists (archived igeoscied.org files; 2018 via the linked Dropbox PDF).",
+    "primary": "olimpiadascientificas.org; IF and press news.",
+    "archive": "Wayback Machine copies of IFES / IFSULDEMINAS / FAPES news."
+  },
+  "globalNotes": [
+    "Editions attended: 2012-2019 (8) and 2026 (1). 2020 cancelled; 2021-2025 not attended (per DATA_STATUS verification against full participant lists). A bronze every year 2012-2019 except 2013.",
+    "Backbone: the IGEO medal lists archived from igeoscied.org (live host unreachable during collection) give medallists and team-award members; Brazilian IF news (IFES, IFSULDEMINAS, FAPES, IFPI) complete the rosters for 2016, 2018, 2019. Rosters remain partial for 2013 (3), 2014 (1), 2015 (3), 2017 (3) - listed as coverage gaps.",
+    "Team awards (ITFI, ESP) are international mixed-team prizes and are not stored as medals. Selection: OBAP (Olimpíada Brasileira de Agropecuária) winners from federal institutes."
+  ],
+  "years": [
+    {
+      "year": 2012,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2012-IESO-2012-Argentina-Medals-List.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards",
+          "needle": "Fernandez"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ieso/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "team list (2012-2013)",
+          "confirms": "olimpiadascientificas.org IESO teams page (sources: IF Sul de Minas, OBAP)",
+          "needle": "Mayara"
+        }
+      ],
+      "note": "IFTM (Uberaba) team; Rafael Franco Fernandez bronze (OLC spells 'Fernandes'), Mayara Cardoso Oliveira Best Presentation. 'Fabrício da Silva' and 'Renato Silva' are OLC short forms."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2013-IESO-2013-India-Medals-List.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO medal list: Igor Felix Pio (ESP gold team award), Mario Lovo (ITFI gold team) - no individual medal",
+          "needle": "Lovo"
+        },
+        {
+          "url": "https://www.ifes.edu.br/noticias/14290-estudantes-do-ifes-conquistam-medalhas-em-competicao-internacional-de-ciencias-da-terra",
+          "domain": "ifes.edu.br",
+          "cls": "primary",
+          "coverage": "team (snippet)",
+          "confirms": "IFES news (page now 404; text via search snippet): Eliton Mathias Morais, Igor Felix Pio and Mario Lovo of Campus Itapina + one more student represented Brazil"
+        }
+      ],
+      "note": "Roster 3 of 4: the IFES article naming the fourth student is offline; OLC's trio (Bruno Xavier Rodrigues, Rodrigo Altoe, Sávio Fabres Boldrini) is the OBAP 2012 winning team, not necessarily the IESO team - not used. Team awards only (ESP gold, ITFI gold); no individual medal."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2014-IESO-2014-Spain-Medals-List-.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards",
+          "needle": "Colossi"
+        }
+      ],
+      "note": "Roster 1 of 4 (medal list only)."
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2015-IESO-2015-Brazil-Medals-List.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards",
+          "needle": "Dehet"
+        }
+      ],
+      "note": "Hosted (Poços de Caldas). Roster 3 of 4 (medal list: bronze + team-award members)."
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2016-10th-IESO.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards",
+          "needle": "Ribeiro"
+        },
+        {
+          "url": "https://web.archive.org/web/20160412210656/http://www.ifes.edu.br/noticias/16330-alunos-de-itapina-sao-selecionados-para-a-olimpiada-internacional-de-ciencias-da-terra",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "3 of 4 (pre-event)",
+          "confirms": "IFES news (archived): Vilian Borchardt Bullergahn, Gustavo Rocha Alves and Ronaldo Rodrigues Ribeiro selected for IESO 2016",
+          "needle": "Bullergahn"
+        },
+        {
+          "url": "https://web.archive.org/web/20191015234617/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/597-ieso-no-japao",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "IFSULDEMINAS news (archived): the four (3 IFES + Lissandra Souza, IFMG Bambuí); Ronaldo Rodrigues bronze",
+          "needle": "Lissandra"
+        }
+      ],
+      "note": "Four names confirmed by IFSULDEMINAS; 'Lissandra Souza' is a short form."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2017-IESO2017-France-Medals-List.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards",
+          "needle": "PANCOTTO"
+        },
+        {
+          "url": "https://web.archive.org/web/20251017002809/https://fapes.es.gov.br/Not%C3%ADcia/bolsistas-da-fapes-ganham-premiacoes-em-olimpiada-internacional-na-franca",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "3 of 4",
+          "confirms": "FAPES news (archived): Bruno Pancotto bronze + ITFI 2nd, Guilherme Pratissoli ITFI 1st, Bruna de Oliveira also on the team",
+          "needle": "Pancotto"
+        }
+      ],
+      "note": "Roster 3 of 4; 'Bruna de Oliveira' short form."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.dropbox.com/s/zg4hkk9d6bdhq7g/2018%20Results.pdf?raw=1",
+          "domain": "dropbox.com",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IESO 2018 official results PDF (linked from igeoscied.org): Giancarlo Nappi bronze + ITFI 1st, Giovanna Klauck ESP 3rd",
+          "needle": "Nappi"
+        },
+        {
+          "url": "https://web.archive.org/web/20190819093342/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/2286-finalistas-na-ieso",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "IFSULDEMINAS news (archived): all four names, mentors, awards",
+          "needle": "Klauck"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2023/09/IESO-2019_Medalist.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "coverage": "medallists + team-award members",
+          "confirms": "IGEO 2019 medallist deck: Ednaldo de Sousa bronze + ITFI bronze",
+          "needle": "De Sousa"
+        },
+        {
+          "url": "https://web.archive.org/web/20190923193711/https://portal.ifsuldeminas.edu.br/index.php/institucional-geral/3062-ieso-2019",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "IFSULDEMINAS news (archived): the four names, mentors, bronze",
+          "needle": "Vilas Boas"
+        },
+        {
+          "url": "https://cidadesemfoco.com/aluno-do-ifpi-de-paulistana-vai-representar-o-brasil-na-13a-olimpiada-internacional-de-ciencias-da-terra/",
+          "domain": "cidadesemfoco.com",
+          "cls": "primary",
+          "coverage": "pre-event roster",
+          "confirms": "IFPI news: pre-event team (Mauro Aparecido Ambrósio Filho later replaced by João Augusto Vilas Boas dos Santos Gonçalves)",
+          "needle": "Ednaldo"
+        }
+      ],
+      "note": "Pre-event roster listed Mauro Aparecido Ambrósio Filho; the post-event IFSULDEMINAS report names João Augusto Vilas Boas dos Santos Gonçalves instead - report followed."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://drd.com.br/estudantes-do-ifmg-de-sao-joao-evangelista-vao-representar-o-brasil-em-olimpiada-internacional-na-italia/",
+          "domain": "drd.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster, short names)",
+          "confirms": "Diário do Rio Doce (IFMG release): four IFMG São João Evangelista students named for IESO 2026 (Turin, 20-27 Aug)",
+          "needle": "Washington"
+        }
+      ],
+      "note": "Return after six years (IFMG São João Evangelista team, Turin 20-27 Aug 2026). Results not yet published for Brazil - medals null with medalStatus; names are short forms from the IFMG release. Re-check IFMG/IGEO."
+    }
+  ]
+}

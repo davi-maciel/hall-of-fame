@@ -1,0 +1,563 @@
+[
+  {
+    "rawName": "André Amaral de Sousa",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Itararé"
+  },
+  {
+    "rawName": "Nicolas Seoane Miquelin",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Itararé"
+  },
+  {
+    "rawName": "Pedro Neves Lopes",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Itararé"
+  },
+  {
+    "rawName": "Rafael Kazuhiro Miyazaki",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Itararé"
+  },
+  {
+    "rawName": "Ivan Tadeu Ferreira Antunes Filho",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Suassuna"
+  },
+  {
+    "rawName": "Marvin Ariel Dias dos Santos",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Suassuna"
+  },
+  {
+    "rawName": "Raphael Levy Ruscio Castro Teixeira",
+    "olympiadId": "iol",
+    "year": 2011,
+    "medal": null,
+    "team": "Suassuna"
+  },
+  {
+    "rawName": "Ivan Tadeu Ferreira Antunes Filho",
+    "olympiadId": "iol",
+    "year": 2012,
+    "medal": "silver"
+  },
+  {
+    "rawName": "Pedro Neves Lopes",
+    "olympiadId": "iol",
+    "year": 2012,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Rafael Kazuhiro Miyazaki",
+    "olympiadId": "iol",
+    "year": 2012,
+    "medal": "honorable-mention"
+  },
+  {
+    "rawName": "Marvin Ariel Dias dos Santos",
+    "olympiadId": "iol",
+    "year": 2012,
+    "medal": null
+  },
+  {
+    "rawName": "Gabriel Alves da Silva Diniz",
+    "olympiadId": "iol",
+    "year": 2013,
+    "medal": "gold"
+  },
+  {
+    "rawName": "André Navarro Barros",
+    "olympiadId": "iol",
+    "year": 2013,
+    "medal": "honorable-mention"
+  },
+  {
+    "rawName": "Murilo Dória Guimarães",
+    "olympiadId": "iol",
+    "year": 2013,
+    "medal": "honorable-mention"
+  },
+  {
+    "rawName": "Marvin Ariel Dias dos Santos",
+    "olympiadId": "iol",
+    "year": 2013,
+    "medal": null
+  },
+  {
+    "rawName": "Gabriel Alves da Silva Diniz",
+    "olympiadId": "iol",
+    "year": 2014,
+    "medal": "honorable-mention"
+  },
+  {
+    "rawName": "Jessé Leonardo Justino Cândido",
+    "olympiadId": "iol",
+    "year": 2014,
+    "medal": null
+  },
+  {
+    "rawName": "Leandro Cavalcanti Silva",
+    "olympiadId": "iol",
+    "year": 2014,
+    "medal": null
+  },
+  {
+    "rawName": "Arthur Oliveira Vale",
+    "olympiadId": "iol",
+    "year": 2014,
+    "medal": null
+  },
+  {
+    "rawName": "Bruno Kenzo Ozaki",
+    "olympiadId": "iol",
+    "year": 2016,
+    "medal": "bronze"
+  },
+  {
+    "rawName": "Davi Kumruian",
+    "olympiadId": "iol",
+    "year": 2016,
+    "medal": null
+  },
+  {
+    "rawName": "Ana Beatriz Rodrigues de Carvalho Nunes",
+    "olympiadId": "iol",
+    "year": 2016,
+    "medal": null
+  },
+  {
+    "rawName": "Takerou Hayashi Sato",
+    "olympiadId": "iol",
+    "year": 2016,
+    "medal": null
+  },
+  {
+    "rawName": "Gustavo Palote da Silva Martins",
+    "olympiadId": "iol",
+    "year": 2017,
+    "medal": "honorable-mention"
+  },
+  {
+    "rawName": "Cynthia Lacroix Herkenhoff",
+    "olympiadId": "iol",
+    "year": 2017,
+    "medal": null
+  },
+  {
+    "rawName": "Pedro Lopes Bouças",
+    "olympiadId": "iol",
+    "year": 2017,
+    "medal": null
+  },
+  {
+    "rawName": "Thiago Lucas Faustino da Silva",
+    "olympiadId": "iol",
+    "year": 2017,
+    "medal": null
+  },
+  {
+    "rawName": "Artur Corrêa Souza",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": null,
+    "team": "Pães"
+  },
+  {
+    "rawName": "Brendon Diniz Borck",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": null,
+    "team": "Pães"
+  },
+  {
+    "rawName": "Jade Yarden Steinmetz",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": null,
+    "team": "Pães"
+  },
+  {
+    "rawName": "Pedro Marinho Rocha",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": "honorable-mention",
+    "team": "Pães"
+  },
+  {
+    "rawName": "Ana Luiza Nunes",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": null,
+    "team": "Pões"
+  },
+  {
+    "rawName": "Catarina de Freitas Oliveira",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": null,
+    "team": "Pões"
+  },
+  {
+    "rawName": "Gustavo Palote da Silva Martins",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": "bronze",
+    "team": "Pões"
+  },
+  {
+    "rawName": "João Henrique Oliveira Fontes",
+    "olympiadId": "iol",
+    "year": 2018,
+    "medal": "silver",
+    "team": "Pões"
+  },
+  {
+    "rawName": "Antônio Luis Alves Azevedo",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": null,
+    "team": "Nhorõwa"
+  },
+  {
+    "rawName": "Gustavo Palote da Silva Martins",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": "silver",
+    "team": "Nhorõwa"
+  },
+  {
+    "rawName": "João Henrique Oliveira Fontes",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": "silver",
+    "team": "Nhorõwa"
+  },
+  {
+    "rawName": "Sandy Gui",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": null,
+    "team": "Nhorõwa"
+  },
+  {
+    "rawName": "Gustavo Baracat Alvares Martins",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": null,
+    "team": "Nhũrkwã"
+  },
+  {
+    "rawName": "Julia Ramos Alves",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": null,
+    "team": "Nhũrkwã"
+  },
+  {
+    "rawName": "Pedro Machado Martins Leão",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": null,
+    "team": "Nhũrkwã"
+  },
+  {
+    "rawName": "Vinícius de Oliveira Peixoto Rodrigues",
+    "olympiadId": "iol",
+    "year": 2019,
+    "medal": null,
+    "team": "Nhũrkwã"
+  },
+  {
+    "rawName": "Fernando César Gonçalves Filho",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": "silver",
+    "team": "Açaí"
+  },
+  {
+    "rawName": "Leonardo Paillo da Silva",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": "honorable-mention",
+    "team": "Açaí"
+  },
+  {
+    "rawName": "Manoela Erothildes Teleginski Ferraz",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": "honorable-mention",
+    "team": "Açaí"
+  },
+  {
+    "rawName": "Max Naigeborin",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": "bronze",
+    "team": "Açaí"
+  },
+  {
+    "rawName": "Augusto Zanardi Creppe",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": null,
+    "team": "Guaraná"
+  },
+  {
+    "rawName": "Bianky Nardy Lyrio Vargas dos Santos",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": null,
+    "team": "Guaraná"
+  },
+  {
+    "rawName": "Lai Netto Otsuka",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": "honorable-mention",
+    "team": "Guaraná"
+  },
+  {
+    "rawName": "Wesley Antônio Machado Andrade de Aguiar",
+    "olympiadId": "iol",
+    "year": 2022,
+    "medal": "honorable-mention",
+    "team": "Guaraná"
+  },
+  {
+    "rawName": "Everton Albuquerque de Oliveira",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "bronze",
+    "team": "Bem-te-vi"
+  },
+  {
+    "rawName": "Leonardo Torres Silva",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "gold",
+    "team": "Bem-te-vi"
+  },
+  {
+    "rawName": "Leonardo Paillo da Silva",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "gold",
+    "team": "Bem-te-vi"
+  },
+  {
+    "rawName": "Manoela Erothildes Teleginski Ferraz",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "bronze",
+    "team": "Bem-te-vi"
+  },
+  {
+    "rawName": "Carolina Quadros Motta Bastos",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "honorable-mention",
+    "team": "Quero-quero"
+  },
+  {
+    "rawName": "João Pedro Alves Ferreira",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "bronze",
+    "team": "Quero-quero"
+  },
+  {
+    "rawName": "Luiz Satoshi Yunomae Oikawa",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "bronze",
+    "team": "Quero-quero"
+  },
+  {
+    "rawName": "Teresa Machado Lage",
+    "olympiadId": "iol",
+    "year": 2023,
+    "medal": "bronze",
+    "team": "Quero-quero"
+  },
+  {
+    "rawName": "João Guilherme Camilo Azevedo",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": null,
+    "team": "Kûarasy"
+  },
+  {
+    "rawName": "Paulo Portela",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": "honorable-mention",
+    "team": "Kûarasy"
+  },
+  {
+    "rawName": "Pedro Rocha",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": null,
+    "team": "Kûarasy"
+  },
+  {
+    "rawName": "Sócrates Souto Nonino de Carvalho",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": null,
+    "team": "Kûarasy"
+  },
+  {
+    "rawName": "Rafael Daiki Ando",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": null,
+    "team": "Îasy"
+  },
+  {
+    "rawName": "Felipe Araújo Moraes Barros",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": "silver",
+    "team": "Îasy"
+  },
+  {
+    "rawName": "Luisa Ramscheid Güntert",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": null,
+    "team": "Îasy"
+  },
+  {
+    "rawName": "Giovanna Maria Monteiro Longo",
+    "olympiadId": "iol",
+    "year": 2024,
+    "medal": null,
+    "team": "Îasy"
+  },
+  {
+    "rawName": "Giovanna Maria Monteiro Longo",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": null,
+    "team": "Fêsãw"
+  },
+  {
+    "rawName": "Daniel Agi Pigini",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": "bronze",
+    "team": "Fêsãw"
+  },
+  {
+    "rawName": "Rafael Daiki Ando",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": "honorable-mention",
+    "team": "Fêsãw"
+  },
+  {
+    "rawName": "Felipe Araújo Moraes Barros",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": null,
+    "team": "Fêsãw"
+  },
+  {
+    "rawName": "Marina Troccoli de Carvalho",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": null,
+    "team": "Kiorĩpê"
+  },
+  {
+    "rawName": "Lucas Cavalcante Menezes",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": "honorable-mention",
+    "team": "Kiorĩpê"
+  },
+  {
+    "rawName": "João Guilherme Camilo Azevedo",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": "honorable-mention",
+    "team": "Kiorĩpê"
+  },
+  {
+    "rawName": "Sócrates Souto Nonino de Carvalho",
+    "olympiadId": "iol",
+    "year": 2025,
+    "medal": "honorable-mention",
+    "team": "Kiorĩpê"
+  },
+  {
+    "rawName": "César Augusto Lonel de Carvalho",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": "honorable-mention",
+    "team": "Cravo"
+  },
+  {
+    "rawName": "Daniel Agi Pigini",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": null,
+    "team": "Cravo"
+  },
+  {
+    "rawName": "Luisa Ramscheid Güntert",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": "honorable-mention",
+    "team": "Cravo"
+  },
+  {
+    "rawName": "Sophia Li Ci Liu",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": null,
+    "team": "Cravo"
+  },
+  {
+    "rawName": "Cauã Faria de Medeiros",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": null,
+    "team": "Rosa"
+  },
+  {
+    "rawName": "Felipe Araújo Moraes Barros",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": "silver",
+    "team": "Rosa"
+  },
+  {
+    "rawName": "Julia Santiago de Oliveira",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": null,
+    "team": "Rosa"
+  },
+  {
+    "rawName": "Levi O. Matias",
+    "olympiadId": "iol",
+    "year": 2026,
+    "medal": "bronze",
+    "team": "Rosa"
+  }
+]

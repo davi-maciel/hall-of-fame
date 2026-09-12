@@ -1,0 +1,465 @@
+{
+  "checkedAt": "2026-09-11T02:45:44+00:00",
+  "summary": {
+    "PASS": 56,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2011,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miquelin'"
+    },
+    {
+      "year": 2011,
+      "url": "https://ioling.org/results/2011/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2011,
+      "url": "https://obling.org/kyta",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miquelin'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/linguistica/iol/iol-2011/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miquelin'"
+    },
+    {
+      "year": 2012,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://ioling.org/results/2012/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://obling.org/noke-vana",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/linguistica/iol/iol-2012/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2013,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Navarro Barros'"
+    },
+    {
+      "year": 2013,
+      "url": "https://ioling.org/results/2013/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Navarro Barros'"
+    },
+    {
+      "year": 2013,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Navarro Barros'"
+    },
+    {
+      "year": 2013,
+      "url": "https://obling.org/paraplu",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Navarro Barros'"
+    },
+    {
+      "year": 2014,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Cavalcanti Silva'"
+    },
+    {
+      "year": 2014,
+      "url": "https://ioling.org/results/2014/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Diniz'"
+    },
+    {
+      "year": 2014,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Diniz'"
+    },
+    {
+      "year": 2014,
+      "url": "https://obling.org/vina",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Cavalcanti'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/linguistica/resultado-brasileiro-na-iol-2014/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'DINIZ'"
+    },
+    {
+      "year": 2016,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kumruian'"
+    },
+    {
+      "year": 2016,
+      "url": "https://ioling.org/results/2016/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ozaki'"
+    },
+    {
+      "year": 2016,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ozaki'"
+    },
+    {
+      "year": 2016,
+      "url": "https://obling.org/okun",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kumruian'"
+    },
+    {
+      "year": 2017,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Herkenhoff'"
+    },
+    {
+      "year": 2017,
+      "url": "https://ioling.org/results/2017/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2017,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2017,
+      "url": "https://obling.org/nanduti",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Herkenhoff'"
+    },
+    {
+      "year": 2018,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Steinmetz'"
+    },
+    {
+      "year": 2018,
+      "url": "https://ioling.org/results/2018/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2018,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2018,
+      "url": "https://obling.org/margele",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Steinmetz'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/confira-o-resultado-do-brasil-na-olimpiada-internacional-de-linguistica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Steinmetz'"
+    },
+    {
+      "year": 2019,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Nh'"
+    },
+    {
+      "year": 2019,
+      "url": "https://ioling.org/results/2019/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2019,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2019,
+      "url": "https://obling.org/yora",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Azevedo'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/uncategorized/brasileiros-conquistam-duas-pratas-na-olimpiada-internacional-de-linguistica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/linguistica/confira-as-equipes-da-iol/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Palote'"
+    },
+    {
+      "year": 2022,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Naigeborin'"
+    },
+    {
+      "year": 2022,
+      "url": "https://ioling.org/results/2022/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Naigeborin'"
+    },
+    {
+      "year": 2022,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Naigeborin'"
+    },
+    {
+      "year": 2022,
+      "url": "https://obling.org/mascate",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Naigeborin'"
+    },
+    {
+      "year": 2023,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Oikawa'"
+    },
+    {
+      "year": 2023,
+      "url": "https://ioling.org/results/2023/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Oikawa'"
+    },
+    {
+      "year": 2023,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Oikawa'"
+    },
+    {
+      "year": 2023,
+      "url": "https://obling.org/khipu",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Oikawa'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/o-brasil-obteve-resultado-historico-na-iol/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiz Satoshi'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/saiu-o-time-da-iol/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiz Satoshi'"
+    },
+    {
+      "year": 2024,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ramscheid'"
+    },
+    {
+      "year": 2024,
+      "url": "https://ioling.org/results/2024/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Moraes Barros'"
+    },
+    {
+      "year": 2024,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Moraes Barros'"
+    },
+    {
+      "year": 2024,
+      "url": "https://obling.org/abya-yala",
+      "domain": "obling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ramscheid'"
+    },
+    {
+      "year": 2025,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pigini'"
+    },
+    {
+      "year": 2025,
+      "url": "https://ioling.org/results/2025/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pigini'"
+    },
+    {
+      "year": 2025,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pigini'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ioling.org/participants/BRA",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lonel'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ioling.org/results/2026/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lonel'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ioling.org/results/BRA/",
+      "domain": "ioling.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lonel'"
+    }
+  ]
+}

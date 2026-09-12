@@ -1,0 +1,275 @@
+{
+  "students": {
+    "bianca-ribas": {
+      "id": "bianca-ribas",
+      "name": "Bianca Ribas",
+      "searchKey": "bianca ribas",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "theodora-flor": {
+      "id": "theodora-flor",
+      "name": "Theodora Flor",
+      "searchKey": "theodora flor",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "tiago-sales": {
+      "id": "tiago-sales",
+      "name": "Tiago Sales",
+      "searchKey": "tiago sales",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "barbara-pinheiro-puget-cruz": {
+      "id": "barbara-pinheiro-puget-cruz",
+      "name": "Bárbara Pinheiro Puget Cruz",
+      "searchKey": "barbara pinheiro puget cruz",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2025,
+          "medal": null
+        }
+      ]
+    },
+    "clara-gonzalez-ferreira-pinto-sampaio": {
+      "id": "clara-gonzalez-ferreira-pinto-sampaio",
+      "name": "Clara Gonzalez Ferreira Pinto Sampaio",
+      "searchKey": "clara gonzalez ferreira pinto sampaio",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2025,
+          "medal": null
+        }
+      ]
+    },
+    "isabela-granado-santos": {
+      "id": "isabela-granado-santos",
+      "name": "Isabela Granado Santos",
+      "searchKey": "isabela granado santos",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2025,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "joao-lucas-dantas-barbosa": {
+      "id": "joao-lucas-dantas-barbosa",
+      "name": "João Lucas Dantas Barbosa",
+      "searchKey": "joao lucas dantas barbosa",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2025,
+          "medal": null
+        }
+      ]
+    },
+    "gabriel-volpato-lima": {
+      "id": "gabriel-volpato-lima",
+      "name": "Gabriel Volpato Lima",
+      "searchKey": "gabriel volpato lima",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
+    "pablo-fernando-de-azurza-nogueira-gomez": {
+      "id": "pablo-fernando-de-azurza-nogueira-gomez",
+      "name": "Pablo Fernando de Azurza Nogueira Gomez",
+      "searchKey": "pablo fernando de azurza nogueira gomez",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "karen-gomes": {
+      "id": "karen-gomes",
+      "name": "Karen Gomes",
+      "searchKey": "karen gomes",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "lauren-schuantes": {
+      "id": "lauren-schuantes",
+      "name": "Lauren Schuantes",
+      "searchKey": "lauren schuantes",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "lucas-lang": {
+      "id": "lucas-lang",
+      "name": "Lucas Lang",
+      "searchKey": "lucas lang",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "manuela-teixeira": {
+      "id": "manuela-teixeira",
+      "name": "Manuela Teixeira",
+      "searchKey": "manuela teixeira",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "marina-hutzler": {
+      "id": "marina-hutzler",
+      "name": "Marina Hutzler",
+      "searchKey": "marina hutzler",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2018,
+          "medal": null
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "karen-gomes",
+      "target": "lauren-schuantes",
+      "olympiad": "igeo",
+      "year": 2022
+    },
+    {
+      "source": "karen-gomes",
+      "target": "lucas-lang",
+      "olympiad": "igeo",
+      "year": 2022
+    },
+    {
+      "source": "karen-gomes",
+      "target": "manuela-teixeira",
+      "olympiad": "igeo",
+      "year": 2022
+    },
+    {
+      "source": "lauren-schuantes",
+      "target": "lucas-lang",
+      "olympiad": "igeo",
+      "year": 2022
+    },
+    {
+      "source": "lauren-schuantes",
+      "target": "manuela-teixeira",
+      "olympiad": "igeo",
+      "year": 2022
+    },
+    {
+      "source": "lucas-lang",
+      "target": "manuela-teixeira",
+      "olympiad": "igeo",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-volpato-lima",
+      "target": "pablo-fernando-de-azurza-nogueira-gomez",
+      "olympiad": "igeo",
+      "year": 2024
+    },
+    {
+      "source": "barbara-pinheiro-puget-cruz",
+      "target": "clara-gonzalez-ferreira-pinto-sampaio",
+      "olympiad": "igeo",
+      "year": 2025
+    },
+    {
+      "source": "barbara-pinheiro-puget-cruz",
+      "target": "isabela-granado-santos",
+      "olympiad": "igeo",
+      "year": 2025
+    },
+    {
+      "source": "barbara-pinheiro-puget-cruz",
+      "target": "joao-lucas-dantas-barbosa",
+      "olympiad": "igeo",
+      "year": 2025
+    },
+    {
+      "source": "clara-gonzalez-ferreira-pinto-sampaio",
+      "target": "isabela-granado-santos",
+      "olympiad": "igeo",
+      "year": 2025
+    },
+    {
+      "source": "clara-gonzalez-ferreira-pinto-sampaio",
+      "target": "joao-lucas-dantas-barbosa",
+      "olympiad": "igeo",
+      "year": 2025
+    },
+    {
+      "source": "isabela-granado-santos",
+      "target": "joao-lucas-dantas-barbosa",
+      "olympiad": "igeo",
+      "year": 2025
+    },
+    {
+      "source": "bianca-ribas",
+      "target": "theodora-flor",
+      "olympiad": "igeo",
+      "year": 2026
+    },
+    {
+      "source": "bianca-ribas",
+      "target": "tiago-sales",
+      "olympiad": "igeo",
+      "year": 2026
+    },
+    {
+      "source": "theodora-flor",
+      "target": "tiago-sales",
+      "olympiad": "igeo",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-11T02:56:48.618504+00:00",
+    "studentCount": 14,
+    "edgeCount": 16
+  }
+}

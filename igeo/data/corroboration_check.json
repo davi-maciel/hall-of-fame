@@ -1,0 +1,122 @@
+{
+  "checkedAt": "2026-09-11T03:00:30+00:00",
+  "summary": {
+    "PASS-STATUS": 8,
+    "PASS": 5,
+    "FAIL-HTTP": 1
+  },
+  "results": [
+    {
+      "year": 2018,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2018-iGeo-Results.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.facebook.com/colegionucleo/photos/temos-mais-um-aluno-n%C3%BAcleo-provando-seu-conhecimento-para-o-mundo-marina-hutzler/1763515040405071",
+      "domain": "facebook.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2022-iGeo-Results.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.facebook.com/obgeografia/videos/616207526523982",
+      "domain": "facebook.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lauren'"
+    },
+    {
+      "year": 2024,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2024-iGeo-Results.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://tribunaonline.com.br/atribunanasescolas/feras-da-geografia-se-destacam-na-irlanda-198302",
+      "domain": "tribunaonline.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Azurza'"
+    },
+    {
+      "year": 2024,
+      "url": "https://noic.com.br/uncategorized/entrevista-com-pablo-primeiro-brasileiro-medalhista-na-igeo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'primeiro brasileiro medalhista'"
+    },
+    {
+      "year": 2025,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/10/2025-iGeo-Results-and-Report.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.instagram.com/p/DLYyq35MAsg/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://regionalnorte.com.br/estudantes-paraenses-sao-selecionadas-para-olimpiada-internacional-de-geografia-na-tailandia",
+      "domain": "regionalnorte.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Granado'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.instagram.com/p/DcLny4cjo-R/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.instagram.com/p/DcEdsF_EbMH/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2026,
+      "url": "https://wscom.com.br/noticias/noticias-locais/2026/03/05/estudante-paraibana-representa-o-brasil-na-olimpiada-internacional-de-geografia-em-istambul/",
+      "domain": "wscom.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bianca Ribas'"
+    },
+    {
+      "year": 2026,
+      "url": "https://agoralaguna.com.br/2026/04/theodora-flor-estudante-de-laguna-representara-estado-em-olimpiada-de-geografia-na-turquia/",
+      "domain": "agoralaguna.com.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ]
+}

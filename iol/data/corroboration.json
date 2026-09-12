@@ -1,0 +1,599 @@
+{
+  "olympiadId": "iol",
+  "description": "Sources confirming Brazilian IOL contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "ioling.org (IOL) delegations, results and country pages; obling.org (OBL, national organizer) edition pages.",
+    "primary": "NOIC; olimpiadascientificas.org.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Editions attended: 2011-2014, 2016-2019, 2022-2026 (13; 21 teams, 83 participants per ioling.org). Not attended: 2015 (no team), 2020 (cancelled), 2021 (Brazil could not join the remote edition - OBL).",
+    "Every row rests on ioling.org (official: delegations page + per-year results + country page); the national organizer's OBL edition pages (2011-2024) give full names, schools and cities; NOIC/OLC corroborate 2011-2014 and 2018-2023.",
+    "Awards: individual-contest gold/silver/bronze and honourable mention (= honorable-mention). Team-contest trophies/HMs and best-solution prizes are noted, not stored as medals. `team` = the delegation's nickname when Brazil sent two teams."
+  ],
+  "years": [
+    {
+      "year": 2011,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Miquelin"
+        },
+        {
+          "url": "https://ioling.org/results/2011/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores (no Brazilian award)",
+          "confirms": "ioling.org 2011 results: no Brazilian award that year"
+        },
+        {
+          "url": "https://obling.org/kyta",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Miquelin"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/linguistica/iol/iol-2011/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2011-2012) with cities and awards",
+          "needle": "Miquelin"
+        }
+      ],
+      "note": "Debut (Pittsburgh) with two teams, Itararé (4) and Suassuna (3); no awards. ioling/OBL spell the Etapa student 'André Amaral de Souza/Sousa' - the pool form (Rioplatense 2008, IOI 2012) 'Sousa' is used."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://ioling.org/results/2012/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://obling.org/noke-vana",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/linguistica/iol/iol-2012/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2011-2012) with cities and awards",
+          "needle": "Miyazaki"
+        }
+      ],
+      "note": "First medals: Ivan Tadeu Ferreira Antunes Filho silver, Pedro Neves Lopes bronze; Rafael Kazuhiro Miyazaki HM + best-solution prize (problem 2)."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Navarro Barros"
+        },
+        {
+          "url": "https://ioling.org/results/2013/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Navarro Barros"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Navarro Barros"
+        },
+        {
+          "url": "https://obling.org/paraplu",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Navarro Barros"
+        }
+      ],
+      "note": "Only gold before 2023: Gabriel Alves da Silva Diniz (+ best-solution prize)."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Cavalcanti Silva"
+        },
+        {
+          "url": "https://ioling.org/results/2014/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Diniz"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Diniz"
+        },
+        {
+          "url": "https://obling.org/vina",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Cavalcanti"
+        },
+        {
+          "url": "https://noic.com.br/linguistica/resultado-brasileiro-na-iol-2014/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "awards",
+          "confirms": "NOIC: the single 2014 award (HM)",
+          "needle": "DINIZ"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Kumruian"
+        },
+        {
+          "url": "https://ioling.org/results/2016/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Ozaki"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Ozaki"
+        },
+        {
+          "url": "https://obling.org/okun",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Kumruian"
+        }
+      ],
+      "note": "Registered as 'Brazil 1' (single team)."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Herkenhoff"
+        },
+        {
+          "url": "https://ioling.org/results/2017/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://obling.org/nanduti",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Herkenhoff"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Steinmetz"
+        },
+        {
+          "url": "https://ioling.org/results/2018/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://obling.org/margele",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Steinmetz"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/confira-o-resultado-do-brasil-na-olimpiada-internacional-de-linguistica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: both teams, S + B + HM, team bronze",
+          "needle": "Steinmetz"
+        }
+      ],
+      "note": "Two teams (Pães, Pões); Pões won the team-contest bronze trophy (not recorded as an individual medal). Artur Corrêa Souza: best-solution prize only."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Nh"
+        },
+        {
+          "url": "https://ioling.org/results/2019/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://obling.org/yora",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Azevedo"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/brasileiros-conquistam-duas-pratas-na-olimpiada-internacional-de-linguistica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: two silvers, both teams",
+          "needle": "Palote"
+        },
+        {
+          "url": "https://noic.com.br/linguistica/confira-as-equipes-da-iol/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Palote"
+        }
+      ],
+      "note": "Gustavo Palote da Silva Martins and João Henrique Oliveira Fontes entered the IOL Hall of Fame (repeat medallists)."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Naigeborin"
+        },
+        {
+          "url": "https://ioling.org/results/2022/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Naigeborin"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Naigeborin"
+        },
+        {
+          "url": "https://obling.org/mascate",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Naigeborin"
+        }
+      ],
+      "note": "Return after the 2020 cancellation and the 2021 remote edition Brazil could not join. Full names per OBL (ioling has 'Fernando César', 'Wesley Andrade'...)."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Oikawa"
+        },
+        {
+          "url": "https://ioling.org/results/2023/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Oikawa"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Oikawa"
+        },
+        {
+          "url": "https://obling.org/khipu",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Oikawa"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/o-brasil-obteve-resultado-historico-na-iol/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: 2G + 5B + HM (record)",
+          "needle": "Luiz Satoshi"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/saiu-o-time-da-iol/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Luiz Satoshi"
+        }
+      ],
+      "note": "Record year (Bansko): 2G + 5B + HM; Quero-quero took the team-contest HM."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Ramscheid"
+        },
+        {
+          "url": "https://ioling.org/results/2024/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Moraes Barros"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Moraes Barros"
+        },
+        {
+          "url": "https://obling.org/abya-yala",
+          "domain": "obling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "needle": "Ramscheid"
+        }
+      ],
+      "note": "Brazil hosted (Brasília). OBL/ioling short forms 'Paulo Portela' (Farias Brito, Fortaleza) and 'Pedro Rocha' (Colégio Núcleo, Recife) kept as the fullest documented forms; Fêsãw 2025 team-contest bronze trophy not recorded as individual medals."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Pigini"
+        },
+        {
+          "url": "https://ioling.org/results/2025/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Pigini"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Pigini"
+        }
+      ],
+      "note": "Team Fêsãw: team-contest bronze trophy; individual: Pigini bronze + four HMs. Names as registered on ioling (no OBL page for the Ojidu cycle yet)."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://ioling.org/participants/BRA",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "needle": "Lonel"
+        },
+        {
+          "url": "https://ioling.org/results/2026/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "awards + scores",
+          "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "needle": "Lonel"
+        },
+        {
+          "url": "https://ioling.org/results/BRA/",
+          "domain": "ioling.org",
+          "cls": "official",
+          "coverage": "medallists + HM",
+          "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "needle": "Lonel"
+        }
+      ],
+      "note": "Bucharest: Felipe Araújo Moraes Barros's second silver (Hall of Fame), Levi O. Matias bronze, two HMs. Names as registered on ioling."
+    }
+  ]
+}

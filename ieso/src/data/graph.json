@@ -1,0 +1,605 @@
+{
+  "students": {
+    "alexandra-silva": {
+      "id": "alexandra-silva",
+      "name": "Alexandra Silva",
+      "searchKey": "alexandra silva",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "joao-paulo-dos-santos": {
+      "id": "joao-paulo-dos-santos",
+      "name": "João Paulo dos Santos",
+      "searchKey": "joao paulo dos santos",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "manuela-goncalves": {
+      "id": "manuela-goncalves",
+      "name": "Manuela Gonçalves",
+      "searchKey": "manuela goncalves",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "washington-mota": {
+      "id": "washington-mota",
+      "name": "Washington Mota",
+      "searchKey": "washington mota",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "ednaldo-de-sousa": {
+      "id": "ednaldo-de-sousa",
+      "name": "Ednaldo de Sousa",
+      "searchKey": "ednaldo de sousa",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "guilherme-teixeira-simoes": {
+      "id": "guilherme-teixeira-simoes",
+      "name": "Guilherme Teixeira Simões",
+      "searchKey": "guilherme teixeira simoes",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2019,
+          "medal": null
+        }
+      ]
+    },
+    "joao-augusto-vilas-boas-dos-santos-goncalves": {
+      "id": "joao-augusto-vilas-boas-dos-santos-goncalves",
+      "name": "João Augusto Vilas Boas dos Santos Gonçalves",
+      "searchKey": "joao augusto vilas boas dos santos goncalves",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2019,
+          "medal": null
+        }
+      ]
+    },
+    "luis-eduardo-siqueira-freitas": {
+      "id": "luis-eduardo-siqueira-freitas",
+      "name": "Luís Eduardo Siqueira Freitas",
+      "searchKey": "luis eduardo siqueira freitas",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2019,
+          "medal": null
+        }
+      ]
+    },
+    "breno-franco-ferreira": {
+      "id": "breno-franco-ferreira",
+      "name": "Breno Franco Ferreira",
+      "searchKey": "breno franco ferreira",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2018,
+          "medal": null
+        }
+      ]
+    },
+    "giancarlo-nappi": {
+      "id": "giancarlo-nappi",
+      "name": "Giancarlo Nappi",
+      "searchKey": "giancarlo nappi",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2018,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "giovanna-ramos-goncalves-klauck": {
+      "id": "giovanna-ramos-goncalves-klauck",
+      "name": "Giovanna Ramos Gonçalves Klauck",
+      "searchKey": "giovanna ramos goncalves klauck",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2018,
+          "medal": null
+        }
+      ]
+    },
+    "matheus-martins-de-sousa": {
+      "id": "matheus-martins-de-sousa",
+      "name": "Matheus Martins de Sousa",
+      "searchKey": "matheus martins de sousa",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2018,
+          "medal": null
+        }
+      ]
+    },
+    "bruna-de-oliveira": {
+      "id": "bruna-de-oliveira",
+      "name": "Bruna de Oliveira",
+      "searchKey": "bruna de oliveira",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2017,
+          "medal": null
+        }
+      ]
+    },
+    "bruno-abreu-pancotto": {
+      "id": "bruno-abreu-pancotto",
+      "name": "Bruno Abreu Pancotto",
+      "searchKey": "bruno abreu pancotto",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2017,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "guilherme-pratissoli-pancieri": {
+      "id": "guilherme-pratissoli-pancieri",
+      "name": "Guilherme Pratissoli Pancieri",
+      "searchKey": "guilherme pratissoli pancieri",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2017,
+          "medal": null
+        }
+      ]
+    },
+    "gustavo-rocha-alves": {
+      "id": "gustavo-rocha-alves",
+      "name": "Gustavo Rocha Alves",
+      "searchKey": "gustavo rocha alves",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2016,
+          "medal": null
+        }
+      ]
+    },
+    "lissandra-souza": {
+      "id": "lissandra-souza",
+      "name": "Lissandra Souza",
+      "searchKey": "lissandra souza",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2016,
+          "medal": null
+        }
+      ]
+    },
+    "ronaldo-rodrigues-ribeiro": {
+      "id": "ronaldo-rodrigues-ribeiro",
+      "name": "Ronaldo Rodrigues Ribeiro",
+      "searchKey": "ronaldo rodrigues ribeiro",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "vilian-borchardt-bullergahn": {
+      "id": "vilian-borchardt-bullergahn",
+      "name": "Vilian Borchardt Bullergahn",
+      "searchKey": "vilian borchardt bullergahn",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2016,
+          "medal": null
+        }
+      ]
+    },
+    "antonio-vitor-dehet-many": {
+      "id": "antonio-vitor-dehet-many",
+      "name": "Antônio Vítor Dehet-Many",
+      "searchKey": "antonio vitor dehet-many",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2015,
+          "medal": null
+        }
+      ]
+    },
+    "claudio-de-brito-da-silva": {
+      "id": "claudio-de-brito-da-silva",
+      "name": "Cláudio de Brito da Silva",
+      "searchKey": "claudio de brito da silva",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2015,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "maria-fernanda-de-souza-ganja": {
+      "id": "maria-fernanda-de-souza-ganja",
+      "name": "Maria Fernanda de Souza Ganja",
+      "searchKey": "maria fernanda de souza ganja",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2015,
+          "medal": null
+        }
+      ]
+    },
+    "mateus-canavesi-colossi": {
+      "id": "mateus-canavesi-colossi",
+      "name": "Mateús Canavesi Colossi",
+      "searchKey": "mateus canavesi colossi",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2014,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "eliton-mathias-morais": {
+      "id": "eliton-mathias-morais",
+      "name": "Eliton Mathias Morais",
+      "searchKey": "eliton mathias morais",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2013,
+          "medal": null
+        }
+      ]
+    },
+    "igor-felix-pio": {
+      "id": "igor-felix-pio",
+      "name": "Igor Felix Pio",
+      "searchKey": "igor felix pio",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2013,
+          "medal": null
+        }
+      ]
+    },
+    "mario-lovo": {
+      "id": "mario-lovo",
+      "name": "Mario Lovo",
+      "searchKey": "mario lovo",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2013,
+          "medal": null
+        }
+      ]
+    },
+    "fabricio-da-silva": {
+      "id": "fabricio-da-silva",
+      "name": "Fabrício da Silva",
+      "searchKey": "fabricio da silva",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2012,
+          "medal": null
+        }
+      ]
+    },
+    "mayara-cardoso-oliveira": {
+      "id": "mayara-cardoso-oliveira",
+      "name": "Mayara Cardoso Oliveira",
+      "searchKey": "mayara cardoso oliveira",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2012,
+          "medal": null
+        }
+      ]
+    },
+    "rafael-franco-fernandez": {
+      "id": "rafael-franco-fernandez",
+      "name": "Rafael Franco Fernandez",
+      "searchKey": "rafael franco fernandez",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2012,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "renato-silva": {
+      "id": "renato-silva",
+      "name": "Renato Silva",
+      "searchKey": "renato silva",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2012,
+          "medal": null
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "fabricio-da-silva",
+      "target": "mayara-cardoso-oliveira",
+      "olympiad": "ieso",
+      "year": 2012
+    },
+    {
+      "source": "fabricio-da-silva",
+      "target": "rafael-franco-fernandez",
+      "olympiad": "ieso",
+      "year": 2012
+    },
+    {
+      "source": "fabricio-da-silva",
+      "target": "renato-silva",
+      "olympiad": "ieso",
+      "year": 2012
+    },
+    {
+      "source": "mayara-cardoso-oliveira",
+      "target": "rafael-franco-fernandez",
+      "olympiad": "ieso",
+      "year": 2012
+    },
+    {
+      "source": "mayara-cardoso-oliveira",
+      "target": "renato-silva",
+      "olympiad": "ieso",
+      "year": 2012
+    },
+    {
+      "source": "rafael-franco-fernandez",
+      "target": "renato-silva",
+      "olympiad": "ieso",
+      "year": 2012
+    },
+    {
+      "source": "eliton-mathias-morais",
+      "target": "igor-felix-pio",
+      "olympiad": "ieso",
+      "year": 2013
+    },
+    {
+      "source": "eliton-mathias-morais",
+      "target": "mario-lovo",
+      "olympiad": "ieso",
+      "year": 2013
+    },
+    {
+      "source": "igor-felix-pio",
+      "target": "mario-lovo",
+      "olympiad": "ieso",
+      "year": 2013
+    },
+    {
+      "source": "antonio-vitor-dehet-many",
+      "target": "claudio-de-brito-da-silva",
+      "olympiad": "ieso",
+      "year": 2015
+    },
+    {
+      "source": "antonio-vitor-dehet-many",
+      "target": "maria-fernanda-de-souza-ganja",
+      "olympiad": "ieso",
+      "year": 2015
+    },
+    {
+      "source": "claudio-de-brito-da-silva",
+      "target": "maria-fernanda-de-souza-ganja",
+      "olympiad": "ieso",
+      "year": 2015
+    },
+    {
+      "source": "gustavo-rocha-alves",
+      "target": "lissandra-souza",
+      "olympiad": "ieso",
+      "year": 2016
+    },
+    {
+      "source": "gustavo-rocha-alves",
+      "target": "ronaldo-rodrigues-ribeiro",
+      "olympiad": "ieso",
+      "year": 2016
+    },
+    {
+      "source": "gustavo-rocha-alves",
+      "target": "vilian-borchardt-bullergahn",
+      "olympiad": "ieso",
+      "year": 2016
+    },
+    {
+      "source": "lissandra-souza",
+      "target": "ronaldo-rodrigues-ribeiro",
+      "olympiad": "ieso",
+      "year": 2016
+    },
+    {
+      "source": "lissandra-souza",
+      "target": "vilian-borchardt-bullergahn",
+      "olympiad": "ieso",
+      "year": 2016
+    },
+    {
+      "source": "ronaldo-rodrigues-ribeiro",
+      "target": "vilian-borchardt-bullergahn",
+      "olympiad": "ieso",
+      "year": 2016
+    },
+    {
+      "source": "bruna-de-oliveira",
+      "target": "bruno-abreu-pancotto",
+      "olympiad": "ieso",
+      "year": 2017
+    },
+    {
+      "source": "bruna-de-oliveira",
+      "target": "guilherme-pratissoli-pancieri",
+      "olympiad": "ieso",
+      "year": 2017
+    },
+    {
+      "source": "bruno-abreu-pancotto",
+      "target": "guilherme-pratissoli-pancieri",
+      "olympiad": "ieso",
+      "year": 2017
+    },
+    {
+      "source": "breno-franco-ferreira",
+      "target": "giancarlo-nappi",
+      "olympiad": "ieso",
+      "year": 2018
+    },
+    {
+      "source": "breno-franco-ferreira",
+      "target": "giovanna-ramos-goncalves-klauck",
+      "olympiad": "ieso",
+      "year": 2018
+    },
+    {
+      "source": "breno-franco-ferreira",
+      "target": "matheus-martins-de-sousa",
+      "olympiad": "ieso",
+      "year": 2018
+    },
+    {
+      "source": "giancarlo-nappi",
+      "target": "giovanna-ramos-goncalves-klauck",
+      "olympiad": "ieso",
+      "year": 2018
+    },
+    {
+      "source": "giancarlo-nappi",
+      "target": "matheus-martins-de-sousa",
+      "olympiad": "ieso",
+      "year": 2018
+    },
+    {
+      "source": "giovanna-ramos-goncalves-klauck",
+      "target": "matheus-martins-de-sousa",
+      "olympiad": "ieso",
+      "year": 2018
+    },
+    {
+      "source": "ednaldo-de-sousa",
+      "target": "guilherme-teixeira-simoes",
+      "olympiad": "ieso",
+      "year": 2019
+    },
+    {
+      "source": "ednaldo-de-sousa",
+      "target": "joao-augusto-vilas-boas-dos-santos-goncalves",
+      "olympiad": "ieso",
+      "year": 2019
+    },
+    {
+      "source": "ednaldo-de-sousa",
+      "target": "luis-eduardo-siqueira-freitas",
+      "olympiad": "ieso",
+      "year": 2019
+    },
+    {
+      "source": "guilherme-teixeira-simoes",
+      "target": "joao-augusto-vilas-boas-dos-santos-goncalves",
+      "olympiad": "ieso",
+      "year": 2019
+    },
+    {
+      "source": "guilherme-teixeira-simoes",
+      "target": "luis-eduardo-siqueira-freitas",
+      "olympiad": "ieso",
+      "year": 2019
+    },
+    {
+      "source": "joao-augusto-vilas-boas-dos-santos-goncalves",
+      "target": "luis-eduardo-siqueira-freitas",
+      "olympiad": "ieso",
+      "year": 2019
+    },
+    {
+      "source": "alexandra-silva",
+      "target": "joao-paulo-dos-santos",
+      "olympiad": "ieso",
+      "year": 2026
+    },
+    {
+      "source": "alexandra-silva",
+      "target": "manuela-goncalves",
+      "olympiad": "ieso",
+      "year": 2026
+    },
+    {
+      "source": "alexandra-silva",
+      "target": "washington-mota",
+      "olympiad": "ieso",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-dos-santos",
+      "target": "manuela-goncalves",
+      "olympiad": "ieso",
+      "year": 2026
+    },
+    {
+      "source": "joao-paulo-dos-santos",
+      "target": "washington-mota",
+      "olympiad": "ieso",
+      "year": 2026
+    },
+    {
+      "source": "manuela-goncalves",
+      "target": "washington-mota",
+      "olympiad": "ieso",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-11T02:56:48.591944+00:00",
+    "studentCount": 30,
+    "edgeCount": 39
+  }
+}

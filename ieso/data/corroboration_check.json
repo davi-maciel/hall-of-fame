@@ -1,0 +1,145 @@
+{
+  "checkedAt": "2026-09-11T02:58:26+00:00",
+  "summary": {
+    "PASS": 16,
+    "FAIL-HTTP": 1
+  },
+  "results": [
+    {
+      "year": 2012,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2012-IESO-2012-Argentina-Medals-List.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fernandez'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ieso/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mayara'"
+    },
+    {
+      "year": 2013,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2013-IESO-2013-India-Medals-List.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lovo'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.ifes.edu.br/noticias/14290-estudantes-do-ifes-conquistam-medalhas-em-competicao-internacional-de-ciencias-da-terra",
+      "domain": "ifes.edu.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)>"
+    },
+    {
+      "year": 2014,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2014-IESO-2014-Spain-Medals-List-.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Colossi'"
+    },
+    {
+      "year": 2015,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2015-IESO-2015-Brazil-Medals-List.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Dehet'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2016-10th-IESO.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ribeiro'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20160412210656/http://www.ifes.edu.br/noticias/16330-alunos-de-itapina-sao-selecionados-para-a-olimpiada-internacional-de-ciencias-da-terra",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Bullergahn'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20191015234617/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/597-ieso-no-japao",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Lissandra'"
+    },
+    {
+      "year": 2017,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2017-IESO2017-France-Medals-List.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'PANCOTTO'"
+    },
+    {
+      "year": 2017,
+      "url": "https://web.archive.org/web/20251017002809/https://fapes.es.gov.br/Not%C3%ADcia/bolsistas-da-fapes-ganham-premiacoes-em-olimpiada-internacional-na-franca",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Pancotto'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.dropbox.com/s/zg4hkk9d6bdhq7g/2018%20Results.pdf?raw=1",
+      "domain": "dropbox.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Nappi'"
+    },
+    {
+      "year": 2018,
+      "url": "https://web.archive.org/web/20190819093342/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/2286-finalistas-na-ieso",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Klauck'"
+    },
+    {
+      "year": 2019,
+      "url": "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2023/09/IESO-2019_Medalist.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'De Sousa'"
+    },
+    {
+      "year": 2019,
+      "url": "https://web.archive.org/web/20190923193711/https://portal.ifsuldeminas.edu.br/index.php/institucional-geral/3062-ieso-2019",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Vilas Boas'"
+    },
+    {
+      "year": 2019,
+      "url": "https://cidadesemfoco.com/aluno-do-ifpi-de-paulistana-vai-representar-o-brasil-na-13a-olimpiada-internacional-de-ciencias-da-terra/",
+      "domain": "cidadesemfoco.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ednaldo'"
+    },
+    {
+      "year": 2026,
+      "url": "https://drd.com.br/estudantes-do-ifmg-de-sao-joao-evangelista-vao-representar-o-brasil-em-olimpiada-internacional-na-italia/",
+      "domain": "drd.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Washington'"
+    }
+  ]
+}

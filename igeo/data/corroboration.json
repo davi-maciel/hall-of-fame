@@ -1,0 +1,170 @@
+{
+  "olympiadId": "igeo",
+  "description": "Sources confirming Brazilian iGeo contestants + results, per edition (partial coverage).",
+  "provenanceClasses": {
+    "official": "geoolympiad.org results PDFs (gold medallists + team rankings).",
+    "primary": "OBG Instagram/Facebook posts; school and press news; NOIC.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Editions attended: 2016, 2018, 2019, 2022-2026 (8; 2017 skipped, 2020 cancelled, 2021 online edition not entered). Brazilian medals: bronze 2024, 2025, 2026.",
+    "COVERAGE IS PARTIAL: iGeo's official results list only gold medallists, so Brazilian rosters depend on OBG (Olimpíada Brasileira de Geografia) posts and press. 2016 (three EEEP Salaberga Torquato students known by first name only), 2019 and 2023 have no usable names; 2018 has 1 of 4, 2024 2 of 4, 2026 3 of 4. OBG's old site (unifal-mg.edu.br/obgeografia) is gone and its Instagram is only partly indexed.",
+    "Selection via the OBG national final (UNIFAL-MG, later Unicamp): a written round, a paper and simulated tests in English."
+  ],
+  "years": [
+    {
+      "year": 2018,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2018-iGeo-Results.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+        },
+        {
+          "url": "https://www.facebook.com/colegionucleo/photos/temos-mais-um-aluno-n%C3%BAcleo-provando-seu-conhecimento-para-o-mundo-marina-hutzler/1763515040405071",
+          "domain": "facebook.com",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "Colégio Núcleo (Recife): Marina Hutzler, 1st in Brazil, went to iGeo 2018 (Quebec) - text via search snippet"
+        }
+      ],
+      "note": "Only Marina Hutzler documented (Colégio Núcleo post); the other three unknown."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2022-iGeo-Results.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+        },
+        {
+          "url": "https://www.facebook.com/obgeografia/videos/616207526523982",
+          "domain": "facebook.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBG video post: Lucas Lang, Lauren Schuantes, Manuela Teixeira and Karen Gomes represented Brazil at the online iGeo 2022 (Paris)",
+          "needle": "Lauren"
+        }
+      ],
+      "note": "Online edition (Paris). Four short-form names from OBG's video post."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2024-iGeo-Results.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+        },
+        {
+          "url": "https://tribunaonline.com.br/atribunanasescolas/feras-da-geografia-se-destacam-na-irlanda-198302",
+          "domain": "tribunaonline.com.br",
+          "cls": "primary",
+          "coverage": "2 of 4",
+          "confirms": "A Tribuna (ES): Pablo Fernando de Azurza Nogueira Gomez bronze (first Brazilian/South American iGeo medal), Gabriel Volpato Lima on the team; two more (CE, BH) unnamed",
+          "needle": "Azurza"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/entrevista-com-pablo-primeiro-brasileiro-medalhista-na-igeo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "NOIC interview with the 2024 bronze medallist ('Pablo Alvarez')",
+          "needle": "primeiro brasileiro medalhista"
+        }
+      ],
+      "note": "Dublin. First Brazilian iGeo medal (bronze, Pablo Fernando de Azurza Nogueira Gomez); Gabriel Volpato Lima also from Colégio FAESA (Vitória); the CE and BH members are unnamed in the sources found."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/10/2025-iGeo-Results-and-Report.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo 2025 official results and report: gold medallists and team rankings only"
+        },
+        {
+          "url": "https://www.instagram.com/p/DLYyq35MAsg/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBG (national organizer) Instagram: the four selected for iGeo 2025 - Isabela Granado Santos, João Lucas Dantas Barbosa, Bárbara Pinheiro Puget Cruz, Clara Gonzalez Ferreira Pinto Sampaio"
+        },
+        {
+          "url": "https://regionalnorte.com.br/estudantes-paraenses-sao-selecionadas-para-olimpiada-internacional-de-geografia-na-tailandia",
+          "domain": "regionalnorte.com.br",
+          "cls": "primary",
+          "coverage": "2 of 4 (pre-event)",
+          "confirms": "Regional Norte: Isabela Granado and Bárbara Puget (Colégio Santa Rosa, Belém) selected; team of four from N/NE",
+          "needle": "Granado"
+        }
+      ],
+      "note": "Bangkok. Isabela Granado Santos bronze (second Brazilian medal) per the 2026-08 DATA_STATUS verification; here corroborated only indirectly (the CMF 2026 post counts three Brazilian medals) - re-check OBG's results post. Roster from the OBG announcement."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DcLny4cjo-R/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "one student + medal",
+          "confirms": "Colégio Militar de Fortaleza Instagram: Tiago Sales bronze at iGeo 2026 (Istanbul, 10-17 Aug), Brazil's only 2026 medal and third ever"
+        },
+        {
+          "url": "https://www.instagram.com/p/DcEdsF_EbMH/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "event",
+          "confirms": "OBG Instagram: Brazilian team at the 2026 opening ceremony"
+        },
+        {
+          "url": "https://wscom.com.br/noticias/noticias-locais/2026/03/05/estudante-paraibana-representa-o-brasil-na-olimpiada-internacional-de-geografia-em-istambul/",
+          "domain": "wscom.com.br",
+          "cls": "primary",
+          "coverage": "one student (pre-event)",
+          "confirms": "WSCOM: Bianca Ribas (Colégio Motiva, João Pessoa) selected for iGeo 2026",
+          "needle": "Bianca Ribas"
+        },
+        {
+          "url": "https://agoralaguna.com.br/2026/04/theodora-flor-estudante-de-laguna-representara-estado-em-olimpiada-de-geografia-na-turquia/",
+          "domain": "agoralaguna.com.br",
+          "cls": "primary",
+          "coverage": "one student (pre-event)",
+          "confirms": "Agora Laguna: Theodora Flor (Laguna-SC) selected for iGeo 2026",
+          "needle": "Theodora"
+        }
+      ],
+      "note": "Istanbul (10-17 Aug 2026). Tiago Sales (Colégio Militar de Fortaleza) bronze - Brazil's third medal; Bianca Ribas and Theodora Flor documented pre-event; the fourth member unnamed. OBG's results post not yet found."
+    }
+  ]
+}
