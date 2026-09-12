@@ -1,0 +1,185 @@
+{
+  "checkedAt": "2026-09-09T21:55:29+00:00",
+  "summary": {
+    "PASS": 19,
+    "PASS-STATUS": 3
+  },
+  "results": [
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bigolin'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hisatsuga'"
+    },
+    {
+      "year": 2017,
+      "url": "https://impa.br/notices/brasil-conquista-13-medalhas-na-olimpiada-de-geometria/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hisatsuga'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/brasil-ganha-nove-medalhas-em-olimpiada-de-geometria/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/matematica/veja-o-resultado-do-brasil-na-igo-2018/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sponchiado'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/10/18/estudantes-brasileiros-conquistaram-11-medalhas-na-igo-de-2019/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-olimpiada-iraniana-de-geometria/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Dellaroli'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Machado Lage'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/2021/01/12/igo-2020-conheca-o-resultado-do-brasil/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Domingos Porto'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Shimamura'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/12/27/16218/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Shimamura'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Stabenow'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2023/01/02/brasil-conquista-8-medalhas-na-9a-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Stabenow'"
+    },
+    {
+      "year": 2023,
+      "url": "https://igo-official.com/wp-content/uploads/2025/02/IGO-2023-Final-Results.xlsx",
+      "domain": "igo-official.com",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Padovan'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2024/04/11/igo-2023-conheca-o-resultado-do-brasil/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fontes Silva'"
+    },
+    {
+      "year": 2024,
+      "url": "https://igo-official.com/wp-content/uploads/2025/02/Final-Results-IGO-2024.xlsx",
+      "domain": "igo-official.com",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gago'"
+    },
+    {
+      "year": 2025,
+      "url": "https://igo-official.com/wp-content/uploads/2025/12/Final-Results-IGO-2025.xlsx",
+      "domain": "igo-official.com",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2026/01/01/igo-2024-conheca-os-resultados/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Acioli'"
+    }
+  ]
+}

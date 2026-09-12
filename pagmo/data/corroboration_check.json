@@ -1,0 +1,120 @@
+{
+  "checkedAt": "2026-09-09T21:54:43+00:00",
+  "summary": {
+    "PASS": 14
+  },
+  "results": [
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-pagmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quintanilla'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/10/09/com-xxxx-medalhas-brasil-encerra-participacao-na-pagmo-2021/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quintanilla'"
+    },
+    {
+      "year": 2021,
+      "url": "https://noic.com.br/matematica/divulgado-o-time-da-pagmo-2021/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quintanilla'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-pagmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kochloukova'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2022/10/31/brasil-conquista-uma-medalha-de-ouro-e-tres-de-prata-na-pagmo-2022/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miyashita'"
+    },
+    {
+      "year": 2022,
+      "url": "https://noic.com.br/matematica/divulgado-o-resultado-da-pagmo-2022/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Miyashita'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-pagmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pazó'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/08/13/20594/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pazó'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/anunciado-o-time-da-pagmo-2023/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Schneider'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-pagmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sophia Li Ci Liu'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/11/30/brasil-e-campeao-da-pagmo-2024/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sophia'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/resultados-pagmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Passarini'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/10/31/time-brasil-conquista-quatro-medalhas-de-prata-na-5a-pagmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Passarini'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/04/12/equipe-brasileira-para-a-pagmo-2025-e-definida/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Passarini'"
+    }
+  ]
+}

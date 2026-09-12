@@ -1,0 +1,403 @@
+{
+  "students": {
+    "giovanna-pereira-ramos": {
+      "id": "giovanna-pereira-ramos",
+      "name": "Giovanna Pereira Ramos",
+      "searchKey": "giovanna pereira ramos",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "julia-de-paula-pessoa-leguiza": {
+      "id": "julia-de-paula-pessoa-leguiza",
+      "name": "Julia de Paula Pessoa Leguiza",
+      "searchKey": "julia de paula pessoa leguiza",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "pagmo",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "julia-soares-barros": {
+      "id": "julia-soares-barros",
+      "name": "Júlia Soares Barros",
+      "searchKey": "julia soares barros",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "julia-de-oliveira-bernardo-passarini": {
+      "id": "julia-de-oliveira-bernardo-passarini",
+      "name": "Júlia de Oliveira Bernardo Passarini",
+      "searchKey": "julia de oliveira bernardo passarini",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "camila-maeda-shida": {
+      "id": "camila-maeda-shida",
+      "name": "Camila Maeda Shida",
+      "searchKey": "camila maeda shida",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2023,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "pagmo",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "julia-galdino-tiosso-lopez": {
+      "id": "julia-galdino-tiosso-lopez",
+      "name": "Julia Galdino Tiosso Lopez",
+      "searchKey": "julia galdino tiosso lopez",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "sophia-li-ci-liu": {
+      "id": "sophia-li-ci-liu",
+      "name": "Sophia Li Ci Liu",
+      "searchKey": "sophia li ci liu",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "alice-ella-schneider": {
+      "id": "alice-ella-schneider",
+      "name": "Alice Ella Schneider",
+      "searchKey": "alice ella schneider",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2022,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "pagmo",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "ana-beatriz-barbosa-pazo-serpa": {
+      "id": "ana-beatriz-barbosa-pazo-serpa",
+      "name": "Ana Beatriz Barbosa Pazó Serpa",
+      "searchKey": "ana beatriz barbosa pazo serpa",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2023,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "estela-baron-nakamura": {
+      "id": "estela-baron-nakamura",
+      "name": "Estela Baron Nakamura",
+      "searchKey": "estela baron nakamura",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2023,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "bilhana-plamenova-kochloukova": {
+      "id": "bilhana-plamenova-kochloukova",
+      "name": "Bilhana Plamenova Kochloukova",
+      "searchKey": "bilhana plamenova kochloukova",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2021,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "pagmo",
+          "year": 2022,
+          "medal": "silver"
+        }
+      ]
+    },
+    "endy-lumy-okamura-miyashita": {
+      "id": "endy-lumy-okamura-miyashita",
+      "name": "Endy Lumy Okamura Miyashita",
+      "searchKey": "endy lumy okamura miyashita",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "isabela-ruthner-dorn": {
+      "id": "isabela-ruthner-dorn",
+      "name": "Isabela Ruthner Dorn",
+      "searchKey": "isabela ruthner dorn",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2022,
+          "medal": "silver"
+        }
+      ]
+    },
+    "andrea-quintanilla-torrez": {
+      "id": "andrea-quintanilla-torrez",
+      "name": "Andrea Quintanilla Torrez",
+      "searchKey": "andrea quintanilla torrez",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "carolina-mallmann": {
+      "id": "carolina-mallmann",
+      "name": "Carolina Mallmann",
+      "searchKey": "carolina mallmann",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "fabricia-cardoso-marques": {
+      "id": "fabricia-cardoso-marques",
+      "name": "Fabrícia Cardoso Marques",
+      "searchKey": "fabricia cardoso marques",
+      "participations": [
+        {
+          "olympiad": "pagmo",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "andrea-quintanilla-torrez",
+      "target": "bilhana-plamenova-kochloukova",
+      "olympiad": "pagmo",
+      "year": 2021
+    },
+    {
+      "source": "andrea-quintanilla-torrez",
+      "target": "carolina-mallmann",
+      "olympiad": "pagmo",
+      "year": 2021
+    },
+    {
+      "source": "andrea-quintanilla-torrez",
+      "target": "fabricia-cardoso-marques",
+      "olympiad": "pagmo",
+      "year": 2021
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "carolina-mallmann",
+      "olympiad": "pagmo",
+      "year": 2021
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "fabricia-cardoso-marques",
+      "olympiad": "pagmo",
+      "year": 2021
+    },
+    {
+      "source": "carolina-mallmann",
+      "target": "fabricia-cardoso-marques",
+      "olympiad": "pagmo",
+      "year": 2021
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "bilhana-plamenova-kochloukova",
+      "olympiad": "pagmo",
+      "year": 2022
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "endy-lumy-okamura-miyashita",
+      "olympiad": "pagmo",
+      "year": 2022
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "pagmo",
+      "year": 2022
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "endy-lumy-okamura-miyashita",
+      "olympiad": "pagmo",
+      "year": 2022
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "pagmo",
+      "year": 2022
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "pagmo",
+      "year": 2022
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "ana-beatriz-barbosa-pazo-serpa",
+      "olympiad": "pagmo",
+      "year": 2023
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "camila-maeda-shida",
+      "olympiad": "pagmo",
+      "year": 2023
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "estela-baron-nakamura",
+      "olympiad": "pagmo",
+      "year": 2023
+    },
+    {
+      "source": "ana-beatriz-barbosa-pazo-serpa",
+      "target": "camila-maeda-shida",
+      "olympiad": "pagmo",
+      "year": 2023
+    },
+    {
+      "source": "ana-beatriz-barbosa-pazo-serpa",
+      "target": "estela-baron-nakamura",
+      "olympiad": "pagmo",
+      "year": 2023
+    },
+    {
+      "source": "camila-maeda-shida",
+      "target": "estela-baron-nakamura",
+      "olympiad": "pagmo",
+      "year": 2023
+    },
+    {
+      "source": "camila-maeda-shida",
+      "target": "julia-de-paula-pessoa-leguiza",
+      "olympiad": "pagmo",
+      "year": 2024
+    },
+    {
+      "source": "camila-maeda-shida",
+      "target": "julia-galdino-tiosso-lopez",
+      "olympiad": "pagmo",
+      "year": 2024
+    },
+    {
+      "source": "camila-maeda-shida",
+      "target": "sophia-li-ci-liu",
+      "olympiad": "pagmo",
+      "year": 2024
+    },
+    {
+      "source": "julia-de-paula-pessoa-leguiza",
+      "target": "julia-galdino-tiosso-lopez",
+      "olympiad": "pagmo",
+      "year": 2024
+    },
+    {
+      "source": "julia-de-paula-pessoa-leguiza",
+      "target": "sophia-li-ci-liu",
+      "olympiad": "pagmo",
+      "year": 2024
+    },
+    {
+      "source": "julia-galdino-tiosso-lopez",
+      "target": "sophia-li-ci-liu",
+      "olympiad": "pagmo",
+      "year": 2024
+    },
+    {
+      "source": "giovanna-pereira-ramos",
+      "target": "julia-de-oliveira-bernardo-passarini",
+      "olympiad": "pagmo",
+      "year": 2025
+    },
+    {
+      "source": "giovanna-pereira-ramos",
+      "target": "julia-de-paula-pessoa-leguiza",
+      "olympiad": "pagmo",
+      "year": 2025
+    },
+    {
+      "source": "giovanna-pereira-ramos",
+      "target": "julia-soares-barros",
+      "olympiad": "pagmo",
+      "year": 2025
+    },
+    {
+      "source": "julia-de-oliveira-bernardo-passarini",
+      "target": "julia-de-paula-pessoa-leguiza",
+      "olympiad": "pagmo",
+      "year": 2025
+    },
+    {
+      "source": "julia-de-oliveira-bernardo-passarini",
+      "target": "julia-soares-barros",
+      "olympiad": "pagmo",
+      "year": 2025
+    },
+    {
+      "source": "julia-de-paula-pessoa-leguiza",
+      "target": "julia-soares-barros",
+      "olympiad": "pagmo",
+      "year": 2025
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-09T21:52:11.248066+00:00",
+    "studentCount": 16,
+    "edgeCount": 30
+  }
+}

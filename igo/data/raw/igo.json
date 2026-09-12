@@ -1,0 +1,878 @@
+[
+  {
+    "rawName": "Mariana Bigolin Groff",
+    "olympiadId": "igo",
+    "year": 2016,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pedro Lucas Lanaro Sponchiado",
+    "olympiadId": "igo",
+    "year": 2016,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "João César Campos Vargas",
+    "olympiadId": "igo",
+    "year": 2016,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "André Yuji Hisatsuga",
+    "olympiadId": "igo",
+    "year": 2016,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Tarcísio Soares Teixeira Neto",
+    "olympiadId": "igo",
+    "year": 2016,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Davi Cavalcanti Sena",
+    "olympiadId": "igo",
+    "year": 2016,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Bernardo Peruzzo Trevizan",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "gold",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Gabriel Ribeiro Paiva",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Eduardo Quirino de Oliveira",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pedro Gomes Cabral",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Bruno Brasil Meinhart",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Tarcísio Soares Teixeira Neto",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Pedro Lucas Lanaro Sponchiado",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "André Yuji Hisatsuga",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Bruno Barros de Sousa",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Bryan Diniz Borck",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Davi Cavalcanti Sena",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Lucas Hiroshi Hanke Harada",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Marcelo Hippolyto de Sandes Peixoto",
+    "olympiadId": "igo",
+    "year": 2017,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Enzo Pontes Saraiva de Moraes",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "gold",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Gabriel Ribeiro Paiva",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "gold",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pablo Andrade Carvalho Barros",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Eduardo Quirino de Oliveira",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pedro Lucas Lanaro Sponchiado",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Samuel Prieto Lima",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Bernardo Peruzzo Trevizan",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Pedro Gomes Cabral",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Felipe Chen Wu",
+    "olympiadId": "igo",
+    "year": 2018,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Leonardo Carvalho de Luca",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "silver",
+    "level": "elementar"
+  },
+  {
+    "rawName": "Gabriel Seares Dellaroli",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "bronze",
+    "level": "elementar"
+  },
+  {
+    "rawName": "Pedro Duarte Borges",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "bronze",
+    "level": "elementar"
+  },
+  {
+    "rawName": "Olavo Paschoal Longo",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Caio Hermano Maia de Oliveira",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Jonatan de Lima Santos",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pedro de Oliveira Lengruber Lack",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Gabriel Ribeiro Paiva",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "gold",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Bernardo Peruzzo Trevizan",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "gold",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Francisco Moreira Machado Neto",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Pedro Gomes Cabral",
+    "olympiadId": "igo",
+    "year": 2019,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Rodrigo Salgado Domingos Porto",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Caio Hermano Maia de Oliveira",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Gabriel Seares Dellaroli",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Leonardo Carvalho de Luca",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pedro Porto de Carvalho Nunes",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Vladimir Arauzo Huisa",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Fabrícia Cardoso Marques",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Pablo Andrade Carvalho Barros",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "gold",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Gabriel Ribeiro Paiva",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Enzo Pontes Saraiva de Moraes",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Yvens Ian Prado Porto",
+    "olympiadId": "igo",
+    "year": 2020,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Eduardo Akira Shimamura Silva",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "bronze",
+    "level": "elementar"
+  },
+  {
+    "rawName": "Gabriel Seares Dellaroli",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Marco Aurelio Nogueira D'Emidio",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Matheus Alencar de Moraes",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Fabricia Cardoso Marques",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Andrea Quintanilla Torrez",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "João Pedro Ramos Viana Costa",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "gold",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Enzo Pontes Saraiva de Moraes",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "silver",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Marcelo Machado Lage",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Yvens Ian Prado Porto",
+    "olympiadId": "igo",
+    "year": 2021,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Nicolas Stabenow das Neves Pereira",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "silver",
+    "level": "elementar"
+  },
+  {
+    "rawName": "Marcos Ye",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "bronze",
+    "level": "elementar"
+  },
+  {
+    "rawName": "João Pedro Bandeira Lemos",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Marco Aurelio Nogueira D'Emidio",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "silver",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Gabriel Bastos Vasconcelos Duarte",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Matheus Alencar de Moraes",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "bronze",
+    "level": "intermediario"
+  },
+  {
+    "rawName": "Luís Felipe Pestana Giglio",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Vitor de Oliveira da Silva",
+    "olympiadId": "igo",
+    "year": 2022,
+    "medal": "bronze",
+    "level": "avancado"
+  },
+  {
+    "rawName": "Maria Clara Fontes Silva",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "silver",
+    "level": "elementar",
+    "score": 24
+  },
+  {
+    "rawName": "Samuel Nogueira Santiago",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "silver",
+    "level": "elementar",
+    "score": 24
+  },
+  {
+    "rawName": "José Elias Padovan Britto",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "bronze",
+    "level": "elementar",
+    "score": 16
+  },
+  {
+    "rawName": "Julia de Paula Pessoa Leguiza",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "bronze",
+    "level": "elementar",
+    "score": 16
+  },
+  {
+    "rawName": "Valter da Silva Novais Neto",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "bronze",
+    "level": "elementar",
+    "score": 16
+  },
+  {
+    "rawName": "Levi Magalhães Pereira Castello Branco",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 24
+  },
+  {
+    "rawName": "Fábio Medeiros Ferraz de Campos",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Lucas Batista Mesquita",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "intermediario",
+    "score": 10
+  },
+  {
+    "rawName": "Guilherme Rene Cristiano Nome",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "intermediario",
+    "score": 10
+  },
+  {
+    "rawName": "Camila Maeda Shida",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "intermediario",
+    "score": 10
+  },
+  {
+    "rawName": "Ana Beatriz Barbosa Pazó Serpa",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "intermediario",
+    "score": 10
+  },
+  {
+    "rawName": "João Vitor Tomaz Alves Ferreira",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": "bronze",
+    "level": "avancado",
+    "score": 16
+  },
+  {
+    "rawName": "Vitor de Oliveira da Silva",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "avancado",
+    "score": 8
+  },
+  {
+    "rawName": "Matheus Alencar de Moraes",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "avancado",
+    "score": 8
+  },
+  {
+    "rawName": "Marco Aurelio Nogueira D'Emidio",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "avancado",
+    "score": 8
+  },
+  {
+    "rawName": "Leonardo Henrique Fakhreddine Maldonado",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "avancado",
+    "score": 8
+  },
+  {
+    "rawName": "João Victor Silva dos Santos",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "avancado",
+    "score": 8
+  },
+  {
+    "rawName": "Cecília Mileski de Paula",
+    "olympiadId": "igo",
+    "year": 2023,
+    "medal": null,
+    "level": "avancado",
+    "score": 8
+  },
+  {
+    "rawName": "João Victor Benício Cândido",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "silver",
+    "level": "elementar",
+    "score": 24
+  },
+  {
+    "rawName": "Davi Lima Maia",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": null,
+    "level": "elementar",
+    "score": 15
+  },
+  {
+    "rawName": "Luiz Efraim Cavalcante Basílio",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": null,
+    "level": "elementar",
+    "score": 15
+  },
+  {
+    "rawName": "André dos Santos Honorato da Silva",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": null,
+    "level": "elementar",
+    "score": 9
+  },
+  {
+    "rawName": "Bruno Machado Feltran",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "silver",
+    "level": "intermediario",
+    "score": 24
+  },
+  {
+    "rawName": "Maria Clara Fontes Silva",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "João Pedro de Almeida da Silva",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Ricardo Gago de Moura Fernandes",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Paulo Jônatas de Oliveira Pimentel Leite",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Pedro Henrique Tomás da Rocha",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Rafael Alves Amiune",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Enzo Holanda Sampaio",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Erick Akira Koga",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "Julia de Paula Pessoa Leguiza",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "bronze",
+    "level": "intermediario",
+    "score": 16
+  },
+  {
+    "rawName": "João Victor Silva dos Santos",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "silver",
+    "level": "avancado",
+    "score": 24
+  },
+  {
+    "rawName": "João Pedro Bandeira Lemos",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "silver",
+    "level": "avancado",
+    "score": 24
+  },
+  {
+    "rawName": "Levi Magalhães Pereira Castello Branco",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "silver",
+    "level": "avancado",
+    "score": 24
+  },
+  {
+    "rawName": "Marco Aurelio Nogueira D'Emidio",
+    "olympiadId": "igo",
+    "year": 2024,
+    "medal": "silver",
+    "level": "avancado",
+    "score": 19
+  },
+  {
+    "rawName": "Paulo Henrique Pinheiro Tavares",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "gold",
+    "level": "elementar",
+    "score": 32
+  },
+  {
+    "rawName": "Diogo Andrade Acioli",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "silver",
+    "level": "elementar",
+    "score": 30
+  },
+  {
+    "rawName": "Rafael Martins Farias Maia",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "bronze",
+    "level": "elementar",
+    "score": 19
+  },
+  {
+    "rawName": "João Lucas Vitorino Arruda do Prado",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": null,
+    "level": "elementar",
+    "score": 8
+  },
+  {
+    "rawName": "Rafael Castro Maia da Cunha",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": null,
+    "level": "elementar",
+    "score": 8
+  },
+  {
+    "rawName": "Rafael Alves Amiune",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "silver",
+    "level": "intermediario",
+    "score": 24
+  },
+  {
+    "rawName": "José Elias Padovan Britto",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "silver",
+    "level": "intermediario",
+    "score": 24
+  },
+  {
+    "rawName": "Pedro Henrique Tomás da Rocha",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "silver",
+    "level": "intermediario",
+    "score": 24
+  },
+  {
+    "rawName": "Vinicius Martins Ribeiro",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "silver",
+    "level": "intermediario",
+    "score": 23
+  },
+  {
+    "rawName": "Enzo Holanda Sampaio",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "silver",
+    "level": "avancado",
+    "score": 26
+  },
+  {
+    "rawName": "Alice Ella Schneider",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "bronze",
+    "level": "avancado",
+    "score": 24
+  },
+  {
+    "rawName": "Bruno Machado Feltran",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "bronze",
+    "level": "avancado",
+    "score": 24
+  },
+  {
+    "rawName": "Alessandro Mathias Machado",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "bronze",
+    "level": "avancado",
+    "score": 24
+  },
+  {
+    "rawName": "Levi Magalhães Pereira Castello Branco",
+    "olympiadId": "igo",
+    "year": 2025,
+    "medal": "bronze",
+    "level": "avancado",
+    "score": 24
+  }
+]

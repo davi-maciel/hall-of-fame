@@ -1,0 +1,177 @@
+{
+  "olympiadId": "pagmo",
+  "description": "Sources confirming Brazilian PAGMO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "(none online)",
+    "primary": "OBM (national organizer) results table and news; NOIC.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Pan-American girls' olympiad modelled on the EGMO; teams of four; Brazil in every edition since the 2021 debut. OBM's all-years table is the naming source; OBM news and NOIC corroborate each year. No official PAGMO results site was found online.",
+    "All 20 records are medals (no unawarded contestant so far)."
+  ],
+  "years": [
+    {
+      "year": 2021,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-pagmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
+          "needle": "Quintanilla"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/10/09/com-xxxx-medalhas-brasil-encerra-participacao-na-pagmo-2021/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 medals by name (virtual 1st edition)",
+          "needle": "Quintanilla"
+        },
+        {
+          "url": "https://noic.com.br/matematica/divulgado-o-time-da-pagmo-2021/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Quintanilla"
+        }
+      ],
+      "note": "1st edition, virtual (organised by Brazil, Chile, Ecuador, Spain and Mexico)."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-pagmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
+          "needle": "Kochloukova"
+        },
+        {
+          "url": "https://www.obm.org.br/2022/10/31/brasil-conquista-uma-medalha-de-ouro-e-tres-de-prata-na-pagmo-2022/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: gold + 3 silvers by name",
+          "needle": "Miyashita"
+        },
+        {
+          "url": "https://noic.com.br/matematica/divulgado-o-resultado-da-pagmo-2022/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Miyashita"
+        }
+      ],
+      "note": "Alice Ella Schneider (Belo Horizonte) = the EGMO 2025 / Rioplatense 2025 'Alice Schneider' (fuller form adopted everywhere)."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-pagmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
+          "needle": "Pazó"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/08/13/20594/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: G/S/2B by name",
+          "needle": "Pazó"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/anunciado-o-time-da-pagmo-2023/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Schneider"
+        }
+      ],
+      "note": "'Ana Beatriz Barbosa Pazó Serpa' = EGMO 2025 'Ana Beatriz Pazó' (fuller form adopted in egmo/)."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-pagmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
+          "needle": "Sophia Li Ci Liu"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/11/30/brasil-e-campeao-da-pagmo-2024/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 3 golds + silver by name; team champion",
+          "needle": "Sophia"
+        }
+      ],
+      "note": "Team champion."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-pagmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
+          "needle": "Passarini"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/10/31/time-brasil-conquista-quatro-medalhas-de-prata-na-5a-pagmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 silvers by name; Fortaleza hosts",
+          "needle": "Passarini"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/04/12/equipe-brasileira-para-a-pagmo-2025-e-definida/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBM: team announcement",
+          "needle": "Passarini"
+        }
+      ],
+      "note": "5th edition hosted by Brazil (Fortaleza, October 2025). 6th (2026) team selected; event not yet held on 2026-09-09."
+    }
+  ]
+}
