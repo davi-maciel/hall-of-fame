@@ -63,7 +63,10 @@
     "thiago-de-silva-sobral": "thiago-da-silva-sobral",
     "heloisa-mysczak": "heloisa-guedes-de-azevedo-o-mysczak",
     "thiago-ross-white-bergamaschi": "thiago-bergamaschi",
-    "paulo-portela": "paulo-otavio-portela-santana"
+    "paulo-portela": "paulo-otavio-portela-santana",
+    "igor-sousa-almeida": "igor-de-sousa-almeida",
+    "lorenna-rodrigues-silva": "lorena-rodrigues-silva",
+    "daniele-veras-de-andrade": "danielle-veras-de-andrade"
   },
   "preferredNames": {
     "cindy-yushi-tsai": "Cindy Yushi Tsai",
@@ -73,7 +76,9 @@
     "yuri-sammuel-costa-de-moraes": "Yuri Sammuel Costa de Moraes",
     "gabriel-matheus-viana-pinheiro": "Gabriel Matheus Viana Pinheiro",
     "marco-aurelio-nogueira-demidio": "Marco Aurelio Nogueira D'Emidio",
-    "thiago-bergamaschi": "Thiago Ross-White Bergamaschi"
+    "thiago-bergamaschi": "Thiago Ross-White Bergamaschi",
+    "lorena-rodrigues-silva": "Lorena Rodrigues Silva",
+    "danielle-veras-de-andrade": "Danielle Veras de Andrade"
   },
   "_notes": [
     "cindy-yushi-tsai: IJSO 2007 sources (OBC/wiki/OLC majority) spell Yushi; the IOAA 2008 dataset has Yuchi (single Objetivo-style variant). Provisional canonical = Yushi; revisit if a primary document surfaces.",
@@ -104,7 +109,8 @@
     "IOL batch (2026-09-10): rosters from ioling.org (official) with fuller forms from obling.org edition pages. Exact-name merges — André Amaral de Sousa (Rioplatense 2008, IOI/OII 2012), Rafael Kazuhiro Miyazaki, Nicolas Seoane Miquelin (Maio 2008), Ivan Tadeu Ferreira Antunes Filho, Bruno Kenzo Ozaki, Brendon Diniz Borck, João Henrique Oliveira Fontes (Maio 2015), Gustavo Baracat Alvares Martins, Leonardo Paillo da Silva (Maio 2018), Wesley Antônio Machado Andrade de Aguiar (EuPhO/OLAA 2021, CMM Manaus), Everton Albuquerque de Oliveira (EuPhO 2022), Lucas Cavalcante Menezes (IOAA 2024, NBPhO 2025), Sophia Li Ci Liu (Maio/PAGMO 2024). Assumed: IOL 2024's 'Paulo Portela' (Farias Brito, Fortaleza) = Paulo Otávio Portela Santana (Maio 2019, IOAA 2022-23, EuPhO 2023) — alias added; 'Pedro Rocha' (2024) kept distinct from Pedro Marinho Rocha (2018) and from the IGO Pedro Henrique Tomás da Rocha.",
     "IESO/iGeo batch (2026-09-10): partial rosters. IESO names come from the official medal lists (igeoscied.org archive) and IF news; iGeo names from OBG's Instagram, school news and press (official iGeo results list gold medallists only). No cross-dataset merges; 'Pablo Fernando de Azurza Nogueira Gomez' is NOIC's 'Pablo Alvarez'.",
     "IEO batch (2026-09-11): exact-name cross-dataset merges accepted as the same person (age-consistent, distinctive names, no school evidence): Pedro Porto de Carvalho Nunes (IGO 2020 -> IEO 2023), Victor Cortez Crocia Barros (IYPT 2018 -> IEO 2019), Rafael Akira Okamura Ferro (IJSO 2017 -> IEO 2019), Nicolas/Nícolas Goulart de Moura (Maio 2019 -> IEO 2021-22; Colégio Objetivo Integrado). Evidence-backed expansions written directly into ieo/data/raw: 2025 short official names -> Banco Central attendance list full names; 2026 'Arthur Spuri' -> Arthur Alencar Spuri (Farias Brito, Fortaleza; IPhO 2026 silver days earlier), merging with the IPhO 2026 entry. Fernando Giron Paranhos de Ávila IEO 2025 = IYPT 2025 (same full name from the Banco Central list).",
-    "IEO 2026 'Pedro Câmara' = Pedro Paraguassú Câmara (IYPT 2026 bronze): identified by the maintainer from the team photos (Bain & Company IEO delegation post DbYtUlrD356 vs IYPT Brasil 'Team Brazil IYPT 2026' post Dah8RhYP_iB, 2026-09-11); only overlapping name on the two rosters; IYPT (Zurich, 5–12 Jul) immediately preceded the IEO (Shenzhen, 12–20 Jul). Full name written into ieo/data/raw."
+    "IEO 2026 'Pedro Câmara' = Pedro Paraguassú Câmara (IYPT 2026 bronze): identified by the maintainer from the team photos (Bain & Company IEO delegation post DbYtUlrD356 vs IYPT Brasil 'Team Brazil IYPT 2026' post Dah8RhYP_iB, 2026-09-11); only overlapping name on the two rosters; IYPT (Zurich, 5–12 Jul) immediately preceded the IEO (Shenzhen, 12–20 Jul). Full name written into ieo/data/raw.",
+    "Broad similar-name sweep (2026-09-12, any-shared-token blocking + given-name variants): merged Igor Sousa Almeida (IChO 2004) = Igor de Sousa Almeida (OIAQ 2004; names differ only by 'de' — gate now flags such pairs); Lorenna Rodrigues Silva (OIAQ 2003) = Lorena Rodrigues Silva (IChO 2003; IChO official/host spelling preferred); Daniele Veras de Andrade (IMO 1998) = Danielle Veras de Andrade (Cono Sur 1997; OBM and OLC spelling preferred). OIAQ 2024 'Guillermo Camilo Acevedo' rewritten in oiaq/data/raw as João Guilherme Camilo Azevedo (Roraima chemistry olympiad post: João Guilherme, Colégio Farias Brito, silver) and thereby merged with the IOL 2024/2025 entry. OIAQ 2024 'Alexandre de Almeida' rewritten as Alexandre Andrade de Almeida (Colégio Objetivo Integrado per Objetivo's EuPhO 2024 news; Roraima post: the OIAQ silver 'Alexandre' is from Colégio Objetivo SP)."
   ],
   "hideVariants": [
     "eleni-claire-shor"

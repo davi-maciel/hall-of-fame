@@ -48,22 +48,10 @@
         }
       ]
     },
-    "alexandre-de-almeida": {
-      "id": "alexandre-de-almeida",
-      "name": "Alexandre de Almeida",
-      "searchKey": "alexandre de almeida",
-      "participations": [
-        {
-          "olympiad": "oiaq",
-          "year": 2024,
-          "medal": "silver"
-        }
-      ]
-    },
-    "guillermo-camilo-acevedo": {
-      "id": "guillermo-camilo-acevedo",
-      "name": "Guillermo Camilo Acevedo",
-      "searchKey": "guillermo camilo acevedo",
+    "alexandre-andrade-de-almeida": {
+      "id": "alexandre-andrade-de-almeida",
+      "name": "Alexandre Andrade de Almeida",
+      "searchKey": "alexandre andrade de almeida",
       "participations": [
         {
           "olympiad": "oiaq",
@@ -81,6 +69,18 @@
           "olympiad": "oiaq",
           "year": 2024,
           "medal": "gold"
+        }
+      ]
+    },
+    "joao-guilherme-camilo-azevedo": {
+      "id": "joao-guilherme-camilo-azevedo",
+      "name": "João Guilherme Camilo Azevedo",
+      "searchKey": "joao guilherme camilo azevedo",
+      "participations": [
+        {
+          "olympiad": "oiaq",
+          "year": 2024,
+          "medal": "silver"
         }
       ]
     },
@@ -2253,37 +2253,37 @@
       "year": 2023
     },
     {
-      "source": "alexandre-de-almeida",
-      "target": "guillermo-camilo-acevedo",
-      "olympiad": "oiaq",
-      "year": 2024
-    },
-    {
-      "source": "alexandre-de-almeida",
+      "source": "alexandre-andrade-de-almeida",
       "target": "helena-viera-lima",
       "olympiad": "oiaq",
       "year": 2024
     },
     {
-      "source": "alexandre-de-almeida",
-      "target": "rafael-joaquin-parra",
+      "source": "alexandre-andrade-de-almeida",
+      "target": "joao-guilherme-camilo-azevedo",
       "olympiad": "oiaq",
       "year": 2024
     },
     {
-      "source": "guillermo-camilo-acevedo",
-      "target": "helena-viera-lima",
-      "olympiad": "oiaq",
-      "year": 2024
-    },
-    {
-      "source": "guillermo-camilo-acevedo",
+      "source": "alexandre-andrade-de-almeida",
       "target": "rafael-joaquin-parra",
       "olympiad": "oiaq",
       "year": 2024
     },
     {
       "source": "helena-viera-lima",
+      "target": "joao-guilherme-camilo-azevedo",
+      "olympiad": "oiaq",
+      "year": 2024
+    },
+    {
+      "source": "helena-viera-lima",
+      "target": "rafael-joaquin-parra",
+      "olympiad": "oiaq",
+      "year": 2024
+    },
+    {
+      "source": "joao-guilherme-camilo-azevedo",
       "target": "rafael-joaquin-parra",
       "olympiad": "oiaq",
       "year": 2024
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-08-27T05:32:40.326969+00:00",
+    "generatedAt": "2026-09-12T16:17:49.704379+00:00",
     "studentCount": 103,
     "edgeCount": 171
   }

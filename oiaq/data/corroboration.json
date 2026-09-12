@@ -720,10 +720,10 @@
     },
     {
       "year": 2024,
-      "namingSourceCount": 2,
-      "independentPrimaryCount": 2,
-      "meetsThreeNaming": false,
-      "meetsThreePrimary": false,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
       "sources": [
         {
           "url": "https://www.unacomunica.una.ac.cr/index.php/octubre-2024/5674-brasil-destaca-en-la-xxviii-olimpiada-iberoamericana-de-quimica",
@@ -740,9 +740,16 @@
           "coverage": "counts",
           "confirms": "dates/host/14 countries",
           "needle": "Sarapiqu"
+        },
+        {
+          "url": "https://www.instagram.com/p/DBHiyewJWBL/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "full (first names + schools)",
+          "confirms": "Olimpíadas de Química de Roraima: the four Brazilians with schools and medals (2G Helena, Rafael; 2S Alexandre, João Guilherme)"
         }
       ],
-      "note": "Host-university source hispanicizes names (Helena Viera Lima, Rafael Joaquín Parra, Guillermo Camilo Acevedo) — kept verbatim pending Brazilian-source confirmation; 'Alexandre de Almeida' is ambiguous vs two existing students (kept separate). Watch: an Instagram-sourced report claims Giovana Ayumi Matsumoto was also on the 2024 team (5th member or duplicate of a medalist, unresolved) — high conflation risk with the April-2024 Mendeleev team she verifiably attended; not added."
+      "note": "Host-university source hispanicizes names (Helena Viera Lima, Rafael Joaquín Parra, Guillermo Camilo Acevedo). Brazilian confirmation (Olimpíadas de Química de Roraima Instagram post DBHiyewJWBL, 14 Oct 2024: Helena – Colégio Master CE gold; Rafael – Colégio Objetivo SP gold; Alexandre – Colégio Objetivo SP silver; João Guilherme – Colégio Farias Brito CE silver): 'Guillermo Camilo Acevedo' = João Guilherme Camilo Azevedo (the IOL 2024/2025 contestant; merged 2026-09-12). Helena/Rafael kept in the host spelling pending full Brazilian names; 'Alexandre de Almeida' = Alexandre Andrade de Almeida (Colégio Objetivo Integrado per Objetivo's EuPhO 2024 news; the Roraima post places the OIAQ silver 'Alexandre' at Colégio Objetivo SP; merged 2026-09-12; formerly kept separate). Watch: an Instagram-sourced report claims Giovana Ayumi Matsumoto was also on the 2024 team (5th member or duplicate of a medalist, unresolved) — high conflation risk with the April-2024 Mendeleev team she verifiably attended; not added."
     },
     {
       "year": 2025,

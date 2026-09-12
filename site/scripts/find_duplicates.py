@@ -85,8 +85,12 @@ def compatible(ta, tb):
 
 def classify(a, b):
     ta, tb = tokens(a["name"]), tokens(b["name"])
-    if not ta or not tb or ta == tb:
+    if not ta or not tb:
         return None
+    if ta == tb:
+        # Same significant tokens, different slug (only stopwords like 'de' differ):
+        # build_people keys on the full name, so these never auto-merge.
+        return "SUBSET"
     # SUFFIX: identical after dropping a trailing suffix token from one side
     sa = ta[:-1] if ta and ta[-1] in SUFFIX else ta
     sb = tb[:-1] if tb and tb[-1] in SUFFIX else tb
