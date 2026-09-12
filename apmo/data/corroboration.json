@@ -1,0 +1,601 @@
+{
+  "olympiadId": "apmo",
+  "description": "Sources confirming Brazilian APMO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "apmo-official.org per-country/per-year results DB and the official results PDFs (2010-2015).",
+    "primary": "OBM (national organizer) all-years results table and per-year news posts; NOIC.",
+    "archive": "Wayback snapshot of OBM's former site (2015 table)."
+  },
+  "globalNotes": [
+    "Correspondence olympiad: sat in Brazil (March) by OBM awardees; the ten best papers are sent to the Japan-based committee. The official page's 'rank' is the in-country rank 1-10, not a global rank. Awards per country are capped at 1G/2S/4B/3HM, so year-to-year medal counts are near-constant.",
+    "rawName policy: OBM full forms (with diacritics) instead of the official site's Last/First split; where the person is already in the IMO dataset the IMO spelling is used (most-complete documented form). Score = official total (5 problems x 7).",
+    "Pre-2016 per-contestant pages exist only for Australia, Brazil and the Philippines (the three countries whose historical data reached the site maintainer); every other country/year before 2016 returns HTTP 500. Brazil's 2012-15 rows come from OBM PDFs archived in the site repo, 2010-11 were keyed in by hand.",
+    "The official site (a volunteer-built DB) carries several name typos (Basbosa, Medes, Toeatti, Barrons, Pacahowski, mis-split given names); OBM's table has its own (Pietro, Castelo, Domingues, Davi, Pacanowsky). Every deviation is resolved in the per-year notes.",
+    "medal null = confirmed no-award (official award column empty; OBM 'Certificado'). 2010 is the one year where the official per-year page and the official PDF disagree — the PDF wins (see note)."
+  ],
+  "years": [
+    {
+      "year": 2010,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2010",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Camelo Sá"
+        },
+        {
+          "url": "https://www.apmo-official.org/static/results/apmo2010_res.pdf",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "awardees only (7/10 — no HMs)",
+          "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
+          "needle": "Empinotti"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Marcelo Tadeu de Sá Oliveira Sales"
+        }
+      ],
+      "note": "AWARD CONFLICT: the official per-year page marks ranks 8-10 (9, 8, 8 pts) as Hon. Men., but the official 2010 results PDF (Brazil: 0 G / 3 S / 4 B / 0 HM, and none of the three in its award lists), the official all-years summary (0 HM) and OBM ('Certificado') all say no award -> medal null. Root cause (site repo leomtz/apmowebsite, commit 'Brazil names 2010 and 2011', 2020-06-09): the 2010-11 Brazil rows were keyed in by the site maintainer without per-problem scores (all '-') and the awards follow the generic 1/2/4/3 template, so ranks 8-10 got 'Hon. Men.' by pattern, not from a source. Official page typo 'Basbosa Alves' = Deborah Barbosa Alves."
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2011",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Braga Costa"
+        },
+        {
+          "url": "https://www.apmo-official.org/static/results/apmo2011_res.pdf",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "awardees only (10/10)",
+          "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
+          "needle": "Macieira"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Hanon Guy Lima Rossi"
+        }
+      ],
+      "note": "Official page typo 'Medes Silva' = Maria Clara Mendes Silva; 'Henrique G.' expanded to Henrique Gasparini (2012 official page, IMO dataset)."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2012",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Miyazaki"
+        },
+        {
+          "url": "https://www.apmo-official.org/static/results/apmo2012_res.pdf",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "awardees only (10/10)",
+          "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
+          "needle": "Rodrigo Sanches"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Rafael Kazuhiro Miyazaki"
+        }
+      ],
+      "note": "Official 'Alessandro A. P. de Oliveira Pacahowski' / OBM 'Pacanowsky' = Alessandro Augusto Pinto de Oliveira Pacanowski (IMO 2013-14 form). The PDF award list misprints 'Angels Rodrigo Sanches'."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2013",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://www.apmo-official.org/static/results/apmo2013_res.pdf",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "awardees only (10/10)",
+          "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
+          "needle": "Zanarella"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Murilo Corato Zanarella"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/resultados-apmo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "medal counts only",
+          "confirms": "1G/2S/4B/3HM and 9th place; links the official PDF"
+        }
+      ],
+      "note": "Official 'de Silva Reis, Lucas' = Lucas da Silva Reis (OBM). OBM's 2013 row drops the 'de' of Franco Matheus de Alencar Severo (2012 row, official page, IMO) - full form used so the slug does not split."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2014",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Santana Rocha"
+        },
+        {
+          "url": "https://www.apmo-official.org/static/results/apmo2014_res.pdf",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "awardees only (10/10)",
+          "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
+          "needle": "Santana Rocha"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Daniel Santana Rocha"
+        }
+      ],
+      "note": "OBM 'Arthur do Nascimento' (São Paulo - SP, HM) = Arthur Ferreira do Nascimento: an OBM 2013 honourable mention from São Paulo (which is what makes a student APMO-eligible) and the IOI/OII 2014 contestant."
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2015",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Sichinel"
+        },
+        {
+          "url": "https://www.apmo-official.org/static/results/apmo2015_res.pdf",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "awardees only (10/10)",
+          "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
+          "needle": "Sacramento"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Valentino Amadeus Sichinel"
+        },
+        {
+          "url": "https://noic.com.br/matematica/saiu-o-resultado-da-apmo-2015/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 10 names + awards",
+          "needle": "Valentino Amadeus Sichinel"
+        },
+        {
+          "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/apmo.html",
+          "domain": "obm.org.br (Wayback)",
+          "cls": "archive",
+          "coverage": "full",
+          "confirms": "OBM's former site (2016 snapshot): 2015 table with city/state, points, award",
+          "needle": "Sichinel"
+        }
+      ],
+      "note": "Official typos 'Toeatti Vercelli' and 'Galvão de Barrons'; OBM, NOIC and the archived OBM page agree on Toneatti Vercelli / Galvão de Barros."
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2016",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Kowalczuk"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Diemison Vargas de Cerqueira"
+        },
+        {
+          "url": "https://noic.com.br/matematica/divulgado-o-resultado-da-asian-pacific-mathematics-olympiad/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 10 names, points, awards",
+          "needle": "Diemison Vargas de Cerqueira"
+        }
+      ],
+      "note": "'Cariveiro Porto' (official page AND OBM's APMO table) is a shared typo: OBM's own award lists 2013-2016, its Cono Sur 2015 table/news and NOIC all say Vitor Augusto CARNEIRO Porto (Fortaleza) -> Carneiro retained (corrected 2026-09-09). NOIC typo 'Saramento'. Davi Cavalcanti Sena listed as Recife - PE here and Fortaleza - CE in 2017."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2017",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Thimoteo"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Mateus Siqueira Thimoteo"
+        },
+        {
+          "url": "https://www.obm.org.br/2017/05/22/resultado-da-asian-pacific-mathematics-olympiad-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table",
+          "needle": "Mateus Siqueira Thimoteo"
+        }
+      ],
+      "note": "OBM writes 'Thimoteo' here; its award lists 2013-15 and the Cono Sur table say Thimóteo (accented form used)."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2018",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Meinhart"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Bruno Brasil Meinhart"
+        }
+      ],
+      "note": "Two-source year (no OBM news post found). OBM table typo 'Samuel Pietro Lima' (official + OBM 2019: Prieto)."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2019",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Ishiyi"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Othon Daiki Ishiyi"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/06/12/divulgado-o-resultado-da-asian-pacific-mathematics-olympiad-apmo-2019/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table",
+          "needle": "Othon Daiki Ishiyi"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2020",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Saraiva de Moraes"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Luciano Rodrigues de Oliveira Junior"
+        }
+      ],
+      "note": "Two-source year. OBM drops the 'Neto' of Francisco Moreira Machado Neto (official has it in 2019 and 2020)."
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2021",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Prado Porto"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Yvens Ian Prado Porto"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/06/09/15161/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table",
+          "needle": "Yvens Ian Prado Porto"
+        }
+      ],
+      "note": "'Domingues' (official page AND OBM, 2021 only) is a one-year variant of Rodrigo Salgado Domingos Porto (2020/22/23 + IMO). Score conflict at rank 4: official 16 vs OBM 15 — official retained."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2022",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Lengruber"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Fabrícia Cardoso Marques"
+        },
+        {
+          "url": "https://www.obm.org.br/2022/06/02/17226/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table; 15th of 35 countries",
+          "needle": "Fabrícia Cardoso Marques"
+        }
+      ],
+      "note": "Two non-awardees (11 and 8 pts) rank above the honourable mention (8 pts): APMO HMs require a complete solution to one problem."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2023",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Constancio"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Caio Harley Constancio Neves"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/07/24/20395/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table; 11th of 38",
+          "needle": "Caio Harley Constancio Neves"
+        }
+      ],
+      "note": "OBM 'Castelo Branco' -> Castello Branco (official, OBM 2025, IMO). The official page splits 'Luís Felipe Pestana Giglio' and 'Leonardo Henrique Fakhreddine Maldonado' at the wrong token."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2024",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Ursino"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Gabriel Bastos Vasconcelos Duarte"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/08/15/divulgados-os-resultados-internacionais-da-apmo-2024/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table; 12th of 39",
+          "needle": "Gabriel Bastos Vasconcelos Duarte"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2025",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Portella"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Alessandro Mathias Machado"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/08/08/brasil-fica-na-8a-posicao-na-apmo-2025/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table; 8th of 37",
+          "needle": "Alessandro Mathias Machado"
+        }
+      ],
+      "note": "OBM table 'Davi Li Chiun Liu' vs official 'David': the OBM 2024 awards list (São Paulo - SP) also says David -> David retained."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.apmo-official.org/country_report/BRA/2026",
+          "domain": "apmo-official.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official per-name results: in-country rank, total score, award",
+          "needle": "Ivamoto"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-apmo/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, points, award",
+          "needle": "Enzo Ivamoto Hirota"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/06/04/24708/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: full results table",
+          "needle": "Enzo Ivamoto Hirota"
+        }
+      ],
+      "note": "Two independent organizations only (official DB + OBM table + OBM news); no third-party coverage found (searched 2026-09-08) — THIRD SOURCE PENDING. Rank 8 (14 pts, no complete solution) is a non-awardee below two HMs with the same total."
+    }
+  ]
+}

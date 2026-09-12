@@ -1,0 +1,555 @@
+{
+  "olympiadId": "egmo",
+  "description": "Sources confirming Brazilian EGMO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "egmo.org country page (BRA) and per-edition scoreboards.",
+    "primary": "OBM (national organizer) all-years results table and per-year news; IMPA news; NOIC.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Guest (non-European) team since the 2017 debut; four contestants per year; egmo.org publishes full per-name results with stable person ids, which confirm every multi-year identity used here.",
+    "rawName policy: fullest documented form (OBM table / OBM news / IMPA) where egmo.org abbreviates; medal null = confirmed no-award (empty award cell on the official scoreboard; OBM 'Certificado'). Score = official total (6 problems x 7).",
+    "OBM's all-years table is the naming source for every edition; egmo.org is the award source (the two never disagree on awards)."
+  ],
+  "years": [
+    {
+      "year": 2017,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Jamille Rebouças"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo6/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Saltiel"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Juliana Carvalho de Souza"
+        },
+        {
+          "url": "https://www.obm.org.br/2017/04/06/equipe-feminina-embarca-para-a-suica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 2 bronzes + HM by name, fourth member named, 26th place",
+          "needle": "Juliana Carvalho de Souza"
+        }
+      ],
+      "note": "Debut year, two organizations only (egmo.org, OBM). Names: OBM 'Jamile Falcão Rebouças' (also her own NOIC byline) vs egmo.org 'Jamille'; 'Julia' (egmo.org + OBM news) vs 'Júlia' (OBM table) — majority forms kept."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 7,
+      "independentPrimaryCount": 7,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Débora Yamato"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo7/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Yamato"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Débora Tami Yamato"
+        },
+        {
+          "url": "https://www.obm.org.br/2018/04/14/brasil-encerra-participacao-na-egmo-2018-com-2-pratas-e-2-bronzes/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 medals by full name + points, leaders, 13th place",
+          "needle": "Mariana Quirino de Oliveira"
+        },
+        {
+          "url": "https://impa.br/notices/sbm-e-impa-anunciam-equipe-feminina-que-disputara-a-egmo/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement (full names, cities, leaders)",
+          "needle": "Mariana Quirino de Oliveira"
+        },
+        {
+          "url": "https://noic.com.br/matematica/egmo/brasil-conquista-2-bronzes-e-2-pratas-na-egmo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms), points, medals, 13th place",
+          "needle": "Mariana Quirino"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/divulgado-o-time-brasileiro-da-egmo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Débora Tami Yamato"
+        }
+      ],
+      "note": "egmo.org short forms expanded per OBM/IMPA (Ana Beatriz Cavalcante Pires de Castro Studart, Mariana Quirino de Oliveira, Débora Tami Yamato)."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Bruna Shoji Nakamura"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo8/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Bigolin"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Mariana Bigolin Groff"
+        },
+        {
+          "url": "https://www.obm.org.br/2019/04/11/egmo-2019-ouro-inedito-para-o-brasil-na-ucrania/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: gold + 2 bronzes by full name, fourth member named, 20th place",
+          "needle": "Bruna Arisa Shoji Nakamura"
+        },
+        {
+          "url": "https://impa.br/notices/equipe-feminina-escalada-para-a-disputa-de-olimpiada-na-ucrania/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement (full names, ages, cities)",
+          "needle": "Bruna Arisa Shoji Nakamura"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-ganha-ouro-inedito-na-egmo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms), points, medals, 20th place",
+          "needle": "Mariana Groff"
+        }
+      ],
+      "note": "egmo.org 'Bruna Shoji Nakamura' (2019) / 'Bruna Arisa Shoji Nakamura' (2021) share person1378; 'Mariana Groff' (2017-18) / 'Mariana Bigolin Groff' (2019) share person911."
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 8,
+      "independentPrimaryCount": 8,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Carolina Moura Valle Costa"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo9/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Stroeh"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Carolina Moura Valle Costa"
+        },
+        {
+          "url": "https://www.obm.org.br/2020/04/21/prata-e-bronze-veja-o-resultado-do-brasil-na-egmo-2020/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 4 medals by full name, points, ranks, 15th place",
+          "needle": "Letícia Barbieri Stroeh"
+        },
+        {
+          "url": "https://impa.br/notices/equipe-brasileira-conquista-quatro-medalhas-na-egmo-2020/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (full names, cities, medals)",
+          "needle": "Carolina Moura Valle Costa"
+        },
+        {
+          "url": "https://impa.br/notices/conheca-as-competidoras-que-vao-representar-o-brasil-na-egmo/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team announcement (full names, cities)",
+          "needle": "Letícia Barbieri Stroeh"
+        },
+        {
+          "url": "https://noic.com.br/matematica/brasil-conquista-15-lugar-na-egmo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4 names (short forms) + medals, 15th place",
+          "needle": "Carolina Costa"
+        },
+        {
+          "url": "https://noic.com.br/matematica/confira-a-equipe-que-representara-o-brasil-na-egmo-2020/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement with selection scores",
+          "needle": "Carolina Moura Valle Costa"
+        }
+      ],
+      "note": "Virtual edition. Carolina Moura Valle Costa (Itu/Etapa SP) and Letícia Barbieri Stroeh (Campinas/Etapa Valinhos) are the same people as in the egoi/ioi/oii datasets (OBI rosters) — merged at site level by exact name."
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Laís Nuto Rossman"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo10/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Rossman"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Laís Nuto Rossman"
+        },
+        {
+          "url": "https://www.obm.org.br/2021/04/15/com-tres-medalhas-de-bronze-brasil-encerra-participacao-na-egmo-2021/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 3 bronzes by full name, fourth member named, leaders, 23rd place",
+          "needle": "Gabriella Santana Morgado"
+        }
+      ],
+      "note": "Virtual edition. OBM news typo 'Laís Nuno Rossman' (OBM table + egmo.org: Nuto)."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Larissa Lemos Afonso"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo11/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Mileski"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Larissa Lemos Afonso"
+        },
+        {
+          "url": "https://www.obm.org.br/2022/04/11/equipe-brasileira-conquista-tres-bronzes-na-egmo-2022/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 3 bronzes by full name, fourth member (certificate), leaders, 24th place",
+          "needle": "Larissa Lemos Afonso"
+        }
+      ],
+      "note": "Endy Lumy Okamura Miyashita (Fortaleza, Farias Brito) = the EGOI 2022-23 contestant in egoi/ (OBI roster)."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 7,
+      "independentPrimaryCount": 7,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Isabela Ruthner Dorn"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo12/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Kochloukova"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Cecília Mileski de Paula"
+        },
+        {
+          "url": "https://www.obm.org.br/2023/04/18/equipe-brasileira-conquista-duas-medalhas-de-bronze-e-uma-mencao-honrosa-na-egmo-2023/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 2 bronzes + HM by name, fourth member named, 27th place",
+          "needle": "Endy Lumy Okamura Miyashita"
+        },
+        {
+          "url": "https://impa.br/notices/equipe-brasileira-conquista-2-medalhas-de-bronze-na-12a-egmo/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (all four named)",
+          "needle": "Endy Lumy Okamura Miyashita"
+        },
+        {
+          "url": "https://noic.com.br/matematica/resultado-egmo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "partial (3/4)",
+          "confirms": "NOIC results post: 3 awardees (short forms), 27th place",
+          "needle": "Cecilia Mileski"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/time-da-egmo-2023/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement (short forms) + leaders",
+          "needle": "Bilhana Kochloukova"
+        }
+      ],
+      "note": "OBM/IMPA 'Koshloukova' vs egmo.org 'Kochloukova' (also the OBM 2026 post, as deputy leader) — Kochloukova retained. OBM/IMPA typo 'Isabela Ruthner Dom'."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Luiza Akemi Bidoia de Freitas"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo13/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Bidoia"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Luiza Akemi Bidoia de Freitas"
+        },
+        {
+          "url": "https://www.obm.org.br/2024/04/15/brasil-brilha-na-egmo-2024-uma-medalha-de-prata-e-tres-de-bronze-conquistadas-na-georgia/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: silver + 3 bronzes by full name with points, leaders, 22nd place",
+          "needle": "Luiza Akemi Bidoia de Freitas"
+        },
+        {
+          "url": "https://impa.br/notices/brasil-conquista-uma-medalha-de-prata-e-tres-de-bronze-na-egmo-2024/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (all four named, states)",
+          "needle": "Luiza Akemi Bidoia de Freitas"
+        },
+        {
+          "url": "https://impa.br/notices/egmo-2024-comeca-nesta-quinta-feira-11-na-georgia/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "IMPA: team at the opening (full names, leaders)",
+          "needle": "Luiza Akemi Bidoia de Freitas"
+        }
+      ],
+      "note": "Maria Clara Fontes Silva (Aracaju - SE, Coesi) = the EGOI/IOI/OII contestant — same school and city in OBI's roster; OBM 2024 awards list (Nível 2 gold, Aracaju - SE). Also APMO 2026."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Ana Beatriz Pazó"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo14/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Mysczak"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Alice Schneider"
+        },
+        {
+          "url": "https://www.obm.org.br/2025/04/16/brasil-brilha-na-14a-european-girls-mathematical-olympiad-egmo-2025/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: 2 silvers + bronze + HM by name, leaders, 20th place",
+          "needle": "Alice Schneider"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.egmo.org/countries/country51/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official country page: roster, per-problem scores, awards, leaders, stable person ids",
+          "needle": "Maria Cecília Ribeiro Pereira de Melo"
+        },
+        {
+          "url": "https://www.egmo.org/egmos/egmo15/scoreboard/",
+          "domain": "egmo.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official edition scoreboard: rank, per-problem scores, award",
+          "needle": "Leguiza"
+        },
+        {
+          "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "national organizer results table (all years): full names, city/state, award",
+          "needle": "Julia de Paula Pessoa Leguiza"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/04/13/brasil-faz-historia-na-15a-european-girls-mathematical-olympiad-egmo-2026-em-bordeaux/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "OBM news: G/S/B/HM by full name, leaders, 15th place",
+          "needle": "Maria Cecília Ribeiro Pereira de Melo"
+        },
+        {
+          "url": "https://impa.br/notices/medalhistas-da-obmep-sao-laureadas-em-olimpiada-feminina-internacional/",
+          "domain": "impa.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "IMPA: results (all four named, short forms for two), 15th place",
+          "needle": "Heloísa Mysczak"
+        }
+      ],
+      "note": "Held 12-18 April 2026, Bordeaux. Three independent organizations (egmo.org, OBM, IMPA). 'Julia' (OBM table, egmo.org) vs 'Júlia' (OBM news, IMPA) — table form kept. Brazil's 2nd gold ever; 15th place = 2nd-best team result."
+    }
+  ]
+}

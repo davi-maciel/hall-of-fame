@@ -1,0 +1,425 @@
+{
+  "checkedAt": "2026-09-09T06:29:22+00:00",
+  "summary": {
+    "PASS": 51,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2010,
+      "url": "https://www.apmo-official.org/country_report/BRA/2010",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Camelo Sá'"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.apmo-official.org/static/results/apmo2010_res.pdf",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Empinotti'"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Marcelo Tadeu de Sá Oliveira Sales'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.apmo-official.org/country_report/BRA/2011",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Braga Costa'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.apmo-official.org/static/results/apmo2011_res.pdf",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Macieira'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hanon Guy Lima Rossi'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.apmo-official.org/country_report/BRA/2012",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Miyazaki'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.apmo-official.org/static/results/apmo2012_res.pdf",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Rodrigo Sanches'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Rafael Kazuhiro Miyazaki'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.apmo-official.org/country_report/BRA/2013",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.apmo-official.org/static/results/apmo2013_res.pdf",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Zanarella'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Murilo Corato Zanarella'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/uncategorized/resultados-apmo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.apmo-official.org/country_report/BRA/2014",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Santana Rocha'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.apmo-official.org/static/results/apmo2014_res.pdf",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Santana Rocha'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Daniel Santana Rocha'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.apmo-official.org/country_report/BRA/2015",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Sichinel'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.apmo-official.org/static/results/apmo2015_res.pdf",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Sacramento'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Valentino Amadeus Sichinel'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/matematica/saiu-o-resultado-da-apmo-2015/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Valentino Amadeus Sichinel'"
+    },
+    {
+      "year": 2015,
+      "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/apmo.html",
+      "domain": "obm.org.br (Wayback)",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'Sichinel'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.apmo-official.org/country_report/BRA/2016",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kowalczuk'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Diemison Vargas de Cerqueira'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/matematica/divulgado-o-resultado-da-asian-pacific-mathematics-olympiad/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Diemison Vargas de Cerqueira'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.apmo-official.org/country_report/BRA/2017",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Thimoteo'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mateus Siqueira Thimoteo'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/2017/05/22/resultado-da-asian-pacific-mathematics-olympiad-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mateus Siqueira Thimoteo'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.apmo-official.org/country_report/BRA/2018",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Meinhart'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bruno Brasil Meinhart'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.apmo-official.org/country_report/BRA/2019",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ishiyi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Othon Daiki Ishiyi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/06/12/divulgado-o-resultado-da-asian-pacific-mathematics-olympiad-apmo-2019/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Othon Daiki Ishiyi'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.apmo-official.org/country_report/BRA/2020",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Saraiva de Moraes'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luciano Rodrigues de Oliveira Junior'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.apmo-official.org/country_report/BRA/2021",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Prado Porto'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Yvens Ian Prado Porto'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/06/09/15161/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Yvens Ian Prado Porto'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.apmo-official.org/country_report/BRA/2022",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lengruber'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fabrícia Cardoso Marques'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2022/06/02/17226/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fabrícia Cardoso Marques'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.apmo-official.org/country_report/BRA/2023",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Constancio'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Caio Harley Constancio Neves'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/07/24/20395/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Caio Harley Constancio Neves'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.apmo-official.org/country_report/BRA/2024",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ursino'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Bastos Vasconcelos Duarte'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/08/15/divulgados-os-resultados-internacionais-da-apmo-2024/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Bastos Vasconcelos Duarte'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.apmo-official.org/country_report/BRA/2025",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Portella'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alessandro Mathias Machado'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/08/08/brasil-fica-na-8a-posicao-na-apmo-2025/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alessandro Mathias Machado'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.apmo-official.org/country_report/BRA/2026",
+      "domain": "apmo-official.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ivamoto'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/resultados-apmo/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Enzo Ivamoto Hirota'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/06/04/24708/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Enzo Ivamoto Hirota'"
+    }
+  ]
+}

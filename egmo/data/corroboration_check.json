@@ -1,0 +1,448 @@
+{
+  "checkedAt": "2026-09-09T06:29:31+00:00",
+  "summary": {
+    "PASS": 55
+  },
+  "results": [
+    {
+      "year": 2017,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Jamille Rebouças'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.egmo.org/egmos/egmo6/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Saltiel'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Juliana Carvalho de Souza'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.obm.org.br/2017/04/06/equipe-feminina-embarca-para-a-suica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Juliana Carvalho de Souza'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Débora Yamato'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.egmo.org/egmos/egmo7/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Yamato'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Débora Tami Yamato'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.obm.org.br/2018/04/14/brasil-encerra-participacao-na-egmo-2018-com-2-pratas-e-2-bronzes/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mariana Quirino de Oliveira'"
+    },
+    {
+      "year": 2018,
+      "url": "https://impa.br/notices/sbm-e-impa-anunciam-equipe-feminina-que-disputara-a-egmo/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mariana Quirino de Oliveira'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/matematica/egmo/brasil-conquista-2-bronzes-e-2-pratas-na-egmo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mariana Quirino'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/divulgado-o-time-brasileiro-da-egmo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Débora Tami Yamato'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bruna Shoji Nakamura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.egmo.org/egmos/egmo8/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bigolin'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mariana Bigolin Groff'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.obm.org.br/2019/04/11/egmo-2019-ouro-inedito-para-o-brasil-na-ucrania/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bruna Arisa Shoji Nakamura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://impa.br/notices/equipe-feminina-escalada-para-a-disputa-de-olimpiada-na-ucrania/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bruna Arisa Shoji Nakamura'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/matematica/brasil-ganha-ouro-inedito-na-egmo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mariana Groff'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Carolina Moura Valle Costa'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.egmo.org/egmos/egmo9/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Stroeh'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carolina Moura Valle Costa'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www.obm.org.br/2020/04/21/prata-e-bronze-veja-o-resultado-do-brasil-na-egmo-2020/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Letícia Barbieri Stroeh'"
+    },
+    {
+      "year": 2020,
+      "url": "https://impa.br/notices/equipe-brasileira-conquista-quatro-medalhas-na-egmo-2020/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carolina Moura Valle Costa'"
+    },
+    {
+      "year": 2020,
+      "url": "https://impa.br/notices/conheca-as-competidoras-que-vao-representar-o-brasil-na-egmo/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Letícia Barbieri Stroeh'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/matematica/brasil-conquista-15-lugar-na-egmo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carolina Costa'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/matematica/confira-a-equipe-que-representara-o-brasil-na-egmo-2020/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Carolina Moura Valle Costa'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Laís Nuto Rossman'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.egmo.org/egmos/egmo10/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Rossman'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Laís Nuto Rossman'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.obm.org.br/2021/04/15/com-tres-medalhas-de-bronze-brasil-encerra-participacao-na-egmo-2021/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriella Santana Morgado'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Larissa Lemos Afonso'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.egmo.org/egmos/egmo11/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mileski'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Larissa Lemos Afonso'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.obm.org.br/2022/04/11/equipe-brasileira-conquista-tres-bronzes-na-egmo-2022/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Larissa Lemos Afonso'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Isabela Ruthner Dorn'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.egmo.org/egmos/egmo12/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kochloukova'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cecília Mileski de Paula'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.obm.org.br/2023/04/18/equipe-brasileira-conquista-duas-medalhas-de-bronze-e-uma-mencao-honrosa-na-egmo-2023/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Endy Lumy Okamura Miyashita'"
+    },
+    {
+      "year": 2023,
+      "url": "https://impa.br/notices/equipe-brasileira-conquista-2-medalhas-de-bronze-na-12a-egmo/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Endy Lumy Okamura Miyashita'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/matematica/resultado-egmo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cecilia Mileski'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/time-da-egmo-2023/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bilhana Kochloukova'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Luiza Akemi Bidoia de Freitas'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.egmo.org/egmos/egmo13/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bidoia'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiza Akemi Bidoia de Freitas'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.obm.org.br/2024/04/15/brasil-brilha-na-egmo-2024-uma-medalha-de-prata-e-tres-de-bronze-conquistadas-na-georgia/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiza Akemi Bidoia de Freitas'"
+    },
+    {
+      "year": 2024,
+      "url": "https://impa.br/notices/brasil-conquista-uma-medalha-de-prata-e-tres-de-bronze-na-egmo-2024/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiza Akemi Bidoia de Freitas'"
+    },
+    {
+      "year": 2024,
+      "url": "https://impa.br/notices/egmo-2024-comeca-nesta-quinta-feira-11-na-georgia/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Luiza Akemi Bidoia de Freitas'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ana Beatriz Pazó'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.egmo.org/egmos/egmo14/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mysczak'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alice Schneider'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.obm.org.br/2025/04/16/brasil-brilha-na-14a-european-girls-mathematical-olympiad-egmo-2025/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Alice Schneider'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.egmo.org/countries/country51/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Maria Cecília Ribeiro Pereira de Melo'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.egmo.org/egmos/egmo15/scoreboard/",
+      "domain": "egmo.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Leguiza'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Julia de Paula Pessoa Leguiza'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/04/13/brasil-faz-historia-na-15a-european-girls-mathematical-olympiad-egmo-2026-em-bordeaux/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Maria Cecília Ribeiro Pereira de Melo'"
+    },
+    {
+      "year": 2026,
+      "url": "https://impa.br/notices/medalhistas-da-obmep-sao-laureadas-em-olimpiada-feminina-internacional/",
+      "domain": "impa.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heloísa Mysczak'"
+    }
+  ]
+}

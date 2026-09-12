@@ -1,0 +1,746 @@
+{
+  "students": {
+    "heloisa-mysczak": {
+      "id": "heloisa-mysczak",
+      "name": "Heloísa Mysczak",
+      "searchKey": "heloisa mysczak",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2025,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "julia-de-paula-pessoa-leguiza": {
+      "id": "julia-de-paula-pessoa-leguiza",
+      "name": "Julia de Paula Pessoa Leguiza",
+      "searchKey": "julia de paula pessoa leguiza",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "maria-cecilia-ribeiro-pereira-de-melo": {
+      "id": "maria-cecilia-ribeiro-pereira-de-melo",
+      "name": "Maria Cecília Ribeiro Pereira de Melo",
+      "searchKey": "maria cecilia ribeiro pereira de melo",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2026,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "maria-clara-fontes-silva": {
+      "id": "maria-clara-fontes-silva",
+      "name": "Maria Clara Fontes Silva",
+      "searchKey": "maria clara fontes silva",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2024,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2025,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "alice-ella-schneider": {
+      "id": "alice-ella-schneider",
+      "name": "Alice Ella Schneider",
+      "searchKey": "alice ella schneider",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "ana-beatriz-barbosa-pazo-serpa": {
+      "id": "ana-beatriz-barbosa-pazo-serpa",
+      "name": "Ana Beatriz Barbosa Pazó Serpa",
+      "searchKey": "ana beatriz barbosa pazo serpa",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "bilhana-plamenova-kochloukova": {
+      "id": "bilhana-plamenova-kochloukova",
+      "name": "Bilhana Plamenova Kochloukova",
+      "searchKey": "bilhana plamenova kochloukova",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2023,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "isabela-ruthner-dorn": {
+      "id": "isabela-ruthner-dorn",
+      "name": "Isabela Ruthner Dorn",
+      "searchKey": "isabela ruthner dorn",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2023,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "luiza-akemi-bidoia-de-freitas": {
+      "id": "luiza-akemi-bidoia-de-freitas",
+      "name": "Luiza Akemi Bidoia de Freitas",
+      "searchKey": "luiza akemi bidoia de freitas",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "cecilia-mileski-de-paula": {
+      "id": "cecilia-mileski-de-paula",
+      "name": "Cecília Mileski de Paula",
+      "searchKey": "cecilia mileski de paula",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2022,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2023,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "endy-lumy-okamura-miyashita": {
+      "id": "endy-lumy-okamura-miyashita",
+      "name": "Endy Lumy Okamura Miyashita",
+      "searchKey": "endy lumy okamura miyashita",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2022,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2023,
+          "medal": null
+        }
+      ]
+    },
+    "gabriella-santana-morgado": {
+      "id": "gabriella-santana-morgado",
+      "name": "Gabriella Santana Morgado",
+      "searchKey": "gabriella santana morgado",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2021,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2022,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "larissa-lemos-afonso": {
+      "id": "larissa-lemos-afonso",
+      "name": "Larissa Lemos Afonso",
+      "searchKey": "larissa lemos afonso",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "bruna-arisa-shoji-nakamura": {
+      "id": "bruna-arisa-shoji-nakamura",
+      "name": "Bruna Arisa Shoji Nakamura",
+      "searchKey": "bruna arisa shoji nakamura",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2019,
+          "medal": null
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "lais-nuto-rossman": {
+      "id": "lais-nuto-rossman",
+      "name": "Laís Nuto Rossman",
+      "searchKey": "lais nuto rossman",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2021,
+          "medal": null
+        }
+      ]
+    },
+    "leticia-barbieri-stroeh": {
+      "id": "leticia-barbieri-stroeh",
+      "name": "Letícia Barbieri Stroeh",
+      "searchKey": "leticia barbieri stroeh",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2020,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "ana-beatriz-cavalcante-pires-de-castro-studart": {
+      "id": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "name": "Ana Beatriz Cavalcante Pires de Castro Studart",
+      "searchKey": "ana beatriz cavalcante pires de castro studart",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2018,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2019,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "carolina-moura-valle-costa": {
+      "id": "carolina-moura-valle-costa",
+      "name": "Carolina Moura Valle Costa",
+      "searchKey": "carolina moura valle costa",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "maria-clara-de-lacerda-werneck": {
+      "id": "maria-clara-de-lacerda-werneck",
+      "name": "Maria Clara de Lacerda Werneck",
+      "searchKey": "maria clara de lacerda werneck",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2019,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "mariana-bigolin-groff": {
+      "id": "mariana-bigolin-groff",
+      "name": "Mariana Bigolin Groff",
+      "searchKey": "mariana bigolin groff",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2017,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2018,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "egmo",
+          "year": 2019,
+          "medal": "gold"
+        }
+      ]
+    },
+    "debora-tami-yamato": {
+      "id": "debora-tami-yamato",
+      "name": "Débora Tami Yamato",
+      "searchKey": "debora tami yamato",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2018,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "mariana-quirino-de-oliveira": {
+      "id": "mariana-quirino-de-oliveira",
+      "name": "Mariana Quirino de Oliveira",
+      "searchKey": "mariana quirino de oliveira",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2018,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "jamile-falcao-reboucas": {
+      "id": "jamile-falcao-reboucas",
+      "name": "Jamile Falcão Rebouças",
+      "searchKey": "jamile falcao reboucas",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2017,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "julia-perdigao-saltiel": {
+      "id": "julia-perdigao-saltiel",
+      "name": "Julia Perdigão Saltiel",
+      "searchKey": "julia perdigao saltiel",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2017,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "juliana-carvalho-de-souza": {
+      "id": "juliana-carvalho-de-souza",
+      "name": "Juliana Carvalho de Souza",
+      "searchKey": "juliana carvalho de souza",
+      "participations": [
+        {
+          "olympiad": "egmo",
+          "year": 2017,
+          "medal": null
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "jamile-falcao-reboucas",
+      "target": "julia-perdigao-saltiel",
+      "olympiad": "egmo",
+      "year": 2017
+    },
+    {
+      "source": "jamile-falcao-reboucas",
+      "target": "juliana-carvalho-de-souza",
+      "olympiad": "egmo",
+      "year": 2017
+    },
+    {
+      "source": "jamile-falcao-reboucas",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2017
+    },
+    {
+      "source": "julia-perdigao-saltiel",
+      "target": "juliana-carvalho-de-souza",
+      "olympiad": "egmo",
+      "year": 2017
+    },
+    {
+      "source": "julia-perdigao-saltiel",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2017
+    },
+    {
+      "source": "juliana-carvalho-de-souza",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2017
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "debora-tami-yamato",
+      "olympiad": "egmo",
+      "year": 2018
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2018
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "mariana-quirino-de-oliveira",
+      "olympiad": "egmo",
+      "year": 2018
+    },
+    {
+      "source": "debora-tami-yamato",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2018
+    },
+    {
+      "source": "debora-tami-yamato",
+      "target": "mariana-quirino-de-oliveira",
+      "olympiad": "egmo",
+      "year": 2018
+    },
+    {
+      "source": "mariana-bigolin-groff",
+      "target": "mariana-quirino-de-oliveira",
+      "olympiad": "egmo",
+      "year": 2018
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "bruna-arisa-shoji-nakamura",
+      "olympiad": "egmo",
+      "year": 2019
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "maria-clara-de-lacerda-werneck",
+      "olympiad": "egmo",
+      "year": 2019
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2019
+    },
+    {
+      "source": "bruna-arisa-shoji-nakamura",
+      "target": "maria-clara-de-lacerda-werneck",
+      "olympiad": "egmo",
+      "year": 2019
+    },
+    {
+      "source": "bruna-arisa-shoji-nakamura",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2019
+    },
+    {
+      "source": "maria-clara-de-lacerda-werneck",
+      "target": "mariana-bigolin-groff",
+      "olympiad": "egmo",
+      "year": 2019
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "carolina-moura-valle-costa",
+      "olympiad": "egmo",
+      "year": 2020
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "leticia-barbieri-stroeh",
+      "olympiad": "egmo",
+      "year": 2020
+    },
+    {
+      "source": "ana-beatriz-cavalcante-pires-de-castro-studart",
+      "target": "maria-clara-de-lacerda-werneck",
+      "olympiad": "egmo",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "leticia-barbieri-stroeh",
+      "olympiad": "egmo",
+      "year": 2020
+    },
+    {
+      "source": "carolina-moura-valle-costa",
+      "target": "maria-clara-de-lacerda-werneck",
+      "olympiad": "egmo",
+      "year": 2020
+    },
+    {
+      "source": "leticia-barbieri-stroeh",
+      "target": "maria-clara-de-lacerda-werneck",
+      "olympiad": "egmo",
+      "year": 2020
+    },
+    {
+      "source": "bruna-arisa-shoji-nakamura",
+      "target": "gabriella-santana-morgado",
+      "olympiad": "egmo",
+      "year": 2021
+    },
+    {
+      "source": "bruna-arisa-shoji-nakamura",
+      "target": "lais-nuto-rossman",
+      "olympiad": "egmo",
+      "year": 2021
+    },
+    {
+      "source": "bruna-arisa-shoji-nakamura",
+      "target": "leticia-barbieri-stroeh",
+      "olympiad": "egmo",
+      "year": 2021
+    },
+    {
+      "source": "gabriella-santana-morgado",
+      "target": "lais-nuto-rossman",
+      "olympiad": "egmo",
+      "year": 2021
+    },
+    {
+      "source": "gabriella-santana-morgado",
+      "target": "leticia-barbieri-stroeh",
+      "olympiad": "egmo",
+      "year": 2021
+    },
+    {
+      "source": "lais-nuto-rossman",
+      "target": "leticia-barbieri-stroeh",
+      "olympiad": "egmo",
+      "year": 2021
+    },
+    {
+      "source": "cecilia-mileski-de-paula",
+      "target": "endy-lumy-okamura-miyashita",
+      "olympiad": "egmo",
+      "year": 2022
+    },
+    {
+      "source": "cecilia-mileski-de-paula",
+      "target": "gabriella-santana-morgado",
+      "olympiad": "egmo",
+      "year": 2022
+    },
+    {
+      "source": "cecilia-mileski-de-paula",
+      "target": "larissa-lemos-afonso",
+      "olympiad": "egmo",
+      "year": 2022
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "gabriella-santana-morgado",
+      "olympiad": "egmo",
+      "year": 2022
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "larissa-lemos-afonso",
+      "olympiad": "egmo",
+      "year": 2022
+    },
+    {
+      "source": "gabriella-santana-morgado",
+      "target": "larissa-lemos-afonso",
+      "olympiad": "egmo",
+      "year": 2022
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "cecilia-mileski-de-paula",
+      "olympiad": "egmo",
+      "year": 2023
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "endy-lumy-okamura-miyashita",
+      "olympiad": "egmo",
+      "year": 2023
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "egmo",
+      "year": 2023
+    },
+    {
+      "source": "cecilia-mileski-de-paula",
+      "target": "endy-lumy-okamura-miyashita",
+      "olympiad": "egmo",
+      "year": 2023
+    },
+    {
+      "source": "cecilia-mileski-de-paula",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "egmo",
+      "year": 2023
+    },
+    {
+      "source": "endy-lumy-okamura-miyashita",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "egmo",
+      "year": 2023
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "isabela-ruthner-dorn",
+      "olympiad": "egmo",
+      "year": 2024
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "luiza-akemi-bidoia-de-freitas",
+      "olympiad": "egmo",
+      "year": 2024
+    },
+    {
+      "source": "bilhana-plamenova-kochloukova",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2024
+    },
+    {
+      "source": "isabela-ruthner-dorn",
+      "target": "luiza-akemi-bidoia-de-freitas",
+      "olympiad": "egmo",
+      "year": 2024
+    },
+    {
+      "source": "isabela-ruthner-dorn",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2024
+    },
+    {
+      "source": "luiza-akemi-bidoia-de-freitas",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2024
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "ana-beatriz-barbosa-pazo-serpa",
+      "olympiad": "egmo",
+      "year": 2025
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "heloisa-mysczak",
+      "olympiad": "egmo",
+      "year": 2025
+    },
+    {
+      "source": "alice-ella-schneider",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2025
+    },
+    {
+      "source": "ana-beatriz-barbosa-pazo-serpa",
+      "target": "heloisa-mysczak",
+      "olympiad": "egmo",
+      "year": 2025
+    },
+    {
+      "source": "ana-beatriz-barbosa-pazo-serpa",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2025
+    },
+    {
+      "source": "heloisa-mysczak",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2025
+    },
+    {
+      "source": "heloisa-mysczak",
+      "target": "julia-de-paula-pessoa-leguiza",
+      "olympiad": "egmo",
+      "year": 2026
+    },
+    {
+      "source": "heloisa-mysczak",
+      "target": "maria-cecilia-ribeiro-pereira-de-melo",
+      "olympiad": "egmo",
+      "year": 2026
+    },
+    {
+      "source": "heloisa-mysczak",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2026
+    },
+    {
+      "source": "julia-de-paula-pessoa-leguiza",
+      "target": "maria-cecilia-ribeiro-pereira-de-melo",
+      "olympiad": "egmo",
+      "year": 2026
+    },
+    {
+      "source": "julia-de-paula-pessoa-leguiza",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2026
+    },
+    {
+      "source": "maria-cecilia-ribeiro-pereira-de-melo",
+      "target": "maria-clara-fontes-silva",
+      "olympiad": "egmo",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-09T21:52:11.332098+00:00",
+    "studentCount": 25,
+    "edgeCount": 60
+  }
+}
