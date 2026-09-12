@@ -1,0 +1,542 @@
+{
+  "olympiadId": "ibo",
+  "description": "Sources confirming Brazilian IBO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "ibo-info.org results PDFs / final reports.",
+    "primary": "olimpiadascientificas.org roster; NOIC.",
+    "archive": "Wayback Machine copies of the OBB 'Seletiva Internacional' results page (2021-2024)."
+  },
+  "globalNotes": [
+    "Teams of four. Editions attended: 2006 (debut), 2008-2019, 2021-2026. Not attended: 2007. 2020 was the non-competitive 'IBO Challenge' (team projects, no exam/medals; one Brazilian, João Victor Silva Ribeiro, appears in the yearbook) - excluded from the dataset, mirroring the GeCAA-2020 treatment in ioaa/.",
+    "Every edition rests on the official IBO results PDF (ibo-info.org); OLC's roster page (2005-2017) and NOIC posts corroborate 2006-2019. The OBB (national organizer) site was unreachable during collection.",
+    "Awards: gold/silver/bronze + Certificate of Merit (= honorable-mention); Certificate of Participation / 'Pass' = medal null.",
+    "rawName policy: official spellings with accents restored from OLC/NOIC where the PDF strips them; nine students also appear in ijso/ioaa/icho/oibf datasets (exact-name merges, see aliases notes)."
+  ],
+  "years": [
+    {
+      "year": 2006,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2006.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "TAVARES Bruno"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Saharoff"
+        }
+      ],
+      "note": "Brazil's first IBO team (Rio Cuarto): four contestants, none medalled (cc-ranks 123-164; bronze cut at rank 121). Full names from OLC (official gives surname + first name only). OLC also lists four 'Beijing 2005' names, but the official 2005 results contain no Brazilian - not competitors."
+    },
+    {
+      "year": 2008,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2008.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "NEGREIROS BESSA"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Negreiros Bessa"
+        }
+      ],
+      "note": "2007 (Saskatoon) not attended (OLC: financial reasons; official 2007 results have no Brazil)."
+    },
+    {
+      "year": 2009,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/final-reports/IBO-2009%20report.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final report (the results PDF is a scan): team list + full ranking with medals",
+          "needle": "Patrocinio Zen"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Rainne"
+        }
+      ],
+      "note": "The results PDF is a scanned image; the official final report carries the same ranking as text."
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2010_Final_Results.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "BENEVIDES"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Benevides"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2011_Ranking_total_final.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Medeiros Fernandes"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Medeiros Fernandes"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2012_Detailed_Results.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full (scores; medals from OLC)",
+          "confirms": "official detailed results: names, scores, rank (no medal column)",
+          "needle": "Lubiana"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Lubiana"
+        }
+      ],
+      "note": "The official detailed-results sheet has no medal column: Lubiana bronze and Andressa Gomes Sales merit per OLC/NOIC."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2013_final_ranking.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Lavor Lira"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Lavor Lira"
+        },
+        {
+          "url": "https://noic.com.br/biologia/quadro-de-medalhas-brasileiras-ibo-2013/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: Brazilian medal table",
+          "needle": "Lavor"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2014_FINAL_scores.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final scores (text extraction garbles rows; BRA01-04 identified by code)",
+          "needle": "PERTOT"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Allan"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/resultado-brasileiro-na-ibo-2014/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Allan"
+        },
+        {
+          "url": "https://noic.com.br/biologia/divulgadas-equipes-brasileiras-da-ibo-e-oiab/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Allan"
+        }
+      ],
+      "note": "Certificate of Participation (CoP) = no award."
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2015-official-ranking.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Voltani"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Voltani"
+        },
+        {
+          "url": "https://noic.com.br/biologia/tres-medalhas-para-o-brasil-na-olimpiada-internacional-de-biologia-ibo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 3 bronzes",
+          "needle": "Voltani"
+        },
+        {
+          "url": "https://noic.com.br/biologia/divulgada-a-equipe-brasileira-da-ibo-e-da-oiab-2015/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Voltani"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2016.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "KAWAKAMI"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Kawakami"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/divulgadas-as-equipes-brasileiras-nas-internacionais-de-biologia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement (IBO + OIAB)",
+          "needle": "Kawakami"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2017Full.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Parada"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "needle": "Parada"
+        },
+        {
+          "url": "https://noic.com.br/biologia/divulgados-os-representantes-do-brasil-nas-internacionais-de-biologia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement with full names (IBO + OIAB)",
+          "needle": "Coca Parada"
+        }
+      ],
+      "note": "Official PDF abbreviates (Bruno Gomes, Laís Parada, Emanuel Bezerra); full forms from NOIC's team post (Bruno Teixeira Gomes = OIAB 2016 gold)."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2018-IBO-Ranking_web.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Galiza Soares"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/confira-resultado-da-ibo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post",
+          "needle": "Galiza"
+        }
+      ],
+      "note": "Pedro Henrique Silva de Oliveira = the IJSO 2015-16 contestant (Fortaleza; exact name)."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2019-IBO-Ranking_web.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Jaziel"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/duas-medalhas-para-o-brasil-na-ibo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 2 bronzes",
+          "needle": "Jaziel"
+        }
+      ],
+      "note": "Official MED column: B bronze, M merit (honorable-mention), X none."
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO%202021%20-%20IBO%20Challenge%20II%20-%20results.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official IBO Challenge II results (remote edition): names + awards",
+          "needle": "Sicupira"
+        },
+        {
+          "url": "https://web.archive.org/web/20210723210710/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2021 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "needle": "SICUPIRA"
+        }
+      ],
+      "note": "IBO Challenge II (remote): medals awarded - kept as a normal edition."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2022.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Pascalichio"
+        },
+        {
+          "url": "https://web.archive.org/web/20220705114103/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2022 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "needle": "PASCALICHIO"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2023.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Gabilondo"
+        },
+        {
+          "url": "https://web.archive.org/web/20231201053656/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2023 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "needle": "GABILONDO"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2024%20results%20-%20amended%20version%20January%202025.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official results (amended version, Jan 2025)",
+          "needle": "Vitarelli"
+        },
+        {
+          "url": "https://web.archive.org/web/20240721061254/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+          "domain": "web.archive.org",
+          "cls": "archive",
+          "coverage": "full (pre-event roster)",
+          "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2024 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "needle": "VITARELLI"
+        }
+      ],
+      "note": "Alexandre Andrade de Almeida = the IJSO/OIbF/EuPhO contestant (exact name)."
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2025%20Ranking.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "needle": "Pongelupp"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO_2026_Individual_Results_Final.pdf",
+          "domain": "ibo-info.org",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "official final updated individual results (302 competitors)",
+          "needle": "Tsuchie"
+        }
+      ]
+    }
+  ]
+}

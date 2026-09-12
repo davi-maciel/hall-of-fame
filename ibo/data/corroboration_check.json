@@ -1,0 +1,353 @@
+{
+  "checkedAt": "2026-09-10T06:54:32+00:00",
+  "summary": {
+    "PASS": 42,
+    "PASS-STATUS": 1
+  },
+  "results": [
+    {
+      "year": 2006,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2006.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'TAVARES Bruno'"
+    },
+    {
+      "year": 2006,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Saharoff'"
+    },
+    {
+      "year": 2008,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2008.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'NEGREIROS BESSA'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Negreiros Bessa'"
+    },
+    {
+      "year": 2009,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/final-reports/IBO-2009%20report.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Rainne'"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2010_Final_Results.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'BENEVIDES'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Benevides'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2011_Ranking_total_final.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Medeiros Fernandes'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Medeiros Fernandes'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2012_Detailed_Results.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lubiana'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lubiana'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2013_final_ranking.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lavor Lira'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lavor Lira'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/biologia/quadro-de-medalhas-brasileiras-ibo-2013/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lavor'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2014_FINAL_scores.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'PERTOT'"
+    },
+    {
+      "year": 2014,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Allan'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/uncategorized/resultado-brasileiro-na-ibo-2014/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Allan'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/biologia/divulgadas-equipes-brasileiras-da-ibo-e-oiab/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Allan'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2015-official-ranking.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2015,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/biologia/tres-medalhas-para-o-brasil-na-olimpiada-internacional-de-biologia-ibo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/biologia/divulgada-a-equipe-brasileira-da-ibo-e-da-oiab-2015/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2016.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'KAWAKAMI'"
+    },
+    {
+      "year": 2016,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kawakami'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/uncategorized/divulgadas-as-equipes-brasileiras-nas-internacionais-de-biologia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kawakami'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2017Full.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Parada'"
+    },
+    {
+      "year": 2017,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibo/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Parada'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/biologia/divulgados-os-representantes-do-brasil-nas-internacionais-de-biologia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Coca Parada'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2018-IBO-Ranking_web.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Galiza Soares'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/confira-resultado-da-ibo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Galiza'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2019-IBO-Ranking_web.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Jaziel'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/uncategorized/duas-medalhas-para-o-brasil-na-ibo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Jaziel'"
+    },
+    {
+      "year": 2021,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO%202021%20-%20IBO%20Challenge%20II%20-%20results.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Sicupira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://web.archive.org/web/20210723210710/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'SICUPIRA'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2022.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pascalichio'"
+    },
+    {
+      "year": 2022,
+      "url": "https://web.archive.org/web/20220705114103/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'PASCALICHIO'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2023.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabilondo'"
+    },
+    {
+      "year": 2023,
+      "url": "https://web.archive.org/web/20231201053656/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'GABILONDO'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2024%20results%20-%20amended%20version%20January%202025.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vitarelli'"
+    },
+    {
+      "year": 2024,
+      "url": "https://web.archive.org/web/20240721061254/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'VITARELLI'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO2025%20Ranking.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pongelupp'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.ibo-info.org/files/downloads/results-reports/results/IBO_2026_Individual_Results_Final.pdf",
+      "domain": "ibo-info.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tsuchie'"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "checkedAt": "2026-09-10T06:54:21+00:00",
+  "summary": {
+    "PASS": 56,
+    "PASS-STATUS": 9
+  },
+  "results": [
+    {
+      "year": 2007,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2007.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'BRASIL'"
+    },
+    {
+      "year": 2007,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Negreiros Bessa'"
+    },
+    {
+      "year": 2007,
+      "url": "https://noic.com.br/olimpiadas/biologia/oiab/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle '1 medalha de ouro'"
+    },
+    {
+      "year": 2008,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2008.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Camelo Filho'"
+    },
+    {
+      "year": 2008,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Camelo Filho'"
+    },
+    {
+      "year": 2009,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2009.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Nunes Benevides'"
+    },
+    {
+      "year": 2009,
+      "url": "https://servicos.aridesa.com.br/grandesconquistas/img/2018/07/olimp_ibero_americana_bio.jpg",
+      "domain": "aridesa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2010,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2010.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'REGIS DE FREITAS'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Regis de Freitas'"
+    },
+    {
+      "year": 2011,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2011.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cayke'"
+    },
+    {
+      "year": 2012,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2012.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Antunes Filho'"
+    },
+    {
+      "year": 2012,
+      "url": "https://oglobo.globo.com/brasil/educacao/estudantes-brasileiros-conquistam-ouro-na-olimpiada-ibero-americana-de-biologia-6072977",
+      "domain": "oglobo.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ivan Tadeu'"
+    },
+    {
+      "year": 2013,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2013.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Diniz Macedo'"
+    },
+    {
+      "year": 2013,
+      "url": "https://agencia.fapesp.br/brasileiros-ganham-quatro-medalhas-em-olimpiada-ibero-americana-de-biologia/17873",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Diniz Macedo'"
+    },
+    {
+      "year": 2014,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2014/09/ResultadosOIAB-2014.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/biologia/brasil-ganha-4-medalhas-na-oiab/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/biologia/divulgadas-equipes-brasileiras-da-ibo-e-oiab/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Voltani'"
+    },
+    {
+      "year": 2014,
+      "url": "https://agencia.fapesp.br/brasil-conquista-quatro-medalhas-em-olimpiada-de-biologia/19856",
+      "domain": "agencia.fapesp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Leticia Pereira de Souza'"
+    },
+    {
+      "year": 2015,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2016/08/ResultadosOIAB-2015.pdf",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'NATSUBORI'"
+    },
+    {
+      "year": 2015,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Natsubori'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/biologia/brasil-conquista-medalhas-de-prata-e-bronze-na-olimpiada-iberoamericana-de-biologia-oiab/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gerardo Albino'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/biologia/divulgada-a-equipe-brasileira-da-ibo-e-da-oiab-2015/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Natsubori'"
+    },
+    {
+      "year": 2015,
+      "url": "https://jornaldachapada.com.br/2015/09/03/brasil-busca-o-ouro-na-olimpiada-ibero-americana-de-biologia-em-el-salvador/",
+      "domain": "jornaldachapada.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Natsubori'"
+    },
+    {
+      "year": 2016,
+      "url": "http://olimpiadadebiologia.edu.es/wp-content/uploads/2016/09/resultados_oiab_2016_brasilia.jpg",
+      "domain": "olimpiadadebiologia.edu.es",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2016,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Adamian'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/uncategorized/divulgadas-as-equipes-brasileiras-nas-internacionais-de-biologia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Adamian'"
+    },
+    {
+      "year": 2016,
+      "url": "https://revistagalileu.globo.com/Ciencia/noticia/2016/09/brasileiros-ganham-4-medalhas-na-olimpiada-ibero-americana-de-biologia.html",
+      "domain": "revistagalileu.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Teixeira Gomes'"
+    },
+    {
+      "year": 2017,
+      "url": "http://www.oiab.org/clasificacion_XI_oiab_2017_azores.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Helmich'"
+    },
+    {
+      "year": 2017,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Helmich'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/biologia/divulgados-os-representantes-do-brasil-nas-internacionais-de-biologia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Helmich'"
+    },
+    {
+      "year": 2018,
+      "url": "http://www.oiab.org/ganadoresxiioiab.PDF",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/biologia/brasil-conquista-4-pratas-na-oiab/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Jaziel'"
+    },
+    {
+      "year": 2018,
+      "url": "https://servicos.aridesa.com.br/grandesconquistas/img/2019/09/IBERO-BIOLOGIA-BIG.jpg",
+      "domain": "aridesa.com.br",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2019,
+      "url": "http://www.oiab.org/MEDALLERO%20XIII%20OIAB%202019%20Bolivia.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Haofu'"
+    },
+    {
+      "year": 2019,
+      "url": "http://www.oiab.org/MEMORIA_OIAB_2019_Bolivia.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Haofu'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/biologia/4-medalhas-para-o-brasil-na-ibero-americana-de-biologia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Haofu'"
+    },
+    {
+      "year": 2021,
+      "url": "http://www.oiab.org/medallero_oiab_2021_costa_rica.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Amano Tanaka'"
+    },
+    {
+      "year": 2021,
+      "url": "http://www.oiab.org/memoria_oiab_2021.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Sonntag'"
+    },
+    {
+      "year": 2021,
+      "url": "https://web.archive.org/web/20210723210710/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'AMANO TANAKA'"
+    },
+    {
+      "year": 2022,
+      "url": "https://web.archive.org/web/20220705114103/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'BRENO TAQUES'"
+    },
+    {
+      "year": 2022,
+      "url": "https://massanews.com/noticia/noticias/educacao/estudante-de-curitiba-conquista-medalha-de-bronze-em-olimpiada-internacional/",
+      "domain": "massanews.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Breno Taques Mussi Endres'"
+    },
+    {
+      "year": 2022,
+      "url": "https://bosquemananciais.org.br/index.php?area=ver_noticia&id=1234",
+      "domain": "bosquemananciais.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Breno'"
+    },
+    {
+      "year": 2022,
+      "url": "https://poti.ufpr.br/alunos-premiados-2022/",
+      "domain": "poti.ufpr.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Breno Taques'"
+    },
+    {
+      "year": 2023,
+      "url": "http://www.oiab.org//Entrega_de_Premios_OIAB_2023_v2.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (content not extractable)"
+    },
+    {
+      "year": 2023,
+      "url": "http://www.oiab.org/Lista_de_olimpicos_participantes_OIAB_2023.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Albuquerque Damasceno'"
+    },
+    {
+      "year": 2023,
+      "url": "https://web.archive.org/web/20231201053656/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'ALBUQUERQUE DAMASCENO'"
+    },
+    {
+      "year": 2024,
+      "url": "http://www.oiab.org/descargas/TABLA_FINAL_OIAB_2024_CUBA.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Arthur Kui'"
+    },
+    {
+      "year": 2024,
+      "url": "http://www.oiab.org/descargas/MEMORIA_OIAB_2024_CUBA.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Perry Resende'"
+    },
+    {
+      "year": 2024,
+      "url": "https://web.archive.org/web/20240721061254/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional",
+      "domain": "web.archive.org",
+      "cls": "archive",
+      "status": "PASS",
+      "detail": "needle 'PERRY RESENDE'"
+    },
+    {
+      "year": 2024,
+      "url": "https://onorte.net/educacao/aluno-conquista-medalha-de-ouro-na-olimpiada-ibero-americana-de-biologia-1.1030862",
+      "domain": "onorte.net",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Perry Resende'"
+    },
+    {
+      "year": 2025,
+      "url": "http://www.oiab.org/Medallero_OIAB_2025.pdf",
+      "domain": "oiab.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Montenegro Campos'"
+    },
+    {
+      "year": 2025,
+      "url": "https://primiciadiario.com/archivo/2025/jovenes-docentes-iberoamericanos-se-reunen-quindio-colombiano-olimpiada-biologia/",
+      "domain": "primiciadiario.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Montenegro'"
+    },
+    {
+      "year": 2025,
+      "url": "https://super.abril.com.br/ciencia/quatro-estudantes-brasileiros-sao-medalhistas-na-18a-olimpiada-iberoamericana-de-biologia/",
+      "domain": "super.abril.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ulisses'"
+    },
+    {
+      "year": 2025,
+      "url": "https://abcdoabc.com.br/olimpiada-iberoamericana-de-biologia-4-medalhas-br/",
+      "domain": "abcdoabc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ulisses'"
+    },
+    {
+      "year": 2025,
+      "url": "https://aridesa.com.br/wp-content/uploads/2025/11/ASA-0062-25-AN-VOLTA-OIAB-2025-OP-5colx40cm-V3.pdf",
+      "domain": "aridesa.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ulisses'"
+    },
+    {
+      "year": 2026,
+      "url": "https://educacao.uol.com.br/noticias/2026/09/05/historico-brasil-ganha-4-ouros-na-olimpiada-ibero-americana-de-biologia.ghtm",
+      "domain": "educacao.uol.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heronville'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.cnnbrasil.com.br/ciencia/brasil-conquista-quatro-medalhas-de-ouro-na-19a-olimpiada-ibero-americana/",
+      "domain": "cnnbrasil.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heronville'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.cnnbrasil.com.br/ciencia/brasil-e-representado-por-quatro-estudantes-na-19a-olimpiada-ibero-americana/",
+      "domain": "cnnbrasil.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Daltro'"
+    },
+    {
+      "year": 2026,
+      "url": "https://espacodopovo.com.br/delegacao-brasileira-tem-desempenho-historico-na-19a-edicao-da-olimpiada-ibero-americana-de-biologia/",
+      "domain": "espacodopovo.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heronville'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.abcdoabc.com.br/br4-ouros-olimpiada-ibero-americana-de-biologia/",
+      "domain": "abcdoabc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heronville'"
+    }
+  ]
+}

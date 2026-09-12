@@ -1,0 +1,1547 @@
+{
+  "students": {
+    "caio-heronville-machado": {
+      "id": "caio-heronville-machado",
+      "name": "Caio Heronville Machado",
+      "searchKey": "caio heronville machado",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "caio-nascimento-goncalves-marques": {
+      "id": "caio-nascimento-goncalves-marques",
+      "name": "Caio Nascimento Gonçalves Marques",
+      "searchKey": "caio nascimento goncalves marques",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "luca-oliveira-santos-do-carmo": {
+      "id": "luca-oliveira-santos-do-carmo",
+      "name": "Luca Oliveira Santos do Carmo",
+      "searchKey": "luca oliveira santos do carmo",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "theo-daltro-santos-camilo": {
+      "id": "theo-daltro-santos-camilo",
+      "name": "Theo Daltro Santos Camilo",
+      "searchKey": "theo daltro santos camilo",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "francisco-ulisses-montenegro-campos": {
+      "id": "francisco-ulisses-montenegro-campos",
+      "name": "Francisco Ulisses Montenegro Campos",
+      "searchKey": "francisco ulisses montenegro campos",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-nilson-pereira-da-cruz-neto": {
+      "id": "joao-nilson-pereira-da-cruz-neto",
+      "name": "João Nilson Pereira da Cruz Neto",
+      "searchKey": "joao nilson pereira da cruz neto",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "julia-mota-miranda": {
+      "id": "julia-mota-miranda",
+      "name": "Júlia Mota Miranda",
+      "searchKey": "julia mota miranda",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "paulo-vinicius-rodrigues-de-azevedo": {
+      "id": "paulo-vinicius-rodrigues-de-azevedo",
+      "name": "Paulo Vinícius Rodrigues de Azevedo",
+      "searchKey": "paulo vinicius rodrigues de azevedo",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "arthur-kui": {
+      "id": "arthur-kui",
+      "name": "Arthur Kui",
+      "searchKey": "arthur kui",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "david-li-chiun-liu": {
+      "id": "david-li-chiun-liu",
+      "name": "David Li Chiun Liu",
+      "searchKey": "david li chiun liu",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "marcos-paulo-goncalves-santos": {
+      "id": "marcos-paulo-goncalves-santos",
+      "name": "Marcos Paulo Gonçalves Santos",
+      "searchKey": "marcos paulo goncalves santos",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "pedro-perry-resende": {
+      "id": "pedro-perry-resende",
+      "name": "Pedro Perry Resende",
+      "searchKey": "pedro perry resende",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2024,
+          "medal": "silver"
+        }
+      ]
+    },
+    "alexandre-andrade-de-almeida": {
+      "id": "alexandre-andrade-de-almeida",
+      "name": "Alexandre Andrade de Almeida",
+      "searchKey": "alexandre andrade de almeida",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "clara-nakata-de-carvalho": {
+      "id": "clara-nakata-de-carvalho",
+      "name": "Clara Nakata de Carvalho",
+      "searchKey": "clara nakata de carvalho",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "iara-vieira-vitarelli": {
+      "id": "iara-vieira-vitarelli",
+      "name": "Iara Vieira Vitarelli",
+      "searchKey": "iara vieira vitarelli",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "joao-pedro-albuquerque-damasceno": {
+      "id": "joao-pedro-albuquerque-damasceno",
+      "name": "João Pedro Albuquerque Damasceno",
+      "searchKey": "joao pedro albuquerque damasceno",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    },
+    "arthur-neves-maia": {
+      "id": "arthur-neves-maia",
+      "name": "Arthur Neves Maia",
+      "searchKey": "arthur neves maia",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "breno-taques-mussi-endres": {
+      "id": "breno-taques-mussi-endres",
+      "name": "Breno Taques Mussi Endres",
+      "searchKey": "breno taques mussi endres",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2022,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "cicero-miguel-angelo-neto": {
+      "id": "cicero-miguel-angelo-neto",
+      "name": "Cícero Miguel Ângelo Neto",
+      "searchKey": "cicero miguel angelo neto",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "isabela-trad-timo-luz": {
+      "id": "isabela-trad-timo-luz",
+      "name": "Isabela Trad Timo Luz",
+      "searchKey": "isabela trad timo luz",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "bruna-da-motta-sonntag": {
+      "id": "bruna-da-motta-sonntag",
+      "name": "Bruna da Motta Sonntag",
+      "searchKey": "bruna da motta sonntag",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gustavo-costa-holanda": {
+      "id": "gustavo-costa-holanda",
+      "name": "Gustavo Costa Holanda",
+      "searchKey": "gustavo costa holanda",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2021,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "marcela-hernandes-pereira": {
+      "id": "marcela-hernandes-pereira",
+      "name": "Marcela Hernandes Pereira",
+      "searchKey": "marcela hernandes pereira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "vinicius-kenji-amano-tanaka": {
+      "id": "vinicius-kenji-amano-tanaka",
+      "name": "Vinícius Kenji Amano Tanaka",
+      "searchKey": "vinicius kenji amano tanaka",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2021,
+          "medal": "silver"
+        }
+      ]
+    },
+    "ana-bruna-salles-fonseca": {
+      "id": "ana-bruna-salles-fonseca",
+      "name": "Ana Bruna Salles Fonseca",
+      "searchKey": "ana bruna salles fonseca",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "erick-sampaio-andrade": {
+      "id": "erick-sampaio-andrade",
+      "name": "Erick Sampaio Andrade",
+      "searchKey": "erick sampaio andrade",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "pedro-jatoba-arteiro": {
+      "id": "pedro-jatoba-arteiro",
+      "name": "Pedro Jatobá Arteiro",
+      "searchKey": "pedro jatoba arteiro",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2019,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "thomas-haofu-yang": {
+      "id": "thomas-haofu-yang",
+      "name": "Thomas Haofu Yang",
+      "searchKey": "thomas haofu yang",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "jaziel-barros-dos-santos": {
+      "id": "jaziel-barros-dos-santos",
+      "name": "Jaziel Barros dos Santos",
+      "searchKey": "jaziel barros dos santos",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2018,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-pedro-silva-torres": {
+      "id": "joao-pedro-silva-torres",
+      "name": "João Pedro Silva Torres",
+      "searchKey": "joao pedro silva torres",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2018,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-pedro-de-souza-bezerra": {
+      "id": "joao-pedro-de-souza-bezerra",
+      "name": "João Pedro de Souza Bezerra",
+      "searchKey": "joao pedro de souza bezerra",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2018,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-victor-silva-ribeiro": {
+      "id": "joao-victor-silva-ribeiro",
+      "name": "João Victor Silva Ribeiro",
+      "searchKey": "joao victor silva ribeiro",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2018,
+          "medal": "silver"
+        }
+      ]
+    },
+    "henrique-barata-ferreira": {
+      "id": "henrique-barata-ferreira",
+      "name": "Henrique Barata Ferreira",
+      "searchKey": "henrique barata ferreira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2017,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-victor-almeida-oliveira-santos": {
+      "id": "joao-victor-almeida-oliveira-santos",
+      "name": "João Victor Almeida Oliveira Santos",
+      "searchKey": "joao victor almeida oliveira santos",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "lucas-goncalves-de-oliveira": {
+      "id": "lucas-goncalves-de-oliveira",
+      "name": "Lucas Gonçalves de Oliveira",
+      "searchKey": "lucas goncalves de oliveira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2017,
+          "medal": "silver"
+        }
+      ]
+    },
+    "lucca-paolo-hsu-helmich": {
+      "id": "lucca-paolo-hsu-helmich",
+      "name": "Lucca Paolo Hsu Helmich",
+      "searchKey": "lucca paolo hsu helmich",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "beatriz-marques-de-brito": {
+      "id": "beatriz-marques-de-brito",
+      "name": "Beatriz Marques de Brito",
+      "searchKey": "beatriz marques de brito",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "bernardo-gabriele-collaco": {
+      "id": "bernardo-gabriele-collaco",
+      "name": "Bernardo Gabriele Collaço",
+      "searchKey": "bernardo gabriele collaco",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "bruno-teixeira-gomes": {
+      "id": "bruno-teixeira-gomes",
+      "name": "Bruno Teixeira Gomes",
+      "searchKey": "bruno teixeira gomes",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2016,
+          "medal": "gold"
+        }
+      ]
+    },
+    "caio-manuel-caetano-adamian": {
+      "id": "caio-manuel-caetano-adamian",
+      "name": "Caio Manuel Caetano Adamian",
+      "searchKey": "caio manuel caetano adamian",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "arthur-joaquim-de-noronha-feitosa-viana": {
+      "id": "arthur-joaquim-de-noronha-feitosa-viana",
+      "name": "Arthur Joaquim de Noronha Feitosa Viana",
+      "searchKey": "arthur joaquim de noronha feitosa viana",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gerardo-albino-nogueira-filho": {
+      "id": "gerardo-albino-nogueira-filho",
+      "name": "Gerardo Albino Nogueira Filho",
+      "searchKey": "gerardo albino nogueira filho",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "lucas-almeida-magalhaes": {
+      "id": "lucas-almeida-magalhaes",
+      "name": "Lucas Almeida Magalhães",
+      "searchKey": "lucas almeida magalhaes",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2015,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "michael-natsubori-sato": {
+      "id": "michael-natsubori-sato",
+      "name": "Michael Natsubori Sato",
+      "searchKey": "michael natsubori sato",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "ana-luisa-smith-rocha": {
+      "id": "ana-luisa-smith-rocha",
+      "name": "Ana Luisa Smith Rocha",
+      "searchKey": "ana luisa smith rocha",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2014,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gabriel-voltani-guedes": {
+      "id": "gabriel-voltani-guedes",
+      "name": "Gabriel Voltani Guedes",
+      "searchKey": "gabriel voltani guedes",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2014,
+          "medal": "silver"
+        }
+      ]
+    },
+    "leticia-pereira-de-souza": {
+      "id": "leticia-pereira-de-souza",
+      "name": "Letícia Pereira de Souza",
+      "searchKey": "leticia pereira de souza",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2014,
+          "medal": "gold"
+        }
+      ]
+    },
+    "mario-anderson-alves-oliveira": {
+      "id": "mario-anderson-alves-oliveira",
+      "name": "Mario Anderson Alves Oliveira",
+      "searchKey": "mario anderson alves oliveira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2014,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "alexandre-chaves-fernandes": {
+      "id": "alexandre-chaves-fernandes",
+      "name": "Alexandre Chaves Fernandes",
+      "searchKey": "alexandre chaves fernandes",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "eduardo-cesar-diniz-macedo": {
+      "id": "eduardo-cesar-diniz-macedo",
+      "name": "Eduardo Cesar Diniz Macedo",
+      "searchKey": "eduardo cesar diniz macedo",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "lucas-henrique-rodrigues-de-almeida": {
+      "id": "lucas-henrique-rodrigues-de-almeida",
+      "name": "Lucas Henrique Rodrigues de Almeida",
+      "searchKey": "lucas henrique rodrigues de almeida",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "lucas-medeiros-lopes": {
+      "id": "lucas-medeiros-lopes",
+      "name": "Lucas Medeiros Lopes",
+      "searchKey": "lucas medeiros lopes",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "antonio-pedro-de-sousa-vieira": {
+      "id": "antonio-pedro-de-sousa-vieira",
+      "name": "Antônio Pedro de Sousa Vieira",
+      "searchKey": "antonio pedro de sousa vieira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2012,
+          "medal": "gold"
+        }
+      ]
+    },
+    "ivan-tadeu-ferreira-antunes-filho": {
+      "id": "ivan-tadeu-ferreira-antunes-filho",
+      "name": "Ivan Tadeu Ferreira Antunes Filho",
+      "searchKey": "ivan tadeu ferreira antunes filho",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "jessica-silva-lopes": {
+      "id": "jessica-silva-lopes",
+      "name": "Jéssica Silva Lopes",
+      "searchKey": "jessica silva lopes",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "leonardo-afonso-costa": {
+      "id": "leonardo-afonso-costa",
+      "name": "Leonardo Afonso Costa",
+      "searchKey": "leonardo afonso costa",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2012,
+          "medal": "gold"
+        }
+      ]
+    },
+    "cayke-felipe-dos-anjos": {
+      "id": "cayke-felipe-dos-anjos",
+      "name": "Cayke Felipe dos Anjos",
+      "searchKey": "cayke felipe dos anjos",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2011,
+          "medal": null
+        }
+      ]
+    },
+    "gabriel-drumond-ferreira": {
+      "id": "gabriel-drumond-ferreira",
+      "name": "Gabriel Drumond Ferreira",
+      "searchKey": "gabriel drumond ferreira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2011,
+          "medal": null
+        }
+      ]
+    },
+    "matheus-rolim-mendes-de-alencar": {
+      "id": "matheus-rolim-mendes-de-alencar",
+      "name": "Matheus Rolim Mendes de Alencar",
+      "searchKey": "matheus rolim mendes de alencar",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2011,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "yuri-neyson-ferreira-brito": {
+      "id": "yuri-neyson-ferreira-brito",
+      "name": "Yuri Neyson Ferreira Brito",
+      "searchKey": "yuri neyson ferreira brito",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2011,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "diego-saraiva-felipe": {
+      "id": "diego-saraiva-felipe",
+      "name": "Diego Saraiva Felipe",
+      "searchKey": "diego saraiva felipe",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2010,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-barbosa-oliveira": {
+      "id": "pedro-barbosa-oliveira",
+      "name": "Pedro Barbosa Oliveira",
+      "searchKey": "pedro barbosa oliveira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2010,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "yuri-regis-de-freitas": {
+      "id": "yuri-regis-de-freitas",
+      "name": "Yuri Regis de Freitas",
+      "searchKey": "yuri regis de freitas",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2010,
+          "medal": "silver"
+        }
+      ]
+    },
+    "leo-nunes-benevides": {
+      "id": "leo-nunes-benevides",
+      "name": "Leo Nunes Benevides",
+      "searchKey": "leo nunes benevides",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2009,
+          "medal": "silver"
+        }
+      ]
+    },
+    "paulo-henrique-silva-rodrigues": {
+      "id": "paulo-henrique-silva-rodrigues",
+      "name": "Paulo Henrique Silva Rodrigues",
+      "searchKey": "paulo henrique silva rodrigues",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2009,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rafael-lima-viana": {
+      "id": "rafael-lima-viana",
+      "name": "Rafael Lima Viana",
+      "searchKey": "rafael lima viana",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2009,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "antonio-camelo-filho": {
+      "id": "antonio-camelo-filho",
+      "name": "Antônio Camelo Filho",
+      "searchKey": "antonio camelo filho",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2008,
+          "medal": "gold"
+        }
+      ]
+    },
+    "natalia-alvarez": {
+      "id": "natalia-alvarez",
+      "name": "Natália Álvarez",
+      "searchKey": "natalia alvarez",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2008,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-silva-galdino": {
+      "id": "pedro-silva-galdino",
+      "name": "Pedro Silva Galdino",
+      "searchKey": "pedro silva galdino",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2008,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "italo-oliveira": {
+      "id": "italo-oliveira",
+      "name": "Ítalo Oliveira",
+      "searchKey": "italo oliveira",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2008,
+          "medal": "silver"
+        }
+      ]
+    },
+    "anderson-carlos-vasconcelos-brasil": {
+      "id": "anderson-carlos-vasconcelos-brasil",
+      "name": "Anderson Carlos Vasconcelos Brasil",
+      "searchKey": "anderson carlos vasconcelos brasil",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2007,
+          "medal": "silver"
+        }
+      ]
+    },
+    "claudia-cristina-de-araujo": {
+      "id": "claudia-cristina-de-araujo",
+      "name": "Cláudia Cristina de Araújo",
+      "searchKey": "claudia cristina de araujo",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2007,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "pedro-pinheiro-de-negreiros-bessa": {
+      "id": "pedro-pinheiro-de-negreiros-bessa",
+      "name": "Pedro Pinheiro de Negreiros Bessa",
+      "searchKey": "pedro pinheiro de negreiros bessa",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2007,
+          "medal": "gold"
+        }
+      ]
+    },
+    "icaro-campos-duarte": {
+      "id": "icaro-campos-duarte",
+      "name": "Ícaro Campos Duarte",
+      "searchKey": "icaro campos duarte",
+      "participations": [
+        {
+          "olympiad": "oiab",
+          "year": 2007,
+          "medal": "bronze"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "anderson-carlos-vasconcelos-brasil",
+      "target": "claudia-cristina-de-araujo",
+      "olympiad": "oiab",
+      "year": 2007
+    },
+    {
+      "source": "anderson-carlos-vasconcelos-brasil",
+      "target": "icaro-campos-duarte",
+      "olympiad": "oiab",
+      "year": 2007
+    },
+    {
+      "source": "anderson-carlos-vasconcelos-brasil",
+      "target": "pedro-pinheiro-de-negreiros-bessa",
+      "olympiad": "oiab",
+      "year": 2007
+    },
+    {
+      "source": "claudia-cristina-de-araujo",
+      "target": "icaro-campos-duarte",
+      "olympiad": "oiab",
+      "year": 2007
+    },
+    {
+      "source": "claudia-cristina-de-araujo",
+      "target": "pedro-pinheiro-de-negreiros-bessa",
+      "olympiad": "oiab",
+      "year": 2007
+    },
+    {
+      "source": "icaro-campos-duarte",
+      "target": "pedro-pinheiro-de-negreiros-bessa",
+      "olympiad": "oiab",
+      "year": 2007
+    },
+    {
+      "source": "antonio-camelo-filho",
+      "target": "italo-oliveira",
+      "olympiad": "oiab",
+      "year": 2008
+    },
+    {
+      "source": "antonio-camelo-filho",
+      "target": "natalia-alvarez",
+      "olympiad": "oiab",
+      "year": 2008
+    },
+    {
+      "source": "antonio-camelo-filho",
+      "target": "pedro-silva-galdino",
+      "olympiad": "oiab",
+      "year": 2008
+    },
+    {
+      "source": "italo-oliveira",
+      "target": "natalia-alvarez",
+      "olympiad": "oiab",
+      "year": 2008
+    },
+    {
+      "source": "italo-oliveira",
+      "target": "pedro-silva-galdino",
+      "olympiad": "oiab",
+      "year": 2008
+    },
+    {
+      "source": "natalia-alvarez",
+      "target": "pedro-silva-galdino",
+      "olympiad": "oiab",
+      "year": 2008
+    },
+    {
+      "source": "leo-nunes-benevides",
+      "target": "paulo-henrique-silva-rodrigues",
+      "olympiad": "oiab",
+      "year": 2009
+    },
+    {
+      "source": "leo-nunes-benevides",
+      "target": "rafael-lima-viana",
+      "olympiad": "oiab",
+      "year": 2009
+    },
+    {
+      "source": "paulo-henrique-silva-rodrigues",
+      "target": "rafael-lima-viana",
+      "olympiad": "oiab",
+      "year": 2009
+    },
+    {
+      "source": "diego-saraiva-felipe",
+      "target": "pedro-barbosa-oliveira",
+      "olympiad": "oiab",
+      "year": 2010
+    },
+    {
+      "source": "diego-saraiva-felipe",
+      "target": "yuri-regis-de-freitas",
+      "olympiad": "oiab",
+      "year": 2010
+    },
+    {
+      "source": "pedro-barbosa-oliveira",
+      "target": "yuri-regis-de-freitas",
+      "olympiad": "oiab",
+      "year": 2010
+    },
+    {
+      "source": "cayke-felipe-dos-anjos",
+      "target": "gabriel-drumond-ferreira",
+      "olympiad": "oiab",
+      "year": 2011
+    },
+    {
+      "source": "cayke-felipe-dos-anjos",
+      "target": "matheus-rolim-mendes-de-alencar",
+      "olympiad": "oiab",
+      "year": 2011
+    },
+    {
+      "source": "cayke-felipe-dos-anjos",
+      "target": "yuri-neyson-ferreira-brito",
+      "olympiad": "oiab",
+      "year": 2011
+    },
+    {
+      "source": "gabriel-drumond-ferreira",
+      "target": "matheus-rolim-mendes-de-alencar",
+      "olympiad": "oiab",
+      "year": 2011
+    },
+    {
+      "source": "gabriel-drumond-ferreira",
+      "target": "yuri-neyson-ferreira-brito",
+      "olympiad": "oiab",
+      "year": 2011
+    },
+    {
+      "source": "matheus-rolim-mendes-de-alencar",
+      "target": "yuri-neyson-ferreira-brito",
+      "olympiad": "oiab",
+      "year": 2011
+    },
+    {
+      "source": "antonio-pedro-de-sousa-vieira",
+      "target": "ivan-tadeu-ferreira-antunes-filho",
+      "olympiad": "oiab",
+      "year": 2012
+    },
+    {
+      "source": "antonio-pedro-de-sousa-vieira",
+      "target": "jessica-silva-lopes",
+      "olympiad": "oiab",
+      "year": 2012
+    },
+    {
+      "source": "antonio-pedro-de-sousa-vieira",
+      "target": "leonardo-afonso-costa",
+      "olympiad": "oiab",
+      "year": 2012
+    },
+    {
+      "source": "ivan-tadeu-ferreira-antunes-filho",
+      "target": "jessica-silva-lopes",
+      "olympiad": "oiab",
+      "year": 2012
+    },
+    {
+      "source": "ivan-tadeu-ferreira-antunes-filho",
+      "target": "leonardo-afonso-costa",
+      "olympiad": "oiab",
+      "year": 2012
+    },
+    {
+      "source": "jessica-silva-lopes",
+      "target": "leonardo-afonso-costa",
+      "olympiad": "oiab",
+      "year": 2012
+    },
+    {
+      "source": "alexandre-chaves-fernandes",
+      "target": "eduardo-cesar-diniz-macedo",
+      "olympiad": "oiab",
+      "year": 2013
+    },
+    {
+      "source": "alexandre-chaves-fernandes",
+      "target": "lucas-henrique-rodrigues-de-almeida",
+      "olympiad": "oiab",
+      "year": 2013
+    },
+    {
+      "source": "alexandre-chaves-fernandes",
+      "target": "lucas-medeiros-lopes",
+      "olympiad": "oiab",
+      "year": 2013
+    },
+    {
+      "source": "eduardo-cesar-diniz-macedo",
+      "target": "lucas-henrique-rodrigues-de-almeida",
+      "olympiad": "oiab",
+      "year": 2013
+    },
+    {
+      "source": "eduardo-cesar-diniz-macedo",
+      "target": "lucas-medeiros-lopes",
+      "olympiad": "oiab",
+      "year": 2013
+    },
+    {
+      "source": "lucas-henrique-rodrigues-de-almeida",
+      "target": "lucas-medeiros-lopes",
+      "olympiad": "oiab",
+      "year": 2013
+    },
+    {
+      "source": "ana-luisa-smith-rocha",
+      "target": "gabriel-voltani-guedes",
+      "olympiad": "oiab",
+      "year": 2014
+    },
+    {
+      "source": "ana-luisa-smith-rocha",
+      "target": "leticia-pereira-de-souza",
+      "olympiad": "oiab",
+      "year": 2014
+    },
+    {
+      "source": "ana-luisa-smith-rocha",
+      "target": "mario-anderson-alves-oliveira",
+      "olympiad": "oiab",
+      "year": 2014
+    },
+    {
+      "source": "gabriel-voltani-guedes",
+      "target": "leticia-pereira-de-souza",
+      "olympiad": "oiab",
+      "year": 2014
+    },
+    {
+      "source": "gabriel-voltani-guedes",
+      "target": "mario-anderson-alves-oliveira",
+      "olympiad": "oiab",
+      "year": 2014
+    },
+    {
+      "source": "leticia-pereira-de-souza",
+      "target": "mario-anderson-alves-oliveira",
+      "olympiad": "oiab",
+      "year": 2014
+    },
+    {
+      "source": "arthur-joaquim-de-noronha-feitosa-viana",
+      "target": "gerardo-albino-nogueira-filho",
+      "olympiad": "oiab",
+      "year": 2015
+    },
+    {
+      "source": "arthur-joaquim-de-noronha-feitosa-viana",
+      "target": "lucas-almeida-magalhaes",
+      "olympiad": "oiab",
+      "year": 2015
+    },
+    {
+      "source": "arthur-joaquim-de-noronha-feitosa-viana",
+      "target": "michael-natsubori-sato",
+      "olympiad": "oiab",
+      "year": 2015
+    },
+    {
+      "source": "gerardo-albino-nogueira-filho",
+      "target": "lucas-almeida-magalhaes",
+      "olympiad": "oiab",
+      "year": 2015
+    },
+    {
+      "source": "gerardo-albino-nogueira-filho",
+      "target": "michael-natsubori-sato",
+      "olympiad": "oiab",
+      "year": 2015
+    },
+    {
+      "source": "lucas-almeida-magalhaes",
+      "target": "michael-natsubori-sato",
+      "olympiad": "oiab",
+      "year": 2015
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "bernardo-gabriele-collaco",
+      "olympiad": "oiab",
+      "year": 2016
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "bruno-teixeira-gomes",
+      "olympiad": "oiab",
+      "year": 2016
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "caio-manuel-caetano-adamian",
+      "olympiad": "oiab",
+      "year": 2016
+    },
+    {
+      "source": "bernardo-gabriele-collaco",
+      "target": "bruno-teixeira-gomes",
+      "olympiad": "oiab",
+      "year": 2016
+    },
+    {
+      "source": "bernardo-gabriele-collaco",
+      "target": "caio-manuel-caetano-adamian",
+      "olympiad": "oiab",
+      "year": 2016
+    },
+    {
+      "source": "bruno-teixeira-gomes",
+      "target": "caio-manuel-caetano-adamian",
+      "olympiad": "oiab",
+      "year": 2016
+    },
+    {
+      "source": "henrique-barata-ferreira",
+      "target": "joao-victor-almeida-oliveira-santos",
+      "olympiad": "oiab",
+      "year": 2017
+    },
+    {
+      "source": "henrique-barata-ferreira",
+      "target": "lucas-goncalves-de-oliveira",
+      "olympiad": "oiab",
+      "year": 2017
+    },
+    {
+      "source": "henrique-barata-ferreira",
+      "target": "lucca-paolo-hsu-helmich",
+      "olympiad": "oiab",
+      "year": 2017
+    },
+    {
+      "source": "joao-victor-almeida-oliveira-santos",
+      "target": "lucas-goncalves-de-oliveira",
+      "olympiad": "oiab",
+      "year": 2017
+    },
+    {
+      "source": "joao-victor-almeida-oliveira-santos",
+      "target": "lucca-paolo-hsu-helmich",
+      "olympiad": "oiab",
+      "year": 2017
+    },
+    {
+      "source": "lucas-goncalves-de-oliveira",
+      "target": "lucca-paolo-hsu-helmich",
+      "olympiad": "oiab",
+      "year": 2017
+    },
+    {
+      "source": "jaziel-barros-dos-santos",
+      "target": "joao-pedro-de-souza-bezerra",
+      "olympiad": "oiab",
+      "year": 2018
+    },
+    {
+      "source": "jaziel-barros-dos-santos",
+      "target": "joao-pedro-silva-torres",
+      "olympiad": "oiab",
+      "year": 2018
+    },
+    {
+      "source": "jaziel-barros-dos-santos",
+      "target": "joao-victor-silva-ribeiro",
+      "olympiad": "oiab",
+      "year": 2018
+    },
+    {
+      "source": "joao-pedro-de-souza-bezerra",
+      "target": "joao-pedro-silva-torres",
+      "olympiad": "oiab",
+      "year": 2018
+    },
+    {
+      "source": "joao-pedro-de-souza-bezerra",
+      "target": "joao-victor-silva-ribeiro",
+      "olympiad": "oiab",
+      "year": 2018
+    },
+    {
+      "source": "joao-pedro-silva-torres",
+      "target": "joao-victor-silva-ribeiro",
+      "olympiad": "oiab",
+      "year": 2018
+    },
+    {
+      "source": "ana-bruna-salles-fonseca",
+      "target": "erick-sampaio-andrade",
+      "olympiad": "oiab",
+      "year": 2019
+    },
+    {
+      "source": "ana-bruna-salles-fonseca",
+      "target": "pedro-jatoba-arteiro",
+      "olympiad": "oiab",
+      "year": 2019
+    },
+    {
+      "source": "ana-bruna-salles-fonseca",
+      "target": "thomas-haofu-yang",
+      "olympiad": "oiab",
+      "year": 2019
+    },
+    {
+      "source": "erick-sampaio-andrade",
+      "target": "pedro-jatoba-arteiro",
+      "olympiad": "oiab",
+      "year": 2019
+    },
+    {
+      "source": "erick-sampaio-andrade",
+      "target": "thomas-haofu-yang",
+      "olympiad": "oiab",
+      "year": 2019
+    },
+    {
+      "source": "pedro-jatoba-arteiro",
+      "target": "thomas-haofu-yang",
+      "olympiad": "oiab",
+      "year": 2019
+    },
+    {
+      "source": "bruna-da-motta-sonntag",
+      "target": "gustavo-costa-holanda",
+      "olympiad": "oiab",
+      "year": 2021
+    },
+    {
+      "source": "bruna-da-motta-sonntag",
+      "target": "marcela-hernandes-pereira",
+      "olympiad": "oiab",
+      "year": 2021
+    },
+    {
+      "source": "bruna-da-motta-sonntag",
+      "target": "vinicius-kenji-amano-tanaka",
+      "olympiad": "oiab",
+      "year": 2021
+    },
+    {
+      "source": "gustavo-costa-holanda",
+      "target": "marcela-hernandes-pereira",
+      "olympiad": "oiab",
+      "year": 2021
+    },
+    {
+      "source": "gustavo-costa-holanda",
+      "target": "vinicius-kenji-amano-tanaka",
+      "olympiad": "oiab",
+      "year": 2021
+    },
+    {
+      "source": "marcela-hernandes-pereira",
+      "target": "vinicius-kenji-amano-tanaka",
+      "olympiad": "oiab",
+      "year": 2021
+    },
+    {
+      "source": "arthur-neves-maia",
+      "target": "breno-taques-mussi-endres",
+      "olympiad": "oiab",
+      "year": 2022
+    },
+    {
+      "source": "arthur-neves-maia",
+      "target": "cicero-miguel-angelo-neto",
+      "olympiad": "oiab",
+      "year": 2022
+    },
+    {
+      "source": "arthur-neves-maia",
+      "target": "isabela-trad-timo-luz",
+      "olympiad": "oiab",
+      "year": 2022
+    },
+    {
+      "source": "breno-taques-mussi-endres",
+      "target": "cicero-miguel-angelo-neto",
+      "olympiad": "oiab",
+      "year": 2022
+    },
+    {
+      "source": "breno-taques-mussi-endres",
+      "target": "isabela-trad-timo-luz",
+      "olympiad": "oiab",
+      "year": 2022
+    },
+    {
+      "source": "cicero-miguel-angelo-neto",
+      "target": "isabela-trad-timo-luz",
+      "olympiad": "oiab",
+      "year": 2022
+    },
+    {
+      "source": "alexandre-andrade-de-almeida",
+      "target": "clara-nakata-de-carvalho",
+      "olympiad": "oiab",
+      "year": 2023
+    },
+    {
+      "source": "alexandre-andrade-de-almeida",
+      "target": "iara-vieira-vitarelli",
+      "olympiad": "oiab",
+      "year": 2023
+    },
+    {
+      "source": "alexandre-andrade-de-almeida",
+      "target": "joao-pedro-albuquerque-damasceno",
+      "olympiad": "oiab",
+      "year": 2023
+    },
+    {
+      "source": "clara-nakata-de-carvalho",
+      "target": "iara-vieira-vitarelli",
+      "olympiad": "oiab",
+      "year": 2023
+    },
+    {
+      "source": "clara-nakata-de-carvalho",
+      "target": "joao-pedro-albuquerque-damasceno",
+      "olympiad": "oiab",
+      "year": 2023
+    },
+    {
+      "source": "iara-vieira-vitarelli",
+      "target": "joao-pedro-albuquerque-damasceno",
+      "olympiad": "oiab",
+      "year": 2023
+    },
+    {
+      "source": "arthur-kui",
+      "target": "david-li-chiun-liu",
+      "olympiad": "oiab",
+      "year": 2024
+    },
+    {
+      "source": "arthur-kui",
+      "target": "marcos-paulo-goncalves-santos",
+      "olympiad": "oiab",
+      "year": 2024
+    },
+    {
+      "source": "arthur-kui",
+      "target": "pedro-perry-resende",
+      "olympiad": "oiab",
+      "year": 2024
+    },
+    {
+      "source": "david-li-chiun-liu",
+      "target": "marcos-paulo-goncalves-santos",
+      "olympiad": "oiab",
+      "year": 2024
+    },
+    {
+      "source": "david-li-chiun-liu",
+      "target": "pedro-perry-resende",
+      "olympiad": "oiab",
+      "year": 2024
+    },
+    {
+      "source": "marcos-paulo-goncalves-santos",
+      "target": "pedro-perry-resende",
+      "olympiad": "oiab",
+      "year": 2024
+    },
+    {
+      "source": "francisco-ulisses-montenegro-campos",
+      "target": "joao-nilson-pereira-da-cruz-neto",
+      "olympiad": "oiab",
+      "year": 2025
+    },
+    {
+      "source": "francisco-ulisses-montenegro-campos",
+      "target": "julia-mota-miranda",
+      "olympiad": "oiab",
+      "year": 2025
+    },
+    {
+      "source": "francisco-ulisses-montenegro-campos",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "oiab",
+      "year": 2025
+    },
+    {
+      "source": "joao-nilson-pereira-da-cruz-neto",
+      "target": "julia-mota-miranda",
+      "olympiad": "oiab",
+      "year": 2025
+    },
+    {
+      "source": "joao-nilson-pereira-da-cruz-neto",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "oiab",
+      "year": 2025
+    },
+    {
+      "source": "julia-mota-miranda",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "oiab",
+      "year": 2025
+    },
+    {
+      "source": "caio-heronville-machado",
+      "target": "caio-nascimento-goncalves-marques",
+      "olympiad": "oiab",
+      "year": 2026
+    },
+    {
+      "source": "caio-heronville-machado",
+      "target": "luca-oliveira-santos-do-carmo",
+      "olympiad": "oiab",
+      "year": 2026
+    },
+    {
+      "source": "caio-heronville-machado",
+      "target": "theo-daltro-santos-camilo",
+      "olympiad": "oiab",
+      "year": 2026
+    },
+    {
+      "source": "caio-nascimento-goncalves-marques",
+      "target": "luca-oliveira-santos-do-carmo",
+      "olympiad": "oiab",
+      "year": 2026
+    },
+    {
+      "source": "caio-nascimento-goncalves-marques",
+      "target": "theo-daltro-santos-camilo",
+      "olympiad": "oiab",
+      "year": 2026
+    },
+    {
+      "source": "luca-oliveira-santos-do-carmo",
+      "target": "theo-daltro-santos-camilo",
+      "olympiad": "oiab",
+      "year": 2026
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-10T06:50:02.145823+00:00",
+    "studentCount": 74,
+    "edgeCount": 108
+  }
+}
