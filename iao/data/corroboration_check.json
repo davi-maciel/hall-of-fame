@@ -1,0 +1,240 @@
+{
+  "checkedAt": "2026-09-10T10:16:22+00:00",
+  "summary": {
+    "PASS": 29
+  },
+  "results": [
+    {
+      "year": 1998,
+      "url": "http://www.issp.ac.ru/iao/1998/iao98_e.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 1998,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Iguchi'"
+    },
+    {
+      "year": 1998,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 1999,
+      "url": "http://www.issp.ac.ru/iao/1999/iao99_e.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Shridhar Jayanthi'"
+    },
+    {
+      "year": 1999,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-1999/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Della Lastra'"
+    },
+    {
+      "year": 1999,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2000,
+      "url": "http://www.issp.ac.ru/iao/2000/iao00_e.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Jayanthi Shridhar'"
+    },
+    {
+      "year": 2000,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-2000/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Quachio'"
+    },
+    {
+      "year": 2000,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2002,
+      "url": "http://www.issp.ac.ru/iao/2002/iao02_er.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bortoluci'"
+    },
+    {
+      "year": 2002,
+      "url": "http://www.issp.ac.ru/iao/2002/iao02_e.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2002,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-2002/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Slepetys'"
+    },
+    {
+      "year": 2002,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2003,
+      "url": "http://www.issp.ac.ru/iao/2003/iao03_e.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Celistrino'"
+    },
+    {
+      "year": 2003,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-2003/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cosentino'"
+    },
+    {
+      "year": 2003,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2004,
+      "url": "http://www.issp.ac.ru/iao/2004/iao04_e.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Echelmeier'"
+    },
+    {
+      "year": 2004,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Echelmeier'"
+    },
+    {
+      "year": 2004,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2005,
+      "url": "http://www.issp.ac.ru/iao/2005/iao05_pw.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Villar Coelho'"
+    },
+    {
+      "year": 2005,
+      "url": "http://www.issp.ac.ru/iao/2005/index.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Villar Coelho'"
+    },
+    {
+      "year": 2005,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Donadia'"
+    },
+    {
+      "year": 2005,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2006,
+      "url": "http://www.issp.ac.ru/iao/2006/iao06_pw.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Fonseca'"
+    },
+    {
+      "year": 2006,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Palmeira'"
+    },
+    {
+      "year": 2006,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    },
+    {
+      "year": 2007,
+      "url": "http://www.issp.ac.ru/iao/2007/iao07_pw.html",
+      "domain": "issp.ac.ru",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Parpinel'"
+    },
+    {
+      "year": 2007,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mippo'"
+    },
+    {
+      "year": 2007,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Brasil participa da IAO'"
+    }
+  ]
+}

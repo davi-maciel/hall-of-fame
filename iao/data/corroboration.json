@@ -1,0 +1,336 @@
+{
+  "olympiadId": "iao",
+  "description": "Sources confirming Brazilian IAO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "issp.ac.ru per-year IAO reports and prizewinner pages.",
+    "primary": "olimpiadascientificas.org rosters (OBA-sourced); pt.wikipedia participation table.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Editions attended: 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2006, 2007 (9). 2001: applied, did not travel (official page). 2008-2015: no Brazil in the official winners/results lists (checked 2008, 2009, 2013 lists directly). pt.wikipedia's table shows one Brazilian silver in 2009 and 2013 - contradicted by the official prizewinner lists, presumably an IOAA conflation; not used.",
+    "Diplomas I/II/III are recorded as gold/silver/bronze: 1 gold, 5 silver, 9 bronze (15). Non-medallist rows come from OLC's OBA-sourced rosters (official pages list only prizewinners and team names).",
+    "Names: OLC/OBA Portuguese forms; official pages write surname-first ASCII (e.g. 'Villar Coelho Felipe Ferreira'). Five students also appear in ioaa/ijso/ipho/ibo/maio/oii/ioi datasets (see aliases notes)."
+  ],
+  "years": [
+    {
+      "year": 1998,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/1998/iao98_e.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medal count + team list",
+          "confirms": "III IAO report: Brazil among the five teams; diploma table Brazil 0/0/1 (winner names never posted)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Iguchi"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "Debut (OBA's founding year). The official page says 'names of the winners to be on the Web page' and never posted them; Shridhar Jayanthi's bronze rests on OLC/OBA plus the official Brazil 0/0/1 diploma count. 1998 rows carry schools rather than states on OLC."
+    },
+    {
+      "year": 1999,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/1999/iao99_e.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "IV IAO report: Shridhar Jayanthi (São José dos Campos) II prize; diploma table 0/1/0",
+          "needle": "Shridhar Jayanthi"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-1999/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Della Lastra"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2000/iao00_e.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "V IAO report: Jayanthi Shridhar III prize; diploma table 0/0/1",
+          "needle": "Jayanthi Shridhar"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-2000/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Quachio"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "Six names on OLC (IAO teams are five: 3 alpha + 2 beta); the sixth is presumably a guest/observer - kept as listed."
+    },
+    {
+      "year": 2002,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2002/iao02_er.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "VII IAO results: Bortoluci José III, Pereira Felipe III; team table",
+          "needle": "Bortoluci"
+        },
+        {
+          "url": "http://www.issp.ac.ru/iao/2002/iao02_e.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "team list",
+          "confirms": "VII IAO report: Brazil applied and arrived",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-2002/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Slepetys"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "2001 (Crimea): the official 'information before' page lists Brazil among applicants but not among the nine teams that arrived - no edition row."
+    },
+    {
+      "year": 2003,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2003/iao03_e.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "VIII IAO report: Celistrino Teixeira II, Silva Michel III (55 participants, 14 teams)",
+          "needle": "Celistrino"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/iao-2003/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Cosentino"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "Raul Celistrino Teixeira = silver; Michel Aquena Silva = bronze (official writes 'Silva Michel')."
+    },
+    {
+      "year": 2004,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2004/iao04_e.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "IX IAO report: Villar Coelho II (junior), Echelmeier III and de Araujo e Silva III (senior)",
+          "needle": "Echelmeier"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Echelmeier"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2005/iao05_pw.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "X IAO prizewinners: Villar Coelho Felipe Ferreira I Diploma",
+          "needle": "Villar Coelho"
+        },
+        {
+          "url": "http://www.issp.ac.ru/iao/2005/index.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "team list + gold",
+          "confirms": "X IAO front page: Brazil among teams; Felipe Ferreira Villar Coelho gold",
+          "needle": "Villar Coelho"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Donadia"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "Only Brazilian IAO gold (Felipe Ferreira Villar Coelho, junior group, Beijing). OLC lists six names vs Wikipedia's five."
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2006/iao06_pw.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "XI IAO prizewinners: Assis Felipe Goncalves II (senior), Araujo Hugo Fonseca III (junior)",
+          "needle": "Fonseca"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Palmeira"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "OLC 'Felipe Gonçalves Assis' = the IBO 2006 contestant 'Felipe Gonçalves de Assis' (Campina Grande-PB); pool form kept. Six names on OLC."
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "http://www.issp.ac.ru/iao/2007/iao07_pw.html",
+          "domain": "issp.ac.ru",
+          "cls": "official",
+          "coverage": "medallists + team list",
+          "confirms": "XII IAO prizewinners: Fonseca Araujo Hugo II, Parpinel Cavina Rafael III",
+          "needle": "Parpinel"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "needle": "Mippo"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "team size + medal counts",
+          "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "needle": "Brasil participa da IAO"
+        }
+      ],
+      "note": "Last edition attended: Brazil switched to the new IOAA from 2007 on. Cindy Yuchi Tsai and Rafael Parpinel Cavina went on to IOAA 2008."
+    }
+  ]
+}

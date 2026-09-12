@@ -1,0 +1,2258 @@
+{
+  "students": {
+    "eyke-cardoso-de-souza-torres": {
+      "id": "eyke-cardoso-de-souza-torres",
+      "name": "Eyke Cardoso de Souza Torres",
+      "searchKey": "eyke cardoso de souza torres",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "felipe-maia-silva": {
+      "id": "felipe-maia-silva",
+      "name": "Felipe Maia Silva",
+      "searchKey": "felipe maia silva",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "filipe-ya-hu-dai-lima": {
+      "id": "filipe-ya-hu-dai-lima",
+      "name": "Filipe Ya Hu Dai Lima",
+      "searchKey": "filipe ya hu dai lima",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "guilherme-waiandt-moraes": {
+      "id": "guilherme-waiandt-moraes",
+      "name": "Guilherme Waiandt Moraes",
+      "searchKey": "guilherme waiandt moraes",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gustavo-globig-farina": {
+      "id": "gustavo-globig-farina",
+      "name": "Gustavo Globig Farina",
+      "searchKey": "gustavo globig farina",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "isabela-xavier-de-miranda": {
+      "id": "isabela-xavier-de-miranda",
+      "name": "Isabela Xavier de Miranda",
+      "searchKey": "isabela xavier de miranda",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "joao-victor-evers-cordeiro": {
+      "id": "joao-victor-evers-cordeiro",
+      "name": "João Victor Evers Cordeiro",
+      "searchKey": "joao victor evers cordeiro",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "silver"
+        }
+      ]
+    },
+    "larissa-franca-souza": {
+      "id": "larissa-franca-souza",
+      "name": "Larissa França Souza",
+      "searchKey": "larissa franca souza",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "lucas-praca-oliveira": {
+      "id": "lucas-praca-oliveira",
+      "name": "Lucas Praça Oliveira",
+      "searchKey": "lucas praca oliveira",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2024,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "luis-fernando-de-oliveira-souza": {
+      "id": "luis-fernando-de-oliveira-souza",
+      "name": "Luís Fernando de Oliveira Souza",
+      "searchKey": "luis fernando de oliveira souza",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2025,
+          "medal": "gold"
+        }
+      ]
+    },
+    "arthur-gomes-gurjao": {
+      "id": "arthur-gomes-gurjao",
+      "name": "Arthur Gomes Gurjão",
+      "searchKey": "arthur gomes gurjao",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2024,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "larissa-midori-miamura": {
+      "id": "larissa-midori-miamura",
+      "name": "Larissa Midori Miamura",
+      "searchKey": "larissa midori miamura",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2023,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "luca-pieroni-pimenta": {
+      "id": "luca-pieroni-pimenta",
+      "name": "Luca Pieroni Pimenta",
+      "searchKey": "luca pieroni pimenta",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2024,
+          "medal": "gold"
+        }
+      ]
+    },
+    "davi-de-lima-coutinho-dos-santos": {
+      "id": "davi-de-lima-coutinho-dos-santos",
+      "name": "Davi de Lima Coutinho dos Santos",
+      "searchKey": "davi de lima coutinho dos santos",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2022,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gustavo-mesquita-franca": {
+      "id": "gustavo-mesquita-franca",
+      "name": "Gustavo Mesquita França",
+      "searchKey": "gustavo mesquita franca",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2023,
+          "medal": "gold"
+        }
+      ]
+    },
+    "hugo-fares-menhem": {
+      "id": "hugo-fares-menhem",
+      "name": "Hugo Fares Menhem",
+      "searchKey": "hugo fares menhem",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2022,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    },
+    "mychel-lopes-segrini": {
+      "id": "mychel-lopes-segrini",
+      "name": "Mychel Lopes Segrini",
+      "searchKey": "mychel lopes segrini",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2023,
+          "medal": "silver"
+        }
+      ]
+    },
+    "gabriel-consentino-botrel-chalfun": {
+      "id": "gabriel-consentino-botrel-chalfun",
+      "name": "Gabriel Consentino Botrel Chalfun",
+      "searchKey": "gabriel consentino botrel chalfun",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "mariana-naves-tana": {
+      "id": "mariana-naves-tana",
+      "name": "Mariana Naves Tana",
+      "searchKey": "mariana naves tana",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "murilo-martins-trevisan": {
+      "id": "murilo-martins-trevisan",
+      "name": "Murilo Martins Trevisan",
+      "searchKey": "murilo martins trevisan",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2022,
+          "medal": "gold"
+        }
+      ]
+    },
+    "isabela-pereira-gregio": {
+      "id": "isabela-pereira-gregio",
+      "name": "Isabela Pereira Gregio",
+      "searchKey": "isabela pereira gregio",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "leonardo-vellar-auge": {
+      "id": "leonardo-vellar-auge",
+      "name": "Leonardo Vellar Augé",
+      "searchKey": "leonardo vellar auge",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "luis-otavio-trotti-martins-guedes-de-souza": {
+      "id": "luis-otavio-trotti-martins-guedes-de-souza",
+      "name": "Luís Otávio Trotti Martins Guedes de Souza",
+      "searchKey": "luis otavio trotti martins guedes de souza",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "paulo-henrique-dos-santos-silva": {
+      "id": "paulo-henrique-dos-santos-silva",
+      "name": "Paulo Henrique dos Santos Silva",
+      "searchKey": "paulo henrique dos santos silva",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "wesley-antonio-machado-andrade-de-aguiar": {
+      "id": "wesley-antonio-machado-andrade-de-aguiar",
+      "name": "Wesley Antônio Machado Andrade de Aguiar",
+      "searchKey": "wesley antonio machado andrade de aguiar",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2021,
+          "medal": "gold"
+        }
+      ]
+    },
+    "beatriz-rodrigues-de-freitas": {
+      "id": "beatriz-rodrigues-de-freitas",
+      "name": "Beatriz Rodrigues de Freitas",
+      "searchKey": "beatriz rodrigues de freitas",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bismark-mesquita-do-nascimento": {
+      "id": "bismark-mesquita-do-nascimento",
+      "name": "Bismark Mesquita do Nascimento",
+      "searchKey": "bismark mesquita do nascimento",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "eduardo-henrique-camargo-de-toledo": {
+      "id": "eduardo-henrique-camargo-de-toledo",
+      "name": "Eduardo Henrique Camargo de Toledo",
+      "searchKey": "eduardo henrique camargo de toledo",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gustavo-sobreira-barroso": {
+      "id": "gustavo-sobreira-barroso",
+      "name": "Gustavo Sobreira Barroso",
+      "searchKey": "gustavo sobreira barroso",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "vitor-eduardo-costa-santos": {
+      "id": "vitor-eduardo-costa-santos",
+      "name": "Vitor Eduardo Costa Santos",
+      "searchKey": "vitor eduardo costa santos",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bismarck-moreira-ramos-de-vasconcelos-filho": {
+      "id": "bismarck-moreira-ramos-de-vasconcelos-filho",
+      "name": "Bismarck Moreira Ramos de Vasconcelos Filho",
+      "searchKey": "bismarck moreira ramos de vasconcelos filho",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2019,
+          "medal": "gold"
+        }
+      ]
+    },
+    "caio-nascimento-balreira": {
+      "id": "caio-nascimento-balreira",
+      "name": "Caio Nascimento Balreira",
+      "searchKey": "caio nascimento balreira",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2018,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2019,
+          "medal": "gold"
+        }
+      ]
+    },
+    "fabrizio-melges-ferro": {
+      "id": "fabrizio-melges-ferro",
+      "name": "Fabrizio Melges Ferro",
+      "searchKey": "fabrizio melges ferro",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2019,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gabriel-oliveira-mota": {
+      "id": "gabriel-oliveira-mota",
+      "name": "Gabriel Oliveira Mota",
+      "searchKey": "gabriel oliveira mota",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2019,
+          "medal": "silver"
+        }
+      ]
+    },
+    "sarah-leitao-melo": {
+      "id": "sarah-leitao-melo",
+      "name": "Sarah Leitão Melo",
+      "searchKey": "sarah leitao melo",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2019,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gabriel-gandra-prata-goncalves": {
+      "id": "gabriel-gandra-prata-goncalves",
+      "name": "Gabriel Gandra Prata Gonçalves",
+      "searchKey": "gabriel gandra prata goncalves",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2018,
+          "medal": "silver"
+        }
+      ]
+    },
+    "katarine-emanuela-klitzke": {
+      "id": "katarine-emanuela-klitzke",
+      "name": "Katarine Emanuela Klitzke",
+      "searchKey": "katarine emanuela klitzke",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "lua-de-souza-santos": {
+      "id": "lua-de-souza-santos",
+      "name": "Luã de Souza Santos",
+      "searchKey": "lua de souza santos",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "vinicius-rodrigues-de-freitas": {
+      "id": "vinicius-rodrigues-de-freitas",
+      "name": "Vinicius Rodrigues de Freitas",
+      "searchKey": "vinicius rodrigues de freitas",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2018,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bruno-caixeta-piazza": {
+      "id": "bruno-caixeta-piazza",
+      "name": "Bruno Caixeta Piazza",
+      "searchKey": "bruno caixeta piazza",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "danilo-bissoli-apendino": {
+      "id": "danilo-bissoli-apendino",
+      "name": "Danilo Bissoli Apendino",
+      "searchKey": "danilo bissoli apendino",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2017,
+          "medal": "silver"
+        }
+      ]
+    },
+    "fernando-ribeiro-de-senna": {
+      "id": "fernando-ribeiro-de-senna",
+      "name": "Fernando Ribeiro de Senna",
+      "searchKey": "fernando ribeiro de senna",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "henrique-barbosa-de-oliveira": {
+      "id": "henrique-barbosa-de-oliveira",
+      "name": "Henrique Barbosa de Oliveira",
+      "searchKey": "henrique barbosa de oliveira",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2016,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "miriam-harumi-koga": {
+      "id": "miriam-harumi-koga",
+      "name": "Miriam Harumi Koga",
+      "searchKey": "miriam harumi koga",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2017,
+          "medal": "gold"
+        }
+      ]
+    },
+    "beatriz-marques-de-brito": {
+      "id": "beatriz-marques-de-brito",
+      "name": "Beatriz Marques de Brito",
+      "searchKey": "beatriz marques de brito",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2016,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "lucas-camargo-da-silva": {
+      "id": "lucas-camargo-da-silva",
+      "name": "Lucas Camargo da Silva",
+      "searchKey": "lucas camargo da silva",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "mateus-siqueira-thimoteo": {
+      "id": "mateus-siqueira-thimoteo",
+      "name": "Mateus Siqueira Thimóteo",
+      "searchKey": "mateus siqueira thimoteo",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2016,
+          "medal": "gold"
+        }
+      ]
+    },
+    "nicolas-almeida-verras": {
+      "id": "nicolas-almeida-verras",
+      "name": "Nicolas Almeida Verras",
+      "searchKey": "nicolas almeida verras",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2016,
+          "medal": "silver"
+        }
+      ]
+    },
+    "ana-paula-lopes-schuch": {
+      "id": "ana-paula-lopes-schuch",
+      "name": "Ana Paula Lopes Schuch",
+      "searchKey": "ana paula lopes schuch",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2015,
+          "medal": "gold"
+        }
+      ]
+    },
+    "gustavo-guedes-faria": {
+      "id": "gustavo-guedes-faria",
+      "name": "Gustavo Guedes Faria",
+      "searchKey": "gustavo guedes faria",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2015,
+          "medal": "gold"
+        }
+      ]
+    },
+    "leonardo-henrique-martins-florentino": {
+      "id": "leonardo-henrique-martins-florentino",
+      "name": "Leonardo Henrique Martins Florentino",
+      "searchKey": "leonardo henrique martins florentino",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2015,
+          "medal": "silver"
+        }
+      ]
+    },
+    "renner-leite-lucena": {
+      "id": "renner-leite-lucena",
+      "name": "Renner Leite Lucena",
+      "searchKey": "renner leite lucena",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2015,
+          "medal": "gold"
+        }
+      ]
+    },
+    "vitor-gomes-pires": {
+      "id": "vitor-gomes-pires",
+      "name": "Vitor Gomes Pires",
+      "searchKey": "vitor gomes pires",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2015,
+          "medal": "gold"
+        }
+      ]
+    },
+    "carolina-lima-guimaraes": {
+      "id": "carolina-lima-guimaraes",
+      "name": "Carolina Lima Guimarães",
+      "searchKey": "carolina lima guimaraes",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2014,
+          "medal": "silver"
+        }
+      ]
+    },
+    "lucas-hagemaister": {
+      "id": "lucas-hagemaister",
+      "name": "Lucas Hagemaister",
+      "searchKey": "lucas hagemaister",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2014,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-charles-heringer-gomes": {
+      "id": "rafael-charles-heringer-gomes",
+      "name": "Rafael Charles Heringer Gomes",
+      "searchKey": "rafael charles heringer gomes",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2014,
+          "medal": "gold"
+        }
+      ]
+    },
+    "romero-moreira-da-silva": {
+      "id": "romero-moreira-da-silva",
+      "name": "Romero Moreira da Silva",
+      "searchKey": "romero moreira da silva",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2014,
+          "medal": "gold"
+        }
+      ]
+    },
+    "wagner-fonseca-rodrigues": {
+      "id": "wagner-fonseca-rodrigues",
+      "name": "Wagner Fonseca Rodrigues",
+      "searchKey": "wagner fonseca rodrigues",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2014,
+          "medal": "gold"
+        }
+      ]
+    },
+    "ana-leticia-dos-santos": {
+      "id": "ana-leticia-dos-santos",
+      "name": "Ana Letícia dos Santos",
+      "searchKey": "ana leticia dos santos",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2013,
+          "medal": "silver"
+        }
+      ]
+    },
+    "andrei-michel-sontag": {
+      "id": "andrei-michel-sontag",
+      "name": "Andrei Michel Sontag",
+      "searchKey": "andrei michel sontag",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2013,
+          "medal": "gold"
+        }
+      ]
+    },
+    "marton-paulo-dos-santos-silva": {
+      "id": "marton-paulo-dos-santos-silva",
+      "name": "Marton Paulo dos Santos Silva",
+      "searchKey": "marton paulo dos santos silva",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2013,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rubens-martins-bezerra-farias": {
+      "id": "rubens-martins-bezerra-farias",
+      "name": "Rubens Martins Bezerra Farias",
+      "searchKey": "rubens martins bezerra farias",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2013,
+          "medal": "gold"
+        }
+      ]
+    },
+    "weslley-de-vasconcelos-rodrigues-da-silva": {
+      "id": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "name": "Weslley de Vasconcelos Rodrigues da Silva",
+      "searchKey": "weslley de vasconcelos rodrigues da silva",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2012,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2013,
+          "medal": "gold"
+        }
+      ]
+    },
+    "amanda-seraphim-pedarnig": {
+      "id": "amanda-seraphim-pedarnig",
+      "name": "Amanda Seraphim Pedarnig",
+      "searchKey": "amanda seraphim pedarnig",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2012,
+          "medal": "gold"
+        }
+      ]
+    },
+    "larissa-fernandes-de-aquino": {
+      "id": "larissa-fernandes-de-aquino",
+      "name": "Larissa Fernandes de Aquino",
+      "searchKey": "larissa fernandes de aquino",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "luis-fernando-machado-poletti-valle": {
+      "id": "luis-fernando-machado-poletti-valle",
+      "name": "Luis Fernando Machado Poletti Valle",
+      "searchKey": "luis fernando machado poletti valle",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "victor-venturi": {
+      "id": "victor-venturi",
+      "name": "Victor Venturi",
+      "searchKey": "victor venturi",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2012,
+          "medal": "silver"
+        }
+      ]
+    },
+    "felipe-marino-moreno": {
+      "id": "felipe-marino-moreno",
+      "name": "Felipe Marino Moreno",
+      "searchKey": "felipe marino moreno",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2011,
+          "medal": "silver"
+        }
+      ]
+    },
+    "lucas-henrique-morais": {
+      "id": "lucas-henrique-morais",
+      "name": "Lucas Henrique Morais",
+      "searchKey": "lucas henrique morais",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2011,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-de-lima-bordoni": {
+      "id": "rafael-de-lima-bordoni",
+      "name": "Rafael de Lima Bordoni",
+      "searchKey": "rafael de lima bordoni",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2011,
+          "medal": "gold"
+        }
+      ]
+    },
+    "tabata-claudia-amaral-de-pontes": {
+      "id": "tabata-claudia-amaral-de-pontes",
+      "name": "Tábata Cláudia Amaral de Pontes",
+      "searchKey": "tabata claudia amaral de pontes",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2011,
+          "medal": "gold"
+        }
+      ]
+    },
+    "victor-moraes-de-oliveira": {
+      "id": "victor-moraes-de-oliveira",
+      "name": "Victor Moraes de Oliveira",
+      "searchKey": "victor moraes de oliveira",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2011,
+          "medal": "silver"
+        }
+      ]
+    },
+    "catarina-amarante-de-oliveira-neves": {
+      "id": "catarina-amarante-de-oliveira-neves",
+      "name": "Catarina Amarante de Oliveira Neves",
+      "searchKey": "catarina amarante de oliveira neves",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2009,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "olaa",
+          "year": 2010,
+          "medal": "gold"
+        }
+      ]
+    },
+    "helena-wu": {
+      "id": "helena-wu",
+      "name": "Helena Wu",
+      "searchKey": "helena wu",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2010,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "lucas-de-freitas-smaira": {
+      "id": "lucas-de-freitas-smaira",
+      "name": "Lucas de Freitas Smaira",
+      "searchKey": "lucas de freitas smaira",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2010,
+          "medal": "gold"
+        }
+      ]
+    },
+    "richard-giovani-martim-souza": {
+      "id": "richard-giovani-martim-souza",
+      "name": "Richard Giovani Martim Souza",
+      "searchKey": "richard giovani martim souza",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2010,
+          "medal": "gold"
+        }
+      ]
+    },
+    "rodrigo-inacio-pomgeluppi": {
+      "id": "rodrigo-inacio-pomgeluppi",
+      "name": "Rodrigo Inácio Pomgeluppi",
+      "searchKey": "rodrigo inacio pomgeluppi",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2010,
+          "medal": "gold"
+        }
+      ]
+    },
+    "isabela-cunha-maia-nobre": {
+      "id": "isabela-cunha-maia-nobre",
+      "name": "Isabela Cunha Maia Nobre",
+      "searchKey": "isabela cunha maia nobre",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2009,
+          "medal": "silver"
+        }
+      ]
+    },
+    "leonardo-pereira-papais": {
+      "id": "leonardo-pereira-papais",
+      "name": "Leonardo Pereira Papais",
+      "searchKey": "leonardo pereira papais",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2009,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "rafael-camargo-tafarello": {
+      "id": "rafael-camargo-tafarello",
+      "name": "Rafael Camargo Tafarello",
+      "searchKey": "rafael camargo tafarello",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2009,
+          "medal": "gold"
+        }
+      ]
+    },
+    "tiago-lobato-gimenes": {
+      "id": "tiago-lobato-gimenes",
+      "name": "Tiago Lobato Gimenes",
+      "searchKey": "tiago lobato gimenes",
+      "participations": [
+        {
+          "olympiad": "olaa",
+          "year": 2009,
+          "medal": "silver"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "isabela-cunha-maia-nobre",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "leonardo-pereira-papais",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "rafael-camargo-tafarello",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "tiago-lobato-gimenes",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "isabela-cunha-maia-nobre",
+      "target": "leonardo-pereira-papais",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "isabela-cunha-maia-nobre",
+      "target": "rafael-camargo-tafarello",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "isabela-cunha-maia-nobre",
+      "target": "tiago-lobato-gimenes",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "leonardo-pereira-papais",
+      "target": "rafael-camargo-tafarello",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "leonardo-pereira-papais",
+      "target": "tiago-lobato-gimenes",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "rafael-camargo-tafarello",
+      "target": "tiago-lobato-gimenes",
+      "olympiad": "olaa",
+      "year": 2009
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "helena-wu",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "lucas-de-freitas-smaira",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "richard-giovani-martim-souza",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "catarina-amarante-de-oliveira-neves",
+      "target": "rodrigo-inacio-pomgeluppi",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "helena-wu",
+      "target": "lucas-de-freitas-smaira",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "helena-wu",
+      "target": "richard-giovani-martim-souza",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "helena-wu",
+      "target": "rodrigo-inacio-pomgeluppi",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "lucas-de-freitas-smaira",
+      "target": "richard-giovani-martim-souza",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "lucas-de-freitas-smaira",
+      "target": "rodrigo-inacio-pomgeluppi",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "richard-giovani-martim-souza",
+      "target": "rodrigo-inacio-pomgeluppi",
+      "olympiad": "olaa",
+      "year": 2010
+    },
+    {
+      "source": "felipe-marino-moreno",
+      "target": "lucas-henrique-morais",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "felipe-marino-moreno",
+      "target": "rafael-de-lima-bordoni",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "felipe-marino-moreno",
+      "target": "tabata-claudia-amaral-de-pontes",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "felipe-marino-moreno",
+      "target": "victor-moraes-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "lucas-henrique-morais",
+      "target": "rafael-de-lima-bordoni",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "lucas-henrique-morais",
+      "target": "tabata-claudia-amaral-de-pontes",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "lucas-henrique-morais",
+      "target": "victor-moraes-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "rafael-de-lima-bordoni",
+      "target": "tabata-claudia-amaral-de-pontes",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "rafael-de-lima-bordoni",
+      "target": "victor-moraes-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "tabata-claudia-amaral-de-pontes",
+      "target": "victor-moraes-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2011
+    },
+    {
+      "source": "amanda-seraphim-pedarnig",
+      "target": "larissa-fernandes-de-aquino",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "amanda-seraphim-pedarnig",
+      "target": "luis-fernando-machado-poletti-valle",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "amanda-seraphim-pedarnig",
+      "target": "victor-venturi",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "amanda-seraphim-pedarnig",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "larissa-fernandes-de-aquino",
+      "target": "luis-fernando-machado-poletti-valle",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "larissa-fernandes-de-aquino",
+      "target": "victor-venturi",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "larissa-fernandes-de-aquino",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "luis-fernando-machado-poletti-valle",
+      "target": "victor-venturi",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "luis-fernando-machado-poletti-valle",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "victor-venturi",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2012
+    },
+    {
+      "source": "ana-leticia-dos-santos",
+      "target": "andrei-michel-sontag",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "ana-leticia-dos-santos",
+      "target": "marton-paulo-dos-santos-silva",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "ana-leticia-dos-santos",
+      "target": "rubens-martins-bezerra-farias",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "ana-leticia-dos-santos",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "andrei-michel-sontag",
+      "target": "marton-paulo-dos-santos-silva",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "andrei-michel-sontag",
+      "target": "rubens-martins-bezerra-farias",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "andrei-michel-sontag",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "marton-paulo-dos-santos-silva",
+      "target": "rubens-martins-bezerra-farias",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "marton-paulo-dos-santos-silva",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "rubens-martins-bezerra-farias",
+      "target": "weslley-de-vasconcelos-rodrigues-da-silva",
+      "olympiad": "olaa",
+      "year": 2013
+    },
+    {
+      "source": "carolina-lima-guimaraes",
+      "target": "lucas-hagemaister",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "carolina-lima-guimaraes",
+      "target": "rafael-charles-heringer-gomes",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "carolina-lima-guimaraes",
+      "target": "romero-moreira-da-silva",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "carolina-lima-guimaraes",
+      "target": "wagner-fonseca-rodrigues",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "lucas-hagemaister",
+      "target": "rafael-charles-heringer-gomes",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "lucas-hagemaister",
+      "target": "romero-moreira-da-silva",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "lucas-hagemaister",
+      "target": "wagner-fonseca-rodrigues",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "rafael-charles-heringer-gomes",
+      "target": "romero-moreira-da-silva",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "rafael-charles-heringer-gomes",
+      "target": "wagner-fonseca-rodrigues",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "romero-moreira-da-silva",
+      "target": "wagner-fonseca-rodrigues",
+      "olympiad": "olaa",
+      "year": 2014
+    },
+    {
+      "source": "ana-paula-lopes-schuch",
+      "target": "gustavo-guedes-faria",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "ana-paula-lopes-schuch",
+      "target": "leonardo-henrique-martins-florentino",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "ana-paula-lopes-schuch",
+      "target": "renner-leite-lucena",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "ana-paula-lopes-schuch",
+      "target": "vitor-gomes-pires",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "gustavo-guedes-faria",
+      "target": "leonardo-henrique-martins-florentino",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "gustavo-guedes-faria",
+      "target": "renner-leite-lucena",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "gustavo-guedes-faria",
+      "target": "vitor-gomes-pires",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "leonardo-henrique-martins-florentino",
+      "target": "renner-leite-lucena",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "leonardo-henrique-martins-florentino",
+      "target": "vitor-gomes-pires",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "renner-leite-lucena",
+      "target": "vitor-gomes-pires",
+      "olympiad": "olaa",
+      "year": 2015
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "henrique-barbosa-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "lucas-camargo-da-silva",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "beatriz-marques-de-brito",
+      "target": "nicolas-almeida-verras",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "henrique-barbosa-de-oliveira",
+      "target": "lucas-camargo-da-silva",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "henrique-barbosa-de-oliveira",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "henrique-barbosa-de-oliveira",
+      "target": "nicolas-almeida-verras",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "lucas-camargo-da-silva",
+      "target": "mateus-siqueira-thimoteo",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "lucas-camargo-da-silva",
+      "target": "nicolas-almeida-verras",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "mateus-siqueira-thimoteo",
+      "target": "nicolas-almeida-verras",
+      "olympiad": "olaa",
+      "year": 2016
+    },
+    {
+      "source": "bruno-caixeta-piazza",
+      "target": "danilo-bissoli-apendino",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "bruno-caixeta-piazza",
+      "target": "fernando-ribeiro-de-senna",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "bruno-caixeta-piazza",
+      "target": "henrique-barbosa-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "bruno-caixeta-piazza",
+      "target": "miriam-harumi-koga",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "danilo-bissoli-apendino",
+      "target": "fernando-ribeiro-de-senna",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "danilo-bissoli-apendino",
+      "target": "henrique-barbosa-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "danilo-bissoli-apendino",
+      "target": "miriam-harumi-koga",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "fernando-ribeiro-de-senna",
+      "target": "henrique-barbosa-de-oliveira",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "fernando-ribeiro-de-senna",
+      "target": "miriam-harumi-koga",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "henrique-barbosa-de-oliveira",
+      "target": "miriam-harumi-koga",
+      "olympiad": "olaa",
+      "year": 2017
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "gabriel-gandra-prata-goncalves",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "katarine-emanuela-klitzke",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "lua-de-souza-santos",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "vinicius-rodrigues-de-freitas",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-gandra-prata-goncalves",
+      "target": "katarine-emanuela-klitzke",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-gandra-prata-goncalves",
+      "target": "lua-de-souza-santos",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "gabriel-gandra-prata-goncalves",
+      "target": "vinicius-rodrigues-de-freitas",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "katarine-emanuela-klitzke",
+      "target": "lua-de-souza-santos",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "katarine-emanuela-klitzke",
+      "target": "vinicius-rodrigues-de-freitas",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "lua-de-souza-santos",
+      "target": "vinicius-rodrigues-de-freitas",
+      "olympiad": "olaa",
+      "year": 2018
+    },
+    {
+      "source": "bismarck-moreira-ramos-de-vasconcelos-filho",
+      "target": "caio-nascimento-balreira",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "bismarck-moreira-ramos-de-vasconcelos-filho",
+      "target": "fabrizio-melges-ferro",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "bismarck-moreira-ramos-de-vasconcelos-filho",
+      "target": "gabriel-oliveira-mota",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "bismarck-moreira-ramos-de-vasconcelos-filho",
+      "target": "sarah-leitao-melo",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "fabrizio-melges-ferro",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "gabriel-oliveira-mota",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "caio-nascimento-balreira",
+      "target": "sarah-leitao-melo",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "gabriel-oliveira-mota",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "sarah-leitao-melo",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "gabriel-oliveira-mota",
+      "target": "sarah-leitao-melo",
+      "olympiad": "olaa",
+      "year": 2019
+    },
+    {
+      "source": "beatriz-rodrigues-de-freitas",
+      "target": "bismark-mesquita-do-nascimento",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "beatriz-rodrigues-de-freitas",
+      "target": "eduardo-henrique-camargo-de-toledo",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "beatriz-rodrigues-de-freitas",
+      "target": "gustavo-sobreira-barroso",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "beatriz-rodrigues-de-freitas",
+      "target": "vitor-eduardo-costa-santos",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "bismark-mesquita-do-nascimento",
+      "target": "eduardo-henrique-camargo-de-toledo",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "bismark-mesquita-do-nascimento",
+      "target": "gustavo-sobreira-barroso",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "bismark-mesquita-do-nascimento",
+      "target": "vitor-eduardo-costa-santos",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "eduardo-henrique-camargo-de-toledo",
+      "target": "gustavo-sobreira-barroso",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "eduardo-henrique-camargo-de-toledo",
+      "target": "vitor-eduardo-costa-santos",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "gustavo-sobreira-barroso",
+      "target": "vitor-eduardo-costa-santos",
+      "olympiad": "olaa",
+      "year": 2020
+    },
+    {
+      "source": "isabela-pereira-gregio",
+      "target": "leonardo-vellar-auge",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "isabela-pereira-gregio",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "isabela-pereira-gregio",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "isabela-pereira-gregio",
+      "target": "wesley-antonio-machado-andrade-de-aguiar",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "leonardo-vellar-auge",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "leonardo-vellar-auge",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "leonardo-vellar-auge",
+      "target": "wesley-antonio-machado-andrade-de-aguiar",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "luis-otavio-trotti-martins-guedes-de-souza",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "luis-otavio-trotti-martins-guedes-de-souza",
+      "target": "wesley-antonio-machado-andrade-de-aguiar",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "paulo-henrique-dos-santos-silva",
+      "target": "wesley-antonio-machado-andrade-de-aguiar",
+      "olympiad": "olaa",
+      "year": 2021
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "gabriel-consentino-botrel-chalfun",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "hugo-fares-menhem",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "mariana-naves-tana",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "murilo-martins-trevisan",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-consentino-botrel-chalfun",
+      "target": "hugo-fares-menhem",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-consentino-botrel-chalfun",
+      "target": "mariana-naves-tana",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-consentino-botrel-chalfun",
+      "target": "murilo-martins-trevisan",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "hugo-fares-menhem",
+      "target": "mariana-naves-tana",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "hugo-fares-menhem",
+      "target": "murilo-martins-trevisan",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "mariana-naves-tana",
+      "target": "murilo-martins-trevisan",
+      "olympiad": "olaa",
+      "year": 2022
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "gustavo-mesquita-franca",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "hugo-fares-menhem",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "larissa-midori-miamura",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "davi-de-lima-coutinho-dos-santos",
+      "target": "mychel-lopes-segrini",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "gustavo-mesquita-franca",
+      "target": "hugo-fares-menhem",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "gustavo-mesquita-franca",
+      "target": "larissa-midori-miamura",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "gustavo-mesquita-franca",
+      "target": "mychel-lopes-segrini",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "hugo-fares-menhem",
+      "target": "larissa-midori-miamura",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "hugo-fares-menhem",
+      "target": "mychel-lopes-segrini",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "larissa-midori-miamura",
+      "target": "mychel-lopes-segrini",
+      "olympiad": "olaa",
+      "year": 2023
+    },
+    {
+      "source": "arthur-gomes-gurjao",
+      "target": "filipe-ya-hu-dai-lima",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "arthur-gomes-gurjao",
+      "target": "larissa-midori-miamura",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "arthur-gomes-gurjao",
+      "target": "luca-pieroni-pimenta",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "arthur-gomes-gurjao",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "larissa-midori-miamura",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "luca-pieroni-pimenta",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "larissa-midori-miamura",
+      "target": "luca-pieroni-pimenta",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "larissa-midori-miamura",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "luca-pieroni-pimenta",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2024
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "felipe-maia-silva",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "filipe-ya-hu-dai-lima",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "guilherme-waiandt-moraes",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "gustavo-globig-farina",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "isabela-xavier-de-miranda",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "joao-victor-evers-cordeiro",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "filipe-ya-hu-dai-lima",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "guilherme-waiandt-moraes",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "gustavo-globig-farina",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "isabela-xavier-de-miranda",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "joao-victor-evers-cordeiro",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "felipe-maia-silva",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "guilherme-waiandt-moraes",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "gustavo-globig-farina",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "isabela-xavier-de-miranda",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "joao-victor-evers-cordeiro",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "filipe-ya-hu-dai-lima",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "guilherme-waiandt-moraes",
+      "target": "gustavo-globig-farina",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "guilherme-waiandt-moraes",
+      "target": "isabela-xavier-de-miranda",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "guilherme-waiandt-moraes",
+      "target": "joao-victor-evers-cordeiro",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "guilherme-waiandt-moraes",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "guilherme-waiandt-moraes",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "guilherme-waiandt-moraes",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-globig-farina",
+      "target": "isabela-xavier-de-miranda",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-globig-farina",
+      "target": "joao-victor-evers-cordeiro",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-globig-farina",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-globig-farina",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "gustavo-globig-farina",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "isabela-xavier-de-miranda",
+      "target": "joao-victor-evers-cordeiro",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "isabela-xavier-de-miranda",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "isabela-xavier-de-miranda",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "isabela-xavier-de-miranda",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "joao-victor-evers-cordeiro",
+      "target": "larissa-franca-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "joao-victor-evers-cordeiro",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "joao-victor-evers-cordeiro",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "larissa-franca-souza",
+      "target": "lucas-praca-oliveira",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "larissa-franca-souza",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    },
+    {
+      "source": "lucas-praca-oliveira",
+      "target": "luis-fernando-de-oliveira-souza",
+      "olympiad": "olaa",
+      "year": 2025
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-10T14:32:22.193801+00:00",
+    "studentCount": 81,
+    "edgeCount": 205
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "checkedAt": "2026-09-10T14:35:05+00:00",
+  "summary": {
+    "PASS": 97
+  },
+  "results": [
+    {
+      "year": 2004,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lazarte'"
+    },
+    {
+      "year": 2004,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Lazarte'"
+    },
+    {
+      "year": 2004,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2004,
+      "url": "https://iypt.org/past-tournaments/iypt-2004/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2004,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lazarte'"
+    },
+    {
+      "year": 2004,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Lazarte'"
+    },
+    {
+      "year": 2005,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ogassavara'"
+    },
+    {
+      "year": 2005,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ogassavara'"
+    },
+    {
+      "year": 2005,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2005,
+      "url": "https://iypt.org/past-tournaments/iypt-2005/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2005,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ogassavara'"
+    },
+    {
+      "year": 2005,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2005/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ogassavara'"
+    },
+    {
+      "year": 2006,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vignon'"
+    },
+    {
+      "year": 2006,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Vignon'"
+    },
+    {
+      "year": 2006,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2006,
+      "url": "https://iypt.org/past-tournaments/iypt-2006/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2006,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vignon'"
+    },
+    {
+      "year": 2006,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2006/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Vignon'"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Velani'"
+    },
+    {
+      "year": 2007,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Velani'"
+    },
+    {
+      "year": 2007,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2007,
+      "url": "https://iypt.org/past-tournaments/iypt-2007/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2007,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Velani'"
+    },
+    {
+      "year": 2007,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Velani'"
+    },
+    {
+      "year": 2011,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Frassei'"
+    },
+    {
+      "year": 2011,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Frassei'"
+    },
+    {
+      "year": 2011,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2011,
+      "url": "https://iypt.org/past-tournaments/iypt-2011/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2011,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Frassei'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2011/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Frassei'"
+    },
+    {
+      "year": 2012,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2012,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2012,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2012,
+      "url": "https://iypt.org/past-tournaments/iypt-2012/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2012,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2012/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Guinsberg'"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Christovam'"
+    },
+    {
+      "year": 2013,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Christovam'"
+    },
+    {
+      "year": 2013,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2013,
+      "url": "https://iypt.org/past-tournaments/iypt-2013/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2013,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Christovam'"
+    },
+    {
+      "year": 2013,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Christovam'"
+    },
+    {
+      "year": 2013,
+      "url": "https://noic.com.br/uncategorized/resultado-historico-na-iypt-2013/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Christovam'"
+    },
+    {
+      "year": 2013,
+      "url": "https://g1.globo.com/educacao/noticia/2013/05/estudantes-brasileiros-vao-disputar-torneio-de-fisica-em-taiwan.html",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Christovam'"
+    },
+    {
+      "year": 2014,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ceotto'"
+    },
+    {
+      "year": 2014,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ceotto'"
+    },
+    {
+      "year": 2014,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2014,
+      "url": "https://iypt.org/past-tournaments/iypt-2014/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2014,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ceotto'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/fisica/iypt/divulgado-o-resultado-da-iypt-2014/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ceotto'"
+    },
+    {
+      "year": 2015,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kalife'"
+    },
+    {
+      "year": 2015,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Kalife'"
+    },
+    {
+      "year": 2015,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2015,
+      "url": "https://iypt.org/past-tournaments/iypt-2015/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2015,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kalife'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/fisica/resultado-inedito-para-o-brasil-na-copa-do-mundo-de-fisica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Kalife'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tamae'"
+    },
+    {
+      "year": 2016,
+      "url": "https://archive.iypt.org/people/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tamae'"
+    },
+    {
+      "year": 2016,
+      "url": "https://archive.iypt.org/factsheets/",
+      "domain": "archive.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2016,
+      "url": "https://iypt.org/past-tournaments/iypt-2016/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2016,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tamae'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/uncategorized/brasil-conquista-bronze-na-copa-do-mundo-de-fisica/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tamae'"
+    },
+    {
+      "year": 2017,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Mambrim'"
+    },
+    {
+      "year": 2017,
+      "url": "https://iypt.org/past-tournaments/iypt-2017/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2017,
+      "url": "https://cc.iypt.org/iypt2017/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'M. Barbosa'"
+    },
+    {
+      "year": 2017,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mambrim'"
+    },
+    {
+      "year": 2017,
+      "url": "https://g1.globo.com/educacao/noticia/estudantes-brasileiros-conquistam-medalha-de-prata-no-torneio-internacional-de-jovens-fisicos.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mambrim'"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Crocia'"
+    },
+    {
+      "year": 2018,
+      "url": "https://iypt.org/past-tournaments/iypt-2018-2/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2018,
+      "url": "https://cc.iypt.org/iypt2018/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Cutrim Costa'"
+    },
+    {
+      "year": 2018,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Crocia'"
+    },
+    {
+      "year": 2018,
+      "url": "https://revistagalileu.globo.com/Ciencia/noticia/2018/08/brasil-ganha-4-medalha-de-prata-dos-ultimos-5-anos-em-torneio-de-fisica.html",
+      "domain": "revistagalileu.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Crocia'"
+    },
+    {
+      "year": 2018,
+      "url": "https://g1.globo.com/go/goias/noticia/2018/07/28/goiano-e-quatro-estudantes-brasileiros-conquistam-o-5o-lugar-em-torneio-internacional-de-fisica-na-china.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Cutrim Costa'"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Slikta'"
+    },
+    {
+      "year": 2019,
+      "url": "https://iypt.org/past-tournaments/iypt-2019/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2019,
+      "url": "https://cc.iypt.org/iypt2019/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Ventura Andreossi'"
+    },
+    {
+      "year": 2019,
+      "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Slikta'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/uncategorized/equipe-brasileira-conquista-medalha-de-prata-na-iypt-2019/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Slikta'"
+    },
+    {
+      "year": 2019,
+      "url": "https://revistagalileu.globo.com/Ciencia/noticia/2019/07/brasileiros-ganham-prata-em-torneio-internacional-de-fisica-na-polonia.html",
+      "domain": "revistagalileu.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Slikta'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Frascati'"
+    },
+    {
+      "year": 2022,
+      "url": "https://iypt.org/past-tournaments/iypt-2022/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Brazil'"
+    },
+    {
+      "year": 2022,
+      "url": "https://cc.iypt.org/iypt2022/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Seino'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Hinsching'"
+    },
+    {
+      "year": 2023,
+      "url": "https://iypt.org/past-tournaments/iypt-2023/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Silver'"
+    },
+    {
+      "year": 2023,
+      "url": "https://cc.iypt.org/iypt2023/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Monforte'"
+    },
+    {
+      "year": 2023,
+      "url": "https://diariodonordeste.verdesmares.com.br/ceara/aluno-do-ifce-ganha-medalha-de-prata-em-torneio-internacional-de-jovens-fisicos-no-paquistao-1.3397702",
+      "domain": "diariodonordeste.verdesmares.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Eleutério'"
+    },
+    {
+      "year": 2023,
+      "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2023/08/5113960-escola-publica-brasileiro-e-medalhista-em-torneio-de-fisica-no-paquistao.html",
+      "domain": "correiobraziliense.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Eleutério'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Aleixo'"
+    },
+    {
+      "year": 2024,
+      "url": "https://iypt.org/past-tournaments/iypt-2024/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bronze'"
+    },
+    {
+      "year": 2024,
+      "url": "https://cc.iypt.org/iypt2024/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bandeira Martins'"
+    },
+    {
+      "year": 2024,
+      "url": "https://www1.folha.uol.com.br/ciencia/2025/08/em-4-anos-adolescente-de-goias-coleciona-20-medalhas-em-competicoes-cientificas.shtml",
+      "domain": "folha.uol.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bassi'"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Scarabelli'"
+    },
+    {
+      "year": 2025,
+      "url": "https://iypt.org/iypt-2025/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Silver'"
+    },
+    {
+      "year": 2025,
+      "url": "https://cc.iypt.org/iypt2025/team/brazil/",
+      "domain": "cc.iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Dochi Scarabelli'"
+    },
+    {
+      "year": 2025,
+      "url": "https://g1.globo.com/go/goias/noticia/2025/08/21/estudante-goiano-de-17-anos-coleciona-20-medalhas-de-competicoes-cientificas-nacionais-e-internacionais.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bassi'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.iyptbrasil.com/historia",
+      "domain": "iyptbrasil.com",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Manzoli Gorni'"
+    },
+    {
+      "year": 2026,
+      "url": "https://iypt.org/iypt-2026/",
+      "domain": "iypt.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Bronze'"
+    }
+  ]
+}

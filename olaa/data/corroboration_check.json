@@ -1,0 +1,376 @@
+{
+  "checkedAt": "2026-09-10T10:24:14+00:00",
+  "summary": {
+    "PASS": 46
+  },
+  "results": [
+    {
+      "year": 2009,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tafarello'"
+    },
+    {
+      "year": 2009,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Tafarello'"
+    },
+    {
+      "year": 2010,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pomgeluppi'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pomgeluppi'"
+    },
+    {
+      "year": 2010,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/olaa-2010/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Smaira'"
+    },
+    {
+      "year": 2011,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bordoni'"
+    },
+    {
+      "year": 2011,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Bordoni'"
+    },
+    {
+      "year": 2012,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pedarnig'"
+    },
+    {
+      "year": 2012,
+      "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+      "domain": "olimpiadascientificas.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pedarnig'"
+    },
+    {
+      "year": 2012,
+      "url": "https://extra.globo.com/noticias/educacao/vida-de-calouro/estudantes-brasileiros-participam-da-olimpiada-latino-americana-de-astronomia-astronautica-5983975.html",
+      "domain": "extra.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Pedarnig'"
+    },
+    {
+      "year": 2013,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sontag'"
+    },
+    {
+      "year": 2014,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heringer'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/uncategorized/equipe-brasileira-da-olaa-e-mais-premiada-de-todos-os-tempos/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Hagemaister'"
+    },
+    {
+      "year": 2014,
+      "url": "https://noic.com.br/uncategorized/alunos-selecionados-para-ioaa-e-olaa/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'HAGEMAISTER'"
+    },
+    {
+      "year": 2014,
+      "url": "https://g1.globo.com/educacao/noticia/2014/10/brasil-ganha-tres-medalhas-de-ouro-em-olimpiada-latina-de-astronomia.html",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Heringer'"
+    },
+    {
+      "year": 2015,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Renner'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/uncategorized/equipe-brasileira-da-olaa-e-a-mais-premiada-de-todos-os-tempos/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Renner'"
+    },
+    {
+      "year": 2015,
+      "url": "https://noic.com.br/astronomia-2/divulgadas-as-equipes-brasileiras-das-internacionais-de-astronomia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Renner'"
+    },
+    {
+      "year": 2015,
+      "url": "https://revistagalileu.globo.com/Ciencia/noticia/2015/10/brasileiros-conquistam-cinco-medalhas-na-olimpiada-latino-americana-de-astronomia-e-astronautica.html",
+      "domain": "revistagalileu.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Schuch'"
+    },
+    {
+      "year": 2016,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Verras'"
+    },
+    {
+      "year": 2016,
+      "url": "https://noic.com.br/astronomia-2/divulgadas-as-equipes-das-olimpiadas-internacionais-de-astronomia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Thimoteo'"
+    },
+    {
+      "year": 2016,
+      "url": "https://g1.globo.com/educacao/noticia/brasil-vence-olimpiada-latino-americana-de-astronomia-e-astronautica.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Verras'"
+    },
+    {
+      "year": 2017,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Apendino'"
+    },
+    {
+      "year": 2017,
+      "url": "https://noic.com.br/uncategorized/divulgados-os-times-das-olimpiadas-internacionais-de-astronomia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Apendino'"
+    },
+    {
+      "year": 2017,
+      "url": "https://g1.globo.com/educacao/noticia/brasil-conquista-quatro-medalhas-de-ouro-em-olimpiada-de-astronomia-e-astronautica-no-chile.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Apendino'"
+    },
+    {
+      "year": 2018,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Klitzke'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/astronomia-2/brasil-se-destaca-na-olaa-2018/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Katarine'"
+    },
+    {
+      "year": 2018,
+      "url": "https://noic.com.br/uncategorized/veja-as-equipes-brasileiras-das-olimpiadas-internacionais-de-astronomia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Klitzke'"
+    },
+    {
+      "year": 2018,
+      "url": "https://g1.globo.com/educacao/noticia/2018/10/23/brasil-conquista-quatro-ouros-e-uma-prata-em-olimpiada-latino-americana-de-astronomia.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Klitzke'"
+    },
+    {
+      "year": 2019,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fabrizio'"
+    },
+    {
+      "year": 2019,
+      "url": "https://noic.com.br/astronomia-2/brasil-conquista-4-ouros-e-1-prata-na-olaa-2019/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Fabrizio'"
+    },
+    {
+      "year": 2020,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 2020,
+      "url": "https://noic.com.br/uncategorized/confira-o-resultado-do-brasil-na-olaa/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 2020,
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2020/12/10/brasil-ganha-5-medalhas-em-olimpiada-de-astronomia-e-astronautica",
+      "domain": "senado.leg.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Sobreira'"
+    },
+    {
+      "year": 2021,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gregio'"
+    },
+    {
+      "year": 2021,
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2021-11/brasil-ganha-cinco-ouros-em-olimpiada-de-astronomia-e-astronautica/",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gregio'"
+    },
+    {
+      "year": 2021,
+      "url": "https://g1.globo.com/educacao/noticia/2021/11/16/brasil-leva-5-medalhas-de-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gregio'"
+    },
+    {
+      "year": 2022,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Chalfun'"
+    },
+    {
+      "year": 2022,
+      "url": "https://jornaldachapada.com.br/2022/10/24/mundo-selecao-brasileira-faz-bonito-na-olimpiada-latino-americana-de-astronomia-e-astronautica/",
+      "domain": "jornaldachapada.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Chalfun'"
+    },
+    {
+      "year": 2023,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Segrini'"
+    },
+    {
+      "year": 2023,
+      "url": "https://noic.com.br/uncategorized/resultado-da-seletiva-de-astronomia/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Mychel'"
+    },
+    {
+      "year": 2023,
+      "url": "https://jc.ne10.uol.com.br/colunas/enem-e-educacao/2023/10/15617811-brasil-conquista-cinco-medalhas-em-olimpiada-latina-de-astronomia.html",
+      "domain": "jc.ne10.uol.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Segrini'"
+    },
+    {
+      "year": 2024,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gurjão'"
+    },
+    {
+      "year": 2024,
+      "url": "https://horacampinas.com.br/estudante-de-valinhos-e-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica/",
+      "domain": "horacampinas.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gurjão'"
+    },
+    {
+      "year": 2025,
+      "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+      "domain": "pt.wikipedia.org",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Waiandt'"
+    },
+    {
+      "year": 2025,
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2025-09/equipes-brasileiras-sao-premiadas-em-olimpiada-de-astronomia",
+      "domain": "agenciabrasil.ebc.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Waiandt'"
+    }
+  ]
+}

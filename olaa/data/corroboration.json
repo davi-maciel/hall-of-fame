@@ -1,0 +1,546 @@
+{
+  "olympiadId": "olaa",
+  "description": "Sources confirming Brazilian OLAA contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "(none reachable - OBA/OLAA sites offline during collection)",
+    "primary": "pt.wikipedia OBA-sourced rosters; NOIC; press releases via G1, Agência Brasil, Galileu, Senado, regional outlets; olimpiadascientificas.org.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Editions 2009-2025 (17), Brazil in every one; hosted 2009, 2011, 2015, 2025. Teams of five (ten in 2025 as host). Every Brazilian ever entered medalled: 63 gold, 21 silver, 6 bronze.",
+    "Backbone: pt.wikipedia's OBA-sourced per-year delegation lists, corroborated by NOIC (2014-2020, 2023), G1/Galileu/Agência Brasil/regional press (2012, 2014-2025) and OLC (2009-2012). The OBA site (site.oba.org.br / oba.org.br) did not resolve during collection; olaa.oba.org.br likewise.",
+    "Selection: OBA level-4 top scorers sit online and in-person selection rounds; the top five go to the IOAA and the next five to the OLAA (mixed-gender rule), so many rows are exact matches in ioaa/ (see aliases notes)."
+  ],
+  "years": [
+    {
+      "year": 2009,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Tafarello"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "needle": "Tafarello"
+        }
+      ],
+      "note": "First OLAA (Rio de Janeiro). Wikipedia gives short forms (Rafael Tafarello, Catarina Neves...); OLC has the full names used here."
+    },
+    {
+      "year": 2010,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Pomgeluppi"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "needle": "Pomgeluppi"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/olaa-2010/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "needle": "Smaira"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Bordoni"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "needle": "Bordoni"
+        }
+      ],
+      "note": "Second name of the silver medallist: OLC 'Lucas Henrique Moraes' vs Wikipedia 'Morais' - OLC form kept."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Pedarnig"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "needle": "Pedarnig"
+        },
+        {
+          "url": "https://extra.globo.com/noticias/educacao/vida-de-calouro/estudantes-brasileiros-participam-da-olimpiada-latino-americana-de-astronomia-astronautica-5983975.html",
+          "domain": "extra.globo.com",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "Extra (OBA release): full 2012 roster with cities",
+          "needle": "Pedarnig"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Sontag"
+        }
+      ],
+      "note": "Wikipedia only (OBA-sourced); no press/NOIC coverage found. Two of the five are exact matches elsewhere (Rubens Martins Bezerra Farias IJSO 2012; Weslley de Vasconcelos Rodrigues da Silva OLAA 2012)."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Heringer"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/equipe-brasileira-da-olaa-e-mais-premiada-de-todos-os-tempos/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 3G + 2S",
+          "needle": "Hagemaister"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/alunos-selecionados-para-ioaa-e-olaa/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement (IOAA + OLAA)",
+          "needle": "HAGEMAISTER"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/2014/10/brasil-ganha-tres-medalhas-de-ouro-em-olimpiada-latina-de-astronomia.html",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: 3G + 2S with cities",
+          "needle": "Heringer"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Renner"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/equipe-brasileira-da-olaa-e-a-mais-premiada-de-todos-os-tempos/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4G + 1S",
+          "needle": "Renner"
+        },
+        {
+          "url": "https://noic.com.br/astronomia-2/divulgadas-as-equipes-brasileiras-das-internacionais-de-astronomia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "pre-event roster",
+          "confirms": "NOIC team announcement (Vitor Gomes Pires listed as reserve; Felipe Vieira Coimbra later replaced)",
+          "needle": "Renner"
+        },
+        {
+          "url": "https://revistagalileu.globo.com/Ciencia/noticia/2015/10/brasileiros-conquistam-cinco-medalhas-na-olimpiada-latino-americana-de-astronomia-e-astronautica.html",
+          "domain": "revistagalileu.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Galileu: 4G + 1S, full names (Ana Paula Lopes Schuch)",
+          "needle": "Schuch"
+        }
+      ],
+      "note": "Hosted (Rio/Barra do Piraí). Vitor Gomes Pires (reserve in April) replaced Felipe Vieira Coimbra; 'Ana Paula Lopes Schuch' per Galileu (Wikipedia 'Shuch', NOIC 'Schuch')."
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Verras"
+        },
+        {
+          "url": "https://noic.com.br/astronomia-2/divulgadas-as-equipes-das-olimpiadas-internacionais-de-astronomia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "pre-event roster",
+          "confirms": "NOIC team announcement (Victor Praxedes Rael listed; replaced by Nicolas Almeida Verras)",
+          "needle": "Thimoteo"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/brasil-vence-olimpiada-latino-americana-de-astronomia-e-astronautica.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: 2G + 2S + 1B with names",
+          "needle": "Verras"
+        }
+      ],
+      "note": "Nicolas Almeida Verras took the place announced for Victor Praxedes Rael. Mateus Siqueira Thimóteo = the OMCPLP/Cono Sur/APMO/RMM contestant (Mogi das Cruzes, same year) - assumed identity."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Apendino"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/divulgados-os-times-das-olimpiadas-internacionais-de-astronomia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement",
+          "needle": "Apendino"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/brasil-conquista-quatro-medalhas-de-ouro-em-olimpiada-de-astronomia-e-astronautica-no-chile.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: 4G + 1S with cities",
+          "needle": "Apendino"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Klitzke"
+        },
+        {
+          "url": "https://noic.com.br/astronomia-2/brasil-se-destaca-na-olaa-2018/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4G + 1S",
+          "needle": "Katarine"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/veja-as-equipes-brasileiras-das-olimpiadas-internacionais-de-astronomia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "NOIC team announcement with schools",
+          "needle": "Klitzke"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/2018/10/23/brasil-conquista-quatro-ouros-e-uma-prata-em-olimpiada-latino-americana-de-astronomia.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: 4G + 1S",
+          "needle": "Klitzke"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Fabrizio"
+        },
+        {
+          "url": "https://noic.com.br/astronomia-2/brasil-conquista-4-ouros-e-1-prata-na-olaa-2019/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post: 4G + 1S with full names",
+          "needle": "Fabrizio"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Sobreira"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/confira-o-resultado-do-brasil-na-olaa/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC results post (virtual edition): 4G + 1B",
+          "needle": "Sobreira"
+        },
+        {
+          "url": "https://www12.senado.leg.br/radio/1/noticia/2020/12/10/brasil-ganha-5-medalhas-em-olimpiada-de-astronomia-e-astronautica",
+          "domain": "senado.leg.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Rádio Senado: 4G + 1B with names",
+          "needle": "Sobreira"
+        }
+      ],
+      "note": "Virtual edition (Ecuador, 16-30 Nov)."
+    },
+    {
+      "year": 2021,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Gregio"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2021-11/brasil-ganha-cinco-ouros-em-olimpiada-de-astronomia-e-astronautica/",
+          "domain": "agenciabrasil.ebc.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Agência Brasil: five golds, names, ages, schools",
+          "needle": "Gregio"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/2021/11/16/brasil-leva-5-medalhas-de-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: five golds + special prizes",
+          "needle": "Gregio"
+        }
+      ],
+      "note": "Hybrid edition (Peru). All five gold - first clean sweep."
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Chalfun"
+        },
+        {
+          "url": "https://jornaldachapada.com.br/2022/10/24/mundo-selecao-brasileira-faz-bonito-na-olimpiada-latino-americana-de-astronomia-e-astronautica/",
+          "domain": "jornaldachapada.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Jornal da Chapada (OBA release): five golds, names, ages, schools",
+          "needle": "Chalfun"
+        }
+      ],
+      "note": "Second clean sweep (Panama)."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Segrini"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/resultado-da-seletiva-de-astronomia/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "pre-event roster",
+          "confirms": "NOIC selection result (short names)",
+          "needle": "Mychel"
+        },
+        {
+          "url": "https://jc.ne10.uol.com.br/colunas/enem-e-educacao/2023/10/15617811-brasil-conquista-cinco-medalhas-em-olimpiada-latina-de-astronomia.html",
+          "domain": "jc.ne10.uol.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "JC: 2G + 3S with names",
+          "needle": "Segrini"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Gurjão"
+        },
+        {
+          "url": "https://horacampinas.com.br/estudante-de-valinhos-e-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica/",
+          "domain": "horacampinas.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Hora Campinas: 4G + 1B (short names)",
+          "needle": "Gurjão"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astronomia_e_Astron%C3%A1utica",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "needle": "Waiandt"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2025-09/equipes-brasileiras-sao-premiadas-em-olimpiada-de-astronomia",
+          "domain": "agenciabrasil.ebc.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Agência Brasil: ten Brazilians, 9G + 1S, full names and cities",
+          "needle": "Waiandt"
+        }
+      ],
+      "note": "Hosted (Rio de Janeiro / Barra do Piraí): ten Brazilian contestants (host allowance), 9G + 1S. The Wikipedia TOTAL row (18 silver) is stale; per-year rows sum to 21."
+    }
+  ]
+}

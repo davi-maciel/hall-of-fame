@@ -1,0 +1,966 @@
+{
+  "olympiadId": "iypt",
+  "description": "Sources confirming Brazilian IYPT team members + team results, per edition.",
+  "provenanceClasses": {
+    "official": "iyptbrasil.com (national organizer), archive.iypt.org, iypt.org, cc.iypt.org.",
+    "primary": "pt.wikipedia; olimpiadascientificas.org; NOIC; press.",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Editions attended: 2004-2007, 2011-2019, 2022-2026 (18). Absent 2008-2010 and 2021 (Brazil chose the online OYPT); 2020 not held. Team of five each year (90 records). Medals are team medals: silver 2013/2015/2017/2018/2019/2023/2025, bronze 2005/2006/2012/2016/2024/2026, none 2004/2007/2011/2014/2022.",
+    "Backbone: the national organizer's roster page (iyptbrasil.com/historia, all 18 delegations) cross-checked against the IYPT Archive (rosters 2004-2016, rankings), iypt.org past-tournament rankings, cc.iypt.org fight line-ups (2017-2025), Wikipedia, OLC, NOIC and press.",
+    "Names: fullest documented forms (archive/IYPT Brasil over Wikipedia short forms). Twelve students also appear in ijso/ipho/eupho/ioaa/olaa/iao/oibf/maio/rioplatense datasets (see aliases notes)."
+  ],
+  "years": [
+    {
+      "year": 2004,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Lazarte"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Lazarte"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2004/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Lazarte"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Lazarte"
+        }
+      ],
+      "note": "Debut (Brisbane): 15th of 24, no medal. The iypt.org 2004 page lists Brazil in a 12th-row position of an unsorted table; the archive factsheet and every Brazilian source give 15th."
+    },
+    {
+      "year": 2005,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Ogassavara"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Ogassavara"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2005/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Ogassavara"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2005/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Ogassavara"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Vignon"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Vignon"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2006/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Vignon"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2006/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Vignon"
+        }
+      ],
+      "note": "'Pedro Lisbão' per the IYPT archive and IYPT Brasil (OLC: 'Pedro Lisboa')."
+    },
+    {
+      "year": 2007,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Velani"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Velani"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2007/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Velani"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Velani"
+        }
+      ],
+      "note": "Last edition before the 2008-2010 gap (no national tournament 2008-09)."
+    },
+    {
+      "year": 2011,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Frassei"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Frassei"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2011/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Frassei"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2011/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Frassei"
+        }
+      ],
+      "note": "Return: 15th of 21, no medal. Lucas Henrique Morais = the OLAA 2011 silver medallist (assumed)."
+    },
+    {
+      "year": 2012,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Guinsberg"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Guinsberg"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2012/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Guinsberg"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/iypt-2012/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Guinsberg"
+        }
+      ],
+      "note": "10th of 28, bronze. The archive roster adds a sixth name (Sebastião Bethoven Brandão Filho) - a leader/observer, not a contestant."
+    },
+    {
+      "year": 2013,
+      "namingSourceCount": 8,
+      "independentPrimaryCount": 8,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Christovam"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Christovam"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2013/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Christovam"
+        },
+        {
+          "url": "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/",
+          "domain": "olimpiadascientificas.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "needle": "Christovam"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/resultado-historico-na-iypt-2013/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: silver, 7th, team",
+          "needle": "Christovam"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/2013/05/estudantes-brasileiros-vao-disputar-torneio-de-fisica-em-taiwan.html",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full (pre-event roster)",
+          "confirms": "G1: team announced with cities",
+          "needle": "Christovam"
+        }
+      ],
+      "note": "7th, first silver; Liara Guinsberg's second IYPT."
+    },
+    {
+      "year": 2014,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Ceotto"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Ceotto"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2014/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Ceotto"
+        },
+        {
+          "url": "https://noic.com.br/fisica/iypt/divulgado-o-resultado-da-iypt-2014/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: 18th, team",
+          "needle": "Ceotto"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Kalife"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Kalife"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2015/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Kalife"
+        },
+        {
+          "url": "https://noic.com.br/fisica/resultado-inedito-para-o-brasil-na-copa-do-mundo-de-fisica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: silver, 5th, team",
+          "needle": "Kalife"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Tamae"
+        },
+        {
+          "url": "https://archive.iypt.org/people/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "full (with captain and leaders)",
+          "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "needle": "Tamae"
+        },
+        {
+          "url": "https://archive.iypt.org/factsheets/",
+          "domain": "archive.iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2016/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Tamae"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/brasil-conquista-bronze-na-copa-do-mundo-de-fisica/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: bronze, 14th, team",
+          "needle": "Tamae"
+        }
+      ],
+      "note": "14th of 29, bronze (official iypt.org page and archive III)."
+    },
+    {
+      "year": 2017,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Mambrim"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2017/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2017/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "M. Barbosa"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Mambrim"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/estudantes-brasileiros-conquistam-medalha-de-prata-no-torneio-internacional-de-jovens-fisicos.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: silver, 8th, five names, medal bands explained",
+          "needle": "Mambrim"
+        }
+      ],
+      "note": "Medal bands (G1): gold ranks 1-4, silver 5-9, bronze 9-15."
+    },
+    {
+      "year": 2018,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Crocia"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2018-2/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2018/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "Cutrim Costa"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Crocia"
+        },
+        {
+          "url": "https://revistagalileu.globo.com/Ciencia/noticia/2018/08/brasil-ganha-4-medalha-de-prata-dos-ultimos-5-anos-em-torneio-de-fisica.html",
+          "domain": "revistagalileu.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Galileu: silver, 5th, five names",
+          "needle": "Crocia"
+        },
+        {
+          "url": "https://g1.globo.com/go/goias/noticia/2018/07/28/goiano-e-quatro-estudantes-brasileiros-conquistam-o-5o-lugar-em-torneio-internacional-de-fisica-na-china.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "G1: 5th, silver band = ranks 5-8",
+          "needle": "Cutrim Costa"
+        }
+      ],
+      "note": "5th of 32, silver (best rank, shared with 2015)."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Slikta"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2019/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2019/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "Ventura Andreossi"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsicos",
+          "domain": "pt.wikipedia.org",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "needle": "Slikta"
+        },
+        {
+          "url": "https://noic.com.br/uncategorized/equipe-brasileira-conquista-medalha-de-prata-na-iypt-2019/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "NOIC: silver, 6th, team with states",
+          "needle": "Slikta"
+        },
+        {
+          "url": "https://revistagalileu.globo.com/Ciencia/noticia/2019/07/brasileiros-ganham-prata-em-torneio-internacional-de-fisica-na-polonia.html",
+          "domain": "revistagalileu.globo.com",
+          "cls": "primary",
+          "coverage": "full",
+          "confirms": "Galileu: silver, 6th, names and schools",
+          "needle": "Slikta"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Frascati"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2022/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank",
+          "confirms": "iypt.org past-tournament page: final ranking",
+          "needle": "Brazil"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2022/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "Seino"
+        }
+      ],
+      "note": "Return after the pandemic: 15th of 27, below the bronze band. Brazil sat the online OYPT in 2021 and 2023 instead of/besides the IYPT - the OYPT is a different tournament and is not recorded here."
+    },
+    {
+      "year": 2023,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Hinsching"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2023/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "iypt.org past-tournament page: final ranking with medal bands",
+          "needle": "Silver"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2023/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "Monforte"
+        },
+        {
+          "url": "https://diariodonordeste.verdesmares.com.br/ceara/aluno-do-ifce-ganha-medalha-de-prata-em-torneio-internacional-de-jovens-fisicos-no-paquistao-1.3397702",
+          "domain": "diariodonordeste.verdesmares.com.br",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "Diário do Nordeste: José Eleutério silver (Murree)",
+          "needle": "Eleutério"
+        },
+        {
+          "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2023/08/5113960-escola-publica-brasileiro-e-medalhista-em-torneio-de-fisica-no-paquistao.html",
+          "domain": "correiobraziliense.com.br",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "Correio Braziliense: José Eleutério silver",
+          "needle": "Eleutério"
+        }
+      ],
+      "note": "8th, silver (Murree). José Antônio Eleutério = first public-school student on the team."
+    },
+    {
+      "year": 2024,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Aleixo"
+        },
+        {
+          "url": "https://iypt.org/past-tournaments/iypt-2024/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "iypt.org past-tournament page: final ranking with medal bands",
+          "needle": "Bronze"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2024/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "Bandeira Martins"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/ciencia/2025/08/em-4-anos-adolescente-de-goias-coleciona-20-medalhas-em-competicoes-cientificas.shtml",
+          "domain": "folha.uol.com.br",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "Folha: Gabriel Bassi bronze 2024, silver 2025 (captain)",
+          "needle": "Bassi"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Scarabelli"
+        },
+        {
+          "url": "https://iypt.org/iypt-2025/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "iypt.org tournament page: final ranking with medal bands",
+          "needle": "Silver"
+        },
+        {
+          "url": "https://cc.iypt.org/iypt2025/team/brazil/",
+          "domain": "cc.iypt.org",
+          "cls": "official",
+          "coverage": "fight line-ups (initial + surname)",
+          "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "needle": "Dochi Scarabelli"
+        },
+        {
+          "url": "https://g1.globo.com/go/goias/noticia/2025/08/21/estudante-goiano-de-17-anos-coleciona-20-medalhas-de-competicoes-cientificas-nacionais-e-internacionais.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "G1: Gabriel Bassi, IYPT silver 2025",
+          "needle": "Bassi"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://www.iyptbrasil.com/historia",
+          "domain": "iyptbrasil.com",
+          "cls": "official",
+          "coverage": "full",
+          "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "needle": "Manzoli Gorni"
+        },
+        {
+          "url": "https://iypt.org/iypt-2026/",
+          "domain": "iypt.org",
+          "cls": "official",
+          "coverage": "team rank + medal",
+          "confirms": "iypt.org tournament page: final ranking with medal bands (Zurich)",
+          "needle": "Bronze"
+        }
+      ],
+      "note": "17th, bronze (Zurich). Names from the national organizer's page only; cc.iypt.org has not published the 2026 fight data yet - re-check."
+    }
+  ]
+}

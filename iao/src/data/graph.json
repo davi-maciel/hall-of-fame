@@ -1,0 +1,1132 @@
+{
+  "students": {
+    "cindy-yuchi-tsai": {
+      "id": "cindy-yuchi-tsai",
+      "name": "Cindy Yuchi Tsai",
+      "searchKey": "cindy yuchi tsai",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2007,
+          "medal": null
+        }
+      ]
+    },
+    "franciele-renata-henrique": {
+      "id": "franciele-renata-henrique",
+      "name": "Franciele Renata Henrique",
+      "searchKey": "franciele renata henrique",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2007,
+          "medal": null
+        }
+      ]
+    },
+    "hugo-fonseca-araujo": {
+      "id": "hugo-fonseca-araujo",
+      "name": "Hugo Fonseca Araújo",
+      "searchKey": "hugo fonseca araujo",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2006,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "iao",
+          "year": 2007,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-kenzo-mippo": {
+      "id": "rafael-kenzo-mippo",
+      "name": "Rafael Kenzo Mippo",
+      "searchKey": "rafael kenzo mippo",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2007,
+          "medal": null
+        }
+      ]
+    },
+    "rafael-parpinel-cavina": {
+      "id": "rafael-parpinel-cavina",
+      "name": "Rafael Parpinel Cavina",
+      "searchKey": "rafael parpinel cavina",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2007,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "alessandro-wagner-palmeira": {
+      "id": "alessandro-wagner-palmeira",
+      "name": "Alessandro Wagner Palmeira",
+      "searchKey": "alessandro wagner palmeira",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2006,
+          "medal": null
+        }
+      ]
+    },
+    "felipe-ferreira-villar-coelho": {
+      "id": "felipe-ferreira-villar-coelho",
+      "name": "Felipe Ferreira Villar Coelho",
+      "searchKey": "felipe ferreira villar coelho",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2004,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "iao",
+          "year": 2005,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "iao",
+          "year": 2006,
+          "medal": null
+        }
+      ]
+    },
+    "felipe-goncalves-de-assis": {
+      "id": "felipe-goncalves-de-assis",
+      "name": "Felipe Gonçalves de Assis",
+      "searchKey": "felipe goncalves de assis",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2006,
+          "medal": "silver"
+        }
+      ]
+    },
+    "henrique-oliveira-da-mata": {
+      "id": "henrique-oliveira-da-mata",
+      "name": "Henrique Oliveira da Mata",
+      "searchKey": "henrique oliveira da mata",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2005,
+          "medal": null
+        },
+        {
+          "olympiad": "iao",
+          "year": 2006,
+          "medal": null
+        }
+      ]
+    },
+    "thais-mosken-pera": {
+      "id": "thais-mosken-pera",
+      "name": "Thaís Mösken Pêra",
+      "searchKey": "thais mosken pera",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2006,
+          "medal": null
+        }
+      ]
+    },
+    "gustavo-amarante-furtado": {
+      "id": "gustavo-amarante-furtado",
+      "name": "Gustavo Amarante Furtado",
+      "searchKey": "gustavo amarante furtado",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2005,
+          "medal": null
+        }
+      ]
+    },
+    "gustavo-donadia-nascimento": {
+      "id": "gustavo-donadia-nascimento",
+      "name": "Gustavo Donadia Nascimento",
+      "searchKey": "gustavo donadia nascimento",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2005,
+          "medal": null
+        }
+      ]
+    },
+    "marcos-alberto-martins-jr": {
+      "id": "marcos-alberto-martins-jr",
+      "name": "Marcos Alberto Martins Jr.",
+      "searchKey": "marcos alberto martins jr.",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2005,
+          "medal": null
+        }
+      ]
+    },
+    "nathan-willing-lima": {
+      "id": "nathan-willing-lima",
+      "name": "Nathan Willing Lima",
+      "searchKey": "nathan willing lima",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2005,
+          "medal": null
+        }
+      ]
+    },
+    "carla-fernanda-de-araujo-e-silva": {
+      "id": "carla-fernanda-de-araujo-e-silva",
+      "name": "Carla Fernanda de Araújo e Silva",
+      "searchKey": "carla fernanda de araujo e silva",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "fernanda-vilela-de-aquino": {
+      "id": "fernanda-vilela-de-aquino",
+      "name": "Fernanda Vilela de Aquino",
+      "searchKey": "fernanda vilela de aquino",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2004,
+          "medal": null
+        }
+      ]
+    },
+    "guilherme-rohden-echelmeier": {
+      "id": "guilherme-rohden-echelmeier",
+      "name": "Guilherme Rohden Echelmeier",
+      "searchKey": "guilherme rohden echelmeier",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2004,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "bernardo-gomes-cosentino-alvarez": {
+      "id": "bernardo-gomes-cosentino-alvarez",
+      "name": "Bernardo Gomes Cosentino Alvarez",
+      "searchKey": "bernardo gomes cosentino alvarez",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2003,
+          "medal": null
+        }
+      ]
+    },
+    "bruno-lopes-lastorina-de-andrade": {
+      "id": "bruno-lopes-lastorina-de-andrade",
+      "name": "Bruno Lopes L'Astorina de Andrade",
+      "searchKey": "bruno lopes l'astorina de andrade",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2003,
+          "medal": null
+        }
+      ]
+    },
+    "emanuelle-roberta-da-silva": {
+      "id": "emanuelle-roberta-da-silva",
+      "name": "Emanuelle Roberta da Silva",
+      "searchKey": "emanuelle roberta da silva",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2003,
+          "medal": null
+        }
+      ]
+    },
+    "michel-aquena-silva": {
+      "id": "michel-aquena-silva",
+      "name": "Michel Aquena Silva",
+      "searchKey": "michel aquena silva",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2003,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "raul-celistrino-teixeira": {
+      "id": "raul-celistrino-teixeira",
+      "name": "Raul Celistrino Teixeira",
+      "searchKey": "raul celistrino teixeira",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2003,
+          "medal": "silver"
+        }
+      ]
+    },
+    "andre-slepetys": {
+      "id": "andre-slepetys",
+      "name": "André Slepetys",
+      "searchKey": "andre slepetys",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2002,
+          "medal": null
+        }
+      ]
+    },
+    "felipe-augusto-cardoso-pereira": {
+      "id": "felipe-augusto-cardoso-pereira",
+      "name": "Felipe Augusto Cardoso Pereira",
+      "searchKey": "felipe augusto cardoso pereira",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2002,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "jose-henrique-bortoluci": {
+      "id": "jose-henrique-bortoluci",
+      "name": "José Henrique Bortoluci",
+      "searchKey": "jose henrique bortoluci",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2002,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "milton-fernando-viegas-junior": {
+      "id": "milton-fernando-viegas-junior",
+      "name": "Milton Fernando Viegas Júnior",
+      "searchKey": "milton fernando viegas junior",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2002,
+          "medal": null
+        }
+      ]
+    },
+    "rafael-faria-da-silva": {
+      "id": "rafael-faria-da-silva",
+      "name": "Rafael Faria da Silva",
+      "searchKey": "rafael faria da silva",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2002,
+          "medal": null
+        }
+      ]
+    },
+    "caio-cicero-gomes": {
+      "id": "caio-cicero-gomes",
+      "name": "Caio Cícero Gomes",
+      "searchKey": "caio cicero gomes",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2000,
+          "medal": null
+        }
+      ]
+    },
+    "flavio-luiz-cardoso-ribeiro": {
+      "id": "flavio-luiz-cardoso-ribeiro",
+      "name": "Flávio Luiz Cardoso Ribeiro",
+      "searchKey": "flavio luiz cardoso ribeiro",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2000,
+          "medal": null
+        }
+      ]
+    },
+    "isis-woltzenlogel-paleo": {
+      "id": "isis-woltzenlogel-paleo",
+      "name": "Isis Woltzenlogel Paleo",
+      "searchKey": "isis woltzenlogel paleo",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2000,
+          "medal": null
+        }
+      ]
+    },
+    "paulo-julio-orely-de-souza-pedrosa": {
+      "id": "paulo-julio-orely-de-souza-pedrosa",
+      "name": "Paulo Júlio O'Rely de Souza Pedrosa",
+      "searchKey": "paulo julio o'rely de souza pedrosa",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1999,
+          "medal": null
+        },
+        {
+          "olympiad": "iao",
+          "year": 2000,
+          "medal": null
+        }
+      ]
+    },
+    "raphael-quachio": {
+      "id": "raphael-quachio",
+      "name": "Raphael Quachio",
+      "searchKey": "raphael quachio",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 2000,
+          "medal": null
+        }
+      ]
+    },
+    "shridhar-jayanthi": {
+      "id": "shridhar-jayanthi",
+      "name": "Shridhar Jayanthi",
+      "searchKey": "shridhar jayanthi",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1998,
+          "medal": "bronze"
+        },
+        {
+          "olympiad": "iao",
+          "year": 1999,
+          "medal": "silver"
+        },
+        {
+          "olympiad": "iao",
+          "year": 2000,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "ana-lucia-martins-de-toledo": {
+      "id": "ana-lucia-martins-de-toledo",
+      "name": "Ana Lúcia Martins de Toledo",
+      "searchKey": "ana lucia martins de toledo",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1999,
+          "medal": null
+        }
+      ]
+    },
+    "breno-araujo-della-lastra": {
+      "id": "breno-araujo-della-lastra",
+      "name": "Breno Araújo Della Lastra",
+      "searchKey": "breno araujo della lastra",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1999,
+          "medal": null
+        }
+      ]
+    },
+    "bruno-woltzenlogel-paleo": {
+      "id": "bruno-woltzenlogel-paleo",
+      "name": "Bruno Woltzenlogel Paleo",
+      "searchKey": "bruno woltzenlogel paleo",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1999,
+          "medal": null
+        }
+      ]
+    },
+    "daniel-lima": {
+      "id": "daniel-lima",
+      "name": "Daniel Lima",
+      "searchKey": "daniel lima",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1998,
+          "medal": null
+        }
+      ]
+    },
+    "kleber-iguchi": {
+      "id": "kleber-iguchi",
+      "name": "Kleber Iguchi",
+      "searchKey": "kleber iguchi",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1998,
+          "medal": null
+        }
+      ]
+    },
+    "marco-rogerio-vieira": {
+      "id": "marco-rogerio-vieira",
+      "name": "Marco Rogério Vieira",
+      "searchKey": "marco rogerio vieira",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1998,
+          "medal": null
+        }
+      ]
+    },
+    "wayne-leonardo-de-paula": {
+      "id": "wayne-leonardo-de-paula",
+      "name": "Wayne Leonardo de Paula",
+      "searchKey": "wayne leonardo de paula",
+      "participations": [
+        {
+          "olympiad": "iao",
+          "year": 1998,
+          "medal": null
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "daniel-lima",
+      "target": "kleber-iguchi",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "daniel-lima",
+      "target": "marco-rogerio-vieira",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "daniel-lima",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "daniel-lima",
+      "target": "wayne-leonardo-de-paula",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "kleber-iguchi",
+      "target": "marco-rogerio-vieira",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "kleber-iguchi",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "kleber-iguchi",
+      "target": "wayne-leonardo-de-paula",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "marco-rogerio-vieira",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "marco-rogerio-vieira",
+      "target": "wayne-leonardo-de-paula",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "shridhar-jayanthi",
+      "target": "wayne-leonardo-de-paula",
+      "olympiad": "iao",
+      "year": 1998
+    },
+    {
+      "source": "ana-lucia-martins-de-toledo",
+      "target": "breno-araujo-della-lastra",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "ana-lucia-martins-de-toledo",
+      "target": "bruno-woltzenlogel-paleo",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "ana-lucia-martins-de-toledo",
+      "target": "paulo-julio-orely-de-souza-pedrosa",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "ana-lucia-martins-de-toledo",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "breno-araujo-della-lastra",
+      "target": "bruno-woltzenlogel-paleo",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "breno-araujo-della-lastra",
+      "target": "paulo-julio-orely-de-souza-pedrosa",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "breno-araujo-della-lastra",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "bruno-woltzenlogel-paleo",
+      "target": "paulo-julio-orely-de-souza-pedrosa",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "bruno-woltzenlogel-paleo",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "paulo-julio-orely-de-souza-pedrosa",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 1999
+    },
+    {
+      "source": "caio-cicero-gomes",
+      "target": "flavio-luiz-cardoso-ribeiro",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "caio-cicero-gomes",
+      "target": "isis-woltzenlogel-paleo",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "caio-cicero-gomes",
+      "target": "paulo-julio-orely-de-souza-pedrosa",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "caio-cicero-gomes",
+      "target": "raphael-quachio",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "caio-cicero-gomes",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "flavio-luiz-cardoso-ribeiro",
+      "target": "isis-woltzenlogel-paleo",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "flavio-luiz-cardoso-ribeiro",
+      "target": "paulo-julio-orely-de-souza-pedrosa",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "flavio-luiz-cardoso-ribeiro",
+      "target": "raphael-quachio",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "flavio-luiz-cardoso-ribeiro",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "isis-woltzenlogel-paleo",
+      "target": "paulo-julio-orely-de-souza-pedrosa",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "isis-woltzenlogel-paleo",
+      "target": "raphael-quachio",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "isis-woltzenlogel-paleo",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "paulo-julio-orely-de-souza-pedrosa",
+      "target": "raphael-quachio",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "paulo-julio-orely-de-souza-pedrosa",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "raphael-quachio",
+      "target": "shridhar-jayanthi",
+      "olympiad": "iao",
+      "year": 2000
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "felipe-augusto-cardoso-pereira",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "jose-henrique-bortoluci",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "milton-fernando-viegas-junior",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "andre-slepetys",
+      "target": "rafael-faria-da-silva",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "felipe-augusto-cardoso-pereira",
+      "target": "jose-henrique-bortoluci",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "felipe-augusto-cardoso-pereira",
+      "target": "milton-fernando-viegas-junior",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "felipe-augusto-cardoso-pereira",
+      "target": "rafael-faria-da-silva",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "jose-henrique-bortoluci",
+      "target": "milton-fernando-viegas-junior",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "jose-henrique-bortoluci",
+      "target": "rafael-faria-da-silva",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "milton-fernando-viegas-junior",
+      "target": "rafael-faria-da-silva",
+      "olympiad": "iao",
+      "year": 2002
+    },
+    {
+      "source": "bernardo-gomes-cosentino-alvarez",
+      "target": "bruno-lopes-lastorina-de-andrade",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "bernardo-gomes-cosentino-alvarez",
+      "target": "emanuelle-roberta-da-silva",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "bernardo-gomes-cosentino-alvarez",
+      "target": "michel-aquena-silva",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "bernardo-gomes-cosentino-alvarez",
+      "target": "raul-celistrino-teixeira",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "bruno-lopes-lastorina-de-andrade",
+      "target": "emanuelle-roberta-da-silva",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "bruno-lopes-lastorina-de-andrade",
+      "target": "michel-aquena-silva",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "bruno-lopes-lastorina-de-andrade",
+      "target": "raul-celistrino-teixeira",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "emanuelle-roberta-da-silva",
+      "target": "michel-aquena-silva",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "emanuelle-roberta-da-silva",
+      "target": "raul-celistrino-teixeira",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "michel-aquena-silva",
+      "target": "raul-celistrino-teixeira",
+      "olympiad": "iao",
+      "year": 2003
+    },
+    {
+      "source": "carla-fernanda-de-araujo-e-silva",
+      "target": "felipe-ferreira-villar-coelho",
+      "olympiad": "iao",
+      "year": 2004
+    },
+    {
+      "source": "carla-fernanda-de-araujo-e-silva",
+      "target": "fernanda-vilela-de-aquino",
+      "olympiad": "iao",
+      "year": 2004
+    },
+    {
+      "source": "carla-fernanda-de-araujo-e-silva",
+      "target": "guilherme-rohden-echelmeier",
+      "olympiad": "iao",
+      "year": 2004
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "fernanda-vilela-de-aquino",
+      "olympiad": "iao",
+      "year": 2004
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "guilherme-rohden-echelmeier",
+      "olympiad": "iao",
+      "year": 2004
+    },
+    {
+      "source": "fernanda-vilela-de-aquino",
+      "target": "guilherme-rohden-echelmeier",
+      "olympiad": "iao",
+      "year": 2004
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "gustavo-amarante-furtado",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "gustavo-donadia-nascimento",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "henrique-oliveira-da-mata",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "marcos-alberto-martins-jr",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "nathan-willing-lima",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-amarante-furtado",
+      "target": "gustavo-donadia-nascimento",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-amarante-furtado",
+      "target": "henrique-oliveira-da-mata",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-amarante-furtado",
+      "target": "marcos-alberto-martins-jr",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-amarante-furtado",
+      "target": "nathan-willing-lima",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-donadia-nascimento",
+      "target": "henrique-oliveira-da-mata",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-donadia-nascimento",
+      "target": "marcos-alberto-martins-jr",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "gustavo-donadia-nascimento",
+      "target": "nathan-willing-lima",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "henrique-oliveira-da-mata",
+      "target": "marcos-alberto-martins-jr",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "henrique-oliveira-da-mata",
+      "target": "nathan-willing-lima",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "marcos-alberto-martins-jr",
+      "target": "nathan-willing-lima",
+      "olympiad": "iao",
+      "year": 2005
+    },
+    {
+      "source": "alessandro-wagner-palmeira",
+      "target": "felipe-ferreira-villar-coelho",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "alessandro-wagner-palmeira",
+      "target": "felipe-goncalves-de-assis",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "alessandro-wagner-palmeira",
+      "target": "henrique-oliveira-da-mata",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "alessandro-wagner-palmeira",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "alessandro-wagner-palmeira",
+      "target": "thais-mosken-pera",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "felipe-goncalves-de-assis",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "henrique-oliveira-da-mata",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-ferreira-villar-coelho",
+      "target": "thais-mosken-pera",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-goncalves-de-assis",
+      "target": "henrique-oliveira-da-mata",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-goncalves-de-assis",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "felipe-goncalves-de-assis",
+      "target": "thais-mosken-pera",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "henrique-oliveira-da-mata",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "henrique-oliveira-da-mata",
+      "target": "thais-mosken-pera",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "hugo-fonseca-araujo",
+      "target": "thais-mosken-pera",
+      "olympiad": "iao",
+      "year": 2006
+    },
+    {
+      "source": "cindy-yuchi-tsai",
+      "target": "franciele-renata-henrique",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "cindy-yuchi-tsai",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "cindy-yuchi-tsai",
+      "target": "rafael-kenzo-mippo",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "cindy-yuchi-tsai",
+      "target": "rafael-parpinel-cavina",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "franciele-renata-henrique",
+      "target": "hugo-fonseca-araujo",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "franciele-renata-henrique",
+      "target": "rafael-kenzo-mippo",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "franciele-renata-henrique",
+      "target": "rafael-parpinel-cavina",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "hugo-fonseca-araujo",
+      "target": "rafael-kenzo-mippo",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "hugo-fonseca-araujo",
+      "target": "rafael-parpinel-cavina",
+      "olympiad": "iao",
+      "year": 2007
+    },
+    {
+      "source": "rafael-kenzo-mippo",
+      "target": "rafael-parpinel-cavina",
+      "olympiad": "iao",
+      "year": 2007
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-10T10:15:10.719599+00:00",
+    "studentCount": 40,
+    "edgeCount": 101
+  }
+}
