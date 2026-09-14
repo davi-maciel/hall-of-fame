@@ -500,6 +500,176 @@
       "joao-pedro-moritz-carvalho",
       "joao-vitor-de-castro-carvalho",
       "Different given names (João Pedro vs João Vitor) (ieo collection, 2026-09-11)"
+    ],
+    [
+      "joao-pedro-alves-ferreira",
+      "joao-vitor-tomaz-alves-ferreira",
+      "Different given names and cities: IOL 2023 João Pedro (Etapa Valinhos, Valinhos/SP per OBL) vs IGO 2023 João Vitor Tomaz (São Paulo/SP per OBM; FGV undergraduate by Oct 2024). Maintainer decision 2026-09-12 after reviewing photos."
+    ],
+    [
+      "joao-victor-almeida-oliveira-santos",
+      "joao-victor-silva-dos-santos",
+      "Different middle names; OIAB 2017 biology student vs the 2022-25 math olympian. Maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-henrique-alencar-costa",
+      "pedro-henrique-figueiredo-backes-costa",
+      "Different middle names; Rioplatense 2011-15 vs OIbF 2019. Maintainer decision 2026-09-12."
+    ],
+    [
+      "gabriel-matheus-viana-pinheiro",
+      "matheus-leal-viana",
+      "Different names sharing only 'Matheus'/'Viana'; IChO/OIAQ 2012 vs OII/IOI 2017-18. Maintainer decision 2026-09-12."
+    ],
+    [
+      "ana-beatriz-rodrigues-de-carvalho-nunes",
+      "ana-luiza-nunes",
+      "Different second given names, schools and states: Ana Beatriz (IFRJ Duque de Caxias/RJ, aged 17 in 2016) vs Ana Luiza (E.E. São Pio X, São Gotardo/MG, 2018). Maintainer decision 2026-09-12."
+    ],
+    [
+      "alexandre-andrade-de-almeida",
+      "alexandre-silva-bastos-de-almeida",
+      "Different middle names; 2022-24 Objetivo student vs 2018-20 physics olympian. Maintainer decision 2026-09-12."
+    ],
+    [
+      "fernando-cesar-goncalves-filho",
+      "fernando-graminholi-goncalves",
+      "Different middle names; IOL 2022 vs OII 2024-25. Maintainer decision 2026-09-12."
+    ],
+    [
+      "ricardo-duarte-lima",
+      "ricardo-sammuel-moura-lima",
+      "Different middle names; IPhO 2011 vs IJSO 2017 (six-year gap, incompatible ages). Maintainer decision 2026-09-12."
+    ],
+    [
+      "bruno-lopes-lastorina-de-andrade",
+      "bruno-tavares-de-andrade",
+      "Different middle names; IAO 2003 vs IBO 2006. Maintainer decision 2026-09-12."
+    ],
+    [
+      "vinicius-de-oliveira-peixoto-rodrigues",
+      "vinicius-ferreira-rodrigues",
+      "Different middle names; IOL 2019 vs OIbF 2019/IPhO 2020. Maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-henrique-tomas-da-rocha",
+      "pedro-marinho-rocha",
+      "Different middle names; 2024-25 vs IOL 2018. Maintainer decision 2026-09-12."
+    ],
+    [
+      "mateus-lopes-barreto-de-sousa",
+      "matheus-martins-de-sousa",
+      "Different names (Mateus/Matheus) and middles; IBO 2013 vs IESO 2018. Maintainer decision 2026-09-12."
+    ],
+    [
+      "matheus-lopes-ponciano-lima",
+      "matheus-silva-lima",
+      "Different middle names; IPhO 2020 vs Rioplatense 2010 (ten-year gap). Maintainer decision 2026-09-12."
+    ],
+    [
+      "gabriel-lucas-costa-martins",
+      "gabriel-oliveira-martins",
+      "Different middle names; OII 2023 vs IPhO 2014. Maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-henrique-de-sousa-lopes",
+      "pedro-neves-lopes",
+      "Different middle names; IYPT 2016 vs IOL 2011-12. Maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-italo-oliveira-gomes",
+      "pedro-sabino-gomes-neto",
+      "Different given/middle names. Maintainer decision 2026-09-12."
+    ],
+    [
+      "victor-cambraia-nogueira-de-oliveira",
+      "victor-moraes-de-oliveira",
+      "Different given/middle names. Maintainer decision 2026-09-12."
+    ],
+    [
+      "joao-paulo-dos-santos",
+      "joao-victor-almeida-oliveira-santos",
+      "Different given/middle names. Maintainer decision 2026-09-12."
+    ],
+    [
+      "joao-paulo-dos-santos",
+      "joao-victor-silva-dos-santos",
+      "Different given/middle names. Maintainer decision 2026-09-12."
+    ],
+    [
+      "felipe-de-castro-silva",
+      "felipe-makoto-shimamura-silva",
+      "Different given/middle names. Maintainer decision 2026-09-12."
+    ],
+    [
+      "joao-pedro-de-almeida-da-silva",
+      "pedro-seber-e-silva",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-seber-e-silva",
+      "pedro-veras-bezerra-da-silva",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "felipe-maia-silva",
+      "felipe-makoto-shimamura-silva",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-alves-de-souza-neto",
+      "pedro-teotonio-de-souza",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-barbosa-oliveira",
+      "pedro-henrique-sacramento-de-oliveira",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-barbosa-oliveira",
+      "pedro-henrique-silva-de-oliveira",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "joao-pedro-silva-torres",
+      "pedro-seber-e-silva",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-henrique-silva-de-oliveira",
+      "pedro-seber-e-silva",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "pedro-seber-e-silva",
+      "pedro-silva-galdino",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "gabriel-oliveira-martins",
+      "gabriela-fernandes-martins",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "mateus-de-castro-silva",
+      "matheus-secco-torres-da-silva",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "alexandra-silva",
+      "alexandre-silva-bastos-de-almeida",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "mateus-lopes-barreto-de-sousa",
+      "matheus-evangelista-de-souza",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "thiago-oliveira-sousa",
+      "tiago-domingos-almeida-souza",
+      "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
     ]
   ]
 }
