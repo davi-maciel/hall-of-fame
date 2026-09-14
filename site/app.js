@@ -34,6 +34,52 @@ let state = {
 
 const fold = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
+/* ---------- fuzzy name search ----------
+   Query words may come in any order; each must match a name word (of the display name or any
+   recorded spelling variant) as a prefix, or within a small edit distance (1 for 4+ letters,
+   2 for 8+), so "joau silva" or "silva joao" still find "João Silva". Score: 2 per exact/prefix
+   hit, 1 per fuzzy hit; 0 = no match. */
+function editDistance(a, b, max) {
+  if (Math.abs(a.length - b.length) > max) return max + 1;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    let rowMin = i;
+    for (let j = 1; j <= b.length; j++) {
+      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      if (cur[j] < rowMin) rowMin = cur[j];
+    }
+    if (rowMin > max) return max + 1;
+    prev = cur;
+  }
+  return prev[b.length];
+}
+function nameTokens(p) {
+  if (!p._toks) {
+    const names = [p.name, ...(p.nameVariants || [])];
+    p._toks = [...new Set(names.flatMap((n) => fold(n).split(/[^a-z0-9]+/).filter(Boolean)))];
+  }
+  return p._toks;
+}
+function matchScore(p, qtoks) {
+  if (!qtoks.length) return 1;
+  if (p.searchKey.includes(qtoks.join(" "))) return 3 * qtoks.length; // exact phrase
+  const toks = nameTokens(p);
+  let score = 0;
+  for (const q of qtoks) {
+    const tol = q.length >= 8 ? 2 : q.length >= 4 ? 1 : 0;
+    let best = 0;
+    for (const t of toks) {
+      if (t.startsWith(q)) { best = 2; break; }
+      if (tol && (editDistance(q, t.slice(0, q.length), tol) <= tol || editDistance(q, t, tol) <= tol)) best = Math.max(best, 1);
+    }
+    if (!best) return 0;
+    score += best;
+  }
+  return score;
+}
+const queryTokens = () => fold(state.q).split(/[^a-z0-9]+/).filter(Boolean);
+
 /* ---------- state <-> URL ---------- */
 function readURL() {
   const p = new URLSearchParams(location.search);
@@ -88,10 +134,11 @@ function partMatches(part) {
   return true;
 }
 function personRows() {
-  const q = fold(state.q);
+  const qt = queryTokens();
   return DATA.people
-    .filter((p) => (!q || p.searchKey.includes(q)) && p.participations.some(partMatches))
-    .map((p) => {
+    .map((p) => [p, matchScore(p, qt)])
+    .filter(([p, sc]) => sc > 0 && p.participations.some(partMatches))
+    .map(([p, sc]) => {
       const medals = { gold: 0, silver: 0, bronze: 0, "honorable-mention": 0 };
       let unknown = 0;
       for (const x of p.participations) {
@@ -101,6 +148,7 @@ function personRows() {
       const years = p.participations.map((x) => x.year);
       return {
         p,
+        score: sc,
         name: p.name,
         participations: p.participations.length,
         distinct: new Set(p.participations.map((x) => x.olympiad)).size,
@@ -112,12 +160,13 @@ function personRows() {
     });
 }
 function partRows() {
-  const q = fold(state.q);
+  const qt = queryTokens();
   const rows = [];
   for (const p of DATA.people) {
-    if (q && !p.searchKey.includes(q)) continue;
+    const sc = matchScore(p, qt);
+    if (!sc) continue;
     for (const x of p.participations)
-      if (partMatches(x)) rows.push({ p, name: p.name, year: x.year, olympiad: x.olympiad, medal: x.medal, medalNote: x.medalNote });
+      if (partMatches(x)) rows.push({ p, score: sc, name: p.name, year: x.year, olympiad: x.olympiad, medal: x.medal, medalNote: x.medalNote });
   }
   return rows;
 }
@@ -140,7 +189,8 @@ const medalRank = (r) => (r.medal ? MEDAL[r.medal].rank : r.medalNote === "unkno
 function sortRows(rows) {
   const { key, dir } = state.sort;
   const cmp = CMP[key] || CMP.name;
-  return rows.sort((a, b) => dir * cmp(a, b) || a.p.searchKey.localeCompare(b.p.searchKey));
+  const byQuery = state.q.trim() ? (a, b) => b.score - a.score : () => 0; // best matches first while searching
+  return rows.sort((a, b) => byQuery(a, b) || dir * cmp(a, b) || a.p.searchKey.localeCompare(b.p.searchKey));
 }
 
 /* ---------- rendering ---------- */
