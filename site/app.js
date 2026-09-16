@@ -158,19 +158,22 @@ function personRows() {
     .map((p) => [p, matchScore(p, qt)])
     .filter(([p, sc]) => sc > 0 && p.participations.some(partMatches) && coversAll(p))
     .map(([p, sc]) => {
+      // Row statistics cover only the participations that pass the active filters, so the
+      // counts, years and medals describe what was filtered for (the badges still list every olympiad).
+      const mine = p.participations.filter(partMatches);
       const medals = { gold: 0, silver: 0, bronze: 0, "honorable-mention": 0 };
       let unknown = 0;
-      for (const x of p.participations) {
+      for (const x of mine) {
         if (x.medal) medals[x.medal]++;
         else if (x.medalNote === "unknown") unknown++;
       }
-      const years = p.participations.map((x) => x.year);
+      const years = mine.map((x) => x.year);
       return {
         p,
         score: sc,
         name: p.name,
-        participations: p.participations.length,
-        distinct: new Set(p.participations.map((x) => x.olympiad)).size,
+        participations: mine.length,
+        distinct: new Set(mine.map((x) => x.olympiad)).size,
         yearMin: Math.min(...years),
         yearMax: Math.max(...years),
         gold: medals.gold, silver: medals.silver, bronze: medals.bronze,
@@ -195,7 +198,8 @@ const CMP = {
   name: (a, b) => a.p.searchKey.localeCompare(b.p.searchKey),
   participations: (a, b) => a.participations - b.participations || a.gold - b.gold || a.silver - b.silver,
   distinct: (a, b) => a.distinct - b.distinct || a.participations - b.participations,
-  years: (a, b) => a.yearMin - b.yearMin,
+  // descending ("mais recentes") ranks by the latest year, ascending ("mais antigos") by the earliest
+  years: (a, b) => (state.sort.dir === -1 ? a.yearMax - b.yearMax || a.yearMin - b.yearMin : a.yearMin - b.yearMin || a.yearMax - b.yearMax),
   gold: (a, b) => a.gold - b.gold || a.silver - b.silver || a.bronze - b.bronze,
   silver: (a, b) => a.silver - b.silver,
   bronze: (a, b) => a.bronze - b.bronze,
