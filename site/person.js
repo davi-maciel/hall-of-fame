@@ -19,6 +19,10 @@ function resultText(x) {
 
 async function boot() {
   const id = new URLSearchParams(location.search).get("id");
+  try { // keep the table's filters when going back
+    const saved = sessionStorage.getItem("hof.filters");
+    if (saved) $("#back").href = `./?${saved}`;
+  } catch {}
   let DATA, OL, SRC;
   try {
     [DATA, OL, SRC] = await Promise.all([

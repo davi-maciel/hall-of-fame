@@ -24,6 +24,7 @@ let state = {
   q: "",
   ols: new Set(), // empty = no olympiad filter (all)
   olsNone: false, // true = every olympiad deselected (shows nothing until one is ticked)
+  olsAll: false, // true = AND: a person must have taken part in every selected olympiad
   field: "",
   scope: "",
   medal: "",
@@ -88,6 +89,7 @@ function readURL() {
   const ols = p.get("ols") || "";
   state.olsNone = ols === "none";
   state.ols = new Set(state.olsNone ? [] : ols.split(",").filter(Boolean));
+  state.olsAll = p.get("modo") === "e";
   state.field = p.get("area") || "";
   state.scope = p.get("escopo") || "";
   state.medal = p.get("medalha") || "";
@@ -106,6 +108,7 @@ function writeURL() {
   if (state.q) p.set("q", state.q);
   if (state.olsNone) p.set("ols", "none");
   else if (state.ols.size) p.set("ols", [...state.ols].join(","));
+  if (state.olsAll && state.ols.size > 1) p.set("modo", "e");
   if (state.field) p.set("area", state.field);
   if (state.scope) p.set("escopo", state.scope);
   if (state.medal) p.set("medalha", state.medal);
@@ -114,7 +117,18 @@ function writeURL() {
   const def = state.view === "people" ? "participations" : "year";
   if (!(state.sort.key === def && state.sort.dir === -1))
     p.set("ord", `${state.sort.key}.${state.sort.dir === 1 ? "asc" : "desc"}`);
-  history.replaceState(null, "", p.toString() ? `?${p}` : location.pathname);
+  const qs = p.toString();
+  history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+  try { sessionStorage.setItem("hof.filters", qs); } catch {}
+}
+/* Restore the last filter/sort state when the table is opened without a query string
+   (e.g. coming back from a person page), so the list looks as it was left. */
+function restoreSavedURL() {
+  if (location.search) return;
+  try {
+    const saved = sessionStorage.getItem("hof.filters");
+    if (saved) history.replaceState(null, "", `?${saved}`);
+  } catch {}
 }
 
 /* ---------- filtering ---------- */
@@ -133,11 +147,16 @@ function partMatches(part) {
   }
   return true;
 }
+function coversAll(p) {
+  if (!state.olsAll || state.ols.size < 2) return true;
+  for (const ol of state.ols) if (!p.participations.some((x) => x.olympiad === ol && partMatches(x))) return false;
+  return true;
+}
 function personRows() {
   const qt = queryTokens();
   return DATA.people
     .map((p) => [p, matchScore(p, qt)])
-    .filter(([p, sc]) => sc > 0 && p.participations.some(partMatches))
+    .filter(([p, sc]) => sc > 0 && p.participations.some(partMatches) && coversAll(p))
     .map(([p, sc]) => {
       const medals = { gold: 0, silver: 0, bronze: 0, "honorable-mention": 0 };
       let unknown = 0;
@@ -164,7 +183,7 @@ function partRows() {
   const rows = [];
   for (const p of DATA.people) {
     const sc = matchScore(p, qt);
-    if (!sc) continue;
+    if (!sc || !coversAll(p)) continue;
     for (const x of p.participations)
       if (partMatches(x)) rows.push({ p, score: sc, name: p.name, year: x.year, olympiad: x.olympiad, medal: x.medal, medalNote: x.medalNote });
   }
@@ -328,7 +347,8 @@ function olLabel() {
   if (state.olsNone) return "Nenhuma";
   if (!state.ols.size || state.ols.size === n) return "Todas";
   const codes = [...state.ols].map((id) => OL.olympiads[id].code);
-  return codes.length <= 3 ? codes.join(", ") : `${codes.length} selecionadas`;
+  const sep = state.olsAll ? " + " : ", ";
+  return codes.length <= 3 ? codes.join(sep) : `${codes.length} selecionadas${state.olsAll ? " (todas)" : ""}`;
 }
 function buildOlPicker() {
   const list = $("#f-ol-list");
@@ -359,6 +379,10 @@ function buildOlPicker() {
     sync();
     render();
   });
+  for (const r of document.querySelectorAll('input[name="olmode"]')) {
+    r.checked = (r.value === "all") === state.olsAll;
+    r.addEventListener("change", () => { state.olsAll = r.value === "all"; sync(); render(); });
+  }
   $("#f-ol-all").addEventListener("click", () => { state.ols = new Set(); state.olsNone = false; sync(); render(); });
   $("#f-ol-none").addEventListener("click", () => { state.ols = new Set(); state.olsNone = true; sync(); render(); });
   const btn = $("#f-ol-btn"), panel = $("#f-ol-panel");
@@ -392,7 +416,8 @@ function buildControls() {
   $("#y0").addEventListener("change", (e) => { state.y0 = e.target.value ? +e.target.value : null; render(); });
   $("#y1").addEventListener("change", (e) => { state.y1 = e.target.value ? +e.target.value : null; render(); });
   $("#clear").addEventListener("click", () => {
-    Object.assign(state, { q: "", ols: new Set(), olsNone: false, field: "", scope: "", medal: "", y0: null, y1: null });
+    Object.assign(state, { q: "", ols: new Set(), olsNone: false, olsAll: false, field: "", scope: "", medal: "", y0: null, y1: null });
+    for (const r of document.querySelectorAll('input[name="olmode"]')) r.checked = r.value === "any";
     $("#q").value = ""; fsel.value = ""; ssel.value = ""; $("#f-medal").value = ""; $("#y0").value = ""; $("#y1").value = "";
     syncOl();
     render();
@@ -464,6 +489,7 @@ async function boot() {
       "Erro ao carregar os dados. Sirva a pasta por HTTP (ex.: python3 -m http.server na pasta site/).";
     return;
   }
+  restoreSavedURL();
   readURL();
   const m = DATA.meta;
   const nOls = Object.keys(OL.olympiads).length;

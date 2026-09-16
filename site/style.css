@@ -120,12 +120,15 @@ footer code { font-size: 11px; }
 }
 .msel-btn[aria-expanded="true"] .chev { transform: rotate(-135deg); margin-bottom: -3px; }
 .msel-panel {
-  position: absolute; z-index: 20; top: calc(100% + 6px); left: 0; width: 250px; max-height: 60vh; overflow: auto;
+  position: absolute; z-index: 20; top: calc(100% + 6px); left: 0; width: 290px; max-height: 60vh; overflow: auto;
   background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18); padding: 8px 0 6px;
 }
 .msel-actions { display: flex; gap: 4px; padding: 0 8px 6px; border-bottom: 1px solid var(--border); }
 .msel-actions button { padding: 5px 8px; font-size: 12.5px; }
+.msel-mode { display: flex; flex-direction: column; gap: 4px; padding: 8px 12px 6px; border-bottom: 1px solid var(--line, var(--border)); font-size: 12.5px; color: var(--text-2); }
+.msel-mode label { display: flex; align-items: center; gap: 7px; cursor: pointer; white-space: normal; line-height: 1.3; }
+.msel-mode input { margin: 0; accent-color: var(--accent); }
 .msel-group-title { padding: 8px 12px 2px; font-size: 11px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-3); }
 .msel-item { display: flex; align-items: center; gap: 8px; padding: 5px 12px; font-size: 13px; color: var(--text); cursor: pointer; white-space: nowrap; }
 .msel-item:hover { background: var(--row-hover); }
@@ -178,6 +181,7 @@ footer code { font-size: 11px; }
   .msel-panel { position: static; width: 100%; max-height: 50vh; margin-top: 6px; box-shadow: none; }
   .msel-group { display: grid; grid-template-columns: 1fr 1fr; }
   .msel-group-title { grid-column: 1 / -1; }
+  .filters .msel-mode label { flex-direction: row; align-items: center; white-space: normal; min-height: 36px; }
   .filters .msel-item { flex-direction: row; align-items: center; gap: 10px; white-space: normal; min-height: 40px; }
   .msel-item input { width: 18px; height: 18px; }
   .msel-actions button { min-height: 36px; font-size: 14px; flex: 1; }
