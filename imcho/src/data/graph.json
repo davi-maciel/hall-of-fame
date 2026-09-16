@@ -276,6 +276,11 @@
       "participations": [
         {
           "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        },
+        {
+          "olympiad": "imcho",
           "year": 2025,
           "medal": "bronze"
         }
@@ -310,6 +315,18 @@
         }
       ]
     },
+    "fernando-henrique-melo-garcia": {
+      "id": "fernando-henrique-melo-garcia",
+      "name": "Fernando Henrique Melo Garcia",
+      "searchKey": "fernando henrique melo garcia",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
     "gabriel-paz-sampaio-aguiar": {
       "id": "gabriel-paz-sampaio-aguiar",
       "name": "Gabriel Paz Sampaio Aguiar",
@@ -334,6 +351,30 @@
         }
       ]
     },
+    "jose-pedro-de-lucca-tavares-da-costa": {
+      "id": "jose-pedro-de-lucca-tavares-da-costa",
+      "name": "José Pedro de Lucca Tavares da Costa",
+      "searchKey": "jose pedro de lucca tavares da costa",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
+    "joao-guilherme-camilo-azevedo": {
+      "id": "joao-guilherme-camilo-azevedo",
+      "name": "João Guilherme Camilo Azevedo",
+      "searchKey": "joao guilherme camilo azevedo",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
     "lucas-nogueira-gilioti-loes": {
       "id": "lucas-nogueira-gilioti-loes",
       "name": "Lucas Nogueira Gilioti Loes",
@@ -346,10 +387,22 @@
         }
       ]
     },
-    "sophia-alves": {
-      "id": "sophia-alves",
-      "name": "Sophia Alves",
-      "searchKey": "sophia alves",
+    "rafael-joaquim-parra": {
+      "id": "rafael-joaquim-parra",
+      "name": "Rafael Joaquim Parra",
+      "searchKey": "rafael joaquim parra",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
+    "sophia-alves-da-silva": {
+      "id": "sophia-alves-da-silva",
+      "name": "Sophia Alves da Silva",
+      "searchKey": "sophia alves da silva",
       "participations": [
         {
           "olympiad": "imcho",
@@ -434,6 +487,12 @@
     },
     {
       "source": "artur-galiza-magalhaes",
+      "target": "fernando-henrique-melo-garcia",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
       "target": "gabriel-paz-sampaio-aguiar",
       "olympiad": "imcho",
       "year": 2024
@@ -446,13 +505,85 @@
     },
     {
       "source": "artur-galiza-magalhaes",
+      "target": "joao-guilherme-camilo-azevedo",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "jose-pedro-de-lucca-tavares-da-costa",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
       "target": "lucas-nogueira-gilioti-loes",
       "olympiad": "imcho",
       "year": 2024
     },
     {
       "source": "artur-galiza-magalhaes",
-      "target": "sophia-alves",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "artur-galiza-magalhaes",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "gabriel-paz-sampaio-aguiar",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "giovana-ayumi-matsumoto",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "joao-guilherme-camilo-azevedo",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "jose-pedro-de-lucca-tavares-da-costa",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "lucas-nogueira-gilioti-loes",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "fernando-henrique-melo-garcia",
+      "target": "vinicius-queiroz-dias",
       "olympiad": "imcho",
       "year": 2024
     },
@@ -464,13 +595,49 @@
     },
     {
       "source": "gabriel-paz-sampaio-aguiar",
+      "target": "joao-guilherme-camilo-azevedo",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
+      "target": "jose-pedro-de-lucca-tavares-da-costa",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
       "target": "lucas-nogueira-gilioti-loes",
       "olympiad": "imcho",
       "year": 2024
     },
     {
       "source": "gabriel-paz-sampaio-aguiar",
-      "target": "sophia-alves",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-paz-sampaio-aguiar",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "giovana-ayumi-matsumoto",
+      "target": "joao-guilherme-camilo-azevedo",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "giovana-ayumi-matsumoto",
+      "target": "jose-pedro-de-lucca-tavares-da-costa",
       "olympiad": "imcho",
       "year": 2024
     },
@@ -482,13 +649,109 @@
     },
     {
       "source": "giovana-ayumi-matsumoto",
-      "target": "sophia-alves",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "giovana-ayumi-matsumoto",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "giovana-ayumi-matsumoto",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "joao-guilherme-camilo-azevedo",
+      "target": "jose-pedro-de-lucca-tavares-da-costa",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "joao-guilherme-camilo-azevedo",
+      "target": "lucas-nogueira-gilioti-loes",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "joao-guilherme-camilo-azevedo",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "joao-guilherme-camilo-azevedo",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "joao-guilherme-camilo-azevedo",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "jose-pedro-de-lucca-tavares-da-costa",
+      "target": "lucas-nogueira-gilioti-loes",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "jose-pedro-de-lucca-tavares-da-costa",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "jose-pedro-de-lucca-tavares-da-costa",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "jose-pedro-de-lucca-tavares-da-costa",
+      "target": "vinicius-queiroz-dias",
       "olympiad": "imcho",
       "year": 2024
     },
     {
       "source": "lucas-nogueira-gilioti-loes",
-      "target": "sophia-alves",
+      "target": "rafael-joaquim-parra",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "lucas-nogueira-gilioti-loes",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "lucas-nogueira-gilioti-loes",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "rafael-joaquim-parra",
+      "target": "sophia-alves-da-silva",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "rafael-joaquim-parra",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2024
+    },
+    {
+      "source": "sophia-alves-da-silva",
+      "target": "vinicius-queiroz-dias",
       "olympiad": "imcho",
       "year": 2024
     },
@@ -1394,8 +1657,8 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-16T16:32:49.022820+00:00",
-    "studentCount": 32,
-    "edgeCount": 166
+    "generatedAt": "2026-09-16T18:34:36.153631+00:00",
+    "studentCount": 36,
+    "edgeCount": 201
   }
 }

@@ -8,7 +8,7 @@
   },
   "globalNotes": [
     "Medal mapping: Золото/Серебро/Бронза bands = gold/silver/bronze. DECISION (2026-08-27): IMChO's official protocols award medals only — no honorable-mention tier exists (verified 2021–2023; 2017–2020 scans inspectable but consistent) — so the site never displays HM for Brazilian IMChO records; the all-non-medalists 'participant diploma' = null, even where Brazilian sources or students' own pages style it 'menção honrosa'. The Lunin Prize (absolute top-3) is separate; no Brazilian holds it.",
-    "Rosters: 2023, 2025 and 2026 complete from the signed jury protocols (the 2025/2026 non-medallists were added 2026-09-16); 2024 remains partial (5 of 10 named — the official results were medal images only, and OBQ's convocation list is not attendance proof).",
+    "Rosters: 2023, 2025 and 2026 complete from the signed jury protocols (the 2025/2026 non-medallists were added 2026-09-16); 2024 complete since 2026-09-16 via the bc-pf scoreboard's full protocol (the official page had medal images only).",
     "Selection via OBQ Fase IV/V; heavy overlap with the IChO pipeline (Galiza, Loes, Suda, Ian Barreto, João Marcelo, Guilherme Soares all in icho/)."
   ],
   "years": [
@@ -48,8 +48,8 @@
     },
     {
       "year": 2024,
-      "namingSourceCount": 3,
-      "independentPrimaryCount": 3,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
       "meetsThreeNaming": true,
       "meetsThreePrimary": true,
       "sources": [
@@ -76,9 +76,17 @@
           "coverage": "2/10",
           "confirms": "delegation of ten; Ayumi Matsumoto; Shenzhen 20–27 Apr",
           "needle": "Matsumoto"
+        },
+        {
+          "url": "https://web.archive.org/web/20260309094256/https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2024",
+          "domain": "scoreboard.bc-pf.org (Wayback)",
+          "cls": "primary",
+          "coverage": "full (151-row protocol incl. non-medallists; local copy data/raw/bcpf-scoreboard-imcho-2024.html)",
+          "confirms": "bc-pf scoreboard reproduction of the 58th IMChO protocol: all ten Brazilians with scores - Galiza silver r39, Loes bronze r51, Aguiar bronze r88, then Melo Garcia, Joaquim Parra, Queiroz Dias, Camilo Azevedo, De Lucca Tavares da Costa, Alves da Silva, Ayumi Matsumoto without award",
+          "needle": "Melo Garcia"
         }
       ],
-      "note": "Delegation of 10; only 5 individually documented (3 medalists + the two Farias Brito students). The other 5 are unnamed in every located source — records not invented. ⚠️ Só Notícia Boa's Aug/2024 'ouro, prata e bronze' article naming Artur Galiza/Gabriel Paz is the IChO in Riyadh, NOT the Mendeleev."
+      "note": "Shenzhen. Full delegation of 10 recorded (2026-09-16) from the bc-pf scoreboard protocol: 1 silver, 2 bronze, 7 without award. Vinícius Queiroz Dias (11th in OBQ's ranking) travelled in place of 9th-placed Caio Cidade Rodrigues, consistent with the OBQ withdrawal rule."
     },
     {
       "year": 2025,

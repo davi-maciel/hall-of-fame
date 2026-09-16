@@ -48,7 +48,7 @@
     "medal": "bronze"
   },
   {
-    "rawName": "Sophia Alves",
+    "rawName": "Sophia Alves da Silva",
     "olympiadId": "imcho",
     "year": 2024,
     "medal": null
@@ -201,6 +201,36 @@
     "rawName": "Fausto Rodrigues Santos",
     "olympiadId": "imcho",
     "year": 2026,
+    "medal": null
+  },
+  {
+    "rawName": "Fernando Henrique Melo Garcia",
+    "olympiadId": "imcho",
+    "year": 2024,
+    "medal": null
+  },
+  {
+    "rawName": "Rafael Joaquim Parra",
+    "olympiadId": "imcho",
+    "year": 2024,
+    "medal": null
+  },
+  {
+    "rawName": "Vinícius Queiroz Dias",
+    "olympiadId": "imcho",
+    "year": 2024,
+    "medal": null
+  },
+  {
+    "rawName": "João Guilherme Camilo Azevedo",
+    "olympiadId": "imcho",
+    "year": 2024,
+    "medal": null
+  },
+  {
+    "rawName": "José Pedro de Lucca Tavares da Costa",
+    "olympiadId": "imcho",
+    "year": 2024,
     "medal": null
   }
 ]

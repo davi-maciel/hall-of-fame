@@ -60,10 +60,10 @@
         }
       ]
     },
-    "helena-viera-lima": {
-      "id": "helena-viera-lima",
-      "name": "Helena Viera Lima",
-      "searchKey": "helena viera lima",
+    "helena-vieira-lima": {
+      "id": "helena-vieira-lima",
+      "name": "Helena Vieira Lima",
+      "searchKey": "helena vieira lima",
       "participations": [
         {
           "olympiad": "oiaq",
@@ -84,10 +84,10 @@
         }
       ]
     },
-    "rafael-joaquin-parra": {
-      "id": "rafael-joaquin-parra",
-      "name": "Rafael Joaquín Parra",
-      "searchKey": "rafael joaquin parra",
+    "rafael-joaquim-parra": {
+      "id": "rafael-joaquim-parra",
+      "name": "Rafael Joaquim Parra",
+      "searchKey": "rafael joaquim parra",
       "participations": [
         {
           "olympiad": "oiaq",
@@ -2254,7 +2254,7 @@
     },
     {
       "source": "alexandre-andrade-de-almeida",
-      "target": "helena-viera-lima",
+      "target": "helena-vieira-lima",
       "olympiad": "oiaq",
       "year": 2024
     },
@@ -2266,25 +2266,25 @@
     },
     {
       "source": "alexandre-andrade-de-almeida",
-      "target": "rafael-joaquin-parra",
+      "target": "rafael-joaquim-parra",
       "olympiad": "oiaq",
       "year": 2024
     },
     {
-      "source": "helena-viera-lima",
+      "source": "helena-vieira-lima",
       "target": "joao-guilherme-camilo-azevedo",
       "olympiad": "oiaq",
       "year": 2024
     },
     {
-      "source": "helena-viera-lima",
-      "target": "rafael-joaquin-parra",
+      "source": "helena-vieira-lima",
+      "target": "rafael-joaquim-parra",
       "olympiad": "oiaq",
       "year": 2024
     },
     {
       "source": "joao-guilherme-camilo-azevedo",
-      "target": "rafael-joaquin-parra",
+      "target": "rafael-joaquim-parra",
       "olympiad": "oiaq",
       "year": 2024
     },
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-12T16:17:49.704379+00:00",
+    "generatedAt": "2026-09-16T18:34:36.175619+00:00",
     "studentCount": 103,
     "edgeCount": 171
   }
