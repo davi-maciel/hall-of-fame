@@ -1,5 +1,17 @@
 {
   "students": {
+    "antonio-fernando-costa": {
+      "id": "antonio-fernando-costa",
+      "name": "Antonio Fernando Costa",
+      "searchKey": "antonio fernando costa",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
     "breno-barros-de-vasconcelos": {
       "id": "breno-barros-de-vasconcelos",
       "name": "Breno Barros de Vasconcelos",
@@ -12,6 +24,30 @@
         }
       ]
     },
+    "davi-lisboa-do-nascimento": {
+      "id": "davi-lisboa-do-nascimento",
+      "name": "Davi Lisboa do Nascimento",
+      "searchKey": "davi lisboa do nascimento",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "fausto-rodrigues-santos": {
+      "id": "fausto-rodrigues-santos",
+      "name": "Fausto Rodrigues Santos",
+      "searchKey": "fausto rodrigues santos",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
     "guilherme-soares-costa": {
       "id": "guilherme-soares-costa",
       "name": "Guilherme Soares Costa",
@@ -21,6 +57,18 @@
           "olympiad": "imcho",
           "year": 2026,
           "medal": "bronze"
+        }
+      ]
+    },
+    "heitor-guedes-silva": {
+      "id": "heitor-guedes-silva",
+      "name": "Heitor Guedes Silva",
+      "searchKey": "heitor guedes silva",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
         }
       ]
     },
@@ -38,6 +86,54 @@
           "olympiad": "imcho",
           "year": 2026,
           "medal": "bronze"
+        }
+      ]
+    },
+    "marton-sousa-soares": {
+      "id": "marton-sousa-soares",
+      "name": "Marton Sousa Soares",
+      "searchKey": "marton sousa soares",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "matheus-dowsley-arcoverde-de-mello": {
+      "id": "matheus-dowsley-arcoverde-de-mello",
+      "name": "Matheus Dowsley Arcoverde de Mello",
+      "searchKey": "matheus dowsley arcoverde de mello",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "ruan-cortes-da-trindade": {
+      "id": "ruan-cortes-da-trindade",
+      "name": "Ruan Côrtes da Trindade",
+      "searchKey": "ruan cortes da trindade",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2026,
+          "medal": null
+        }
+      ]
+    },
+    "ana-julia-fernandes-mota-da-silva": {
+      "id": "ana-julia-fernandes-mota-da-silva",
+      "name": "Ana Júlia Fernandes Mota da Silva",
+      "searchKey": "ana julia fernandes mota da silva",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
         }
       ]
     },
@@ -77,6 +173,18 @@
         }
       ]
     },
+    "gabriel-pavan-ramiro": {
+      "id": "gabriel-pavan-ramiro",
+      "name": "Gabriel Pavan Ramiro",
+      "searchKey": "gabriel pavan ramiro",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
+        }
+      ]
+    },
     "ian-barreto-tavares-matos-de-vasconcelos": {
       "id": "ian-barreto-tavares-matos-de-vasconcelos",
       "name": "Ian Barreto Tavares Matos de Vasconcelos",
@@ -98,6 +206,30 @@
           "olympiad": "imcho",
           "year": 2025,
           "medal": "bronze"
+        }
+      ]
+    },
+    "leticia-rodrigues-de-freitas-pinheiro": {
+      "id": "leticia-rodrigues-de-freitas-pinheiro",
+      "name": "Letícia Rodrigues de Freitas Pinheiro",
+      "searchKey": "leticia rodrigues de freitas pinheiro",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
+        }
+      ]
+    },
+    "lucas-kenji-fujibayashi": {
+      "id": "lucas-kenji-fujibayashi",
+      "name": "Lucas Kenji Fujibayashi",
+      "searchKey": "lucas kenji fujibayashi",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
         }
       ]
     },
@@ -125,6 +257,18 @@
         }
       ]
     },
+    "raquel-rebelo-brito-aguiar": {
+      "id": "raquel-rebelo-brito-aguiar",
+      "name": "Raquel Rebelo Brito Aguiar",
+      "searchKey": "raquel rebelo brito aguiar",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
+        }
+      ]
+    },
     "vinicius-queiroz-dias": {
       "id": "vinicius-queiroz-dias",
       "name": "Vinícius Queiroz Dias",
@@ -134,6 +278,18 @@
           "olympiad": "imcho",
           "year": 2025,
           "medal": "bronze"
+        }
+      ]
+    },
+    "vitor-silva-peres": {
+      "id": "vitor-silva-peres",
+      "name": "Vitor Silva Peres",
+      "searchKey": "vitor silva peres",
+      "participations": [
+        {
+          "olympiad": "imcho",
+          "year": 2025,
+          "medal": null
         }
       ]
     },
@@ -337,6 +493,90 @@
       "year": 2024
     },
     {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "arthur-barroso-uchoa",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "cristian-levi-de-souza-silveira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "daniel-suda-hatushikano",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "gabriel-pavan-ramiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "ian-barreto-tavares-matos-de-vasconcelos",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "joao-lucas-santos-vieira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ana-julia-fernandes-mota-da-silva",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
       "source": "arthur-barroso-uchoa",
       "target": "cristian-levi-de-souza-silveira",
       "olympiad": "imcho",
@@ -350,6 +590,12 @@
     },
     {
       "source": "arthur-barroso-uchoa",
+      "target": "gabriel-pavan-ramiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
       "target": "ian-barreto-tavares-matos-de-vasconcelos",
       "olympiad": "imcho",
       "year": 2025
@@ -368,6 +614,18 @@
     },
     {
       "source": "arthur-barroso-uchoa",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
       "target": "luiz-claudio-de-sa-cavalcante-generoso",
       "olympiad": "imcho",
       "year": 2025
@@ -380,7 +638,19 @@
     },
     {
       "source": "arthur-barroso-uchoa",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "arthur-barroso-uchoa",
+      "target": "vitor-silva-peres",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -392,6 +662,12 @@
     },
     {
       "source": "cristian-levi-de-souza-silveira",
+      "target": "gabriel-pavan-ramiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
       "target": "ian-barreto-tavares-matos-de-vasconcelos",
       "olympiad": "imcho",
       "year": 2025
@@ -410,6 +686,18 @@
     },
     {
       "source": "cristian-levi-de-souza-silveira",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
       "target": "luiz-claudio-de-sa-cavalcante-generoso",
       "olympiad": "imcho",
       "year": 2025
@@ -422,7 +710,25 @@
     },
     {
       "source": "cristian-levi-de-souza-silveira",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "cristian-levi-de-souza-silveira",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "gabriel-pavan-ramiro",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -446,6 +752,18 @@
     },
     {
       "source": "daniel-suda-hatushikano",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
       "target": "luiz-claudio-de-sa-cavalcante-generoso",
       "olympiad": "imcho",
       "year": 2025
@@ -458,7 +776,79 @@
     },
     {
       "source": "daniel-suda-hatushikano",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "daniel-suda-hatushikano",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "ian-barreto-tavares-matos-de-vasconcelos",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "joao-lucas-santos-vieira",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "gabriel-pavan-ramiro",
+      "target": "vitor-silva-peres",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -476,6 +866,18 @@
     },
     {
       "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
       "target": "luiz-claudio-de-sa-cavalcante-generoso",
       "olympiad": "imcho",
       "year": 2025
@@ -488,7 +890,19 @@
     },
     {
       "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "ian-barreto-tavares-matos-de-vasconcelos",
+      "target": "vitor-silva-peres",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -500,6 +914,18 @@
     },
     {
       "source": "joao-lucas-santos-vieira",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
       "target": "luiz-claudio-de-sa-cavalcante-generoso",
       "olympiad": "imcho",
       "year": 2025
@@ -512,7 +938,31 @@
     },
     {
       "source": "joao-lucas-santos-vieira",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-lucas-santos-vieira",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "leticia-rodrigues-de-freitas-pinheiro",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "lucas-kenji-fujibayashi",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -530,7 +980,85 @@
     },
     {
       "source": "joao-marcelo-alves-aires",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "leticia-rodrigues-de-freitas-pinheiro",
+      "target": "lucas-kenji-fujibayashi",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "leticia-rodrigues-de-freitas-pinheiro",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "leticia-rodrigues-de-freitas-pinheiro",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "leticia-rodrigues-de-freitas-pinheiro",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "leticia-rodrigues-de-freitas-pinheiro",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "leticia-rodrigues-de-freitas-pinheiro",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "lucas-kenji-fujibayashi",
+      "target": "luiz-claudio-de-sa-cavalcante-generoso",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "lucas-kenji-fujibayashi",
+      "target": "paulo-vinicius-rodrigues-de-azevedo",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "lucas-kenji-fujibayashi",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "lucas-kenji-fujibayashi",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "lucas-kenji-fujibayashi",
+      "target": "vitor-silva-peres",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -542,7 +1070,25 @@
     },
     {
       "source": "luiz-claudio-de-sa-cavalcante-generoso",
+      "target": "raquel-rebelo-brito-aguiar",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "luiz-claudio-de-sa-cavalcante-generoso",
       "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "luiz-claudio-de-sa-cavalcante-generoso",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "paulo-vinicius-rodrigues-de-azevedo",
+      "target": "raquel-rebelo-brito-aguiar",
       "olympiad": "imcho",
       "year": 2025
     },
@@ -553,6 +1099,96 @@
       "year": 2025
     },
     {
+      "source": "paulo-vinicius-rodrigues-de-azevedo",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "raquel-rebelo-brito-aguiar",
+      "target": "vinicius-queiroz-dias",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "raquel-rebelo-brito-aguiar",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "vinicius-queiroz-dias",
+      "target": "vitor-silva-peres",
+      "olympiad": "imcho",
+      "year": 2025
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "breno-barros-de-vasconcelos",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "davi-lisboa-do-nascimento",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "fausto-rodrigues-santos",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "guilherme-soares-costa",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "heitor-guedes-silva",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "antonio-fernando-costa",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "davi-lisboa-do-nascimento",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "fausto-rodrigues-santos",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
       "source": "breno-barros-de-vasconcelos",
       "target": "guilherme-soares-costa",
       "olympiad": "imcho",
@@ -560,7 +1196,115 @@
     },
     {
       "source": "breno-barros-de-vasconcelos",
+      "target": "heitor-guedes-silva",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
       "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "breno-barros-de-vasconcelos",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "fausto-rodrigues-santos",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "guilherme-soares-costa",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "heitor-guedes-silva",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "davi-lisboa-do-nascimento",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "fausto-rodrigues-santos",
+      "target": "guilherme-soares-costa",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "fausto-rodrigues-santos",
+      "target": "heitor-guedes-silva",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "fausto-rodrigues-santos",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "fausto-rodrigues-santos",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "fausto-rodrigues-santos",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "fausto-rodrigues-santos",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "guilherme-soares-costa",
+      "target": "heitor-guedes-silva",
       "olympiad": "imcho",
       "year": 2026
     },
@@ -569,11 +1313,89 @@
       "target": "joao-marcelo-alves-aires",
       "olympiad": "imcho",
       "year": 2026
+    },
+    {
+      "source": "guilherme-soares-costa",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "guilherme-soares-costa",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "guilherme-soares-costa",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "heitor-guedes-silva",
+      "target": "joao-marcelo-alves-aires",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "heitor-guedes-silva",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "heitor-guedes-silva",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "heitor-guedes-silva",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "marton-sousa-soares",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "joao-marcelo-alves-aires",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "marton-sousa-soares",
+      "target": "matheus-dowsley-arcoverde-de-mello",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "marton-sousa-soares",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
+    },
+    {
+      "source": "matheus-dowsley-arcoverde-de-mello",
+      "target": "ruan-cortes-da-trindade",
+      "olympiad": "imcho",
+      "year": 2026
     }
   ],
   "metadata": {
-    "generatedAt": "2026-08-27T04:42:37.359559+00:00",
-    "studentCount": 19,
-    "edgeCount": 55
+    "generatedAt": "2026-09-16T16:32:49.022820+00:00",
+    "studentCount": 32,
+    "edgeCount": 166
   }
 }

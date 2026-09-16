@@ -670,6 +670,11 @@
       "thiago-oliveira-sousa",
       "tiago-domingos-almeida-souza",
       "Low-similarity sweep candidate (shares only a given name and a common surname); batch maintainer decision 2026-09-12."
+    ],
+    [
+      "vitor-gomes-pires",
+      "vitor-silva-peres",
+      "Different surnames (Gomes Pires vs Silva Peres) and a ten-year gap (2015-16 vs IMChO 2025). Maintainer decision 2026-09-16."
     ]
   ]
 }

@@ -8,7 +8,7 @@
   },
   "globalNotes": [
     "Medal mapping: Золото/Серебро/Бронза bands = gold/silver/bronze. DECISION (2026-08-27): IMChO's official protocols award medals only — no honorable-mention tier exists (verified 2021–2023; 2017–2020 scans inspectable but consistent) — so the site never displays HM for Brazilian IMChO records; the all-non-medalists 'participant diploma' = null, even where Brazilian sources or students' own pages style it 'menção honrosa'. The Lunin Prize (absolute top-3) is separate; no Brazilian holds it.",
-    "Rosters are PARTIAL by reality for 2024–2026: delegation sizes exceed documented names (10/15/10 vs 5/9/3 named). Only documented students carry records.",
+    "Rosters: 2023, 2025 and 2026 complete from the signed jury protocols (the 2025/2026 non-medallists were added 2026-09-16); 2024 remains partial (5 of 10 named — the official results were medal images only, and OBQ's convocation list is not attendance proof).",
     "Selection via OBQ Fase IV/V; heavy overlap with the IChO pipeline (Galiza, Loes, Suda, Ian Barreto, João Marcelo, Guilherme Soares all in icho/)."
   ],
   "years": [
@@ -82,8 +82,8 @@
     },
     {
       "year": 2025,
-      "namingSourceCount": 4,
-      "independentPrimaryCount": 4,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
       "meetsThreeNaming": true,
       "meetsThreePrimary": true,
       "sources": [
@@ -117,16 +117,23 @@
           "coverage": "partial",
           "confirms": "10 of 15 Brazilian participants from Ceará; João Marcelo (Colégio Master) participated",
           "needle": "Master"
+        },
+        {
+          "url": "https://disk.360.yandex.ru/i/WnsUs8cMJP5_Iw",
+          "domain": "disk.360.yandex.ru (signed protocol)",
+          "cls": "official",
+          "coverage": "full (image-scan PDF; names read visually, archived as data/raw/protocolmmo59.pdf)",
+          "confirms": "Signed 59th IMChO protocol (jury chair Gladilin): full 188-rank table incl. non-medallists - all 15 Brazilians"
         }
       ],
-      "note": "Host edition (UFMG, Belo Horizonte — first IMChO in the Americas; 40 countries). 15 Brazilian participants, 9 documented (8 bronzes + João Marcelo, no award); 6 unnamed. CFQ misattaches 'Hatushikano' to Arthur Uchoa and miscounts totals — official xlsx is authoritative."
+      "note": "Host edition (UFMG, Belo Horizonte — first IMChO in the Americas; 40 countries). All 15 Brazilian participants recorded: 8 bronzes + 7 without award (six added 2026-09-16 from the signed protocol). CFQ misattaches 'Hatushikano'."
     },
     {
       "year": 2026,
-      "namingSourceCount": 2,
-      "independentPrimaryCount": 2,
-      "meetsThreeNaming": false,
-      "meetsThreePrimary": false,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
       "sources": [
         {
           "url": "https://mendeleevolympiad.org/imcho60-eng/tpost/gnv8yh6ss1-the-results-of-the-60th-international-me",
@@ -143,9 +150,16 @@
           "coverage": "full",
           "confirms": "Guilherme Soares profile; names all 3 bronzes; delegation of 10",
           "needle": "Iguatu"
+        },
+        {
+          "url": "https://msu.ru/upload/pdf/2026/MMO60-results.pdf",
+          "domain": "msu.ru (signed protocol)",
+          "cls": "official",
+          "coverage": "full (image-scan PDF; names read visually, archived as data/raw/mmo60-results.pdf)",
+          "confirms": "Signed 60th IMChO protocol: full 160-rank table - all 10 Brazilians (3 bronzes + 7 without award)"
         }
       ],
-      "note": "Jubilee 60th, Moscow. Delegation of 10; 3 bronzes documented; 7 non-medalists unnamed."
+      "note": "Jubilee 60th, Moscow. All 10 Brazilian participants recorded: 3 bronzes + 7 without award (added 2026-09-16 from the signed protocol)."
     }
   ]
 }
