@@ -241,6 +241,11 @@
       "participations": [
         {
           "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "gold"
+        },
+        {
+          "olympiad": "ioaa",
           "year": 2021,
           "medal": "gold"
         }
@@ -275,6 +280,11 @@
       "name": "Ian Seo Takose",
       "searchKey": "ian seo takose",
       "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "bronze"
+        },
         {
           "olympiad": "ioaa",
           "year": 2021,
@@ -318,6 +328,107 @@
         }
       ]
     },
+    "fabrizio-melges-ferro": {
+      "id": "fabrizio-melges-ferro",
+      "name": "Fabrízio Melges Ferro",
+      "searchKey": "fabrizio melges ferro",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "giulia-nobrega-da-costa": {
+      "id": "giulia-nobrega-da-costa",
+      "name": "Giulia Nóbrega da Costa",
+      "searchKey": "giulia nobrega da costa",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "joao-pedro-chamhum-basilio": {
+      "id": "joao-pedro-chamhum-basilio",
+      "name": "João Pedro Chamhum Basílio",
+      "searchKey": "joao pedro chamhum basilio",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "lucas-shoji": {
+      "id": "lucas-shoji",
+      "name": "Lucas Shoji",
+      "searchKey": "lucas shoji",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2019,
+          "medal": "honorable-mention"
+        },
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
+    "luiz-henrique-fonteles-da-silveira": {
+      "id": "luiz-henrique-fonteles-da-silveira",
+      "name": "Luiz Henrique Fonteles da Silveira",
+      "searchKey": "luiz henrique fonteles da silveira",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "silver"
+        }
+      ]
+    },
+    "luis-otavio-trotti-martins-guedes-de-souza": {
+      "id": "luis-otavio-trotti-martins-guedes-de-souza",
+      "name": "Luís Otávio Trotti Martins Guedes de Souza",
+      "searchKey": "luis otavio trotti martins guedes de souza",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "miguel-diniz-santos": {
+      "id": "miguel-diniz-santos",
+      "name": "Miguel Diniz Santos",
+      "searchKey": "miguel diniz santos",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "tiago-mariotto-lucio": {
+      "id": "tiago-mariotto-lucio",
+      "name": "Tiago Mariotto Lucio",
+      "searchKey": "tiago mariotto lucio",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2020,
+          "medal": "gold"
+        }
+      ]
+    },
     "bruna-junqueira-de-almeida-ferreira-lopes": {
       "id": "bruna-junqueira-de-almeida-ferreira-lopes",
       "name": "Bruna Junqueira de Almeida Ferreira Lopes",
@@ -339,18 +450,6 @@
           "olympiad": "ioaa",
           "year": 2019,
           "medal": "bronze"
-        }
-      ]
-    },
-    "lucas-shoji": {
-      "id": "lucas-shoji",
-      "name": "Lucas Shoji",
-      "searchKey": "lucas shoji",
-      "participations": [
-        {
-          "olympiad": "ioaa",
-          "year": 2019,
-          "medal": "honorable-mention"
         }
       ]
     },
@@ -1962,6 +2061,276 @@
       "year": 2019
     },
     {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "fabrizio-melges-ferro",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "giulia-nobrega-da-costa",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "ian-seo-takose",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "joao-pedro-chamhum-basilio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "lucas-shoji",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "bruno-makoto-tanabe-de-lima",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "giulia-nobrega-da-costa",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "ian-seo-takose",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "joao-pedro-chamhum-basilio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "lucas-shoji",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "fabrizio-melges-ferro",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "ian-seo-takose",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "joao-pedro-chamhum-basilio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "lucas-shoji",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "giulia-nobrega-da-costa",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "ian-seo-takose",
+      "target": "joao-pedro-chamhum-basilio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "ian-seo-takose",
+      "target": "lucas-shoji",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "ian-seo-takose",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "ian-seo-takose",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "ian-seo-takose",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "ian-seo-takose",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "joao-pedro-chamhum-basilio",
+      "target": "lucas-shoji",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "joao-pedro-chamhum-basilio",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "joao-pedro-chamhum-basilio",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "joao-pedro-chamhum-basilio",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "joao-pedro-chamhum-basilio",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "lucas-shoji",
+      "target": "luis-otavio-trotti-martins-guedes-de-souza",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "lucas-shoji",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "lucas-shoji",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "lucas-shoji",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "luis-otavio-trotti-martins-guedes-de-souza",
+      "target": "luiz-henrique-fonteles-da-silveira",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "luis-otavio-trotti-martins-guedes-de-souza",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "luis-otavio-trotti-martins-guedes-de-souza",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "luiz-henrique-fonteles-da-silveira",
+      "target": "miguel-diniz-santos",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "luiz-henrique-fonteles-da-silveira",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
+      "source": "miguel-diniz-santos",
+      "target": "tiago-mariotto-lucio",
+      "olympiad": "ioaa",
+      "year": 2020
+    },
+    {
       "source": "andre-andrade-goncalves",
       "target": "bruno-makoto-tanabe-de-lima",
       "olympiad": "ioaa",
@@ -2473,8 +2842,8 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-07-09T05:08:06.926136+00:00",
-    "studentCount": 81,
-    "edgeCount": 237
+    "generatedAt": "2026-09-15T04:21:22.792380+00:00",
+    "studentCount": 88,
+    "edgeCount": 282
   }
 }

@@ -109,6 +109,8 @@ SOURCES = {
             "coolmagazine.com.br", "primary", "full", "all five + results"),
         src("https://blog.etapa.com.br/noticias/etapa-na-maior-competicao-de-astronomia", "blog.etapa.com.br",
             "primary", "3/5", "Girotto, Bruna Lopes, Lucas Shoji + team tally", needle="Girotto")],
+ 2020: [src("https://web.archive.org/web/20201104071317/https://gecaa.ee/individual-competition/", "web.archive.org", "official", "full", "Archived gecaa.ee 'Individual Competition Results': first/middle/last name, country, award for every contestant - the ten Brazilians with 4 gold, 2 silver, 4 bronze", "Tanabe de Lima"),
+        src("https://web.archive.org/web/20201231/https://gecaa.ee/", "web.archive.org", "official", "event", "Archived gecaa.ee home: 'GeCAA is an online astronomy and astrophysics competition held instead of the cancelled IOAA 2020 by the IOAA international board and Estonian Astronomy Olympiad Committee'", "instead of the cancelled IOAA 2020")],
  2021: [wiki("2 golds (Bruno + Otávio), 4 silver, 4 bronze — matches the dataset"),
         src("https://www.gov.br/observatorio/pt-br/assuntos/noticias/brasil-conquista-cinco-medalhas-na-olimpiada-internacional-de-astronomia-e-astrofisica-2013-ioaa-2022",
             "gov.br (Observatório Nacional)", "primary", "counts",
@@ -148,7 +150,7 @@ NOTES = {
 }
 
 GLOBAL_NOTES = [
- "No IOAA in 2020 (GeCAA substitute — deliberately excluded; roster kept in data/raw/gecaa-2020.json).",
+ "2020: no IOAA was held; the IOAA international board and the Estonian committee ran the online GeCAA in its place. Included as the 2020 substitute event (decision 2026-09-14, consistent with IdPhO 2020 in ipho/): 10 Brazilians (two teams), 4G/2S/4B; rows carry event='GeCAA'.",
  "Sources deliberately NOT cited because offline/restricted at verification time (2026-05-30): several OBA pages (404/refused), gov.br/aeb 2021 gold article (\"Conteúdo Restrito\"), various Agência Brasil / Agência Gov mirrors (temporarily deactivated under Brazilian electoral law).",
  "Every URL was fetched live and read at migration time; re-verify anytime with scripts/verify_corroboration.py (results land in data/corroboration_check.json).",
  "Liveness check 2026-08-01: 48/52 URLs PASS with content verified. The 4 content-check misses are checker artifacts, NOT dead links: bandab.com.br and the two gov.br/MCTI pages (2024, 2025) render the article body via JavaScript (names absent from server HTML; articles alive in a browser), and abc.org.br serves a WAF/bot wall (406) to scripted fetches.",

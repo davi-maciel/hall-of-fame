@@ -3,7 +3,7 @@
 Brazilian students at the IOAA. Part of the hall-of-fame data collection —
 one olympiad per folder, shared schema.
 
-Coverage: 2007–2025 (19 editions; no 2020 IOAA was held).
+Coverage: 2007–2025 (19 editions) plus the 2020 GeCAA, the online substitute the IOAA board ran instead of the cancelled IOAA 2020 (rows carry `event: "GeCAA"`).
 
 ```
 data/raw/ioaa.json       canonical records (name, year, medal) — edit this file

@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-08-02T05:04:17+00:00",
+  "checkedAt": "2026-09-15T04:21:38+00:00",
   "summary": {
-    "PASS": 48,
+    "PASS": 50,
     "FAIL-NEEDLE": 4
   },
   "results": [
@@ -11,7 +11,7 @@
       "domain": "olimpiadascientificas.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'campagnolo'"
+      "detail": "roster surname 'lima'"
     },
     {
       "year": 2007,
@@ -19,7 +19,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'campagnolo'"
+      "detail": "roster surname 'lima'"
     },
     {
       "year": 2007,
@@ -35,7 +35,7 @@
       "domain": "olimpiadascientificas.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'cavina'"
+      "detail": "roster surname 'tsai'"
     },
     {
       "year": 2008,
@@ -51,7 +51,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'cavina'"
+      "detail": "roster surname 'tsai'"
     },
     {
       "year": 2009,
@@ -59,7 +59,7 @@
       "domain": "olimpiadascientificas.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'menezes'"
+      "detail": "roster surname 'stedile'"
     },
     {
       "year": 2009,
@@ -67,7 +67,7 @@
       "domain": "clubedeastronomiacmpa.blogspot.com",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'menezes'"
+      "detail": "roster surname 'stedile'"
     },
     {
       "year": 2009,
@@ -75,7 +75,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'menezes'"
+      "detail": "roster surname 'stedile'"
     },
     {
       "year": 2010,
@@ -83,7 +83,7 @@
       "domain": "olimpiadascientificas.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'braga'"
+      "detail": "roster surname 'pontes'"
     },
     {
       "year": 2010,
@@ -99,7 +99,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'braga'"
+      "detail": "roster surname 'pontes'"
     },
     {
       "year": 2011,
@@ -107,7 +107,7 @@
       "domain": "olimpiadascientificas.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'caetano'"
+      "detail": "roster surname 'pontes'"
     },
     {
       "year": 2011,
@@ -123,7 +123,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'caetano'"
+      "detail": "roster surname 'pontes'"
     },
     {
       "year": 2012,
@@ -179,7 +179,7 @@
       "domain": "correiobraziliense.com.br",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'mitsutani'"
+      "detail": "roster surname 'martins'"
     },
     {
       "year": 2014,
@@ -187,7 +187,7 @@
       "domain": "olimpiadascientificas.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'mitsutani'"
+      "detail": "roster surname 'martins'"
     },
     {
       "year": 2014,
@@ -195,7 +195,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'mitsutani'"
+      "detail": "roster surname 'martins'"
     },
     {
       "year": 2015,
@@ -219,7 +219,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'khalil'"
+      "detail": "roster surname 'barsevicius'"
     },
     {
       "year": 2016,
@@ -227,7 +227,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'vilanova'"
+      "detail": "roster surname 'pires'"
     },
     {
       "year": 2017,
@@ -259,7 +259,7 @@
       "domain": "correiobraziliense.com.br",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'melo'"
+      "detail": "roster surname 'pinheiro'"
     },
     {
       "year": 2018,
@@ -275,7 +275,7 @@
       "domain": "pt.wikipedia.org",
       "cls": "archive",
       "status": "PASS",
-      "detail": "roster surname 'melo'"
+      "detail": "roster surname 'pinheiro'"
     },
     {
       "year": 2019,
@@ -283,7 +283,7 @@
       "domain": "agenciabrasil.ebc.com.br",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'girotto'"
+      "detail": "roster surname 'shoji'"
     },
     {
       "year": 2019,
@@ -291,7 +291,7 @@
       "domain": "coolmagazine.com.br",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'girotto'"
+      "detail": "roster surname 'shoji'"
     },
     {
       "year": 2019,
@@ -300,6 +300,22 @@
       "cls": "primary",
       "status": "PASS",
       "detail": "needle 'Girotto'"
+    },
+    {
+      "year": 2020,
+      "url": "https://web.archive.org/web/20201104071317/https://gecaa.ee/individual-competition/",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tanabe de Lima'"
+    },
+    {
+      "year": 2020,
+      "url": "https://web.archive.org/web/20201231/https://gecaa.ee/",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'instead of the cancelled IOAA 2020'"
     },
     {
       "year": 2021,
@@ -411,7 +427,7 @@
       "domain": "gov.br (CNPq)",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'pimenta'"
+      "detail": "roster surname 'queiroz'"
     },
     {
       "year": 2025,
@@ -419,7 +435,7 @@
       "domain": "jtv.com.br",
       "cls": "primary",
       "status": "PASS",
-      "detail": "roster surname 'pimenta'"
+      "detail": "roster surname 'queiroz'"
     }
   ]
 }
