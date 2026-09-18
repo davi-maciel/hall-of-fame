@@ -252,10 +252,22 @@
         }
       ]
     },
-    "maria-fernanda-de-souza-ganja": {
-      "id": "maria-fernanda-de-souza-ganja",
-      "name": "Maria Fernanda de Souza Ganja",
-      "searchKey": "maria fernanda de souza ganja",
+    "geferson-rocha-santos": {
+      "id": "geferson-rocha-santos",
+      "name": "Geferson Rocha Santos",
+      "searchKey": "geferson rocha santos",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2015,
+          "medal": null
+        }
+      ]
+    },
+    "sheron-luma-de-oliveira": {
+      "id": "sheron-luma-de-oliveira",
+      "name": "Shéron Luma de Oliveira",
+      "searchKey": "sheron luma de oliveira",
       "participations": [
         {
           "olympiad": "ieso",
@@ -424,13 +436,31 @@
     },
     {
       "source": "antonio-vitor-dehet-many",
-      "target": "maria-fernanda-de-souza-ganja",
+      "target": "geferson-rocha-santos",
+      "olympiad": "ieso",
+      "year": 2015
+    },
+    {
+      "source": "antonio-vitor-dehet-many",
+      "target": "sheron-luma-de-oliveira",
       "olympiad": "ieso",
       "year": 2015
     },
     {
       "source": "claudio-de-brito-da-silva",
-      "target": "maria-fernanda-de-souza-ganja",
+      "target": "geferson-rocha-santos",
+      "olympiad": "ieso",
+      "year": 2015
+    },
+    {
+      "source": "claudio-de-brito-da-silva",
+      "target": "sheron-luma-de-oliveira",
+      "olympiad": "ieso",
+      "year": 2015
+    },
+    {
+      "source": "geferson-rocha-santos",
+      "target": "sheron-luma-de-oliveira",
       "olympiad": "ieso",
       "year": 2015
     },
@@ -598,8 +628,8 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-11T02:56:48.591944+00:00",
-    "studentCount": 30,
-    "edgeCount": 39
+    "generatedAt": "2026-09-18T05:57:05.771326+00:00",
+    "studentCount": 31,
+    "edgeCount": 42
   }
 }

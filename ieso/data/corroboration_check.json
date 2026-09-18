@@ -1,8 +1,9 @@
 {
-  "checkedAt": "2026-09-11T02:58:26+00:00",
+  "checkedAt": "2026-09-18T05:57:22+00:00",
   "summary": {
     "PASS": 16,
-    "FAIL-HTTP": 1
+    "FAIL-HTTP": 1,
+    "PASS-STATUS": 1
   },
   "results": [
     {
@@ -52,6 +53,14 @@
       "cls": "official",
       "status": "PASS",
       "detail": "needle 'Dehet'"
+    },
+    {
+      "year": 2015,
+      "url": "https://portal.ifsuldeminas.edu.br/images/PDFs/proex/publicacoes_livros/MIOLO_IESO_1.pdf",
+      "domain": "portal.ifsuldeminas.edu.br",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
     },
     {
       "year": 2016,

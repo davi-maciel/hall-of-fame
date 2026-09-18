@@ -3,7 +3,7 @@
 Brazilian students at the IESO. Part of the hall-of-fame data collection —
 one olympiad per folder, shared schema.
 
-Coverage: 2012–2019 and 2026 (Brazil skipped 2021–2025; 2020 cancelled). Rosters are partial for 2013–2015 and 2017.
+Coverage: 2012–2019 and 2026 (Brazil skipped 2021–2025; 2020 cancelled). Rosters are partial for 2013, 2014 and 2017.
 
 ```
 data/raw/ieso.json        canonical records (name, year, medal) — edit this file

@@ -41,7 +41,8 @@ SOURCES = {
  2013: [medals("2022/11/2013-IESO-2013-India-Medals-List.pdf", "Lovo", "IGEO medal list: Igor Felix Pio (ESP gold team award), Mario Lovo (ITFI gold team) - no individual medal"),
         press("https://www.ifes.edu.br/noticias/14290-estudantes-do-ifes-conquistam-medalhas-em-competicao-internacional-de-ciencias-da-terra", "ifes.edu.br", None, "IFES news (page now 404; text via search snippet): Eliton Mathias Morais, Igor Felix Pio and Mario Lovo of Campus Itapina + one more student represented Brazil", "team (snippet)")],
  2014: [medals("2022/11/2014-IESO-2014-Spain-Medals-List-.pdf", "Colossi")],
- 2015: [medals("2022/11/2015-IESO-2015-Brazil-Medals-List.pdf", "Dehet")],
+ 2015: [medals("2022/11/2015-IESO-2015-Brazil-Medals-List.pdf", "Dehet"),
+        src("https://portal.ifsuldeminas.edu.br/images/PDFs/proex/publicacoes_livros/MIOLO_IESO_1.pdf", "portal.ifsuldeminas.edu.br", "official", "official participants list (four-student team)", "IESO 2015 Final Report (ed. R. Greco & M. Bregagnoli, IFSULDEMINAS 2016), ch. 5.1 Participants list: Brazil team = Geferson Rocha Santos, Antônio Vítor Dehet-Many, Cláudio de Brito da Silva (IFES Campus Itapina) and Shéron Luma de Oliveira (IFSULDEMINAS Campus Inconfidentes); mentors Patrícia Soares Furno Fontes, Cleiton Lourenço de Oliveira, Sindynara Ferreira", None)],
  2016: [medals("2022/11/2016-10th-IESO.pdf", "Ribeiro"),
         wb("https://web.archive.org/web/20160412210656/http://www.ifes.edu.br/noticias/16330-alunos-de-itapina-sao-selecionados-para-a-olimpiada-internacional-de-ciencias-da-terra", "Bullergahn", "IFES news (archived): Vilian Borchardt Bullergahn, Gustavo Rocha Alves and Ronaldo Rodrigues Ribeiro selected for IESO 2016", "3 of 4 (pre-event)"),
         wb("https://web.archive.org/web/20191015234617/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/597-ieso-no-japao", "Lissandra", "IFSULDEMINAS news (archived): the four (3 IFES + Lissandra Souza, IFMG Bambuí); Ronaldo Rodrigues bronze")],
@@ -57,19 +58,21 @@ SOURCES = {
 
 NOTES = {
  2012: "IFTM (Uberaba) team; Rafael Franco Fernandez bronze (OLC spells 'Fernandes'), Mayara Cardoso Oliveira Best Presentation. 'Fabrício da Silva' and 'Renato Silva' are OLC short forms.",
- 2013: "Roster 3 of 4: the IFES article naming the fourth student is offline; OLC's trio (Bruno Xavier Rodrigues, Rodrigo Altoe, Sávio Fabres Boldrini) is the OBAP 2012 winning team, not necessarily the IESO team - not used. Team awards only (ESP gold, ITFI gold); no individual medal.",
- 2014: "Roster 1 of 4 (medal list only).",
- 2015: "Hosted (Poços de Caldas). Roster 3 of 4 (medal list: bronze + team-award members).",
+ 2013: "Roster 3 of 4 and team size still unverified. The IFES article naming the fourth student is offline (ifes.edu.br/noticias/14290-... 404, no Wayback capture under any http/https/www form tried on 2026-09-16, and the whole ifes.edu.br/noticias/ tree now 404s). OLC's trio (Bruno Xavier Rodrigues, Rodrigo Altoe, Sávio Fabres Boldrini) is the OBAP 2012 winning team ('Elite 2.0' - IFES), not necessarily the IESO team - not used. Team awards only (ESP gold, ITFI gold); no individual medal.",
+ 2014: "Roster 1 of 4 and team size still unverified: the medal list names only the bronze medallist, the IGEO 'IESO 2014 Spain Participants List' is an unlinked line of text on igeoscied.org (both the 2022 and 2025 Wayback captures), the host's own site is gone and the 8th-IESO report in J. Geol. Soc. India is India-only (24 countries). Per the OBAP paper the 2014 team came from the OBAP 2013 winners ('Agro SMI' - CEEP Manoel Moreira Pena, PR).",
+ 2015: "Hosted (Poços de Caldas). SETTLED 2026-09-16 by the official IESO 2015 Final Report participants list: four-student team Geferson Rocha Santos, Antônio Vítor Dehet-Many, Cláudio de Brito da Silva and Shéron Luma de Oliveira. Only Cláudio took an individual medal (bronze); Antônio Vítor was on a bronze ESP team. IFES's pre-event story gives 'Antonio Vitor Côrtes' for Antônio Vítor Dehet-Many, but that page is offline.",
+
  2016: "Four names confirmed by IFSULDEMINAS; 'Lissandra Souza' is a short form.",
- 2017: "Roster 3 of 4; 'Bruna de Oliveira' short form.",
+ 2017: "Roster 3 of 4 and team size still unverified. FAPES names the three ES students; the fourth is most likely from IFSULDEMINAS Campus Inconfidentes ('Bandelokos' won the 6th OBAP in 2016 and that team fed IESO 2017 per the OBAP paper), but no source naming him/her was found - the IGEO participants list for 2017 is unlinked text, igeoscied.org no longer resolves (no DNS A record) and portal.ifsuldeminas.edu.br answers only a few requests before a Radware CAPTCHA. 'Bruna de Oliveira' is a short form.",
  2019: "Pre-event roster listed Mauro Aparecido Ambrósio Filho; the post-event IFSULDEMINAS report names João Augusto Vilas Boas dos Santos Gonçalves instead - report followed.",
- 2026: "Return after six years (IFMG São João Evangelista team, Turin 20-27 Aug 2026). Results not yet published for Brazil - medals null with medalStatus; names are short forms from the IFMG release. Re-check IFMG/IGEO.",
+ 2026: "Return after six years (IFMG São João Evangelista team, Turin 20-27 Aug 2026). The edition has ended but no Brazilian result was found on 2026-09-16, so medals stay null with medalStatus and the four names stay short forms from the IFMG release. What was tried: the host site (ieso2026-to.com) announces 'IESO2026 Results and standings' on its Comunicati page but the download link is missing from the page markup; igeoscied.org has no DNS A record at all, so the IGEO medal archive is unreachable and its last Wayback capture predates the event; IFMG/IFMG-SJE, Diário do Rio Doce, OBAP and the general press have published nothing post-event; only India, Indonesia and Cuba published national medal tallies. Best leads: the host's Instagram @ieso2026_torino, IFMG São João Evangelista's channels, and igeoscied.org if the domain is restored.",
 }
 
 GLOBAL_NOTES = [
  "Editions attended: 2012-2019 (8) and 2026 (1). 2020 cancelled; 2021-2025 not attended (per DATA_STATUS verification against full participant lists). A bronze every year 2012-2019 except 2013.",
- "Backbone: the IGEO medal lists archived from igeoscied.org (live host unreachable during collection) give medallists and team-award members; Brazilian IF news (IFES, IFSULDEMINAS, FAPES, IFPI) complete the rosters for 2016, 2018, 2019. Rosters remain partial for 2013 (3), 2014 (1), 2015 (3), 2017 (3) - listed as coverage gaps.",
- "Team awards (ITFI, ESP) are international mixed-team prizes and are not stored as medals. Selection: OBAP (Olimpíada Brasileira de Agropecuária) winners from federal institutes.",
+ "Backbone: the IGEO medal lists archived from igeoscied.org (the domain no longer resolves) give medallists and team-award members; Brazilian IF news (IFES, IFSULDEMINAS, FAPES, IFPI) completes 2016, 2018, 2019, and the official IESO 2015 Final Report completes 2015. Rosters remain partial for 2013 (3 of 4), 2014 (1 of 4) and 2017 (3 of 4) - listed as coverage gaps.",
+ "TEAM SIZE: a national team is four students plus two mentors. Edition-specific evidence exists for 2012, 2013, 2016, 2018, 2019 and 2026 (four names each) and, best of all, for 2015 (official participants list: four students). 2014 and 2017 have no edition-specific statement; their 'N of 4' is an assumption, since IGEO's per-year participant lists were never actually published as files.",
+ "Team awards (ITFI, ESP) are international mixed-team prizes and are not stored as medals. Selection: OBAP (Olimpíada Brasileira de Agropecuária) winners from federal institutes sit a further test; the OBAP edition of year N feeds the IESO of year N+1.",
 ]
 
 YEARS = sorted(SOURCES)
@@ -122,7 +125,7 @@ def main():
         details.append("")
     md = ("# Per-Year Corroboration — Brazil at the IESO\n\n"
           "**Machine-readable:** `data/corroboration.json`. Rebuild: `python3 scripts/build_corroboration.py`; "
-          "verify: `python3 scripts/verify_corroboration.py`. 2026-09-10 collection pass.\n\n## Notes\n\n"
+          "verify: `python3 scripts/verify_corroboration.py`. 2026-09-10 collection pass; 2026-09-16 roster/team-size pass.\n\n## Notes\n\n"
           + "\n".join(f"- {n}" for n in GLOBAL_NOTES)
           + "\n\n## Summary\n\n| Year | Sources | Domains |\n|-----:|:--:|---------|\n" + "\n".join(lines)
           + "\n\n## Per-year sources\n\n" + "\n".join(details))
