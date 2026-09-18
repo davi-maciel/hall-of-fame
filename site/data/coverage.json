@@ -1,0 +1,462 @@
+{
+ "generatedAt": "2026-09-18",
+ "olympiads": [
+  {
+   "id": "apmo",
+   "code": "APMO",
+   "name": "Asian Pacific Mathematics Olympiad",
+   "field": "matematica",
+   "attended": 17,
+   "span": "2010–2026",
+   "complete": 17,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "conosur",
+   "code": "Cone Sul",
+   "name": "Olimpíada de Matemática do Cone Sul",
+   "field": "matematica",
+   "attended": 37,
+   "span": "1988–2026",
+   "complete": 36,
+   "gaps": [
+    {
+     "year": 1988,
+     "label": "1 de 4 nomes"
+    }
+   ],
+   "caveat": "1988 (estreia): um único nome sobreviveu nas fontes."
+  },
+  {
+   "id": "egmo",
+   "code": "EGMO",
+   "name": "European Girls' Mathematical Olympiad",
+   "field": "matematica",
+   "attended": 10,
+   "span": "2017–2026",
+   "complete": 10,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "igo",
+   "code": "IGO",
+   "name": "Iranian Geometry Olympiad",
+   "field": "matematica",
+   "attended": 10,
+   "span": "2016–2025",
+   "complete": 3,
+   "gaps": [
+    {
+     "year": null,
+     "label": "só medalhistas em 7 de 10 edições"
+    }
+   ],
+   "caveat": "A OBM divulga apenas os premiados; a lista completa de participantes só existe nas planilhas oficiais, a partir de 2023."
+  },
+  {
+   "id": "imo",
+   "code": "IMO",
+   "name": "International Mathematical Olympiad",
+   "field": "matematica",
+   "attended": 47,
+   "span": "1979–2026",
+   "complete": 46,
+   "gaps": [
+    {
+     "year": 1979,
+     "label": "um nome incompleto"
+    }
+   ],
+   "caveat": "1979: o nome completo de um integrante (“Sebastião”) não consta em nenhuma fonte."
+  },
+  {
+   "id": "oim",
+   "code": "OIM",
+   "name": "Olimpíada Ibero-americana de Matemática",
+   "field": "matematica",
+   "attended": 40,
+   "span": "1985–2025",
+   "complete": 36,
+   "gaps": [
+    {
+     "year": null,
+     "label": "só medalhistas: 1985, 1989, 1991, 1992"
+    }
+   ],
+   "caveat": "Para 1985, 1989, 1991 e 1992 só os medalhistas são conhecidos (tabela da OBM)."
+  },
+  {
+   "id": "omcplp",
+   "code": "OMCPLP",
+   "name": "Olimpíada de Matemática da Comunidade dos Países de Língua Portuguesa",
+   "field": "matematica",
+   "attended": 13,
+   "span": "2011–2025",
+   "complete": 13,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "pagmo",
+   "code": "PAGMO",
+   "name": "Pan-American Girls' Mathematical Olympiad",
+   "field": "matematica",
+   "attended": 5,
+   "span": "2021–2025",
+   "complete": 5,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "rioplatense",
+   "code": "Rioplatense",
+   "name": "Olimpíada Rioplatense de Matemática",
+   "field": "matematica",
+   "attended": 28,
+   "span": "1996–2025",
+   "complete": 2,
+   "gaps": [
+    {
+     "year": null,
+     "label": "só medalhistas em 26 de 28 edições"
+    }
+   ],
+   "caveat": "As páginas oficiais da OMA listam apenas medalhistas (menções honrosas só a partir de 2018); quem competiu sem prêmio não aparece. 2023 e 2024 estão completas porque todos os 21 brasileiros foram premiados."
+  },
+  {
+   "id": "rmm",
+   "code": "RMM",
+   "name": "Romanian Master of Mathematics",
+   "field": "matematica",
+   "attended": 12,
+   "span": "2010–2026",
+   "complete": 12,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "eupho",
+   "code": "EuPhO",
+   "name": "European Physics Olympiad",
+   "field": "fisica",
+   "attended": 10,
+   "span": "2017–2026",
+   "complete": 9,
+   "gaps": [
+    {
+     "year": 2020,
+     "label": "4 de 5 nomes"
+    }
+   ],
+   "caveat": "2020 (edição online): 4 de 5 nomes."
+  },
+  {
+   "id": "ipho",
+   "code": "IPhO",
+   "name": "International Physics Olympiad",
+   "field": "fisica",
+   "attended": 26,
+   "span": "2000–2026",
+   "complete": 25,
+   "gaps": [
+    {
+     "year": 2002,
+     "label": "4 de 5 nomes"
+    }
+   ],
+   "caveat": "2002: 4 de 5 nomes."
+  },
+  {
+   "id": "iypt",
+   "code": "IYPT",
+   "name": "International Young Physicists' Tournament",
+   "field": "fisica",
+   "attended": 18,
+   "span": "2004–2026",
+   "complete": 18,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "nbpho",
+   "code": "NBPhO",
+   "name": "Nordic-Baltic Physics Olympiad",
+   "field": "fisica",
+   "attended": 3,
+   "span": "2020–2026",
+   "complete": 3,
+   "gaps": [],
+   "caveat": "Sem confirmação de participação em 2021 e 2024 (não há listas nominais); tratadas como ausência."
+  },
+  {
+   "id": "oibf",
+   "code": "OIbF",
+   "name": "Olimpíada Ibero-americana de Física",
+   "field": "fisica",
+   "attended": 25,
+   "span": "2000–2026",
+   "complete": 21,
+   "gaps": [
+    {
+     "year": 2000,
+     "label": "3 de 4 nomes"
+    },
+    {
+     "year": 2002,
+     "label": "3 de 4 nomes"
+    },
+    {
+     "year": 2003,
+     "label": "um resultado não publicado"
+    },
+    {
+     "year": 2026,
+     "label": "resultados pendentes"
+    }
+   ],
+   "caveat": "2000 e 2002: 3 de 4 nomes; 2003: um resultado não consta do PDF oficial; 2026: equipe anunciada, resultados pendentes."
+  },
+  {
+   "id": "wopho",
+   "code": "WoPhO",
+   "name": "World Physics Olympiad",
+   "field": "fisica",
+   "attended": 1,
+   "span": "2012–2012",
+   "complete": 1,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "icho",
+   "code": "IChO",
+   "name": "International Chemistry Olympiad",
+   "field": "quimica",
+   "attended": 28,
+   "span": "1999–2026",
+   "complete": 28,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "imcho",
+   "code": "IMChO",
+   "name": "Mendeleev International Chemistry Olympiad",
+   "field": "quimica",
+   "attended": 4,
+   "span": "2023–2026",
+   "complete": 4,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "oiaq",
+   "code": "OIAQ",
+   "name": "Olimpíada Ibero-americana de Química",
+   "field": "quimica",
+   "attended": 29,
+   "span": "1995–2025",
+   "complete": 28,
+   "gaps": [
+    {
+     "year": 1996,
+     "label": "3 de 4 nomes"
+    }
+   ],
+   "caveat": "1996: a página oficial nomeia só os dois medalhistas e um quarto integrante segue sem nome. Em 2011, 2017 e 2023 as fontes divergem sobre a medalha de um estudante."
+  },
+  {
+   "id": "egoi",
+   "code": "EGOI",
+   "name": "European Girls' Olympiad in Informatics",
+   "field": "informatica",
+   "attended": 6,
+   "span": "2021–2026",
+   "complete": 6,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "ioi",
+   "code": "IOI",
+   "name": "International Olympiad in Informatics",
+   "field": "informatica",
+   "attended": 28,
+   "span": "1999–2026",
+   "complete": 28,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "oii",
+   "code": "OII",
+   "name": "Olimpíada Ibero-americana de Informática (ex-CIIC)",
+   "field": "informatica",
+   "attended": 18,
+   "span": "2004–2026",
+   "complete": 16,
+   "gaps": [
+    {
+     "year": 2007,
+     "label": "1 nome conhecido"
+    },
+    {
+     "year": 2011,
+     "label": "sem nomes"
+    }
+   ],
+   "caveat": "2007: só o medalhista de prata está documentado; 2011: participação confirmada, nomes desconhecidos. Não se sabe se o Brasil participou em 1999, 2006 e 2008–2010: não sobreviveu nenhum documento de resultados."
+  },
+  {
+   "id": "iao",
+   "code": "IAO",
+   "name": "International Astronomy Olympiad",
+   "field": "astronomia",
+   "attended": 9,
+   "span": "1998–2007",
+   "complete": 9,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "ioaa",
+   "code": "IOAA",
+   "name": "Int'l Olympiad on Astronomy and Astrophysics",
+   "field": "astronomia",
+   "attended": 19,
+   "span": "2007–2025",
+   "complete": 19,
+   "gaps": [],
+   "caveat": "2021: as fontes divergem sobre o número de ouros (dois na contagem oficial, um em relatos)."
+  },
+  {
+   "id": "olaa",
+   "code": "OLAA",
+   "name": "Olimpíada Latino-Americana de Astronomia e Astronáutica",
+   "field": "astronomia",
+   "attended": 17,
+   "span": "2009–2025",
+   "complete": 17,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "ibo",
+   "code": "IBO",
+   "name": "International Biology Olympiad",
+   "field": "biologia",
+   "attended": 19,
+   "span": "2006–2026",
+   "complete": 19,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "oiab",
+   "code": "OIAB",
+   "name": "Olimpíada Ibero-americana de Biologia",
+   "field": "biologia",
+   "attended": 19,
+   "span": "2007–2026",
+   "complete": 18,
+   "gaps": [
+    {
+     "year": 2022,
+     "label": "medalhas não publicadas"
+    }
+   ],
+   "caveat": "2022 (edição remota): três dos quatro resultados não foram publicados."
+  },
+  {
+   "id": "iol",
+   "code": "IOL",
+   "name": "International Linguistics Olympiad",
+   "field": "linguistica",
+   "attended": 13,
+   "span": "2011–2026",
+   "complete": 13,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "ieo",
+   "code": "IEO",
+   "name": "International Economics Olympiad",
+   "field": "economia",
+   "attended": 9,
+   "span": "2018–2026",
+   "complete": 9,
+   "gaps": [],
+   "caveat": "Alguns nomes constam apenas na forma abreviada usada pela organização."
+  },
+  {
+   "id": "ijso",
+   "code": "IJSO",
+   "name": "International Junior Science Olympiad",
+   "field": "ciencias",
+   "attended": 20,
+   "span": "2004–2024",
+   "complete": 20,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "igeo",
+   "code": "iGeo",
+   "name": "International Geography Olympiad",
+   "field": "geografia",
+   "attended": 8,
+   "span": "2016–2026",
+   "complete": 4,
+   "gaps": [
+    {
+     "year": 2018,
+     "label": "3 de 4 nomes"
+    },
+    {
+     "year": 2019,
+     "label": "sem nomes"
+    },
+    {
+     "year": 2023,
+     "label": "sem nomes"
+    },
+    {
+     "year": 2026,
+     "label": "3 de 4 nomes"
+    }
+   ],
+   "caveat": "Os resultados oficiais listam só as medalhas de ouro; as equipes são reconstituídas a partir da OBG, das escolas e da imprensa. 2019 e 2023 sem nomes; 2018 e 2026 com 3 de 4."
+  },
+  {
+   "id": "ieso",
+   "code": "IESO",
+   "name": "International Earth Science Olympiad",
+   "field": "geociencias",
+   "attended": 9,
+   "span": "2012–2026",
+   "complete": 5,
+   "gaps": [
+    {
+     "year": 2013,
+     "label": "3 de 4 nomes"
+    },
+    {
+     "year": 2014,
+     "label": "1 de 4 nomes"
+    },
+    {
+     "year": 2017,
+     "label": "3 de 4 nomes"
+    },
+    {
+     "year": 2026,
+     "label": "resultados pendentes"
+    }
+   ],
+   "caveat": "As listas oficiais trazem só medalhistas e premiados por equipe; 2014 tem 1 de 4 nomes, 2013 e 2017 têm 3 de 4. Resultados de 2026 ainda não publicados."
+  }
+ ]
+}

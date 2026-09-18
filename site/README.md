@@ -44,6 +44,8 @@ scripts/ocr_vision.swift  OCR helper (macOS Vision) that check_source_names.py c
                           to read sources with no text layer — scans and images — as table text
 data/people.json          GENERATED — canonical people + participations (1480 / 3007)
 data/olympiads.json       olympiad metadata: code, name, field, scope, palette colors
+data/coverage.json        curated notes on what is still missing per olympiad (feeds lacunas.html)
+lacunas.html / lacunas.js public data-gaps page
 index.html / style.css / app.js
 ```
 
