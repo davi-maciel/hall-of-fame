@@ -2,6 +2,11 @@
   "_comment": "Confirmed DISTINCT pairs (never merge, never re-flag). Each entry: [slugA, slugB, reason]. Sorted pairs.",
   "pairs": [
     [
+      "ana-byatriz-santos",
+      "ana-leticia-dos-santos",
+      "different given names (Byatriz vs Letícia) — iGeo 2016 debut team, EEEP Salaberga Torquato, Maranguape-CE (UNIFAL-MG press office 2016-09-01) vs OLAA 2013 silver; only the shared 'Ana … Santos' pattern matched (igeo 2016 collection research, 2026-09-17)"
+    ],
+    [
       "pedro-henrique-sacramento-de-oliveira",
       "pedro-henrique-silva-de-oliveira",
       "SP math/informatics olympian vs Fortaleza-CE IJSO 2015/16 student — different middles, different states (ijso collection research, 2026-08-02)"

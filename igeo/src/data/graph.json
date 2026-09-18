@@ -84,6 +84,18 @@
         }
       ]
     },
+    "davi-de-magalhaes-vianna-navarro": {
+      "id": "davi-de-magalhaes-vianna-navarro",
+      "name": "Davi de Magalhães Vianna Navarro",
+      "searchKey": "davi de magalhaes vianna navarro",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2024,
+          "medal": null
+        }
+      ]
+    },
     "gabriel-volpato-lima": {
       "id": "gabriel-volpato-lima",
       "name": "Gabriel Volpato Lima",
@@ -96,15 +108,27 @@
         }
       ]
     },
-    "pablo-fernando-de-azurza-nogueira-gomez": {
-      "id": "pablo-fernando-de-azurza-nogueira-gomez",
-      "name": "Pablo Fernando de Azurza Nogueira Gomez",
-      "searchKey": "pablo fernando de azurza nogueira gomez",
+    "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez": {
+      "id": "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez",
+      "name": "Pablo Fernando de Azurza Nogueira e Gómez Alvarez",
+      "searchKey": "pablo fernando de azurza nogueira e gomez alvarez",
       "participations": [
         {
           "olympiad": "igeo",
           "year": 2024,
           "medal": "bronze"
+        }
+      ]
+    },
+    "valentina-vale-farias-cruz": {
+      "id": "valentina-vale-farias-cruz",
+      "name": "Valentina Vale Farias Cruz",
+      "searchKey": "valentina vale farias cruz",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2024,
+          "medal": null
         }
       ]
     },
@@ -156,6 +180,30 @@
         }
       ]
     },
+    "guilherme-lomba-shittine": {
+      "id": "guilherme-lomba-shittine",
+      "name": "Guilherme Lomba Shittine",
+      "searchKey": "guilherme lomba shittine",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2018,
+          "medal": null
+        }
+      ]
+    },
+    "lucas-caetano-filippo": {
+      "id": "lucas-caetano-filippo",
+      "name": "Lucas Caetano Filippo",
+      "searchKey": "lucas caetano filippo",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2018,
+          "medal": null
+        }
+      ]
+    },
     "marina-hutzler": {
       "id": "marina-hutzler",
       "name": "Marina Hutzler",
@@ -167,9 +215,81 @@
           "medal": null
         }
       ]
+    },
+    "ana-byatriz-santos": {
+      "id": "ana-byatriz-santos",
+      "name": "Ana Byatriz Santos",
+      "searchKey": "ana byatriz santos",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2016,
+          "medal": null
+        }
+      ]
+    },
+    "gabriella-abreu": {
+      "id": "gabriella-abreu",
+      "name": "Gabriella Abreu",
+      "searchKey": "gabriella abreu",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2016,
+          "medal": null
+        }
+      ]
+    },
+    "jose-carlos-castro-da-silva": {
+      "id": "jose-carlos-castro-da-silva",
+      "name": "José Carlos Castro da Silva",
+      "searchKey": "jose carlos castro da silva",
+      "participations": [
+        {
+          "olympiad": "igeo",
+          "year": 2016,
+          "medal": null
+        }
+      ]
     }
   },
   "edges": [
+    {
+      "source": "ana-byatriz-santos",
+      "target": "gabriella-abreu",
+      "olympiad": "igeo",
+      "year": 2016
+    },
+    {
+      "source": "ana-byatriz-santos",
+      "target": "jose-carlos-castro-da-silva",
+      "olympiad": "igeo",
+      "year": 2016
+    },
+    {
+      "source": "gabriella-abreu",
+      "target": "jose-carlos-castro-da-silva",
+      "olympiad": "igeo",
+      "year": 2016
+    },
+    {
+      "source": "guilherme-lomba-shittine",
+      "target": "lucas-caetano-filippo",
+      "olympiad": "igeo",
+      "year": 2018
+    },
+    {
+      "source": "guilherme-lomba-shittine",
+      "target": "marina-hutzler",
+      "olympiad": "igeo",
+      "year": 2018
+    },
+    {
+      "source": "lucas-caetano-filippo",
+      "target": "marina-hutzler",
+      "olympiad": "igeo",
+      "year": 2018
+    },
     {
       "source": "karen-gomes",
       "target": "lauren-schuantes",
@@ -207,8 +327,38 @@
       "year": 2022
     },
     {
+      "source": "davi-de-magalhaes-vianna-navarro",
+      "target": "gabriel-volpato-lima",
+      "olympiad": "igeo",
+      "year": 2024
+    },
+    {
+      "source": "davi-de-magalhaes-vianna-navarro",
+      "target": "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez",
+      "olympiad": "igeo",
+      "year": 2024
+    },
+    {
+      "source": "davi-de-magalhaes-vianna-navarro",
+      "target": "valentina-vale-farias-cruz",
+      "olympiad": "igeo",
+      "year": 2024
+    },
+    {
       "source": "gabriel-volpato-lima",
-      "target": "pablo-fernando-de-azurza-nogueira-gomez",
+      "target": "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez",
+      "olympiad": "igeo",
+      "year": 2024
+    },
+    {
+      "source": "gabriel-volpato-lima",
+      "target": "valentina-vale-farias-cruz",
+      "olympiad": "igeo",
+      "year": 2024
+    },
+    {
+      "source": "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez",
+      "target": "valentina-vale-farias-cruz",
       "olympiad": "igeo",
       "year": 2024
     },
@@ -268,8 +418,8 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-11T02:56:48.618504+00:00",
-    "studentCount": 14,
-    "edgeCount": 16
+    "generatedAt": "2026-09-18T06:30:50.792261+00:00",
+    "studentCount": 21,
+    "edgeCount": 27
   }
 }

@@ -1,6 +1,36 @@
 [
   {
+    "rawName": "Ana Byatriz Santos",
+    "olympiadId": "igeo",
+    "year": 2016,
+    "medal": null
+  },
+  {
+    "rawName": "Gabriella Abreu",
+    "olympiadId": "igeo",
+    "year": 2016,
+    "medal": null
+  },
+  {
+    "rawName": "José Carlos Castro da Silva",
+    "olympiadId": "igeo",
+    "year": 2016,
+    "medal": null
+  },
+  {
     "rawName": "Marina Hutzler",
+    "olympiadId": "igeo",
+    "year": 2018,
+    "medal": null
+  },
+  {
+    "rawName": "Lucas Caetano Filippo",
+    "olympiadId": "igeo",
+    "year": 2018,
+    "medal": null
+  },
+  {
+    "rawName": "Guilherme Lomba Shittine",
     "olympiadId": "igeo",
     "year": 2018,
     "medal": null
@@ -30,13 +60,25 @@
     "medal": null
   },
   {
-    "rawName": "Pablo Fernando de Azurza Nogueira Gomez",
+    "rawName": "Pablo Fernando de Azurza Nogueira e Gómez Alvarez",
     "olympiadId": "igeo",
     "year": 2024,
     "medal": "bronze"
   },
   {
     "rawName": "Gabriel Volpato Lima",
+    "olympiadId": "igeo",
+    "year": 2024,
+    "medal": null
+  },
+  {
+    "rawName": "Davi de Magalhães Vianna Navarro",
+    "olympiadId": "igeo",
+    "year": 2024,
+    "medal": null
+  },
+  {
+    "rawName": "Valentina Vale Farias Cruz",
     "olympiadId": "igeo",
     "year": 2024,
     "medal": null

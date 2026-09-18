@@ -8,16 +8,66 @@
   },
   "globalNotes": [
     "Editions attended: 2016, 2018, 2019, 2022-2026 (8; 2017 skipped, 2020 cancelled, 2021 online edition not entered). Brazilian medals: bronze 2024, 2025, 2026.",
-    "COVERAGE IS PARTIAL: iGeo's official results list only gold medallists, so Brazilian rosters depend on OBG (Olimpíada Brasileira de Geografia) posts and press. 2016 (three EEEP Salaberga Torquato students known by first name only), 2019 and 2023 have no usable names; 2018 has 1 of 4, 2024 2 of 4, 2026 3 of 4. OBG's old site (unifal-mg.edu.br/obgeografia) is gone and its Instagram is only partly indexed.",
-    "Selection via the OBG national final (UNIFAL-MG, later Unicamp): a written round, a paper and simulated tests in English."
+    "COVERAGE IS PARTIAL: iGeo's official results list only gold medallists, so Brazilian rosters depend on OBG (Olimpíada Brasileira de Geografia) posts, schools and press. 2019 and 2023 have no usable names; 2018 has 3 of 4 and 2026 3 of 4; 2016 (3 of 3), 2022, 2024 and 2025 are complete. OBG's old site (unifal-mg.edu.br/obgeografia) returns HTTP 410 and its Instagram is only partly indexed (anonymous visitors see the three newest posts).",
+    "TEAM SIZE: up to four students per country is the iGeo rule (OBG's own page: 'equipes de quatro alunos e dois mentores'), but that is a cap, not evidence for a given year - the 2016 debut team was three. Edition-specific statements were found for 2016 (UNIFAL-MG and CREDE-01/SEDUC-CE, three students), 2018 (Comando Militar do Planalto), 2023 (Unicamp IG) and 2024 (FACEPE names all four); 2022, 2025 and 2026 rest on the OBG rosters already recorded. 2019 remains unverified.",
+    "Selection via the OBG national final (UNIFAL-MG, later Unicamp): a written round, a paper and simulated tests in English; travel depends on funding, so a year's team can be smaller than the rule allows."
   ],
   "years": [
     {
+      "year": 2016,
+      "namingSourceCount": 5,
+      "independentPrimaryCount": 5,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2016-iGeo-Results.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+        },
+        {
+          "url": "https://web.archive.org/web/20251109131732/https://www.unifal-mg.edu.br/comunicacao/universidadeparticipadeolimpiadainternacionaldegeografia",
+          "domain": "unifal-mg.edu.br (Wayback)",
+          "cls": "primary",
+          "coverage": "full (3 of 3) + team size (3)",
+          "confirms": "UNIFAL-MG press office, 2016-09-01 (the team leader's own university): 'A equipe do Brasil foi formada pelo professor ... Clibson Alves dos Santos, pelo professor Roberto Greco da ... Unicamp e por três alunos do ensino médio ... sendo eles: Ana Byatriz Santos, Gabriella Abreu e José Carlos Castro da Silva (Escola Estadual Ensino Profissional Salaberga Torquato Gomes de Matos, Maranguape - Ceará)' - the only source with surnames; also 'primeira vez que uma equipe brasileira participa', no medals",
+          "needle": "Ana Byatriz Santos"
+        },
+        {
+          "url": "https://web.archive.org/web/20160904154252/http://www.crede01.seduc.ce.gov.br/index.php/listanoticias/noticias-anteriores/3082-alunos-da-escola-profissional-salaberga-torquato-conquistam-vaga-na-olimpiada-internacional-de-geografia-em-pequim",
+          "domain": "crede01.seduc.ce.gov.br (Wayback)",
+          "cls": "primary",
+          "coverage": "3 students (given names) + team size (3)",
+          "confirms": "CREDE 01 / SEDUC-CE, 2016-08-18: 'Os alunos José Carlos, Ana Byatriz e Gabriella Vital, da Escola Estadual de Educação Profissional (EEEP) Salaberga Torquato, localizada em Maranguape, estão em Pequim' and 'Os participantes são os únicos estudantes brasileiros na Olimpíada' - team size, given names only",
+          "needle": "Gabriella Vital"
+        },
+        {
+          "url": "https://salaberga.com/salaberga/portalsalaberga/app/main/",
+          "domain": "salaberga.com",
+          "cls": "primary",
+          "coverage": "3 students, first names only",
+          "confirms": "EEEP Salaberga Torquato Gomes de Matos (Ceará) school portal: 'Nossos estudantes José Carlos, Ana Byatriz e Gabriella Vital representaram o Brasil na 13ª Olimpíada Internacional de Geografia em Pequim, China' - first names only",
+          "needle": "Gabriella Vital"
+        },
+        {
+          "url": "https://www.unifal-mg.edu.br/geografia/historico-de-noticias/",
+          "domain": "unifal-mg.edu.br",
+          "cls": "primary",
+          "coverage": "event + team leader (no names)",
+          "confirms": "UNIFAL-MG Geography course news archive (live): 'O Prof. Dr. Clibson Alves dos Santos foi um dos representantes do Brasil na 13ª Olimpíada Internacional de Geografia, que ocorreu entre os dias 16 e 22 de agosto de 2016, em Pequim na China' plus the link to the full press-office item - no student names",
+          "needle": "Clibson Alves dos Santos foi um dos representantes do Brasil"
+        }
+      ],
+      "note": "Beijing (debut, 16-22 Aug), roster resolved 2026-09-17. The three students all came from one school, EEEP Salaberga Torquato Gomes de Matos (Maranguape-CE), and were selected through the 2nd OBG 2016 (35,917 students / 1,184 schools); the team leaders were Clibson Alves dos Santos (UNIFAL-MG) and Roberto Greco (Unicamp), and CNPq paid for the trip. TEAM SIZE 3, not 4, stated twice: UNIFAL-MG's press office ('por três alunos do ensino médio', against a cap the same item gives as 'uma equipe de até 4 alunos e 2 professores') and CREDE 01 / SEDUC-CE ('Os participantes são os únicos estudantes brasileiros na Olimpíada'). No medals ('apesar dos alunos não terem conquistado medalhas'). TRAP 1: surnames exist in exactly one source - UNIFAL-MG - and its live URL (unifal-mg.edu.br/comunicacao/universidadeparticipadeolimpiadainternacionaldegeografia) now returns HTTP 500 from a Drupal/MySQL disk error, so the Wayback capture is cited; the live UNIFAL-MG Geography news archive is kept as the pointer to it. TRAP 2: the third student's surname is UNRESOLVED - UNIFAL-MG writes 'Gabriella Abreu' while CREDE-01 and the school both write 'Gabriella Vital'; the record uses the UNIFAL-MG form because that item is the one that gives surnames for the whole team, and the two forms were NOT merged. TRAP 3: CREDE-01's archived page is entity-encoded (&uacute; etc.), so only accent-free needles verify against it. TRAP 4: the old OBG site obgeografia.org is alive (HTTP 200, not 410 - that is the later unifal-mg.edu.br/obgeografia address) but its 2015/2016/2017 edition pages carry no international roster."
+    },
+    {
       "year": 2018,
-      "namingSourceCount": 2,
-      "independentPrimaryCount": 2,
-      "meetsThreeNaming": false,
-      "meetsThreePrimary": false,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
       "sources": [
         {
           "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2018-iGeo-Results.pdf",
@@ -32,9 +82,40 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Colégio Núcleo (Recife): Marina Hutzler, 1st in Brazil, went to iGeo 2018 (Quebec) - text via search snippet"
+        },
+        {
+          "url": "http://www.cmp.eb.mil.br/index.php/cmp-noticias/344-alunos-do-cmb-sao-destaques-em-olimpiada-de-geografia",
+          "domain": "cmp.eb.mil.br",
+          "cls": "primary",
+          "coverage": "2 students + team size (4)",
+          "confirms": "Comando Militar do Planalto (2018-06-05, host now refuses connections; text via search index): Lucas Caetano Filippo and Guilherme Lomba Shittine (Colégio Militar de Brasília, 3rd year) selected for the four-student team representing Brazil at the iGeo in Quebec - the only team-size statement found for 2018"
+        },
+        {
+          "url": "https://www.calameo.com/books/005823758ff8f3195c5f2",
+          "domain": "calameo.com",
+          "cls": "primary",
+          "coverage": "2 students + team size (4), pre-event",
+          "confirms": "Jornal O Garanca no. 2 (Colegio Militar de Brasilia internal newsletter, Aug 2018), p. 3 'Alunos do CMB sao destaque em Olimpiada Brasileira de Geografia': Lucas Caetano Filippo and Guilherme Lomba, both 3o A/EM, 'foram selecionados para compor a equipe de quatro estudantes que representara o Brasil na Olimpiada Internacional de Geografia, a ser realizada em Quebec - Canada'; OBG 2017 gold medallists who sat the English-language international selection in 2018 - read in the Calameo viewer 2026-09-17 (pre-event wording; the text is not exposed to plain fetches)"
         }
       ],
-      "note": "Only Marina Hutzler documented (Colégio Núcleo post); the other three unknown."
+      "note": "Quebec City. Marina Hutzler (Colégio Núcleo) plus Lucas Caetano Filippo and Guilherme Lomba Shittine (Colégio Militar de Brasília), from the Comando Militar do Planalto item of 2018-06-05; that item also states the team had four students, which is the team-size evidence for 2018. TRAP: every Brazilian-Army copy of that item is unreachable - cmp.eb.mil.br resets the connection, depa.eb.mil.br/noticias/227-... returns 403 and eb.mil.br/.../content/id/8928063 is a 404 with no Wayback capture; the text is only readable through the search index. VERIFIED 2026-09-17 in the Calameo viewer: the CMB newsletter O Garanca no. 2 (Aug 2018, p. 3) prints the same story - both names and 'equipe de quatro estudantes' - so the two CMB names no longer rest on a snippet alone, though both CMB sources are pre-event selection announcements (no post-event source confirms they travelled). Fourth member unknown."
+    },
+    {
+      "year": 2019,
+      "namingSourceCount": 1,
+      "independentPrimaryCount": 1,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2019-iGeo-Results.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+        }
+      ],
+      "note": "Hong Kong. Nothing beyond the official results (gold medallists + team rankings, 43 teams / 166 students, no Brazilian entry): no Brazilian name and no team-size statement was found - OBG's old site (unifal-mg.edu.br/obgeografia) now returns HTTP 410, the host site's participant booklets do not list delegations, and no Brazilian press item on the 2019 team surfaced."
     },
     {
       "year": 2022,
@@ -62,9 +143,35 @@
       "note": "Online edition (Paris). Four short-form names from OBG's video post."
     },
     {
+      "year": 2023,
+      "namingSourceCount": 2,
+      "independentPrimaryCount": 2,
+      "meetsThreeNaming": false,
+      "meetsThreePrimary": false,
+      "sources": [
+        {
+          "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2023-iGeo-Results.pdf",
+          "domain": "geoolympiad.org",
+          "cls": "official",
+          "coverage": "gold medallists + team ranking",
+          "confirms": "iGeo 2023 official results: 45 teams / 177 students; gold medallists and team rankings only, but Brazil appears under 'Favourite poster selected by students' - positive proof a Brazilian team competed",
+          "needle": "Tunisia, Brazil"
+        },
+        {
+          "url": "https://portal.ige.unicamp.br/news/2022-12/unicamp-recebe-final-da-olimpiada-geobrasil",
+          "domain": "portal.ige.unicamp.br",
+          "cls": "primary",
+          "coverage": "team size (4), pre-event",
+          "confirms": "Unicamp IG (co-organizer of the national final): the English test would be one of the marks used 'para a seleção de quatro estudantes que vão formar a equipe brasileira na 19ª Olimpíada Internacional de Geografia' in Bandung 2023 - team size, no names",
+          "needle": "quatro estudantes"
+        }
+      ],
+      "note": "Bandung. Still no names. Two things were settled: Brazil definitely competed (the official results name Brazil among the 'favourite poster' winners) and the team was four students (Unicamp IG, co-organizer of the national final, on the selection that followed the December 2022 final)."
+    },
+    {
       "year": 2024,
-      "namingSourceCount": 3,
-      "independentPrimaryCount": 3,
+      "namingSourceCount": 4,
+      "independentPrimaryCount": 4,
       "meetsThreeNaming": true,
       "meetsThreePrimary": true,
       "sources": [
@@ -80,7 +187,7 @@
           "domain": "tribunaonline.com.br",
           "cls": "primary",
           "coverage": "2 of 4",
-          "confirms": "A Tribuna (ES): Pablo Fernando de Azurza Nogueira Gomez bronze (first Brazilian/South American iGeo medal), Gabriel Volpato Lima on the team; two more (CE, BH) unnamed",
+          "confirms": "A Tribuna (ES): Pablo Fernando de Azurza Nogueira e Gómez Alvarez bronze (first Brazilian/South American iGeo medal, short form 'Nogueira Gomez'), Gabriel Volpato Lima on the team; two more (CE, BH) unnamed",
           "needle": "Azurza"
         },
         {
@@ -90,9 +197,17 @@
           "coverage": "one student",
           "confirms": "NOIC interview with the 2024 bronze medallist ('Pablo Alvarez')",
           "needle": "primeiro brasileiro medalhista"
+        },
+        {
+          "url": "https://facepevirtual.org.br/facepe/equipe-brasileira-conquista-medalha-de-bronze-na-olimpiada-internacional-de-geografia-na-irlanda/",
+          "domain": "facepevirtual.org.br",
+          "cls": "primary",
+          "coverage": "full (4 of 4) + team size",
+          "confirms": "FACEPE/UNIFAL-MG (the OBG's support foundation): 'A equipe brasileira foi composta pelos estudantes Gabriel Volpato Lima, Pablo Fernando de Azurza Nogueira e Gómez Alvarez, Davi de Magalhães Vianna Navarro e Valentina Vale Farias Cruz' - full team of four plus team leaders",
+          "needle": "Valentina Vale Farias Cruz"
         }
       ],
-      "note": "Dublin. First Brazilian iGeo medal (bronze, Pablo Fernando de Azurza Nogueira Gomez); Gabriel Volpato Lima also from Colégio FAESA (Vitória); the CE and BH members are unnamed in the sources found."
+      "note": "Dublin/Maynooth. First Brazilian iGeo medal (bronze, Pablo Fernando de Azurza Nogueira e Gómez Alvarez - A Tribuna's 'Pablo Fernando de Azurza Nogueira Gomez' and NOIC's 'Pablo Alvarez' are short forms). Roster completed 2026-09-16 from FACEPE/UNIFAL-MG, which names the full team of four and so also settles the team size: the two members A Tribuna left unnamed are Davi de Magalhães Vianna Navarro (Colégio Militar de Belo Horizonte) and Valentina Vale Farias Cruz (Colégio Militar de Fortaleza); Gabriel Volpato Lima and Pablo are from Colégio FAESA (Vitória)."
     },
     {
       "year": 2025,
@@ -164,7 +279,7 @@
           "needle": "Theodora"
         }
       ],
-      "note": "Istanbul (10-17 Aug 2026). Tiago Sales (Colégio Militar de Fortaleza) bronze - Brazil's third medal; Bianca Ribas and Theodora Flor documented pre-event; the fourth member unnamed. OBG's results post not yet found."
+      "note": "Istanbul (10-17 Aug 2026). Tiago Sales (Colégio Militar de Fortaleza) bronze - Brazil's third medal; Bianca Ribas (PB) and Theodora Flor (SC) documented pre-event; the fourth member is still unnamed. Re-checked 2026-09-16: OBG's Instagram has posted no results or roster item (its three visible posts are the 10/08 opening, the 21/08 wrap-up 'Chegamos ao fim da iGeo 2026' with no names, and OBG-2026 national results), FACEPE has no 2026 article yet, and no press item names a fourth state's student. FACEPE's 2024-style release is the best remaining lead."
     }
   ]
 }

@@ -1,11 +1,51 @@
 {
-  "checkedAt": "2026-09-11T03:00:30+00:00",
+  "checkedAt": "2026-09-18T06:30:50+00:00",
   "summary": {
-    "PASS-STATUS": 8,
-    "PASS": 5,
-    "FAIL-HTTP": 1
+    "PASS-STATUS": 11,
+    "PASS": 12,
+    "FAIL-HTTP": 2
   },
   "results": [
+    {
+      "year": 2016,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2016-iGeo-Results.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20251109131732/https://www.unifal-mg.edu.br/comunicacao/universidadeparticipadeolimpiadainternacionaldegeografia",
+      "domain": "unifal-mg.edu.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Ana Byatriz Santos'"
+    },
+    {
+      "year": 2016,
+      "url": "https://web.archive.org/web/20160904154252/http://www.crede01.seduc.ce.gov.br/index.php/listanoticias/noticias-anteriores/3082-alunos-da-escola-profissional-salaberga-torquato-conquistam-vaga-na-olimpiada-internacional-de-geografia-em-pequim",
+      "domain": "crede01.seduc.ce.gov.br (Wayback)",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriella Vital'"
+    },
+    {
+      "year": 2016,
+      "url": "https://salaberga.com/salaberga/portalsalaberga/app/main/",
+      "domain": "salaberga.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Gabriella Vital'"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.unifal-mg.edu.br/geografia/historico-de-noticias/",
+      "domain": "unifal-mg.edu.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Clibson Alves dos Santos foi um dos representantes do Brasil'"
+    },
     {
       "year": 2018,
       "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2018-iGeo-Results.pdf",
@@ -19,6 +59,30 @@
       "url": "https://www.facebook.com/colegionucleo/photos/temos-mais-um-aluno-n%C3%BAcleo-provando-seu-conhecimento-para-o-mundo-marina-hutzler/1763515040405071",
       "domain": "facebook.com",
       "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2018,
+      "url": "http://www.cmp.eb.mil.br/index.php/cmp-noticias/344-alunos-do-cmb-sao-destaques-em-olimpiada-de-geografia",
+      "domain": "cmp.eb.mil.br",
+      "cls": "primary",
+      "status": "FAIL-HTTP",
+      "detail": "ConnectionResetError: [Errno 54] Connection reset by peer"
+    },
+    {
+      "year": 2018,
+      "url": "https://www.calameo.com/books/005823758ff8f3195c5f2",
+      "domain": "calameo.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2019,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2019-iGeo-Results.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
       "status": "PASS-STATUS",
       "detail": "200 (no content assertion)"
     },
@@ -37,6 +101,22 @@
       "cls": "primary",
       "status": "PASS",
       "detail": "needle 'Lauren'"
+    },
+    {
+      "year": 2023,
+      "url": "https://geoolympiad.org/wp-content/uploads/2025/04/2023-iGeo-Results.pdf",
+      "domain": "geoolympiad.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Tunisia, Brazil'"
+    },
+    {
+      "year": 2023,
+      "url": "https://portal.ige.unicamp.br/news/2022-12/unicamp-recebe-final-da-olimpiada-geobrasil",
+      "domain": "portal.ige.unicamp.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'quatro estudantes'"
     },
     {
       "year": 2024,
@@ -61,6 +141,14 @@
       "cls": "primary",
       "status": "PASS",
       "detail": "needle 'primeiro brasileiro medalhista'"
+    },
+    {
+      "year": 2024,
+      "url": "https://facepevirtual.org.br/facepe/equipe-brasileira-conquista-medalha-de-bronze-na-olimpiada-internacional-de-geografia-na-irlanda/",
+      "domain": "facepevirtual.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Valentina Vale Farias Cruz'"
     },
     {
       "year": 2025,
