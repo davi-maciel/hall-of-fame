@@ -110,6 +110,9 @@ tr.detail td {
 .sources a:hover { color: var(--text); }
 
 footer { padding: 8px 24px 28px; color: var(--text-3); font-size: 12px; max-width: 900px; }
+/* edition sources that do not name the person: muted, smaller */
+.sources .src-team { font-size: 11px; opacity: 0.72; }
+.sources .src-team a { color: var(--text-3); }
 footer code { font-size: 11px; }
 /* olympiad multi-select */
 .msel { position: relative; display: inline-block; }

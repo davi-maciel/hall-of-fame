@@ -87,7 +87,13 @@ async function boot() {
     </tr>`;
   }).join("");
 
-  // Fontes section: per participation, the corroborating URLs for that edition
+  // Fontes section: per participation, the corroborating URLs for that edition.
+  // Links whose page names this person (s.p, from the name-presence check) come
+  // first; the edition's other links follow, muted, as "fontes da edição".
+  // Without the check (no chk fields) every link is shown the old way.
+  const link = (s) => `<a href="${s.u}" target="_blank" rel="noopener" title="${(s.c || "").replace(/"/g, "&quot;")}">${s.d}</a>`;
+  const SEP = '<span class="sep"> · </span>';
+  const TEAM_TITLE = "Fontes desta edição em que o nome desta pessoa não foi encontrado (ou não pôde ser verificado): documentam a equipe/edição, não a pessoa.";
   const lines = [];
   const datasetLevel = new Map(); // olympiad -> entries (fallback "*")
   for (const x of person.participations) {
@@ -96,16 +102,18 @@ async function boot() {
     if (forOl["*"]) { datasetLevel.set(x.olympiad, forOl["*"]); continue; }
     const entries = forOl[String(x.year)];
     if (!entries || !entries.length) continue;
-    const links = entries
-      .map((s) => `<a href="${s.u}" target="_blank" rel="noopener" title="${(s.c || "").replace(/"/g, "&quot;")}">${s.d}</a>`)
-      .join('<span class="sep"> · </span>');
+    const checked = entries.some((s) => s.chk);
+    const named = checked ? entries.filter((s) => (s.p || []).includes(person.id)) : entries;
+    const team = checked ? entries.filter((s) => !named.includes(s)) : [];
+    let links = named.map(link).join(SEP);
+    if (team.length) {
+      links += (links ? " " : "") +
+        `<span class="src-team" title="${TEAM_TITLE}">fontes da edição: ${team.map(link).join(SEP)}</span>`;
+    }
     lines.push(`<p><span class="src-key">${x.year} ${OL.olympiads[x.olympiad].code}</span> ${links}</p>`);
   }
   for (const [ol, entries] of datasetLevel) {
-    const links = entries
-      .map((s) => `<a href="${s.u}" target="_blank" rel="noopener" title="${(s.c || "").replace(/"/g, "&quot;")}">${s.d}</a>`)
-      .join('<span class="sep"> · </span>');
-    lines.push(`<p><span class="src-key">${OL.olympiads[ol].code}</span> ${links}</p>`);
+    lines.push(`<p><span class="src-key">${OL.olympiads[ol].code}</span> ${entries.map(link).join(SEP)}</p>`);
   }
   if (lines.length) {
     $("#p-sources").hidden = false;

@@ -6,7 +6,8 @@ Static, no build step, no dependencies. Vanilla HTML/CSS/JS.
 
 ```bash
 python3 site/scripts/build_people.py   # regenerate data/people.json from the olympiad folders
-python3 site/scripts/build_sources.py  # regenerate data/sources.json from corroboration trails
+python3 site/scripts/check_source_names.py  # (slow, cached) which people each source URL names -> data/source_names.json
+python3 site/scripts/build_sources.py  # regenerate data/sources.json from corroboration trails (+ source_names.json)
 cd site && python3 -m http.server 8741 # then open http://localhost:8741/
 ```
 
@@ -35,6 +36,12 @@ cd site && python3 -m http.server 8741 # then open http://localhost:8741/
 scripts/build_people.py   entity resolution: all */src/data/graph.json -> data/people.json
                           (unified slugifier; prints every multi-variant merge for review)
 scripts/aliases.json      cross-dataset identity fixes (e.g. Cindy Yushi/Yuchi Tsai)
+scripts/check_source_names.py  fetches every corroboration URL and records which roster members
+                          its text names (full / firstlast / variant / surname / short) -> data/source_names.json
+                          (GENERATED); build_sources.py folds it into sources.json so the person
+                          page lists name-bearing links first and the edition's other links muted
+scripts/ocr_vision.swift  OCR helper (macOS Vision) that check_source_names.py compiles on demand
+                          to read sources with no text layer — scans and images — as table text
 data/people.json          GENERATED — canonical people + participations (1480 / 3007)
 data/olympiads.json       olympiad metadata: code, name, field, scope, palette colors
 index.html / style.css / app.js
