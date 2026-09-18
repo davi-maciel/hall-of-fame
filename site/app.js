@@ -275,6 +275,10 @@ function render() {
   renderHead();
   renderBody(rows);
   const n = rows.length;
+  $("#empty").hidden = n > 0;
+  $("#empty-text").textContent = state.view === "people"
+    ? "Nenhum estudante encontrado com esses filtros."
+    : "Nenhuma participação encontrada com esses filtros.";
   $("#result-line").innerHTML =
     state.view === "people"
       ? `${n} estudante${n === 1 ? "" : "s"}<span class="hint"> — clique em uma linha para abrir a página do estudante; clique nos cabeçalhos para ordenar</span>`
@@ -426,6 +430,7 @@ function buildControls() {
     syncOl();
     render();
   });
+  $("#empty-clear").addEventListener("click", () => $("#clear").click());
   $("#view-people").addEventListener("click", () => setView("people"));
   $("#view-parts").addEventListener("click", () => setView("parts"));
   $("#sort-m").addEventListener("change", (e) => {
