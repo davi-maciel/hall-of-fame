@@ -573,10 +573,10 @@
         }
       ]
     },
-    "pedro-pompeu-brasil-carneiro": {
-      "id": "pedro-pompeu-brasil-carneiro",
-      "name": "Pedro Pompeu Brasil Carneiro",
-      "searchKey": "pedro pompeu brasil carneiro",
+    "pedro-pompeu-de-sousa-brasil-carneiro": {
+      "id": "pedro-pompeu-de-sousa-brasil-carneiro",
+      "name": "Pedro Pompeu de Sousa Brasil Carneiro",
+      "searchKey": "pedro pompeu de sousa brasil carneiro",
       "participations": [
         {
           "olympiad": "ioaa",
@@ -1894,7 +1894,7 @@
     },
     {
       "source": "bruno-gorresen-mello",
-      "target": "pedro-pompeu-brasil-carneiro",
+      "target": "pedro-pompeu-de-sousa-brasil-carneiro",
       "olympiad": "ioaa",
       "year": 2017
     },
@@ -1912,7 +1912,7 @@
     },
     {
       "source": "joao-vitor-guerreiro-dias",
-      "target": "pedro-pompeu-brasil-carneiro",
+      "target": "pedro-pompeu-de-sousa-brasil-carneiro",
       "olympiad": "ioaa",
       "year": 2017
     },
@@ -1924,7 +1924,7 @@
     },
     {
       "source": "nathan-luiz-bezerra-martins",
-      "target": "pedro-pompeu-brasil-carneiro",
+      "target": "pedro-pompeu-de-sousa-brasil-carneiro",
       "olympiad": "ioaa",
       "year": 2017
     },
@@ -1935,7 +1935,7 @@
       "year": 2017
     },
     {
-      "source": "pedro-pompeu-brasil-carneiro",
+      "source": "pedro-pompeu-de-sousa-brasil-carneiro",
       "target": "vinicius-azevedo-dos-santos",
       "olympiad": "ioaa",
       "year": 2017
@@ -2842,7 +2842,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-15T04:21:22.792380+00:00",
+    "generatedAt": "2026-09-24T05:50:47.098590+00:00",
     "studentCount": 88,
     "edgeCount": 282
   }

@@ -73,6 +73,9 @@ ALIASES = {
     # Joao Victor Moreira Pimentel - 2017 short form. (Distinct from the 2009
     # contestant Joao Victor Magalhaes Caminha, who is kept separate.)
     "joao-victor-pimentel": "joao-victor-moreira-pimentel",
+    # Thalys Sampaio Rodrigues - the official 2009 list prints "Thalys
+    # Rodrigues"; the raw file carries the full form (2026-09-23).
+    "thalys-rodrigues": "thalys-sampaio-rodrigues",
 }
 
 # Preferred display name per canonical slug. Used when a person has multiple

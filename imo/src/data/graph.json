@@ -97,10 +97,10 @@
         }
       ]
     },
-    "alexandre-chuva": {
-      "id": "alexandre-chuva",
-      "name": "Alexandre Chuva",
-      "searchKey": "alexandre chuva",
+    "alexandre-carlos-smith-chuva": {
+      "id": "alexandre-carlos-smith-chuva",
+      "name": "Alexandre Carlos Smith Chuva",
+      "searchKey": "alexandre carlos smith chuva",
       "participations": [
         {
           "olympiad": "imo",
@@ -292,10 +292,10 @@
         }
       ]
     },
-    "antonio-jose-madeira-domingues": {
-      "id": "antonio-jose-madeira-domingues",
-      "name": "Antonio José Madeira Domingues",
-      "searchKey": "antonio jose madeira domingues",
+    "antonio-jose-soares-madeira-domingues": {
+      "id": "antonio-jose-soares-madeira-domingues",
+      "name": "Antonio José Soares Madeira Domingues",
+      "searchKey": "antonio jose soares madeira domingues",
       "participations": [
         {
           "olympiad": "imo",
@@ -449,10 +449,10 @@
         }
       ]
     },
-    "daniel-augusto-t-vanzella": {
-      "id": "daniel-augusto-t-vanzella",
-      "name": "Daniel Augusto T. Vanzella",
-      "searchKey": "daniel augusto t. vanzella",
+    "daniel-augusto-turolla-vanzella": {
+      "id": "daniel-augusto-turolla-vanzella",
+      "name": "Daniel Augusto Turolla Vanzella",
+      "searchKey": "daniel augusto turolla vanzella",
       "participations": [
         {
           "olympiad": "imo",
@@ -833,10 +833,10 @@
         }
       ]
     },
-    "evandro-gouvea": {
-      "id": "evandro-gouvea",
-      "name": "Evandro Gouvêa",
-      "searchKey": "evandro gouvea",
+    "evandro-bacci-gouvea": {
+      "id": "evandro-bacci-gouvea",
+      "name": "Evandro Bacci Gouvêa",
+      "searchKey": "evandro bacci gouvea",
       "participations": [
         {
           "olympiad": "imo",
@@ -891,10 +891,10 @@
         }
       ]
     },
-    "fatima-luciana-da-rocha": {
-      "id": "fatima-luciana-da-rocha",
-      "name": "Fátima Luciana da Rocha",
-      "searchKey": "fatima luciana da rocha",
+    "fatima-luciana-ribeiro-da-rocha": {
+      "id": "fatima-luciana-ribeiro-da-rocha",
+      "name": "Fátima Luciana Ribeiro da Rocha",
+      "searchKey": "fatima luciana ribeiro da rocha",
       "participations": [
         {
           "olympiad": "imo",
@@ -1101,10 +1101,10 @@
         }
       ]
     },
-    "glauf-s-d-moreira-junior": {
-      "id": "glauf-s-d-moreira-junior",
-      "name": "Glauf S. D. Moreira Júnior",
-      "searchKey": "glauf s. d. moreira junior",
+    "glauf-sidney-duarte-moreira-junior": {
+      "id": "glauf-sidney-duarte-moreira-junior",
+      "name": "Glauf Sidney Duarte Moreira Júnior",
+      "searchKey": "glauf sidney duarte moreira junior",
       "participations": [
         {
           "olympiad": "imo",
@@ -1224,6 +1224,18 @@
         }
       ]
     },
+    "henrique-carlos-aires-mendes": {
+      "id": "henrique-carlos-aires-mendes",
+      "name": "Henrique Carlos Aires Mendes",
+      "searchKey": "henrique carlos aires mendes",
+      "participations": [
+        {
+          "olympiad": "imo",
+          "year": 1981,
+          "medal": null
+        }
+      ]
+    },
     "henrique-gasparini-fiuza-do-nascimento": {
       "id": "henrique-gasparini-fiuza-do-nascimento",
       "name": "Henrique Gasparini Fiúza Do Nascimento",
@@ -1238,18 +1250,6 @@
           "olympiad": "imo",
           "year": 2012,
           "medal": "bronze"
-        }
-      ]
-    },
-    "henrique-mendes": {
-      "id": "henrique-mendes",
-      "name": "Henrique Mendes",
-      "searchKey": "henrique mendes",
-      "participations": [
-        {
-          "olympiad": "imo",
-          "year": 1981,
-          "medal": null
         }
       ]
     },
@@ -2587,10 +2587,10 @@
         }
       ]
     },
-    "tadeu-alexandre-de-a-e-silva": {
-      "id": "tadeu-alexandre-de-a-e-silva",
-      "name": "Tadeu Alexandre de A. e Silva",
-      "searchKey": "tadeu alexandre de a. e silva",
+    "tadeu-alexandre-de-albuquerque-e-silva": {
+      "id": "tadeu-alexandre-de-albuquerque-e-silva",
+      "name": "Tadeu Alexandre de Albuquerque e Silva",
+      "searchKey": "tadeu alexandre de albuquerque e silva",
       "participations": [
         {
           "olympiad": "imo",
@@ -2823,50 +2823,50 @@
       "year": 1979
     },
     {
-      "source": "alexandre-chuva",
+      "source": "alexandre-carlos-smith-chuva",
       "target": "antonio-caldas-neto",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "alexandre-chuva",
-      "target": "antonio-jose-madeira-domingues",
+      "source": "alexandre-carlos-smith-chuva",
+      "target": "antonio-jose-soares-madeira-domingues",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "alexandre-chuva",
+      "source": "alexandre-carlos-smith-chuva",
       "target": "helder-wenceslau",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "alexandre-chuva",
-      "target": "henrique-mendes",
+      "source": "alexandre-carlos-smith-chuva",
+      "target": "henrique-carlos-aires-mendes",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "alexandre-chuva",
+      "source": "alexandre-carlos-smith-chuva",
       "target": "luis-cardoso",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "alexandre-chuva",
+      "source": "alexandre-carlos-smith-chuva",
       "target": "nicolau-corcao-saldanha",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "alexandre-chuva",
+      "source": "alexandre-carlos-smith-chuva",
       "target": "tomas-pelosi-filho",
       "olympiad": "imo",
       "year": 1981
     },
     {
       "source": "antonio-caldas-neto",
-      "target": "antonio-jose-madeira-domingues",
+      "target": "antonio-jose-soares-madeira-domingues",
       "olympiad": "imo",
       "year": 1981
     },
@@ -2878,7 +2878,7 @@
     },
     {
       "source": "antonio-caldas-neto",
-      "target": "henrique-mendes",
+      "target": "henrique-carlos-aires-mendes",
       "olympiad": "imo",
       "year": 1981
     },
@@ -2901,38 +2901,38 @@
       "year": 1981
     },
     {
-      "source": "antonio-jose-madeira-domingues",
+      "source": "antonio-jose-soares-madeira-domingues",
       "target": "helder-wenceslau",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "antonio-jose-madeira-domingues",
-      "target": "henrique-mendes",
+      "source": "antonio-jose-soares-madeira-domingues",
+      "target": "henrique-carlos-aires-mendes",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "antonio-jose-madeira-domingues",
+      "source": "antonio-jose-soares-madeira-domingues",
       "target": "luis-cardoso",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "antonio-jose-madeira-domingues",
+      "source": "antonio-jose-soares-madeira-domingues",
       "target": "nicolau-corcao-saldanha",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "antonio-jose-madeira-domingues",
+      "source": "antonio-jose-soares-madeira-domingues",
       "target": "tomas-pelosi-filho",
       "olympiad": "imo",
       "year": 1981
     },
     {
       "source": "helder-wenceslau",
-      "target": "henrique-mendes",
+      "target": "henrique-carlos-aires-mendes",
       "olympiad": "imo",
       "year": 1981
     },
@@ -2955,19 +2955,19 @@
       "year": 1981
     },
     {
-      "source": "henrique-mendes",
+      "source": "henrique-carlos-aires-mendes",
       "target": "luis-cardoso",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "henrique-mendes",
+      "source": "henrique-carlos-aires-mendes",
       "target": "nicolau-corcao-saldanha",
       "olympiad": "imo",
       "year": 1981
     },
     {
-      "source": "henrique-mendes",
+      "source": "henrique-carlos-aires-mendes",
       "target": "tomas-pelosi-filho",
       "olympiad": "imo",
       "year": 1981
@@ -3304,7 +3304,7 @@
     },
     {
       "source": "alexandre-de-azevedo-palmeira-filho",
-      "target": "evandro-gouvea",
+      "target": "evandro-bacci-gouvea",
       "olympiad": "imo",
       "year": 1986
     },
@@ -3328,7 +3328,7 @@
     },
     {
       "source": "andre-luiz-viana-malta",
-      "target": "evandro-gouvea",
+      "target": "evandro-bacci-gouvea",
       "olympiad": "imo",
       "year": 1986
     },
@@ -3351,19 +3351,19 @@
       "year": 1986
     },
     {
-      "source": "evandro-gouvea",
+      "source": "evandro-bacci-gouvea",
       "target": "marcelo-ricardo-xavier-de-mendonca",
       "olympiad": "imo",
       "year": 1986
     },
     {
-      "source": "evandro-gouvea",
+      "source": "evandro-bacci-gouvea",
       "target": "marcos-de-castro-pacitti",
       "olympiad": "imo",
       "year": 1986
     },
     {
-      "source": "evandro-gouvea",
+      "source": "evandro-bacci-gouvea",
       "target": "ralph-costa-teixeira",
       "olympiad": "imo",
       "year": 1986
@@ -3592,7 +3592,7 @@
     },
     {
       "source": "alexandre-xavier-iwata-de-carvalho",
-      "target": "tadeu-alexandre-de-a-e-silva",
+      "target": "tadeu-alexandre-de-albuquerque-e-silva",
       "olympiad": "imo",
       "year": 1989
     },
@@ -3616,7 +3616,7 @@
     },
     {
       "source": "carlos-gustavo-t-de-a-moreira",
-      "target": "tadeu-alexandre-de-a-e-silva",
+      "target": "tadeu-alexandre-de-albuquerque-e-silva",
       "olympiad": "imo",
       "year": 1989
     },
@@ -3634,7 +3634,7 @@
     },
     {
       "source": "edson-roberto-abe",
-      "target": "tadeu-alexandre-de-a-e-silva",
+      "target": "tadeu-alexandre-de-albuquerque-e-silva",
       "olympiad": "imo",
       "year": 1989
     },
@@ -3646,13 +3646,13 @@
     },
     {
       "source": "marcus-andre-de-carvalho-torres",
-      "target": "tadeu-alexandre-de-a-e-silva",
+      "target": "tadeu-alexandre-de-albuquerque-e-silva",
       "olympiad": "imo",
       "year": 1989
     },
     {
       "source": "shauy-hsu-pin",
-      "target": "tadeu-alexandre-de-a-e-silva",
+      "target": "tadeu-alexandre-de-albuquerque-e-silva",
       "olympiad": "imo",
       "year": 1989
     },
@@ -3844,7 +3844,7 @@
     },
     {
       "source": "daniel-victor-tausk",
-      "target": "fatima-luciana-da-rocha",
+      "target": "fatima-luciana-ribeiro-da-rocha",
       "olympiad": "imo",
       "year": 1992
     },
@@ -3868,7 +3868,7 @@
     },
     {
       "source": "emerson-ferreira-leite",
-      "target": "fatima-luciana-da-rocha",
+      "target": "fatima-luciana-ribeiro-da-rocha",
       "olympiad": "imo",
       "year": 1992
     },
@@ -3891,19 +3891,19 @@
       "year": 1992
     },
     {
-      "source": "fatima-luciana-da-rocha",
+      "source": "fatima-luciana-ribeiro-da-rocha",
       "target": "marcio-luis-almeida-dos-anjos",
       "olympiad": "imo",
       "year": 1992
     },
     {
-      "source": "fatima-luciana-da-rocha",
+      "source": "fatima-luciana-ribeiro-da-rocha",
       "target": "renato-de-o-caldas-madeira",
       "olympiad": "imo",
       "year": 1992
     },
     {
-      "source": "fatima-luciana-da-rocha",
+      "source": "fatima-luciana-ribeiro-da-rocha",
       "target": "yuke-zhao",
       "olympiad": "imo",
       "year": 1992
@@ -3927,31 +3927,31 @@
       "year": 1992
     },
     {
-      "source": "daniel-augusto-t-vanzella",
+      "source": "daniel-augusto-turolla-vanzella",
       "target": "douglas-vasconcelos-cancherini",
       "olympiad": "imo",
       "year": 1993
     },
     {
-      "source": "daniel-augusto-t-vanzella",
+      "source": "daniel-augusto-turolla-vanzella",
       "target": "felipe-bonfim-ferreira",
       "olympiad": "imo",
       "year": 1993
     },
     {
-      "source": "daniel-augusto-t-vanzella",
+      "source": "daniel-augusto-turolla-vanzella",
       "target": "pablo-emanuel",
       "olympiad": "imo",
       "year": 1993
     },
     {
-      "source": "daniel-augusto-t-vanzella",
+      "source": "daniel-augusto-turolla-vanzella",
       "target": "paulo-jose-bonfim-gomes-rodrigues",
       "olympiad": "imo",
       "year": 1993
     },
     {
-      "source": "daniel-augusto-t-vanzella",
+      "source": "daniel-augusto-turolla-vanzella",
       "target": "reinaldo-penharrubia-fagundes",
       "olympiad": "imo",
       "year": 1993
@@ -4324,7 +4324,7 @@
     },
     {
       "source": "daniele-veras-de-andrade",
-      "target": "glauf-s-d-moreira-junior",
+      "target": "glauf-sidney-duarte-moreira-junior",
       "olympiad": "imo",
       "year": 1998
     },
@@ -4348,7 +4348,7 @@
     },
     {
       "source": "emanuel-carneiro",
-      "target": "glauf-s-d-moreira-junior",
+      "target": "glauf-sidney-duarte-moreira-junior",
       "olympiad": "imo",
       "year": 1998
     },
@@ -4371,19 +4371,19 @@
       "year": 1998
     },
     {
-      "source": "glauf-s-d-moreira-junior",
+      "source": "glauf-sidney-duarte-moreira-junior",
       "target": "mauricio-pereira-carrari",
       "olympiad": "imo",
       "year": 1998
     },
     {
-      "source": "glauf-s-d-moreira-junior",
+      "source": "glauf-sidney-duarte-moreira-junior",
       "target": "murali-srinivasan-vajapeyan",
       "olympiad": "imo",
       "year": 1998
     },
     {
-      "source": "glauf-s-d-moreira-junior",
+      "source": "glauf-sidney-duarte-moreira-junior",
       "target": "rui-lopes-viana-filho",
       "olympiad": "imo",
       "year": 1998
@@ -6928,7 +6928,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-08-02T04:12:12Z",
+    "generatedAt": "2026-09-24T05:50:47Z",
     "studentCount": 195,
     "edgeCount": 694
   }

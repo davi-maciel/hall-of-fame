@@ -1,5 +1,5 @@
 {
-  "_comment": "Cross-dataset identity fixes for the site-level merge. slugAliases: variant -> canonical (slugs computed with the unified slugifier: diacritics stripped, apostrophes dropped). preferredNames: canonical slug -> display name override.",
+  "_comment": "Cross-dataset identity fixes for the site-level merge. slugAliases: variant -> canonical (slugs computed with the unified slugifier: diacritics stripped, apostrophes dropped). preferredNames: canonical slug -> display name override. expansionsRejected: person id -> why a longer name form seen on a source page was rejected; check_source_names.py skips these ids in its name-expansion candidates list.",
   "slugAliases": {
     "cindy-yuchi-tsai": "cindy-yushi-tsai",
     "thiago-r-bergamaschi": "thiago-bergamaschi",
@@ -67,7 +67,23 @@
     "igor-sousa-almeida": "igor-de-sousa-almeida",
     "lorenna-rodrigues-silva": "lorena-rodrigues-silva",
     "daniele-veras-de-andrade": "danielle-veras-de-andrade",
-    "antonio-fernando-costa": "antonio-fernando-costa-neto"
+    "antonio-fernando-costa": "antonio-fernando-costa-neto",
+    "alexandre-chuva": "alexandre-carlos-smith-chuva",
+    "antonio-jose-madeira-domingues": "antonio-jose-soares-madeira-domingues",
+    "henrique-mendes": "henrique-carlos-aires-mendes",
+    "evandro-gouvea": "evandro-bacci-gouvea",
+    "tadeu-alexandre-de-a-e-silva": "tadeu-alexandre-de-albuquerque-e-silva",
+    "fatima-luciana-da-rocha": "fatima-luciana-ribeiro-da-rocha",
+    "daniel-augusto-t-vanzella": "daniel-augusto-turolla-vanzella",
+    "glauf-s-d-moreira-junior": "glauf-sidney-duarte-moreira-junior",
+    "thalys-rodrigues": "thalys-sampaio-rodrigues",
+    "edans-sandes": "edans-flavius-de-oliveira-sandes",
+    "lincoln-silva": "lincoln-david-nery-e-silva",
+    "cesar-kawakami": "cesar-ryudi-kawakami",
+    "eduardo-ribas": "eduardo-augusto-ribas",
+    "pedro-pompeu-brasil-carneiro": "pedro-pompeu-de-sousa-brasil-carneiro",
+    "leonardo-lessa": "leonardo-almeida-lessa",
+    "arthur-neves-maia": "artur-neves-maia"
   },
   "preferredNames": {
     "cindy-yushi-tsai": "Cindy Yushi Tsai",
@@ -80,6 +96,17 @@
     "thiago-bergamaschi": "Thiago Ross-White Bergamaschi",
     "lorena-rodrigues-silva": "Lorena Rodrigues Silva",
     "danielle-veras-de-andrade": "Danielle Veras de Andrade"
+  },
+  "expansionsRejected": {
+    "marcio-luis-almeida-dos-anjos": "olimpiadascientificas.org prints 'Márcio Luis Almerida dos Anjos' (IMO 1992) — 'Almerida' is a typo for Almeida, not a fuller form (maintainer, 2026-09-23).",
+    "andre-luis-de-souza-neves": "the candidate (math.olympiaadid.ut.ee IMO 1996 mirror, 'André Luiz de Souza Neves') differs from the pool form only in the Luís/Luiz spelling of a name already held in full; nothing to expand (maintainer, 2026-09-23).",
+    "levi-magalhaes-pereira-castello-branco": "OBM prints Castelo; official IMO form kept (maintainer, 2026-09-23).",
+    "luiz-filipe-martins-ramos": "the blog candidate spells the given name Felipe; the official form Luiz Filipe is kept (maintainer, 2026-09-23).",
+    "pedro-seber-e-silva": "matcher artefact: the pt.wikipedia IOAA span 'Pedro Henrique Dias da Silva' is a different person (IOAA 2015), not a longer form of this one (maintainer, 2026-09-23).",
+    "renato-reboucas-de-medeiros": "ipho-unofficial prints 'Renato Reboulgas De Medeiros'; Reboulgas is a typo for Rebouças (maintainer, 2026-09-23).",
+    "ivan-guilhon-mitoso-rocha": "olimpiadascientificas.org prints 'Ivan Guilhom Mitoso Rocha'; the official IPhO form Guilhon is kept (maintainer, 2026-09-23).",
+    "filipe-rodrigues-de-almeida-lira": "olimpiadascientificas.org prints 'Filipe Rudrigues de Almeida Lira'; Rudrigues is a typo for Rodrigues (maintainer, 2026-09-23).",
+    "nicolas-meira-sinott-lopes": "NOIC writes 'Nicolas Meira Sinotti Lopes'; a spelling variant of a name already held in full, official form kept (maintainer, 2026-09-23)."
   },
   "_notes": [
     "cindy-yushi-tsai: IJSO 2007 sources (OBC/wiki/OLC majority) spell Yushi; the IOAA 2008 dataset has Yuchi (single Objetivo-style variant). Provisional canonical = Yushi; revisit if a primary document surfaces.",
@@ -113,7 +140,13 @@
     "IEO 2026 'Pedro Câmara' = Pedro Paraguassú Câmara (IYPT 2026 bronze): identified by the maintainer from the team photos (Bain & Company IEO delegation post DbYtUlrD356 vs IYPT Brasil 'Team Brazil IYPT 2026' post Dah8RhYP_iB, 2026-09-11); only overlapping name on the two rosters; IYPT (Zurich, 5–12 Jul) immediately preceded the IEO (Shenzhen, 12–20 Jul). Full name written into ieo/data/raw.",
     "Broad similar-name sweep (2026-09-12, any-shared-token blocking + given-name variants): merged Igor Sousa Almeida (IChO 2004) = Igor de Sousa Almeida (OIAQ 2004; names differ only by 'de' — gate now flags such pairs); Lorenna Rodrigues Silva (OIAQ 2003) = Lorena Rodrigues Silva (IChO 2003; IChO official/host spelling preferred); Daniele Veras de Andrade (IMO 1998) = Danielle Veras de Andrade (Cono Sur 1997; OBM and OLC spelling preferred). OIAQ 2024 'Guillermo Camilo Acevedo' rewritten in oiaq/data/raw as João Guilherme Camilo Azevedo (Roraima chemistry olympiad post: João Guilherme, Colégio Farias Brito, silver) and thereby merged with the IOL 2024/2025 entry. OIAQ 2024 'Alexandre de Almeida' rewritten as Alexandre Andrade de Almeida (Colégio Objetivo Integrado per Objetivo's EuPhO 2024 news; Roraima post: the OIAQ silver 'Alexandre' is from Colégio Objetivo SP).",
     "IMChO 2026 'Antonio Fernando Costa' (signed 60th protocol, suffix dropped) = Antonio Fernando Costa Neto of the IChO 2026 team: same year, same OBQ pipeline. Merged 2026-09-16.",
-    "IESO/iGeo roster pass (2026-09-16): no merges needed — the seven names added are all first appearances. iGeo 2024's medallist is now stored in FACEPE's fuller form 'Pablo Fernando de Azurza Nogueira e Gómez Alvarez' (A Tribuna's 'Nogueira Gomez' and NOIC's 'Pablo Alvarez' are the short forms). IESO 2015 'Antonio Vitor Côrtes' (IFES release) is the official list's Antônio Vítor Dehet-Many — same student, already recorded, not a second person."
+    "IESO/iGeo roster pass (2026-09-16): no merges needed — the seven names added are all first appearances. iGeo 2024's medallist is now stored in FACEPE's fuller form 'Pablo Fernando de Azurza Nogueira e Gómez Alvarez' (A Tribuna's 'Nogueira Gomez' and NOIC's 'Pablo Alvarez' are the short forms). IESO 2015 'Antonio Vitor Côrtes' (IFES release) is the official list's Antônio Vítor Dehet-Many — same student, already recorded, not a second person.",
+    "IMO display-name expansion batch, part 1 (maintainer decision 2026-09-23, rule 'display names = most complete documented form'): the olimpiadascientificas.org IMO roster page (http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/, already a corroboration source) prints fuller forms than the imo-official short forms. Adopted in imo/data/raw: Alexandre Chuva -> Alexandre Carlos Smith Chuva, Antonio José Madeira Domingues -> Antonio José Soares Madeira Domingues, Henrique Mendes -> Henrique Carlos Aires Mendes (all 1981), Evandro Gouvêa -> Evandro Bacci Gouvêa (1986), Tadeu Alexandre de A. e Silva -> Tadeu Alexandre de Albuquerque e Silva (1989). slugAliases keep the old short-form ids pointing at the new ones so no other dataset can split them.",
+    "IMO display-name expansion batch, part 2 (same page, same decision, 2026-09-23): Fátima Luciana da Rocha -> Fátima Luciana Ribeiro da Rocha (1992), Daniel Augusto T. Vanzella -> Daniel Augusto Turolla Vanzella (1993), Glauf S. D. Moreira Júnior -> Glauf Sidney Duarte Moreira Júnior (1998; the page prints the suffix as Júnior and the Rioplatense 1997 row still carries the short form, which the alias folds in). Three candidates were rejected and recorded in expansionsRejected: Márcio Luis Almeida dos Anjos (page typo 'Almerida'), André Luís de Souza Neves (Luís/Luiz spelling only) and Levi Magalhães Pereira Castello Branco (OBM prints Castelo; the official IMO form is kept).",
+    "Display-name expansion batch, part 3 (IChO/IOI, same maintainer decision, 2026-09-23): IChO 2009 'Thalys Rodrigues' -> Thalys Sampaio Rodrigues (quimica.com.br's report on the 41st IChO delegation); IOI 2001 'Edans Sandes' -> Edans Flavius de Oliveira Sandes, IOI 2001 'Lincoln Silva' -> Lincoln David Nery e Silva, IOI 2006-07 'César Kawakami' -> Cesar Ryudi Kawakami and IOI 2007 'Eduardo Ribas' -> Eduardo Augusto Ribas (all from Unicamp's OBI team page, https://olimpiada.ic.unicamp.br/competicoes/ioi/). The Unicamp page spells the third one 'Cesár'; that accent is a typo and is not adopted. stats.ioinformatics.org and the official IChO list keep the short forms, so the folder alias maps (ioi/scripts/build_graph.py, icho/scripts/build_graph.py) and these slugAliases both hold the old form.",
+    "Display-name expansion batch, part 4 (IOAA, same maintainer decision, 2026-09-23): IOAA 2017 'Pedro Pompeu Brasil Carneiro' -> Pedro Pompeu de Sousa Brasil Carneiro, the form pt.wikipedia's IOAA article, NOIC's team post and an OBQuimica annals PDF all print (Agência Brasil and Catraca Livre only shorten it to 'Pedro Pompeu Carneiro'), superseding the shortening recorded as correction 2 in ioaa/DATA_REPORT.md. Old slug kept in ioaa/scripts/aliases.json as well. NOT applied: 'Bruno Gorresen Mello' -> 'Bruno Görressen Mello' (pt.wikipedia alone; Agência Brasil, Catraca Livre, NOIC and the OBQuimica PDF all print Gorresen, and ioaa/DATA_REPORT.md correction 1 already overturned the umlaut form on that evidence) — left for the maintainer to confirm before reversing that decision. Three IOAA/IPhO candidates turned down into expansionsRejected: luiz-filipe-martins-ramos (blog spelling 'Felipe'), pedro-seber-e-silva (the matched span is another person, IOAA 2015) and renato-reboucas-de-medeiros ('Reboulgas' typo on ipho-unofficial).",
+    "Display-name expansion batch, part 5 (IPhO, same maintainer decision, 2026-09-23): IPhO 2016 'Leonardo Lessa' -> Leonardo Almeida Lessa, per SBF's IPhO 2016 medal announcement PDF (www1.fisica.org.br), which names the team in full (PDF text extraction glues it as 'Leonardo Almeid a Lessa'). Only the canonical ipho/data/raw/ipho.json is rewritten: the provenance scrape ipho-unofficial.json keeps the source spelling, and this slugAlias is the guard for any rebuild from it (same pattern as the 2026-08-25 small-world import). Three more IPhO-area candidates turned down into expansionsRejected: ivan-guilhon-mitoso-rocha (OLC 'Guilhom'), filipe-rodrigues-de-almeida-lira (OLC 'Rudrigues' typo) and nicolas-meira-sinott-lopes (NOIC 'Sinotti').",
+    "artur-neves-maia: OIAB 2022. The OBB 'Seletiva Internacional' list is the only source that writes Arthur; OBQ annals (2019 junior, 2020, 2021), OBF 2021, OBM 2017, OBMEP 2017, ONC and the Jornal do Commercio / Diario de Pernambuco coverage of April 2022 ('Artur Neves Maia, 17 anos', Colegio Madre de Deus, Recife) all print Artur. Canonical = Artur; slugAlias keeps the old arthur- slug resolvable (maintainer, 2026-09-23)."
   ],
   "hideVariants": [
     "eleni-claire-shor"

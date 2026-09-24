@@ -555,10 +555,10 @@
         }
       ]
     },
-    "leonardo-lessa": {
-      "id": "leonardo-lessa",
-      "name": "Leonardo Lessa",
-      "searchKey": "leonardo lessa",
+    "leonardo-almeida-lessa": {
+      "id": "leonardo-almeida-lessa",
+      "name": "Leonardo Almeida Lessa",
+      "searchKey": "leonardo almeida lessa",
       "participations": [
         {
           "olympiad": "ipho",
@@ -2444,7 +2444,7 @@
     },
     {
       "source": "diogo-correia-netto",
-      "target": "leonardo-lessa",
+      "target": "leonardo-almeida-lessa",
       "olympiad": "ipho",
       "year": 2016
     },
@@ -2462,7 +2462,7 @@
     },
     {
       "source": "henrique-zanarella",
-      "target": "leonardo-lessa",
+      "target": "leonardo-almeida-lessa",
       "olympiad": "ipho",
       "year": 2016
     },
@@ -2474,7 +2474,7 @@
     },
     {
       "source": "italo-silva",
-      "target": "leonardo-lessa",
+      "target": "leonardo-almeida-lessa",
       "olympiad": "ipho",
       "year": 2016
     },
@@ -2485,7 +2485,7 @@
       "year": 2016
     },
     {
-      "source": "leonardo-lessa",
+      "source": "leonardo-almeida-lessa",
       "target": "thiago-bergamaschi",
       "olympiad": "ipho",
       "year": 2016
@@ -3032,7 +3032,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-08-02T04:43:24.888517+00:00",
+    "generatedAt": "2026-09-24T05:50:47.121122+00:00",
     "studentCount": 121,
     "edgeCount": 256
   }

@@ -201,10 +201,10 @@
         }
       ]
     },
-    "cesar-kawakami": {
-      "id": "cesar-kawakami",
-      "name": "César Kawakami",
-      "searchKey": "cesar kawakami",
+    "cesar-ryudi-kawakami": {
+      "id": "cesar-ryudi-kawakami",
+      "name": "Cesar Ryudi Kawakami",
+      "searchKey": "cesar ryudi kawakami",
       "participations": [
         {
           "olympiad": "ioi",
@@ -295,10 +295,10 @@
         }
       ]
     },
-    "edans-sandes": {
-      "id": "edans-sandes",
-      "name": "Edans Sandes",
-      "searchKey": "edans sandes",
+    "edans-flavius-de-oliveira-sandes": {
+      "id": "edans-flavius-de-oliveira-sandes",
+      "name": "Edans Flavius de Oliveira Sandes",
+      "searchKey": "edans flavius de oliveira sandes",
       "participations": [
         {
           "olympiad": "ioi",
@@ -319,6 +319,18 @@
         }
       ]
     },
+    "eduardo-augusto-ribas": {
+      "id": "eduardo-augusto-ribas",
+      "name": "Eduardo Augusto Ribas",
+      "searchKey": "eduardo augusto ribas",
+      "participations": [
+        {
+          "olympiad": "ioi",
+          "year": 2007,
+          "medal": "bronze"
+        }
+      ]
+    },
     "eduardo-pereira-habkost": {
       "id": "eduardo-pereira-habkost",
       "name": "Eduardo Pereira Habkost",
@@ -332,18 +344,6 @@
         {
           "olympiad": "ioi",
           "year": 2001,
-          "medal": "bronze"
-        }
-      ]
-    },
-    "eduardo-ribas": {
-      "id": "eduardo-ribas",
-      "name": "Eduardo Ribas",
-      "searchKey": "eduardo ribas",
-      "participations": [
-        {
-          "olympiad": "ioi",
-          "year": 2007,
           "medal": "bronze"
         }
       ]
@@ -553,10 +553,10 @@
         }
       ]
     },
-    "lincoln-silva": {
-      "id": "lincoln-silva",
-      "name": "Lincoln Silva",
-      "searchKey": "lincoln silva",
+    "lincoln-david-nery-e-silva": {
+      "id": "lincoln-david-nery-e-silva",
+      "name": "Lincoln David Nery e Silva",
+      "searchKey": "lincoln david nery e silva",
       "participations": [
         {
           "olympiad": "ioi",
@@ -1154,7 +1154,7 @@
     },
     {
       "source": "davi-tassinari-de-figueiredo",
-      "target": "edans-sandes",
+      "target": "edans-flavius-de-oliveira-sandes",
       "olympiad": "ioi",
       "year": 2001
     },
@@ -1166,25 +1166,25 @@
     },
     {
       "source": "davi-tassinari-de-figueiredo",
-      "target": "lincoln-silva",
+      "target": "lincoln-david-nery-e-silva",
       "olympiad": "ioi",
       "year": 2001
     },
     {
-      "source": "edans-sandes",
+      "source": "edans-flavius-de-oliveira-sandes",
       "target": "eduardo-pereira-habkost",
       "olympiad": "ioi",
       "year": 2001
     },
     {
-      "source": "edans-sandes",
-      "target": "lincoln-silva",
+      "source": "edans-flavius-de-oliveira-sandes",
+      "target": "lincoln-david-nery-e-silva",
       "olympiad": "ioi",
       "year": 2001
     },
     {
       "source": "eduardo-pereira-habkost",
-      "target": "lincoln-silva",
+      "target": "lincoln-david-nery-e-silva",
       "olympiad": "ioi",
       "year": 2001
     },
@@ -1334,7 +1334,7 @@
     },
     {
       "source": "andre-linhares-rodrigues",
-      "target": "cesar-kawakami",
+      "target": "cesar-ryudi-kawakami",
       "olympiad": "ioi",
       "year": 2006
     },
@@ -1351,13 +1351,13 @@
       "year": 2006
     },
     {
-      "source": "cesar-kawakami",
+      "source": "cesar-ryudi-kawakami",
       "target": "gabriel-bujokas",
       "olympiad": "ioi",
       "year": 2006
     },
     {
-      "source": "cesar-kawakami",
+      "source": "cesar-ryudi-kawakami",
       "target": "paulo-roberto-almeida-costa",
       "olympiad": "ioi",
       "year": 2006
@@ -1370,13 +1370,13 @@
     },
     {
       "source": "andre-linhares-rodrigues",
-      "target": "cesar-kawakami",
+      "target": "cesar-ryudi-kawakami",
       "olympiad": "ioi",
       "year": 2007
     },
     {
       "source": "andre-linhares-rodrigues",
-      "target": "eduardo-ribas",
+      "target": "eduardo-augusto-ribas",
       "olympiad": "ioi",
       "year": 2007
     },
@@ -1387,19 +1387,19 @@
       "year": 2007
     },
     {
-      "source": "cesar-kawakami",
-      "target": "eduardo-ribas",
+      "source": "cesar-ryudi-kawakami",
+      "target": "eduardo-augusto-ribas",
       "olympiad": "ioi",
       "year": 2007
     },
     {
-      "source": "cesar-kawakami",
+      "source": "cesar-ryudi-kawakami",
       "target": "ricardo-hahn-pereira",
       "olympiad": "ioi",
       "year": 2007
     },
     {
-      "source": "eduardo-ribas",
+      "source": "eduardo-augusto-ribas",
       "target": "ricardo-hahn-pereira",
       "olympiad": "ioi",
       "year": 2007
@@ -2090,7 +2090,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-08-22T17:16:54.214860+00:00",
+    "generatedAt": "2026-09-24T05:50:47.076415+00:00",
     "studentCount": 74,
     "edgeCount": 168
   }

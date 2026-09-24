@@ -21,8 +21,20 @@ OUT = ROOT / "src" / "data" / "graph.json"
 # The authoritative source (stats.ioinformatics.org) keys every contestant to a
 # numeric person ID and uses one consistent spelling per person across all years,
 # so no within-source aliases exist. This map is the seam for reconciling
-# alternate spellings should a second source introduce them.
-ALIASES: dict[str, dict[str, str]] = {}
+# alternate spellings a second source introduces. The four entries below are the
+# short forms that source prints for people the raw file now records in the fuller
+# form published by the Brazilian team pages (2026-09-23): they keep a re-import
+# from the IOI database merged with the person instead of splitting them off.
+ALIASES: dict[str, dict[str, str]] = {
+    "edans-sandes": {"canonical": "edans-flavius-de-oliveira-sandes",
+                     "name": "Edans Flavius de Oliveira Sandes"},
+    "lincoln-silva": {"canonical": "lincoln-david-nery-e-silva",
+                      "name": "Lincoln David Nery e Silva"},
+    "cesar-kawakami": {"canonical": "cesar-ryudi-kawakami",
+                       "name": "Cesar Ryudi Kawakami"},
+    "eduardo-ribas": {"canonical": "eduardo-augusto-ribas",
+                      "name": "Eduardo Augusto Ribas"},
+}
 
 
 def strip_diacritics(s: str) -> str:
