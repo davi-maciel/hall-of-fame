@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-09-24T18:49:43+00:00",
+  "summary": {
+    "PASS": 6
+  },
+  "results": [
+    {
+      "year": 2022,
+      "url": "https://web.archive.org/web/2022id_/https://apho2022.in/wp-content/uploads/2022/06/Results-for-website.pdf",
+      "domain": "web.archive.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Gabriel Morais Barros'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/302-equipes-brasileiras-para-as-olimpiadas-internacionais-de-2022.html",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'APhO (Olimpíada Asiática de Física)'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=parabens-paulo-henrique-dos-santos-mencao-honrosa-na-olimpiada-asiatica-de-fisica-apho",
+      "domain": "objetivo.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Paulo Henrique dos Santos Silva'"
+    },
+    {
+      "year": 2022,
+      "url": "https://noic.com.br/quem-somos/ex-colaboradores/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'menção honrosa na APhO 2022'"
+    },
+    {
+      "year": 2022,
+      "url": "https://g1.globo.com/educacao/noticia/2022/07/20/em-feito-inedito-estudante-brasileiro-conquista-medalhas-de-bronze-em-olimpiadas-internacionais-de-fisica-e-quimica.ghtml",
+      "domain": "g1.globo.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Menção Honrosa na APhO (2022)'"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/301-tbf-2022-premiados.html",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'GABRIEL VERISSIMO GIRAO'"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "olympiadId": "apho",
+  "description": "Sources confirming Brazilian APhO contestants + results, per edition.",
+  "provenanceClasses": {
+    "official": "apho2022.in host-site results table (domain lost; cited through a Wayback capture).",
+    "primary": "SBF/OBF team and selection pages, NOIC, Colégio Objetivo, press (G1).",
+    "archive": "(none)"
+  },
+  "globalNotes": [
+    "Brazil's APhO history is a single edition: the 22nd (2022). Team size is the statutory maximum - APhO statutes # 4, 'Each participating country shall send a delegation, normally comprising of eight students (contestants) and at most two accompanying persons (delegation leaders)': https://apho2026.kr/en/sub1_4.html",
+    "Selection is the ordinary OBF pipeline (SOIF seletivas -> Torneio Brasileiro de Fisica): the APhO eight are TBF/2022 ranks 1-5 and 11-13. The EuPhO five (ranks 6-10) are absent - the 6th EuPhO ran 20-24 May 2022 in Ljubljana (https://eupho.ee/archive/), inside the APhO exam window of 23-31 May.",
+    "Not entered, 1st-17th editions (2000-2016): the official APhO participant matrix lists 37 countries with their status per edition (H host, # present, G guest team, O observers only, - none) and Brazil appears in none of them: http://asianphysicsolympiad.org/Statistic_Participant_Countries.pdf",
+    "Not entered, 18th-21st editions (2017-2021): the 20th APhO host's participating-countries page lists 22 countries and regions without Brazil (https://apho2019.asi.edu.au/about/participating-countries-2/); the 21st (2021, Taipei, online) medal table reproduced by the next host covers 17 delegations without Brazil; and on the Brazilian side the OBF only raised APhO membership at a schools meeting of 11 Mar 2021, as a 'equipe convidada em carater nao competitivo', concluding for that year that 'isso nao se mostrou factivel' while announcing negotiations for 2022: https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/260-participacao-na-apho.html . Colegio Objetivo's 2022 report calls the 22nd edition Brazil's 'primeira participacao'.",
+    "No 2020 edition: 'Not held due to the COVID-19 pandemic' in the official host history, which also fixes the edition numbering and cities: https://apho2026.kr/en/sub1_2.html",
+    "Not entered, 23rd-24th editions (2023-2024): the OBF formed no APhO team - the EQUIPE column of 'Premiados TBF 2023' assigns every awardee to IPhO, EuPhO or OIbF only (https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/15-soif/323-premiados-tbf-2023.html), and an OBF notice of 22 Aug 2024 still reports the international committee 'buscando a participacao em outra Olimpiada Internacional de Fisica. No momento, estamos considerando a APhO e NBPhO' (https://app.graxaim.org/soif/2025/open_page/noticias_anteriores); the olympiad that materialised was the NBPhO in 2025.",
+    "Not entered, 25th-26th editions (2025-2026): the 2025 host's participants page lists its delegations without Brazil (https://www.apho2025.sa/participants/), and the 2026 official ranking PDF (161 awarded students) carries no Brazilian country code (https://apho2026.kr/en/APhO_2026_ranking.pdf). The 2026 file covers awarded students only, i.e. the top 75%.",
+    "Name spellings: the OBF team page and the TBF ranking print all eight in unaccented capitals; the official APhO table prints 'Gabriel Verissimo Girao' and 'Paulo Henrique Dos Santos Silva'. The dataset keeps the fullest documented forms, which for the five students shared with ipho/oibf/ioaa/olaa are those folders' accented spellings."
+  ],
+  "years": [
+    {
+      "year": 2022,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2022id_/https://apho2022.in/wp-content/uploads/2022/06/Results-for-website.pdf",
+          "domain": "web.archive.org",
+          "cls": "official",
+          "timing": "post",
+          "coverage": "5/8 (the awarded students)",
+          "confirms": "Official APhO 2022 results table of the host site apho2022.in (single international ranking, 121 awards over 24 delegations; cutoffs Gold 42 / Silver 36 / Bronze 30 / Honorable mention 23): Gabriel Morais Barros BRZ_03 rank 32, 34.1 (bronze); Matheus Felipe Ramos Borges BRZ_05 rank 48, 31.6 (bronze); Rafael Moreno Ribeiro BRZ_07 rank 61, 29.7 (HM); Paulo Henrique dos Santos Silva BRZ_02 rank 78, 27.4 (HM); Gabriel Verissimo Girao BRZ_08 rank 106, 24.7 (HM)",
+          "needle": "Gabriel Morais Barros"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/302-equipes-brasileiras-para-as-olimpiadas-internacionais-de-2022.html",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "timing": "pre",
+          "coverage": "full (8/8) - team announcement",
+          "confirms": "SBF/OBF 'Equipes Brasileiras para as Olimpiadas Internacionais de 2022': the APhO team of eight with schools and states, alongside the IPhO five, EuPhO five and OIbF four",
+          "needle": "APhO (Olimpíada Asiática de Física)"
+        },
+        {
+          "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=parabens-paulo-henrique-dos-santos-mencao-honrosa-na-olimpiada-asiatica-de-fisica-apho",
+          "domain": "objetivo.br",
+          "cls": "primary",
+          "timing": "post",
+          "coverage": "1/8",
+          "confirms": "Colegio Objetivo news + interview: Paulo Henrique dos Santos Silva, honourable mention at the 22nd APhO, hosted by India and held online 23-31 May 2022, 216 contestants from 27 countries, Brazil's first entry; the Brazilian team sat the papers together in one room in Campina Grande (PB) under camera invigilation; he qualified as 12th at the TBF",
+          "needle": "Paulo Henrique dos Santos Silva"
+        },
+        {
+          "url": "https://noic.com.br/quem-somos/ex-colaboradores/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "timing": "post",
+          "coverage": "2/8",
+          "confirms": "NOIC contributor biographies: Paulo Henrique 'mencao honrosa na APhO 2022'; Matheus Felipe classified for both IPhO and APhO in 2022, silver and bronze respectively, and 'um dos dois primeiros brasileiros a medalhar na APhO' - i.e. exactly two Brazilian medals, matching the official table's two bronzes",
+          "needle": "menção honrosa na APhO 2022"
+        },
+        {
+          "url": "https://g1.globo.com/educacao/noticia/2022/07/20/em-feito-inedito-estudante-brasileiro-conquista-medalhas-de-bronze-em-olimpiadas-internacionais-de-fisica-e-quimica.ghtml",
+          "domain": "g1.globo.com",
+          "cls": "primary",
+          "timing": "post",
+          "coverage": "1/8",
+          "confirms": "G1 profile of Rafael Moreno Ribeiro (20 Jul 2022): his medal list includes 'Mencao Honrosa na APhO (2022)'",
+          "needle": "Menção Honrosa na APhO (2022)"
+        },
+        {
+          "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/301-tbf-2022-premiados.html",
+          "domain": "sbfisica.org.br",
+          "cls": "primary",
+          "timing": "pre",
+          "coverage": "full (8/8) - selection ranking",
+          "confirms": "SBF/OBF 'TBF/2022 - Premiados', the ranked final selection round: the APhO eight are ranks 1-5 (gold, also the IPhO team) plus ranks 11-13 (silver: Gabriel Verissimo Girao, Paulo Henrique dos Santos Silva, Arthur Ferreira Domont Sobreira)",
+          "needle": "GABRIEL VERISSIMO GIRAO"
+        }
+      ],
+      "note": "22nd APhO, hosted by India (Dehradun, Graphic Era Hill University / IAPT) and held entirely online, 23-31 May 2022; the Brazilian eight wrote the papers together in one invigilated room in Campina Grande (PB). Awards follow the single international ranking, never a country quota (statutes # 9: gold to 12% of official contestants, gold+silver 29%, gold+silver+bronze 51%, +honourable mention 75%) - in 2022 that gave cutoffs 42/36/30/23 and 121 awards (11 gold, 13 silver, 34 bronze, 63 HM). The official table lists awardees only and uses per-contestant codes BRZ_01-BRZ_08; the three roster members it omits (BRZ_01, BRZ_04, BRZ_06 in an order the document does not disclose) therefore finished below the honourable-mention cut - Arthur Ferreira Domont Sobreira, Gustavo Esteche Araujo and Jose Alberto Feijao Tizon, recorded with a null medal.",
+      "attested": {
+        "arthur-ferreira-domont-sobreira": "competed without an award - the official post-event results table runs contestant codes BRZ_01-BRZ_08 and names only five of them, so the three roster members it omits sat the papers and scored below the honourable-mention cut (see the year note)",
+        "gustavo-esteche-araujo": "competed without an award - same BRZ_01-BRZ_08 code evidence as above (see the year note)",
+        "jose-alberto-feijao-tizon": "competed without an award - same BRZ_01-BRZ_08 code evidence as above (see the year note)"
+      }
+    }
+  ]
+}

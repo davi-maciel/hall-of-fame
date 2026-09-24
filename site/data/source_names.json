@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T06:38:26+00:00",
+ "generatedAt": "2026-09-24T18:44:43+00:00",
  "byOlympiad": {
   "imo": {
    "1979": {
@@ -6283,6 +6283,67 @@
      "status": "text",
      "found": {
       "matheus-leonardo-faco": "firstlast"
+     }
+    }
+   }
+  },
+  "apho": {
+   "2022": {
+    "https://web.archive.org/web/2022id_/https://apho2022.in/wp-content/uploads/2022/06/Results-for-website.pdf": {
+     "status": "text",
+     "found": {
+      "gabriel-morais-barros": "full",
+      "gabriel-verissimo-girao": "full",
+      "matheus-felipe-ramos-borges": "full",
+      "paulo-henrique-dos-santos-silva": "full",
+      "rafael-moreno-ribeiro": "full"
+     }
+    },
+    "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/302-equipes-brasileiras-para-as-olimpiadas-internacionais-de-2022.html": {
+     "status": "text",
+     "found": {
+      "arthur-ferreira-domont-sobreira": "full",
+      "gabriel-morais-barros": "full",
+      "gabriel-verissimo-girao": "full",
+      "gustavo-esteche-araujo": "full",
+      "jose-alberto-feijao-tizon": "full",
+      "matheus-felipe-ramos-borges": "full",
+      "paulo-henrique-dos-santos-silva": "full",
+      "rafael-moreno-ribeiro": "full"
+     }
+    },
+    "https://www.objetivo.br/institucional/noticias.aspx?titulo=parabens-paulo-henrique-dos-santos-mencao-honrosa-na-olimpiada-asiatica-de-fisica-apho": {
+     "status": "text",
+     "found": {
+      "paulo-henrique-dos-santos-silva": "full"
+     }
+    },
+    "https://noic.com.br/quem-somos/ex-colaboradores/": {
+     "status": "text",
+     "found": {
+      "matheus-felipe-ramos-borges": "short",
+      "paulo-henrique-dos-santos-silva": "short",
+      "rafael-moreno-ribeiro": "firstlast"
+     }
+    },
+    "https://g1.globo.com/educacao/noticia/2022/07/20/em-feito-inedito-estudante-brasileiro-conquista-medalhas-de-bronze-em-olimpiadas-internacionais-de-fisica-e-quimica.ghtml": {
+     "status": "text",
+     "found": {
+      "paulo-henrique-dos-santos-silva": "short",
+      "rafael-moreno-ribeiro": "full"
+     }
+    },
+    "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/301-tbf-2022-premiados.html": {
+     "status": "text",
+     "found": {
+      "arthur-ferreira-domont-sobreira": "full",
+      "gabriel-morais-barros": "full",
+      "gabriel-verissimo-girao": "full",
+      "gustavo-esteche-araujo": "full",
+      "jose-alberto-feijao-tizon": "full",
+      "matheus-felipe-ramos-borges": "full",
+      "paulo-henrique-dos-santos-silva": "full",
+      "rafael-moreno-ribeiro": "full"
      }
     }
    }

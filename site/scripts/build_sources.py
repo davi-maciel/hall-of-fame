@@ -27,7 +27,7 @@ NAMES = SITE / "data" / "source_names.json"
 sys.path.insert(0, str(SITE / "scripts"))
 from build_people import HIDDEN_DATASETS  # noqa: E402  (single source of truth)
 
-WITH_TRAILS = ["imo", "icho", "ioi", "ioaa", "ijso", "oibf", "eupho", "nbpho", "ipho", "oii", "egoi", "imcho", "oiaq", "apmo", "egmo", "oim", "conosur", "omcplp", "rioplatense", "rmm", "pagmo", "igo", "ibo", "oiab", "iao", "olaa", "iypt", "iol", "ieso", "igeo", "wopho", "ieo"]
+WITH_TRAILS = ["imo", "icho", "ioi", "ioaa", "ijso", "oibf", "eupho", "nbpho", "apho", "ipho", "oii", "egoi", "imcho", "oiaq", "apmo", "egmo", "oim", "conosur", "omcplp", "rioplatense", "rmm", "pagmo", "igo", "ibo", "oiab", "iao", "olaa", "iypt", "iol", "ieso", "igeo", "wopho", "ieo"]
 
 # Dataset-level fallbacks: one URL that genuinely lets a reader verify any year
 # of that dataset. (yearsNote kept human-readable in "c".)

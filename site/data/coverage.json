@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23",
+ "generatedAt": "2026-09-24",
  "olympiads": [
   {
    "id": "apmo",
@@ -133,6 +133,17 @@
    "attended": 12,
    "span": "2010–2026",
    "complete": 12,
+   "gaps": [],
+   "caveat": ""
+  },
+  {
+   "id": "apho",
+   "code": "APhO",
+   "name": "Asian Physics Olympiad",
+   "field": "fisica",
+   "attended": 1,
+   "span": "2022–2022",
+   "complete": 1,
    "gaps": [],
    "caveat": ""
   },

@@ -1,0 +1,275 @@
+{
+  "students": {
+    "arthur-ferreira-domont-sobreira": {
+      "id": "arthur-ferreira-domont-sobreira",
+      "name": "Arthur Ferreira Domont Sobreira",
+      "searchKey": "arthur ferreira domont sobreira",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "gabriel-morais-barros": {
+      "id": "gabriel-morais-barros",
+      "name": "Gabriel Morais Barros",
+      "searchKey": "gabriel morais barros",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "gabriel-verissimo-girao": {
+      "id": "gabriel-verissimo-girao",
+      "name": "Gabriel Verissimo Girao",
+      "searchKey": "gabriel verissimo girao",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "gustavo-esteche-araujo": {
+      "id": "gustavo-esteche-araujo",
+      "name": "Gustavo Esteche Araujo",
+      "searchKey": "gustavo esteche araujo",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "jose-alberto-feijao-tizon": {
+      "id": "jose-alberto-feijao-tizon",
+      "name": "José Alberto Feijão Tizon",
+      "searchKey": "jose alberto feijao tizon",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": null
+        }
+      ]
+    },
+    "matheus-felipe-ramos-borges": {
+      "id": "matheus-felipe-ramos-borges",
+      "name": "Matheus Felipe Ramos Borges",
+      "searchKey": "matheus felipe ramos borges",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "paulo-henrique-dos-santos-silva": {
+      "id": "paulo-henrique-dos-santos-silva",
+      "name": "Paulo Henrique dos Santos Silva",
+      "searchKey": "paulo henrique dos santos silva",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": "honorable-mention"
+        }
+      ]
+    },
+    "rafael-moreno-ribeiro": {
+      "id": "rafael-moreno-ribeiro",
+      "name": "Rafael Moreno Ribeiro",
+      "searchKey": "rafael moreno ribeiro",
+      "participations": [
+        {
+          "olympiad": "apho",
+          "year": 2022,
+          "medal": "honorable-mention"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "gabriel-morais-barros",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "gabriel-verissimo-girao",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "gustavo-esteche-araujo",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "jose-alberto-feijao-tizon",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "matheus-felipe-ramos-borges",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "arthur-ferreira-domont-sobreira",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-morais-barros",
+      "target": "gabriel-verissimo-girao",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-morais-barros",
+      "target": "gustavo-esteche-araujo",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-morais-barros",
+      "target": "jose-alberto-feijao-tizon",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-morais-barros",
+      "target": "matheus-felipe-ramos-borges",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-morais-barros",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-morais-barros",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-verissimo-girao",
+      "target": "gustavo-esteche-araujo",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-verissimo-girao",
+      "target": "jose-alberto-feijao-tizon",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-verissimo-girao",
+      "target": "matheus-felipe-ramos-borges",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-verissimo-girao",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gabriel-verissimo-girao",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gustavo-esteche-araujo",
+      "target": "jose-alberto-feijao-tizon",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gustavo-esteche-araujo",
+      "target": "matheus-felipe-ramos-borges",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gustavo-esteche-araujo",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "gustavo-esteche-araujo",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "jose-alberto-feijao-tizon",
+      "target": "matheus-felipe-ramos-borges",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "jose-alberto-feijao-tizon",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "jose-alberto-feijao-tizon",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "matheus-felipe-ramos-borges",
+      "target": "paulo-henrique-dos-santos-silva",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "matheus-felipe-ramos-borges",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    },
+    {
+      "source": "paulo-henrique-dos-santos-silva",
+      "target": "rafael-moreno-ribeiro",
+      "olympiad": "apho",
+      "year": 2022
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-09-24T18:49:43.821543+00:00",
+    "studentCount": 8,
+    "edgeCount": 28
+  }
+}

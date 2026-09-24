@@ -105,6 +105,12 @@
       "field": "fisica",
       "scope": "convidado"
     },
+    "apho": {
+      "code": "APhO",
+      "name": "Asian Physics Olympiad",
+      "field": "fisica",
+      "scope": "asiapac"
+    },
     "ijso": {
       "code": "IJSO",
       "name": "International Junior Science Olympiad",

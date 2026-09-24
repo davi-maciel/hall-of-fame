@@ -36,7 +36,7 @@ SITE = Path(__file__).resolve().parent.parent
 ROOT = SITE.parent
 OUT = SITE / "data" / "people.json"
 
-DATASETS = ["imo", "icho", "ioi", "ioaa", "ipho", "eupho", "oibf", "nbpho", "ijso", "oii", "egoi", "imcho", "oiaq", "apmo", "egmo", "oim", "conosur", "omcplp", "rioplatense", "rmm", "pagmo", "igo", "ibo", "oiab", "iao", "olaa", "iypt", "iol", "ieso", "igeo", "wopho", "ieo"]
+DATASETS = ["imo", "icho", "ioi", "ioaa", "ipho", "eupho", "oibf", "nbpho", "apho", "ijso", "oii", "egoi", "imcho", "oiaq", "apmo", "egmo", "oim", "conosur", "omcplp", "rioplatense", "rmm", "pagmo", "igo", "ibo", "oiab", "iao", "olaa", "iypt", "iol", "ieso", "igeo", "wopho", "ieo"]
 
 # Datasets held back from the SITE only: they stay in DATASETS (folders, checks and
 # reports are unchanged), but build_people.py/build_sources.py leave them out of
