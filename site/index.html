@@ -62,6 +62,11 @@
     </label>
     <label>De <input id="y0" type="number" min="1979" max="2026" placeholder="1979"></label>
     <label>Até <input id="y1" type="number" min="1979" max="2026" placeholder="2026"></label>
+    <div class="msel-mode statmode" id="f-stats" role="radiogroup" aria-label="Contar">
+      <span class="statmode-title">Contar</span>
+      <label><input type="radio" name="statmode" value="filtradas" checked> só as olimpíadas <b>filtradas</b></label>
+      <label><input type="radio" name="statmode" value="todas"> <b>todas</b> as olimpíadas</label>
+    </div>
     <button id="clear" class="ghost">Limpar filtros</button>
   </div>
   <div class="row export">

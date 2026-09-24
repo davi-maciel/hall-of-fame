@@ -90,6 +90,8 @@ span.ols { color: var(--text-2); font-size: 12.5px; letter-spacing: 0.04em; }
 td .variants { color: var(--text-3); font-size: 11px; }
 
 td.ols { color: var(--text-2); font-size: 12.5px; letter-spacing: 0.04em; }
+/* olympiads outside the current filters: context only, not part of the row's counts */
+td.c-badges .out { opacity: 0.5; }
 
 tr.detail td {
   background: var(--detail-bg);
@@ -150,6 +152,11 @@ footer code { font-size: 11px; }
 .msel-item input { margin: 0; accent-color: var(--accent); width: 15px; height: 15px; flex: none; }
 .msel-item .code { font-weight: 550; }
 
+/* "Contar": same radio pattern as the OU/E mode, laid out inline in the filters row */
+.statmode { flex-direction: row; flex-wrap: wrap; align-items: center; gap: 4px 10px; padding: 0; border-bottom: 0; }
+.statmode-title { color: var(--text-2); font-size: 12px; }
+.statmode[hidden] { display: none; }
+
 .only-mobile { display: none; }
 .export { gap: 8px; }
 .filters label { white-space: nowrap; }
@@ -201,6 +208,8 @@ footer code { font-size: 11px; }
   .msel-item input { width: 18px; height: 18px; }
   .msel-actions button { min-height: 36px; font-size: 14px; flex: 1; }
   .filters .spacer { display: none; }
+  .filters .statmode { grid-column: 1 / -1; gap: 0 10px; }
+  .filters .statmode-title { width: 100%; }
   .filters #clear { grid-column: 1 / -1; }
   .export { display: none; }
   .controls.filters-open .export { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding-bottom: 6px; }

@@ -30,6 +30,9 @@ let state = {
   medal: "",
   y0: null,
   y1: null,
+  // which participations the Pessoas statistics count: only the ones matching the filters
+  // ('filtradas', default) or the person's whole record ('todas'). Filters always decide who is listed.
+  stats: "filtradas",
   sort: { key: "participations", dir: -1 },
 };
 
@@ -104,6 +107,7 @@ function readURL() {
   state.medal = p.get("medalha") || "";
   state.y0 = p.get("de") ? +p.get("de") : null;
   state.y1 = p.get("ate") ? +p.get("ate") : null;
+  state.stats = p.get("cont") === "todas" ? "todas" : "filtradas";
   state.sort = state.view === "parts" ? { key: "year", dir: -1 } : { key: "participations", dir: -1 };
   const s = p.get("ord");
   if (s) {
@@ -123,6 +127,7 @@ function writeURL() {
   if (state.medal) p.set("medalha", state.medal);
   if (state.y0) p.set("de", state.y0);
   if (state.y1) p.set("ate", state.y1);
+  if (state.stats === "todas") p.set("cont", "todas");
   const def = state.view === "people" ? "participations" : "year";
   if (!(state.sort.key === def && state.sort.dir === -1))
     p.set("ord", `${state.sort.key}.${state.sort.dir === 1 ? "asc" : "desc"}`);
@@ -164,13 +169,15 @@ function coversAll(p) {
 }
 function personRows() {
   const qt = queryTokens();
+  const all = state.stats === "todas";
   return DATA.people
     .map((p) => [p, matchScore(p, qt)])
     .filter(([p, sc]) => sc > 0 && p.participations.some(partMatches) && coversAll(p))
     .map(([p, sc]) => {
-      // Row statistics cover only the participations that pass the active filters, so the
-      // counts, years and medals describe what was filtered for (the badges still list every olympiad).
-      const mine = p.participations.filter(partMatches);
+      // Who is listed is decided by the filters; what the row counts follows "Contar": by default only
+      // the participations that pass the filters, or — with 'todas' — the person's whole record.
+      // Counts, badges, years and medals all describe the same set.
+      const mine = all ? p.participations.filter((x) => isVisibleOl(x.olympiad)) : p.participations.filter(partMatches);
       const medals = { gold: 0, silver: 0, bronze: 0, "honorable-mention": 0 };
       let unknown = 0;
       for (const x of mine) {
@@ -178,12 +185,19 @@ function personRows() {
         else if (x.medalNote === "unknown") unknown++;
       }
       const years = mine.map((x) => x.year);
+      const ols = [...new Set(mine.map((x) => x.olympiad))];
+      // the olympiads left outside the counted set are still shown as badges, muted, so the row keeps
+      // the full context without contradicting "Particip." / "Olimp. distintas" (empty when counting 'todas')
+      const olsOut = all ? [] : [...new Set(p.participations.map((x) => x.olympiad))]
+        .filter((o) => isVisibleOl(o) && !ols.includes(o));
       return {
         p,
         score: sc,
         name: p.name,
         participations: mine.length,
-        distinct: new Set(mine.map((x) => x.olympiad)).size,
+        ols,
+        olsOut,
+        distinct: ols.length,
         yearMin: Math.min(...years),
         yearMax: Math.max(...years),
         gold: medals.gold, silver: medals.silver, bronze: medals.bronze,
@@ -238,6 +252,10 @@ const COLS = {
 function code(olId) {
   return `<span title="${OL.olympiads[olId].name}">${OL.olympiads[olId].code}</span>`;
 }
+/* an olympiad the row does not count (outside the filters): shown for context, dimmed */
+function codeOut(olId) {
+  return `<span class="out" title="${OL.olympiads[olId].name} — fora do filtro">${OL.olympiads[olId].code}</span>`;
+}
 function medalCell(r) {
   if (r.medal) return MEDAL[r.medal].label === "MH" ? "Menção honrosa" : MEDAL[r.medal].label;
   const n = NOTE[r.medalNote] || NOTE["no-award"];
@@ -264,13 +282,12 @@ function renderBody(rows) {
     return;
   }
   tb.innerHTML = rows.map((r) => {
-    const ols = [...new Set(r.p.participations.map((x) => x.olympiad))];
     const yrs = r.yearMin === r.yearMax ? r.yearMin : `${r.yearMin}–${r.yearMax}`;
     return `<tr class="data" data-id="${r.p.id}">
       <td class="name"><a href="person.html?id=${r.p.id}">${r.name}</a></td>
       <td class="num c-parts">${r.participations}</td>
       <td class="num c-distinct">${r.distinct}</td>
-      <td class="ols c-badges">${ols.map(code).join(" ")}</td>
+      <td class="ols c-badges">${[...r.ols.map(code), ...r.olsOut.map(codeOut)].join(" ")}</td>
       <td class="c-years">${yrs}</td>
       <td class="num c-gold">${r.gold || ""}</td><td class="num c-silver">${r.silver || ""}</td>
       <td class="num c-bronze">${r.bronze || ""}</td><td class="num c-hm">${r.hm || ""}</td>
@@ -329,8 +346,7 @@ function exportRows() {
   return {
     header: ["nome", "id", "participacoes", "olimpiadas_distintas", "olimpiadas", "primeiro_ano", "ultimo_ano", "ouro", "prata", "bronze", "mencao_honrosa", "nao_atribuidas"],
     rows: currentRows.map((r) => [
-      r.name, r.p.id, r.participations, r.distinct,
-      [...new Set(r.p.participations.map((x) => x.olympiad))].join("|"),
+      r.name, r.p.id, r.participations, r.distinct, r.ols.join("|"),
       r.yearMin, r.yearMax, r.gold, r.silver, r.bronze, r.hm, r.unknown,
     ]),
   };
@@ -412,6 +428,12 @@ function buildOlPicker() {
   return sync;
 }
 
+/* "Contar" radios: filters pick who is listed, this picks what each row counts (Pessoas only) */
+function syncStats() {
+  for (const r of document.querySelectorAll('input[name="statmode"]')) r.checked = r.value === state.stats;
+  $("#f-stats").hidden = state.view !== "people";
+}
+
 function buildControls() {
   const syncOl = buildOlPicker();
   const fields = visibleValues("field"), scopes = visibleValues("scope");
@@ -434,11 +456,15 @@ function buildControls() {
   $("#f-medal").addEventListener("change", (e) => { state.medal = e.target.value; render(); });
   $("#y0").addEventListener("change", (e) => { state.y0 = e.target.value ? +e.target.value : null; render(); });
   $("#y1").addEventListener("change", (e) => { state.y1 = e.target.value ? +e.target.value : null; render(); });
+  syncStats();
+  for (const r of document.querySelectorAll('input[name="statmode"]'))
+    r.addEventListener("change", () => { state.stats = r.value === "todas" ? "todas" : "filtradas"; render(); });
   $("#clear").addEventListener("click", () => {
-    Object.assign(state, { q: "", ols: new Set(), olsNone: false, olsAll: false, field: "", scope: "", medal: "", y0: null, y1: null });
+    Object.assign(state, { q: "", ols: new Set(), olsNone: false, olsAll: false, field: "", scope: "", medal: "", y0: null, y1: null, stats: "filtradas" });
     for (const r of document.querySelectorAll('input[name="olmode"]')) r.checked = r.value === "any";
     $("#q").value = ""; fsel.value = ""; ssel.value = ""; $("#f-medal").value = ""; $("#y0").value = ""; $("#y1").value = "";
     syncOl();
+    syncStats();
     render();
   });
   $("#empty-clear").addEventListener("click", () => $("#clear").click());
@@ -455,7 +481,7 @@ function buildControls() {
     toggle.setAttribute("aria-expanded", String(open));
   };
   toggle.addEventListener("click", () => setFilters(!$("#controls").classList.contains("filters-open")));
-  if (state.ols.size || state.olsNone || state.field || state.scope || state.medal || state.y0 || state.y1) setFilters(true);
+  if (state.ols.size || state.olsNone || state.field || state.scope || state.medal || state.y0 || state.y1 || state.stats === "todas") setFilters(true);
   $("#copy").addEventListener("click", async () => {
     await navigator.clipboard.writeText(toDelim("\t"));
     $("#copy").textContent = "Copiado ✓";
@@ -493,6 +519,7 @@ function setView(v) {
   state.sort = v === "people" ? { key: "participations", dir: -1 } : { key: "year", dir: -1 };
   $("#view-people").classList.toggle("on", v === "people");
   $("#view-parts").classList.toggle("on", v === "parts");
+  syncStats();
   render();
 }
 
