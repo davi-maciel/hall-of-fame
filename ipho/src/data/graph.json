@@ -1036,10 +1036,10 @@
         }
       ]
     },
-    "jose-olegario-de-oliveira": {
-      "id": "jose-olegario-de-oliveira",
-      "name": "José Olegário de Oliveira",
-      "searchKey": "jose olegario de oliveira",
+    "jose-olegario-de-oliveira-neto": {
+      "id": "jose-olegario-de-oliveira-neto",
+      "name": "José Olegário de Oliveira Neto",
+      "searchKey": "jose olegario de oliveira neto",
       "participations": [
         {
           "olympiad": "ipho",
@@ -1892,7 +1892,7 @@
     },
     {
       "source": "diego-andrade-lima",
-      "target": "jose-olegario-de-oliveira",
+      "target": "jose-olegario-de-oliveira-neto",
       "olympiad": "ipho",
       "year": 2007
     },
@@ -1915,19 +1915,19 @@
       "year": 2007
     },
     {
-      "source": "jose-olegario-de-oliveira",
+      "source": "jose-olegario-de-oliveira-neto",
       "target": "nilo-daniel-moura-moreira",
       "olympiad": "ipho",
       "year": 2007
     },
     {
-      "source": "jose-olegario-de-oliveira",
+      "source": "jose-olegario-de-oliveira-neto",
       "target": "samuel-carvalho-holanda",
       "olympiad": "ipho",
       "year": 2007
     },
     {
-      "source": "jose-olegario-de-oliveira",
+      "source": "jose-olegario-de-oliveira-neto",
       "target": "thomas-ferreira-de-lima",
       "olympiad": "ipho",
       "year": 2007
@@ -3032,7 +3032,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-24T22:06:52.271869+00:00",
+    "generatedAt": "2026-09-24T22:08:16.331923+00:00",
     "studentCount": 121,
     "edgeCount": 256
   }

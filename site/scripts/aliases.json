@@ -84,7 +84,8 @@
     "pedro-pompeu-brasil-carneiro": "pedro-pompeu-de-sousa-brasil-carneiro",
     "leonardo-lessa": "leonardo-almeida-lessa",
     "arthur-neves-maia": "artur-neves-maia",
-    "jose-olegario-de-oliveira-lima": "jose-olegario-de-oliveira"
+    "jose-olegario-de-oliveira-lima": "jose-olegario-de-oliveira-neto",
+    "jose-olegario-de-oliveira": "jose-olegario-de-oliveira-neto"
   },
   "preferredNames": {
     "cindy-yushi-tsai": "Cindy Yushi Tsai",
@@ -148,7 +149,7 @@
     "Display-name expansion batch, part 4 (IOAA, same maintainer decision, 2026-09-23): IOAA 2017 'Pedro Pompeu Brasil Carneiro' -> Pedro Pompeu de Sousa Brasil Carneiro, the form pt.wikipedia's IOAA article, NOIC's team post and an OBQuimica annals PDF all print (Agência Brasil and Catraca Livre only shorten it to 'Pedro Pompeu Carneiro'), superseding the shortening recorded as correction 2 in ioaa/DATA_REPORT.md. Old slug kept in ioaa/scripts/aliases.json as well. NOT applied: 'Bruno Gorresen Mello' -> 'Bruno Görressen Mello' (pt.wikipedia alone; Agência Brasil, Catraca Livre, NOIC and the OBQuimica PDF all print Gorresen, and ioaa/DATA_REPORT.md correction 1 already overturned the umlaut form on that evidence) — left for the maintainer to confirm before reversing that decision. Three IOAA/IPhO candidates turned down into expansionsRejected: luiz-filipe-martins-ramos (blog spelling 'Felipe'), pedro-seber-e-silva (the matched span is another person, IOAA 2015) and renato-reboucas-de-medeiros ('Reboulgas' typo on ipho-unofficial).",
     "Display-name expansion batch, part 5 (IPhO, same maintainer decision, 2026-09-23): IPhO 2016 'Leonardo Lessa' -> Leonardo Almeida Lessa, per SBF's IPhO 2016 medal announcement PDF (www1.fisica.org.br), which names the team in full (PDF text extraction glues it as 'Leonardo Almeid a Lessa'). Only the canonical ipho/data/raw/ipho.json is rewritten: the provenance scrape ipho-unofficial.json keeps the source spelling, and this slugAlias is the guard for any rebuild from it (same pattern as the 2026-08-25 small-world import). Three more IPhO-area candidates turned down into expansionsRejected: ivan-guilhon-mitoso-rocha (OLC 'Guilhom'), filipe-rodrigues-de-almeida-lira (OLC 'Rudrigues' typo) and nicolas-meira-sinott-lopes (NOIC 'Sinotti').",
     "artur-neves-maia: OIAB 2022. The OBB 'Seletiva Internacional' list is the only source that writes Arthur; OBQ annals (2019 junior, 2020, 2021), OBF 2021, OBM 2017, OBMEP 2017, ONC and the Jornal do Commercio / Diario de Pernambuco coverage of April 2022 ('Artur Neves Maia, 17 anos', Colegio Madre de Deus, Recife) all print Artur. Canonical = Artur; slugAlias keeps the old arthur- slug resolvable (maintainer, 2026-09-23).",
-    "jose-olegario-de-oliveira: IPhO 2007 row was 'José Olegário de Oliveira Lima' (olimpiadascientificas.org form, carried over from the physics import); the student himself told the maintainer (2026-09-24) that his name has no 'Lima' — corrected to José Olegário de Oliveira, old slug aliased."
+    "jose-olegario-de-oliveira-neto: IPhO 2007 row was 'José Olegário de Oliveira Lima' (olimpiadascientificas.org form, carried over from the physics import); the student himself told the maintainer (2026-09-24) that his name is José Olegário de Oliveira Neto — no 'Lima', 'Neto' at the end. Corrected; both older slugs aliased."
   ],
   "hideVariants": [
     "eleni-claire-shor"
