@@ -680,6 +680,16 @@
       "vitor-gomes-pires",
       "vitor-silva-peres",
       "Different surnames (Gomes Pires vs Silva Peres) and a ten-year gap (2015-16 vs IMChO 2025). Maintainer decision 2026-09-16."
+    ],
+    [
+      "jose-luciano-de-morais-neto",
+      "jose-olegario-de-oliveira-neto",
+      "different middle names and surnames (Luciano de Morais vs Olegário de Oliveira); only José + the Neto suffix coincide"
+    ],
+    [
+      "jose-olegario-de-oliveira-neto",
+      "jose-rodolfo-de-farias-neto",
+      "different middle names and surnames (Olegário de Oliveira vs Rodolfo de Farias); only José + the Neto suffix coincide"
     ]
   ]
 }
