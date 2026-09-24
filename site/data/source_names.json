@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T06:31:09+00:00",
+ "generatedAt": "2026-09-24T06:38:26+00:00",
  "byOlympiad": {
   "imo": {
    "1979": {
@@ -11,6 +11,7 @@
      "status": "text",
      "found": {
       "edson-de-faria": "full",
+      "liaw-wen-chao": "attested",
       "samir-jacob-bechara": "full",
       "sebastiao": "full",
       "zaqueu-nogueira": "full"
@@ -31,11 +32,11 @@
     "https://www.imo-official.org/results/team/year/1981/country/BRA/": {
      "status": "text",
      "found": {
-      "alexandre-chuva": "full",
+      "alexandre-carlos-smith-chuva": "firstlast",
       "antonio-caldas-neto": "full",
-      "antonio-jose-madeira-domingues": "full",
+      "antonio-jose-soares-madeira-domingues": "firstlast",
       "helder-wenceslau": "full",
-      "henrique-mendes": "full",
+      "henrique-carlos-aires-mendes": "firstlast",
       "luis-cardoso": "full",
       "nicolau-corcao-saldanha": "full",
       "tomas-pelosi-filho": "full"
@@ -44,10 +45,10 @@
     "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/": {
      "status": "text",
      "found": {
-      "alexandre-chuva": "firstlast",
+      "alexandre-carlos-smith-chuva": "full",
       "antonio-caldas-neto": "full",
-      "antonio-jose-madeira-domingues": "firstlast",
-      "henrique-mendes": "firstlast",
+      "antonio-jose-soares-madeira-domingues": "full",
+      "henrique-carlos-aires-mendes": "full",
       "nicolau-corcao-saldanha": "full",
       "tomas-pelosi-filho": "full"
      }
@@ -227,7 +228,7 @@
      "found": {
       "alexandre-de-azevedo-palmeira-filho": "full",
       "andre-luiz-viana-malta": "full",
-      "evandro-gouvea": "full",
+      "evandro-bacci-gouvea": "firstlast",
       "marcelo-ricardo-xavier-de-mendonca": "full",
       "marcos-de-castro-pacitti": "full",
       "ralph-costa-teixeira": "full"
@@ -238,7 +239,7 @@
      "found": {
       "alexandre-de-azevedo-palmeira-filho": "full",
       "andre-luiz-viana-malta": "full",
-      "evandro-gouvea": "firstlast",
+      "evandro-bacci-gouvea": "full",
       "marcelo-ricardo-xavier-de-mendonca": "full",
       "marcos-de-castro-pacitti": "full",
       "ralph-costa-teixeira": "full"
@@ -249,7 +250,7 @@
      "found": {
       "alexandre-de-azevedo-palmeira-filho": "full",
       "andre-luiz-viana-malta": "full",
-      "evandro-gouvea": "variant",
+      "evandro-bacci-gouvea": "variant",
       "marcelo-ricardo-xavier-de-mendonca": "full",
       "marcos-de-castro-pacitti": "full",
       "ralph-costa-teixeira": "full"
@@ -374,7 +375,7 @@
       "edson-roberto-abe": "full",
       "marcus-andre-de-carvalho-torres": "full",
       "shauy-hsu-pin": "full",
-      "tadeu-alexandre-de-a-e-silva": "full"
+      "tadeu-alexandre-de-albuquerque-e-silva": "firstlast"
      }
     },
     "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/": {
@@ -385,7 +386,7 @@
       "edson-roberto-abe": "full",
       "marcus-andre-de-carvalho-torres": "full",
       "shauy-hsu-pin": "full",
-      "tadeu-alexandre-de-a-e-silva": "firstlast"
+      "tadeu-alexandre-de-albuquerque-e-silva": "full"
      }
     },
     "https://www.polyomino.org.uk/mathematics/imo-scores/1989/scores-code.html": {
@@ -507,7 +508,7 @@
      "found": {
       "daniel-victor-tausk": "full",
       "emerson-ferreira-leite": "full",
-      "fatima-luciana-da-rocha": "full",
+      "fatima-luciana-ribeiro-da-rocha": "firstlast",
       "marcio-luis-almeida-dos-anjos": "full",
       "renato-de-o-caldas-madeira": "full",
       "yuke-zhao": "full"
@@ -518,7 +519,7 @@
      "found": {
       "daniel-victor-tausk": "full",
       "emerson-ferreira-leite": "firstlast",
-      "fatima-luciana-da-rocha": "firstlast",
+      "fatima-luciana-ribeiro-da-rocha": "full",
       "marcio-luis-almeida-dos-anjos": "firstlast",
       "renato-de-o-caldas-madeira": "firstlast"
      }
@@ -528,7 +529,7 @@
      "found": {
       "daniel-victor-tausk": "firstlast",
       "emerson-ferreira-leite": "firstlast",
-      "fatima-luciana-da-rocha": "firstlast",
+      "fatima-luciana-ribeiro-da-rocha": "firstlast",
       "marcio-luis-almeida-dos-anjos": "firstlast",
       "renato-de-o-caldas-madeira": "firstlast",
       "yuke-zhao": "firstlast"
@@ -539,7 +540,7 @@
      "found": {
       "daniel-victor-tausk": "firstlast",
       "emerson-ferreira-leite": "firstlast",
-      "fatima-luciana-da-rocha": "firstlast",
+      "fatima-luciana-ribeiro-da-rocha": "firstlast",
       "marcio-luis-almeida-dos-anjos": "firstlast",
       "renato-de-o-caldas-madeira": "firstlast",
       "yuke-zhao": "firstlast"
@@ -554,7 +555,7 @@
     "https://www.imo-official.org/results/team/year/1993/country/BRA/": {
      "status": "text",
      "found": {
-      "daniel-augusto-t-vanzella": "full",
+      "daniel-augusto-turolla-vanzella": "firstlast",
       "douglas-vasconcelos-cancherini": "full",
       "felipe-bonfim-ferreira": "full",
       "pablo-emanuel": "full",
@@ -565,7 +566,7 @@
     "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/": {
      "status": "text",
      "found": {
-      "daniel-augusto-t-vanzella": "firstlast",
+      "daniel-augusto-turolla-vanzella": "full",
       "douglas-vasconcelos-cancherini": "full",
       "felipe-bonfim-ferreira": "full",
       "pablo-emanuel": "full",
@@ -576,7 +577,7 @@
     "https://www.polyomino.org.uk/mathematics/imo-scores/1993/scores-code.html": {
      "status": "text",
      "found": {
-      "daniel-augusto-t-vanzella": "firstlast",
+      "daniel-augusto-turolla-vanzella": "firstlast",
       "douglas-vasconcelos-cancherini": "firstlast",
       "felipe-bonfim-ferreira": "firstlast",
       "pablo-emanuel": "full",
@@ -587,7 +588,7 @@
     "https://www.math.olympiaadid.ut.ee/eng/html/imo/imo93_t3.html": {
      "status": "text",
      "found": {
-      "daniel-augusto-t-vanzella": "firstlast",
+      "daniel-augusto-turolla-vanzella": "firstlast",
       "douglas-vasconcelos-cancherini": "firstlast",
       "felipe-bonfim-ferreira": "firstlast",
       "pablo-emanuel": "full",
@@ -783,7 +784,7 @@
      "found": {
       "danielle-veras-de-andrade": "full",
       "emanuel-augusto-de-souza-carneiro": "full",
-      "glauf-s-d-moreira-junior": "full",
+      "glauf-sidney-duarte-moreira-junior": "full",
       "mauricio-pereira-carrari": "full",
       "murali-srinivasan-vajapeyam": "full",
       "rui-lopes-viana-filho": "full"
@@ -794,7 +795,7 @@
      "found": {
       "danielle-veras-de-andrade": "full",
       "emanuel-augusto-de-souza-carneiro": "full",
-      "glauf-s-d-moreira-junior": "firstlast",
+      "glauf-sidney-duarte-moreira-junior": "full",
       "mauricio-pereira-carrari": "full",
       "murali-srinivasan-vajapeyam": "full",
       "rui-lopes-viana-filho": "full"
@@ -805,7 +806,7 @@
      "found": {
       "danielle-veras-de-andrade": "firstlast",
       "emanuel-augusto-de-souza-carneiro": "firstlast",
-      "glauf-s-d-moreira-junior": "firstlast",
+      "glauf-sidney-duarte-moreira-junior": "firstlast",
       "mauricio-pereira-carrari": "firstlast",
       "murali-srinivasan-vajapeyam": "firstlast",
       "rui-lopes-viana-filho": "firstlast"
@@ -816,7 +817,7 @@
      "found": {
       "danielle-veras-de-andrade": "firstlast",
       "emanuel-augusto-de-souza-carneiro": "firstlast",
-      "glauf-s-d-moreira-junior": "firstlast",
+      "glauf-sidney-duarte-moreira-junior": "firstlast",
       "mauricio-pereira-carrari": "firstlast",
       "murali-srinivasan-vajapeyam": "firstlast",
       "rui-lopes-viana-filho": "firstlast"
@@ -1890,6 +1891,8 @@
      "status": "text",
      "found": {
       "bernardo-peruzzo-trevizan": "short",
+      "francisco-moreira-machado-neto": "short",
+      "gabriel-ribeiro-paiva": "short",
       "guilherme-zeus-dantas-e-moura": "short",
       "pablo-andrade-carvalho-barros": "short",
       "pedro-gomes-cabral": "firstlast"
@@ -2441,7 +2444,7 @@
       "arthur-braga-reis": "full",
       "joao-victor-rocha-magalhaes-caminha": "full",
       "levindo-jose-garcia-quarto": "full",
-      "thalys-rodrigues": "full"
+      "thalys-sampaio-rodrigues": "firstlast"
      }
     },
     "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf": {
@@ -2450,7 +2453,7 @@
       "arthur-braga-reis": "full",
       "joao-victor-rocha-magalhaes-caminha": "full",
       "levindo-jose-garcia-quarto": "full",
-      "thalys-rodrigues": "full"
+      "thalys-sampaio-rodrigues": "firstlast"
      }
     },
     "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2009": {
@@ -2471,7 +2474,7 @@
       "arthur-braga-reis": "full",
       "joao-victor-rocha-magalhaes-caminha": "full",
       "levindo-jose-garcia-quarto": "full",
-      "thalys-rodrigues": "firstlast"
+      "thalys-sampaio-rodrigues": "full"
      }
     }
    },
@@ -2882,6 +2885,8 @@
     "https://cfq.org.br/noticia/brasil-conquista-quatro-medalhas-na-olimpiada-internacional-de-quimica/": {
      "status": "text",
      "found": {
+      "cassia-caroline-aguiar-da-ponte": "short",
+      "hana-gabriela-albuquerque-sousa": "short",
       "marina-malta-nogueira": "full",
       "vinicius-da-silveira-lanza-avelar": "short"
      }
@@ -3103,27 +3108,27 @@
      "status": "text",
      "found": {
       "davi-tassinari-de-figueiredo": "full",
-      "edans-sandes": "full",
+      "edans-flavius-de-oliveira-sandes": "firstlast",
       "eduardo-pereira-habkost": "full",
-      "lincoln-silva": "full"
+      "lincoln-david-nery-e-silva": "firstlast"
      }
     },
     "https://olimpiada.ic.unicamp.br/competicoes/ioi/": {
      "status": "text",
      "found": {
       "davi-tassinari-de-figueiredo": "full",
-      "edans-sandes": "firstlast",
+      "edans-flavius-de-oliveira-sandes": "full",
       "eduardo-pereira-habkost": "full",
-      "lincoln-silva": "firstlast"
+      "lincoln-david-nery-e-silva": "full"
      }
     },
     "https://cphof.org/standings/ioi/2001": {
      "status": "text",
      "found": {
       "davi-tassinari-de-figueiredo": "full",
-      "edans-sandes": "full",
+      "edans-flavius-de-oliveira-sandes": "firstlast",
       "eduardo-pereira-habkost": "full",
-      "lincoln-silva": "full"
+      "lincoln-david-nery-e-silva": "firstlast"
      }
     }
    },
@@ -3279,7 +3284,7 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "full",
+      "cesar-ryudi-kawakami": "firstlast",
       "gabriel-tavares-bujokas": "full",
       "paulo-roberto-almeida-costa": "full"
      }
@@ -3288,7 +3293,7 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "firstlast",
+      "cesar-ryudi-kawakami": "full",
       "gabriel-tavares-bujokas": "full",
       "paulo-roberto-almeida-costa": "full"
      }
@@ -3297,7 +3302,7 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "full",
+      "cesar-ryudi-kawakami": "firstlast",
       "gabriel-tavares-bujokas": "full",
       "paulo-roberto-almeida-costa": "full"
      }
@@ -3306,7 +3311,7 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "full",
+      "cesar-ryudi-kawakami": "firstlast",
       "gabriel-tavares-bujokas": "full",
       "paulo-roberto-almeida-costa": "full"
      }
@@ -3317,8 +3322,8 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "full",
-      "eduardo-ribas": "full",
+      "cesar-ryudi-kawakami": "firstlast",
+      "eduardo-augusto-ribas": "firstlast",
       "ricardo-hahn-pereira": "full"
      }
     },
@@ -3326,8 +3331,8 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "firstlast",
-      "eduardo-ribas": "firstlast",
+      "cesar-ryudi-kawakami": "full",
+      "eduardo-augusto-ribas": "full",
       "ricardo-hahn-pereira": "full"
      }
     },
@@ -3335,8 +3340,8 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "full",
-      "eduardo-ribas": "firstlast",
+      "cesar-ryudi-kawakami": "full",
+      "eduardo-augusto-ribas": "full",
       "ricardo-hahn-pereira": "full"
      }
     },
@@ -3344,8 +3349,8 @@
      "status": "text",
      "found": {
       "andre-linhares-rodrigues": "full",
-      "cesar-kawakami": "full",
-      "eduardo-ribas": "full",
+      "cesar-ryudi-kawakami": "firstlast",
+      "eduardo-augusto-ribas": "firstlast",
       "ricardo-hahn-pereira": "full"
      }
     }
@@ -4365,7 +4370,8 @@
      "found": {
       "bruno-gorresen-mello": "full",
       "joao-vitor-guerreiro-dias": "full",
-      "pedro-pompeu-brasil-carneiro": "firstlast",
+      "nathan-luiz-bezerra-martins": "short",
+      "pedro-pompeu-de-sousa-brasil-carneiro": "firstlast",
       "vinicius-azevedo-dos-santos": "full"
      }
     },
@@ -4374,7 +4380,8 @@
      "found": {
       "bruno-gorresen-mello": "full",
       "joao-vitor-guerreiro-dias": "full",
-      "pedro-pompeu-brasil-carneiro": "firstlast",
+      "nathan-luiz-bezerra-martins": "short",
+      "pedro-pompeu-de-sousa-brasil-carneiro": "firstlast",
       "vinicius-azevedo-dos-santos": "full"
      }
     },
@@ -4384,7 +4391,7 @@
       "bruno-gorresen-mello": "firstlast",
       "joao-vitor-guerreiro-dias": "full",
       "nathan-luiz-bezerra-martins": "full",
-      "pedro-pompeu-brasil-carneiro": "firstlast",
+      "pedro-pompeu-de-sousa-brasil-carneiro": "full",
       "vinicius-azevedo-dos-santos": "full"
      }
     }
@@ -5070,7 +5077,7 @@
       "diogo-correia-netto": "full",
       "henrique-zanarella": "full",
       "italo-rennan-lima-silva": "full",
-      "leonardo-lessa": "full",
+      "leonardo-almeida-lessa": "firstlast",
       "thiago-bergamaschi": "full"
      }
     },
@@ -5079,7 +5086,7 @@
      "found": {
       "diogo-correia-netto": "full",
       "italo-rennan-lima-silva": "full",
-      "leonardo-lessa": "firstlast",
+      "leonardo-almeida-lessa": "full",
       "thiago-bergamaschi": "full"
      }
     }
@@ -5487,6 +5494,7 @@
      "found": {
       "alberto-akira-ito-albernaz": "variant",
       "gabriel-baptista-bezerra-de-melo": "full",
+      "gabriel-hemetrio-de-menezes": "short",
       "gabriel-mazili-pedroza": "full",
       "paulo-otavio-portela-santana": "full"
      }
@@ -6718,6 +6726,7 @@
      "found": {
       "andrey-jhen-shan-chen": "firstlast",
       "diogo-correia-netto": "firstlast",
+      "gerardo-albino-nogueira-filho": "short",
       "italo-rennan-lima-silva": "full",
       "marina-maciel-ansanelli": "full",
       "thiago-bergamaschi": "full"
@@ -6923,6 +6932,7 @@
      "found": {
       "alicia-duarte-silva": "full",
       "caio-augusto-siqueira-da-silva": "short",
+      "gustavo-baracat-alvares-martins": "short",
       "pedro-michaluat-pezato": "full"
      }
     },
@@ -6967,7 +6977,9 @@
     },
     "https://br.linkedin.com/in/mateus-augusto-cavassin": {
      "status": "error",
-     "found": {}
+     "found": {
+      "mateus-augusto-de-lara-cavassin": "attested"
+     }
     }
    },
    "2022": {
@@ -7039,7 +7051,10 @@
    "2024": {
     "https://www.instagram.com/p/DDcZDoHRNMT/": {
      "status": "status-only",
-     "found": {}
+     "found": {
+      "gabriel-mendes-freitas": "attested",
+      "raul-saraiva-cavalcante": "attested"
+     }
     },
     "http://www.obciencias.com.br/resultados-2024.html": {
      "status": "text",
@@ -8369,6 +8384,7 @@
     "https://www.abiclor.com.br/brasil-e-ouro-na-olimpiada-ibero-americana-de-quimica-em-el-salvador/": {
      "status": "text",
      "found": {
+      "ivna-de-lima-ferreira-gomes": "short",
       "joao-victor-moreira-pimentel": "firstlast",
       "orisvaldo-salviano-neto": "firstlast",
       "vinicius-figueira-armelin": "firstlast"
@@ -8467,7 +8483,9 @@
     },
     "https://www.linkedin.com/": {
      "status": "status-only",
-     "found": {}
+     "found": {
+      "gabriela-torreao-marques-ferreira": "attested"
+     }
     }
    },
    "2024": {
@@ -8476,6 +8494,7 @@
      "found": {
       "alexandre-andrade-de-almeida": "firstlast",
       "helena-vieira-lima": "firstlast",
+      "joao-guilherme-camilo-azevedo": "attested",
       "rafael-joaquim-parra": "firstlast"
      }
     },
@@ -9657,6 +9676,8 @@
     "https://noic.com.br/matematica/resultado-egmo/": {
      "status": "text",
      "found": {
+      "bilhana-plamenova-kochloukova": "short",
+      "cecilia-mileski-de-paula": "short",
       "endy-lumy-okamura-miyashita": "firstlast",
       "isabela-ruthner-dorn": "short"
      }
@@ -12225,6 +12246,8 @@
     "https://impa.br/notices/brasil-e-ouro-na-olimpiada-de-matematica-de-paises-de-lingua-portuguesa/": {
      "status": "text",
      "found": {
+      "caio-hermano-maia-de-oliveira": "short",
+      "davi-gabriel-bandeira-coutinho": "short",
       "pedro-de-oliveira-lengruber-lack": "full",
       "rodrigo-salgado-domingos-porto": "firstlast"
      }
@@ -12282,6 +12305,8 @@
      "status": "text",
      "found": {
       "bruno-machado-feltran": "short",
+      "guilherme-rene-cristiano-nome": "short",
+      "julia-de-paula-pessoa-leguiza": "short",
       "lucas-kenji-fujibayashi": "short"
      }
     }
@@ -12351,7 +12376,7 @@
       "einstein-do-nascimento-jr": "firstlast",
       "emanuel-augusto-de-souza-carneiro": "firstlast",
       "fabricio-siqueira-benevides": "firstlast",
-      "glauf-s-d-moreira-junior": "firstlast",
+      "glauf-sidney-duarte-moreira-junior": "firstlast",
       "mauricio-pereira-carrari": "firstlast",
       "rui-lopes-viana-filho": "firstlast",
       "thiago-da-silva-sobral": "firstlast"
@@ -13597,14 +13622,17 @@
      "found": {
       "andre-yuji-hisatsuga": "firstlast",
       "bernardo-peruzzo-trevizan": "variant",
+      "bruno-barros-de-sousa": "short",
       "bruno-brasil-meinhart": "full",
+      "bryan-diniz-borck": "short",
       "davi-cavalcanti-sena": "firstlast",
       "eduardo-quirino-de-oliveira": "full",
       "gabriel-ribeiro-paiva": "full",
       "lucas-hiroshi-hanke-harada": "firstlast",
       "marcelo-hippolyto-de-sandes-peixoto": "short",
       "pedro-gomes-cabral": "full",
-      "pedro-lucas-lanaro-sponchiado": "firstlast"
+      "pedro-lucas-lanaro-sponchiado": "firstlast",
+      "tarcisio-soares-teixeira-neto": "short"
      }
     }
    },
@@ -14756,16 +14784,34 @@
     "https://web.archive.org/web/20220705114103/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInternacional": {
      "status": "text",
      "found": {
-      "arthur-neves-maia": "full",
+      "artur-neves-maia": "variant",
       "breno-taques-mussi-endres": "full",
       "cicero-miguel-angelo-neto": "full",
       "isabela-trad-timo-luz": "full"
+     }
+    },
+    "https://www.instagram.com/p/ClTWjOWNTJE/": {
+     "status": "status-only",
+     "found": {
+      "cicero-miguel-angelo-neto": "attested"
+     }
+    },
+    "https://www.colegiosantoantonio.com.br/e-prata-aluna-do-csa-conquista-medalha-em-olimpiada-internacional/": {
+     "status": "text",
+     "found": {
+      "isabela-trad-timo-luz": "short"
      }
     },
     "https://massanews.com/noticia/noticias/educacao/estudante-de-curitiba-conquista-medalha-de-bronze-em-olimpiada-internacional/": {
      "status": "text",
      "found": {
       "breno-taques-mussi-endres": "full"
+     }
+    },
+    "https://bandnewsfmcuritiba.com/curitibano-e-bronze-na-olimpiada-ibero-americana-de-biologia/": {
+     "status": "text",
+     "found": {
+      "breno-taques-mussi-endres": "firstlast"
      }
     },
     "https://bosquemananciais.org.br/index.php?area=ver_noticia&id=1234": {
@@ -15588,7 +15634,9 @@
      "found": {
       "davi-de-lima-coutinho-dos-santos": "short",
       "gustavo-mesquita-franca": "short",
-      "hugo-fares-menhem": "short"
+      "hugo-fares-menhem": "short",
+      "larissa-midori-miamura": "short",
+      "mychel-lopes-segrini": "short"
      }
     },
     "https://jc.ne10.uol.com.br/colunas/enem-e-educacao/2023/10/15617811-brasil-conquista-cinco-medalhas-em-olimpiada-latina-de-astronomia.html": {
@@ -15617,6 +15665,7 @@
      "status": "text",
      "found": {
       "arthur-gomes-gurjao": "firstlast",
+      "filipe-ya-hu-dai-lima": "short",
       "larissa-midori-miamura": "short",
       "luca-pieroni-pimenta": "firstlast",
       "lucas-praca-oliveira": "short"
@@ -17070,27 +17119,17 @@
    "2012": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2012-IESO-2012-Argentina-Medals-List.pdf": {
      "status": "text",
-     "found": {
-      "mayara-cardoso-oliveira": "full",
-      "rafael-franco-fernandez": "full"
-     }
+     "found": {}
     },
     "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ieso/": {
      "status": "text",
-     "found": {
-      "fabricio-da-silva": "full",
-      "mayara-cardoso-oliveira": "firstlast",
-      "renato-silva": "full"
-     }
+     "found": {}
     }
    },
    "2013": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2013-IESO-2013-India-Medals-List.pdf": {
      "status": "text",
-     "found": {
-      "igor-felix-pio": "full",
-      "mario-lovo": "full"
-     }
+     "found": {}
     },
     "https://www.ifes.edu.br/noticias/14290-estudantes-do-ifes-conquistam-medalhas-em-competicao-internacional-de-ciencias-da-terra": {
      "status": "error",
@@ -17100,122 +17139,71 @@
    "2014": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2014-IESO-2014-Spain-Medals-List-.pdf": {
      "status": "text",
-     "found": {
-      "mateus-canavesi-colossi": "full"
-     }
+     "found": {}
     }
    },
    "2015": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2015-IESO-2015-Brazil-Medals-List.pdf": {
      "status": "text",
-     "found": {
-      "antonio-vitor-dehet-many": "full",
-      "claudio-de-brito-da-silva": "full"
-     }
+     "found": {}
     },
     "https://portal.ifsuldeminas.edu.br/images/PDFs/proex/publicacoes_livros/MIOLO_IESO_1.pdf": {
      "status": "text",
-     "found": {
-      "antonio-vitor-dehet-many": "full",
-      "claudio-de-brito-da-silva": "full",
-      "geferson-rocha-santos": "full",
-      "sheron-luma-de-oliveira": "full"
-     }
+     "found": {}
     }
    },
    "2016": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2016-10th-IESO.pdf": {
      "status": "text",
-     "found": {
-      "ronaldo-rodrigues-ribeiro": "firstlast"
-     }
+     "found": {}
     },
     "https://web.archive.org/web/20160412210656/http://www.ifes.edu.br/noticias/16330-alunos-de-itapina-sao-selecionados-para-a-olimpiada-internacional-de-ciencias-da-terra": {
      "status": "text",
-     "found": {
-      "gustavo-rocha-alves": "full",
-      "ronaldo-rodrigues-ribeiro": "full",
-      "vilian-borchardt-bullergahn": "full"
-     }
+     "found": {}
     },
     "https://web.archive.org/web/20191015234617/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/597-ieso-no-japao": {
      "status": "text",
-     "found": {
-      "gustavo-rocha-alves": "short",
-      "lissandra-souza": "full",
-      "ronaldo-rodrigues-ribeiro": "short"
-     }
+     "found": {}
     }
    },
    "2017": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2022/11/2017-IESO2017-France-Medals-List.pdf": {
      "status": "text",
-     "found": {
-      "bruno-abreu-pancotto": "full",
-      "guilherme-pratissoli-pancieri": "full"
-     }
+     "found": {}
     },
     "https://web.archive.org/web/20251017002809/https://fapes.es.gov.br/Not%C3%ADcia/bolsistas-da-fapes-ganham-premiacoes-em-olimpiada-internacional-na-franca": {
      "status": "text",
-     "found": {
-      "bruna-de-oliveira": "full",
-      "bruno-abreu-pancotto": "firstlast",
-      "guilherme-pratissoli-pancieri": "short"
-     }
+     "found": {}
     }
    },
    "2018": {
     "https://www.dropbox.com/s/zg4hkk9d6bdhq7g/2018%20Results.pdf?raw=1": {
      "status": "text",
-     "found": {
-      "giancarlo-nappi": "full",
-      "giovanna-ramos-goncalves-klauck": "firstlast"
-     }
+     "found": {}
     },
     "https://web.archive.org/web/20190819093342/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/2286-finalistas-na-ieso": {
      "status": "text",
-     "found": {
-      "breno-franco-ferreira": "full",
-      "giancarlo-nappi": "full",
-      "giovanna-ramos-goncalves-klauck": "full",
-      "matheus-martins-de-sousa": "full"
-     }
+     "found": {}
     }
    },
    "2019": {
     "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/wp-content/uploads/2023/09/IESO-2019_Medalist.pdf": {
      "status": "text",
-     "found": {
-      "ednaldo-de-sousa": "full"
-     }
+     "found": {}
     },
     "https://web.archive.org/web/20190923193711/https://portal.ifsuldeminas.edu.br/index.php/institucional-geral/3062-ieso-2019": {
      "status": "text",
-     "found": {
-      "ednaldo-de-sousa": "full",
-      "guilherme-teixeira-simoes": "full",
-      "joao-augusto-vilas-boas-dos-santos-goncalves": "full",
-      "luis-eduardo-siqueira-freitas": "full"
-     }
+     "found": {}
     },
     "https://cidadesemfoco.com/aluno-do-ifpi-de-paulistana-vai-representar-o-brasil-na-13a-olimpiada-internacional-de-ciencias-da-terra/": {
      "status": "text",
-     "found": {
-      "ednaldo-de-sousa": "full",
-      "guilherme-teixeira-simoes": "full",
-      "luis-eduardo-siqueira-freitas": "firstlast"
-     }
+     "found": {}
     }
    },
    "2026": {
     "https://drd.com.br/estudantes-do-ifmg-de-sao-joao-evangelista-vao-representar-o-brasil-em-olimpiada-internacional-na-italia/": {
      "status": "text",
-     "found": {
-      "alexandra-silva": "full",
-      "joao-paulo-dos-santos": "full",
-      "manuela-goncalves": "full",
-      "washington-mota": "full"
-     }
+     "found": {}
     }
    }
   },
@@ -17227,23 +17215,15 @@
     },
     "https://web.archive.org/web/20251109131732/https://www.unifal-mg.edu.br/comunicacao/universidadeparticipadeolimpiadainternacionaldegeografia": {
      "status": "text",
-     "found": {
-      "ana-byatriz-santos": "full",
-      "gabriella-abreu": "full",
-      "jose-carlos-castro-da-silva": "full"
-     }
+     "found": {}
     },
     "https://web.archive.org/web/20160904154252/http://www.crede01.seduc.ce.gov.br/index.php/listanoticias/noticias-anteriores/3082-alunos-da-escola-profissional-salaberga-torquato-conquistam-vaga-na-olimpiada-internacional-de-geografia-em-pequim": {
      "status": "text",
-     "found": {
-      "jose-carlos-castro-da-silva": "short"
-     }
+     "found": {}
     },
     "https://salaberga.com/salaberga/portalsalaberga/app/main/": {
      "status": "text",
-     "found": {
-      "jose-carlos-castro-da-silva": "short"
-     }
+     "found": {}
     },
     "https://www.unifal-mg.edu.br/geografia/historico-de-noticias/": {
      "status": "text",
@@ -17301,25 +17281,15 @@
     },
     "https://tribunaonline.com.br/atribunanasescolas/feras-da-geografia-se-destacam-na-irlanda-198302": {
      "status": "text",
-     "found": {
-      "gabriel-volpato-lima": "full",
-      "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez": "short"
-     }
+     "found": {}
     },
     "https://noic.com.br/uncategorized/entrevista-com-pablo-primeiro-brasileiro-medalhista-na-igeo/": {
      "status": "text",
-     "found": {
-      "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez": "firstlast"
-     }
+     "found": {}
     },
     "https://facepevirtual.org.br/facepe/equipe-brasileira-conquista-medalha-de-bronze-na-olimpiada-internacional-de-geografia-na-irlanda/": {
      "status": "text",
-     "found": {
-      "davi-de-magalhaes-vianna-navarro": "full",
-      "gabriel-volpato-lima": "full",
-      "pablo-fernando-de-azurza-nogueira-e-gomez-alvarez": "full",
-      "valentina-vale-farias-cruz": "full"
-     }
+     "found": {}
     }
    },
    "2025": {
@@ -17332,6 +17302,22 @@
      "found": {}
     },
     "https://regionalnorte.com.br/estudantes-paraenses-sao-selecionadas-para-olimpiada-internacional-de-geografia-na-tailandia": {
+     "status": "text",
+     "found": {}
+    },
+    "https://www.instagram.com/p/DM0VacVsMYU/": {
+     "status": "status-only",
+     "found": {}
+    },
+    "https://www.instagram.com/p/DM1GXAqPBIk/": {
+     "status": "status-only",
+     "found": {}
+    },
+    "https://noic.com.br/quem-somos/": {
+     "status": "text",
+     "found": {}
+    },
+    "https://noic.com.br/materiais-geografia/guia-de-estudos/igeo/": {
      "status": "text",
      "found": {}
     }
@@ -17347,15 +17333,19 @@
     },
     "https://wscom.com.br/noticias/noticias-locais/2026/03/05/estudante-paraibana-representa-o-brasil-na-olimpiada-internacional-de-geografia-em-istambul/": {
      "status": "text",
-     "found": {
-      "bianca-ribas": "full"
-     }
+     "found": {}
     },
     "https://agoralaguna.com.br/2026/04/theodora-flor-estudante-de-laguna-representara-estado-em-olimpiada-de-geografia-na-turquia/": {
      "status": "text",
-     "found": {
-      "theodora-flor": "full"
-     }
+     "found": {}
+    },
+    "https://www.instagram.com/p/Db-9ogylVuf/": {
+     "status": "status-only",
+     "found": {}
+    },
+    "https://www.sulinfoco.com.br/estudante-de-laguna-representa-o-brasil-na-olimpiada-internacional-de-geografia-na-turquia/": {
+     "status": "text",
+     "found": {}
     }
    }
   },
@@ -17462,6 +17452,7 @@
     "https://gauchazh.clicrbs.com.br/educacao/noticia/2019/08/comandado-por-tecnicos-gauchos-grupo-do-brasil-leva-1o-lugar-em-olimpiada-internacional-de-economia-cjzkc3ovc04fu01qm0nynvpk4.html": {
      "status": "text",
      "found": {
+      "eleni-claire-shor": "short",
       "guilherme-leal-cardoso-pita": "firstlast",
       "rafael-akira-okamura-ferro": "short",
       "victor-cortez-crocia-barros": "short",
@@ -17600,6 +17591,7 @@
      "found": {
       "leonardo-zanetti-souza": "full",
       "lucas-monteiro-rivelli": "full",
+      "luiz-filipe-peres-mendes": "short",
       "pedro-porto-de-carvalho-nunes": "full",
       "renato-timoteo-wanderley": "full"
      }
