@@ -35,6 +35,14 @@ let state = {
 
 const fold = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
+/* Olympiads flagged `"hidden": true` in data/olympiads.json are held back from the
+   site: build_people.py leaves their participations out of data/people.json and the
+   UI never lists them (picker, área/escopo filters, counts). Everything else about
+   the dataset — folder, checks, reports — is unchanged. */
+const visibleOls = () => Object.entries(OL.olympiads).filter(([, o]) => !o.hidden);
+const isVisibleOl = (id) => !!OL.olympiads[id] && !OL.olympiads[id].hidden;
+const visibleValues = (key) => new Set(visibleOls().map(([, o]) => o[key]));
+
 /* ---------- fuzzy name search ----------
    Query words may come in any order; each must match a name word (of the display name or any
    recorded spelling variant) as a prefix, or within a small edit distance (1 for 4+ letters,
@@ -88,10 +96,11 @@ function readURL() {
   state.q = p.get("q") || "";
   const ols = p.get("ols") || "";
   state.olsNone = ols === "none";
-  state.ols = new Set(state.olsNone ? [] : ols.split(",").filter(Boolean));
+  // a link from before an olympiad was hidden simply loses that id (and the filter)
+  state.ols = new Set((state.olsNone ? [] : ols.split(",").filter(Boolean)).filter(isVisibleOl));
   state.olsAll = p.get("modo") === "e";
-  state.field = p.get("area") || "";
-  state.scope = p.get("escopo") || "";
+  state.field = visibleValues("field").has(p.get("area")) ? p.get("area") : "";
+  state.scope = visibleValues("scope").has(p.get("escopo")) ? p.get("escopo") : "";
   state.medal = p.get("medalha") || "";
   state.y0 = p.get("de") ? +p.get("de") : null;
   state.y1 = p.get("ate") ? +p.get("ate") : null;
@@ -134,6 +143,7 @@ function restoreSavedURL() {
 /* ---------- filtering ---------- */
 function partMatches(part) {
   const ol = OL.olympiads[part.olympiad];
+  if (!ol || ol.hidden) return false;
   if (state.olsNone) return false;
   if (state.ols.size && !state.ols.has(part.olympiad)) return false;
   if (state.field && ol.field !== state.field) return false;
@@ -351,7 +361,7 @@ function download(name, text, type) {
 /* ---------- wiring ---------- */
 /* olympiad multi-select (checkbox panel) */
 function olLabel() {
-  const n = Object.keys(OL.olympiads).length;
+  const n = visibleOls().length;
   if (state.olsNone) return "Nenhuma";
   if (!state.ols.size || state.ols.size === n) return "Todas";
   const codes = [...state.ols].map((id) => OL.olympiads[id].code);
@@ -362,7 +372,7 @@ function buildOlPicker() {
   const list = $("#f-ol-list");
   const byField = {};
   for (const f of Object.keys(OL.fields)) byField[f] = []; // group order = order of fields in olympiads.json
-  for (const [id, o] of Object.entries(OL.olympiads)) (byField[o.field] ||= []).push([id, o]);
+  for (const [id, o] of visibleOls()) (byField[o.field] ||= []).push([id, o]);
   list.innerHTML = Object.entries(byField).filter(([, ols]) => ols.length).map(([field, ols]) =>
     `<div class="msel-group"><div class="msel-group-title">${OL.fields[field]?.label || field}</div>` +
     ols.map(([id, o]) =>
@@ -404,11 +414,12 @@ function buildOlPicker() {
 
 function buildControls() {
   const syncOl = buildOlPicker();
+  const fields = visibleValues("field"), scopes = visibleValues("scope");
   const fsel = $("#f-field");
-  for (const [id, f] of Object.entries(OL.fields)) fsel.add(new Option(f.label, id));
+  for (const [id, f] of Object.entries(OL.fields)) if (fields.has(id)) fsel.add(new Option(f.label, id));
   fsel.value = state.field;
   const ssel = $("#f-scope");
-  for (const [id, label] of Object.entries(OL.scopes)) ssel.add(new Option(label, id));
+  for (const [id, label] of Object.entries(OL.scopes)) if (scopes.has(id)) ssel.add(new Option(label, id));
   ssel.value = state.scope;
   $("#f-medal").value = state.medal;
   $("#q").value = state.q;
@@ -501,7 +512,7 @@ async function boot() {
   restoreSavedURL();
   readURL();
   const m = DATA.meta;
-  const nOls = Object.keys(OL.olympiads).length;
+  const nOls = visibleOls().length;
   $("#meta-line").textContent =
     `${m.peopleCount} estudantes · ${m.participationCount} participações · ${nOls} olimpíadas · dados de ${m.generatedAt.slice(0, 10)}`;
   $("#controls").hidden = false;

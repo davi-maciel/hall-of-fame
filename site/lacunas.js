@@ -5,8 +5,10 @@
     fetch("data/coverage.json").then((r) => r.json()),
     fetch("data/olympiads.json").then((r) => r.json()),
   ]);
-  const withGaps = cov.olympiads.filter((o) => o.gaps.length || o.caveat);
-  const clean = cov.olympiads.filter((o) => !o.gaps.length && !o.caveat);
+  // olympiads flagged "hidden" in olympiads.json are held back from the site
+  const shown = cov.olympiads.filter((o) => !(ols.olympiads[o.id] || {}).hidden);
+  const withGaps = shown.filter((o) => o.gaps.length || o.caveat);
+  const clean = shown.filter((o) => !o.gaps.length && !o.caveat);
   const fieldLabel = (f) => (ols.fields[f] && ols.fields[f].label) || f;
   let html = "";
   let lastField = null;

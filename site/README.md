@@ -28,6 +28,8 @@ cd site && python3 -m http.server 8741 # then open http://localhost:8741/
 - **Export**: Copy TSV (pastes into Sheets), CSV, JSON — always of the current
   filtered view.
 - Medal nuance: `—` = confirmed no-award; "pendente" = event not yet held. UI is monochrome — text codes, no colors/emoji.
+- Held back: a raw record flagged `"attendance": "unconfirmed"` (only a pre-event source names the student) stays in its olympiad dataset and graph, but `build_people.py` skips it, so it is absent from `data/people.json` and from the site until a post-event source confirms it.
+- Held back (whole dataset): an id in `HIDDEN_DATASETS` (`scripts/build_people.py`) is skipped by `build_people.py`/`build_sources.py` and its `data/olympiads.json` entry carries `"hidden": true`, so the UI (picker, área/escopo filters, counts, lacunas) leaves it out — the folder, its checks and its reports are untouched.
 - Light/dark via `prefers-color-scheme`.
 
 ## Files
@@ -37,12 +39,14 @@ scripts/build_people.py   entity resolution: all */src/data/graph.json -> data/p
                           (unified slugifier; prints every multi-variant merge for review)
 scripts/aliases.json      cross-dataset identity fixes (e.g. Cindy Yushi/Yuchi Tsai)
 scripts/check_source_names.py  fetches every corroboration URL and records which roster members
-                          its text names (full / firstlast / variant / surname / short) -> data/source_names.json
+                          its text names (full / firstlast / variant / surname / short, plus
+                          attested — a source whose text cannot be read, curated with a
+                          "names": [personId] list on the source entry) -> data/source_names.json
                           (GENERATED); build_sources.py folds it into sources.json so the person
                           page lists name-bearing links first and the edition's other links muted
 scripts/ocr_vision.swift  OCR helper (macOS Vision) that check_source_names.py compiles on demand
                           to read sources with no text layer — scans and images — as table text
-data/people.json          GENERATED — canonical people + participations (1480 / 3007)
+data/people.json          GENERATED — canonical people + participations (1436 / 2963)
 data/olympiads.json       olympiad metadata: code, name, field, scope, palette colors
 data/coverage.json        curated notes on what is still missing per olympiad (feeds lacunas.html)
 lacunas.html / lacunas.js public data-gaps page

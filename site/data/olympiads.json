@@ -229,13 +229,15 @@
       "code": "IESO",
       "name": "International Earth Science Olympiad",
       "field": "geociencias",
-      "scope": "mundial"
+      "scope": "mundial",
+      "hidden": true
     },
     "igeo": {
       "code": "iGeo",
       "name": "International Geography Olympiad",
       "field": "geografia",
-      "scope": "mundial"
+      "scope": "mundial",
+      "hidden": true
     },
     "wopho": {
       "code": "WoPhO",

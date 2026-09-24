@@ -17,12 +17,15 @@ source exists; otherwise the year simply has no links (never fabricate).
 Run:  python3 site/scripts/build_sources.py
 """
 import json
+import sys
 from pathlib import Path
 
 SITE = Path(__file__).resolve().parent.parent
 ROOT = SITE.parent
 OUT = SITE / "data" / "sources.json"
 NAMES = SITE / "data" / "source_names.json"
+sys.path.insert(0, str(SITE / "scripts"))
+from build_people import HIDDEN_DATASETS  # noqa: E402  (single source of truth)
 
 WITH_TRAILS = ["imo", "icho", "ioi", "ioaa", "ijso", "oibf", "eupho", "nbpho", "ipho", "oii", "egoi", "imcho", "oiaq", "apmo", "egmo", "oim", "conosur", "omcplp", "rioplatense", "rmm", "pagmo", "igo", "ibo", "oiab", "iao", "olaa", "iypt", "iol", "ieso", "igeo", "wopho", "ieo"]
 
@@ -38,6 +41,8 @@ def main():
     unchecked = 0
     out = {}
     for ds in WITH_TRAILS:
+        if ds in HIDDEN_DATASETS:  # not on the site, so no source links either
+            continue
         corr = json.loads((ROOT / ds / "data" / "corroboration.json").read_text(encoding="utf-8"))
         by_year = {}
         for yrec in corr["years"]:
@@ -57,6 +62,8 @@ def main():
         out[ds] = by_year
 
     for ds, entries in FALLBACKS.items():
+        if ds in HIDDEN_DATASETS:
+            continue
         out[ds] = {"*": entries}
 
     OUT.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")

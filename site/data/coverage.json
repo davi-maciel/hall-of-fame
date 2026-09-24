@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18",
+ "generatedAt": "2026-09-23",
  "olympiads": [
   {
    "id": "apmo",
@@ -401,62 +401,6 @@
    "complete": 20,
    "gaps": [],
    "caveat": ""
-  },
-  {
-   "id": "igeo",
-   "code": "iGeo",
-   "name": "International Geography Olympiad",
-   "field": "geografia",
-   "attended": 8,
-   "span": "2016–2026",
-   "complete": 4,
-   "gaps": [
-    {
-     "year": 2018,
-     "label": "3 de 4 nomes"
-    },
-    {
-     "year": 2019,
-     "label": "sem nomes"
-    },
-    {
-     "year": 2023,
-     "label": "sem nomes"
-    },
-    {
-     "year": 2026,
-     "label": "3 de 4 nomes"
-    }
-   ],
-   "caveat": "Os resultados oficiais listam só as medalhas de ouro; as equipes são reconstituídas a partir da OBG, das escolas e da imprensa. 2019 e 2023 sem nomes; 2018 e 2026 com 3 de 4."
-  },
-  {
-   "id": "ieso",
-   "code": "IESO",
-   "name": "International Earth Science Olympiad",
-   "field": "geociencias",
-   "attended": 9,
-   "span": "2012–2026",
-   "complete": 5,
-   "gaps": [
-    {
-     "year": 2013,
-     "label": "3 de 4 nomes"
-    },
-    {
-     "year": 2014,
-     "label": "1 de 4 nomes"
-    },
-    {
-     "year": 2017,
-     "label": "3 de 4 nomes"
-    },
-    {
-     "year": 2026,
-     "label": "resultados pendentes"
-    }
-   ],
-   "caveat": "As listas oficiais trazem só medalhistas e premiados por equipe; 2014 tem 1 de 4 nomes, 2013 e 2017 têm 3 de 4. Resultados de 2026 ainda não publicados."
   }
  ]
 }

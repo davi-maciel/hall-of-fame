@@ -11,7 +11,10 @@ Mirrors the small-world pipeline:
 Raw record shape (data/raw/ieso.json), a JSON list of:
   {"rawName": str, "olympiadId": "ieso", "year": int,
    "medal": "gold"|"silver"|"bronze"|"honorable-mention"|null,
-   "rank": int (optional)}
+   "rank": int (optional),
+   "attendance": "unconfirmed" (optional) — the row rests on a pre-event source
+      only; kept in the dataset but copied through to graph.json so the site
+      build (site/scripts/build_people.py) can hold it back from people.json}
 """
 import json
 import re
@@ -27,6 +30,7 @@ ALIASES = ROOT / "scripts" / "aliases.json"
 OUT = ROOT / "src" / "data" / "graph.json"
 
 VALID_MEDALS = {"gold", "silver", "bronze", "honorable-mention", None}
+VALID_ATTENDANCE = {"unconfirmed", None}
 
 
 def strip_diacritics(s: str) -> str:
@@ -86,6 +90,9 @@ def main():
         medal = r.get("medal")
         if medal not in VALID_MEDALS:
             sys.exit(f"invalid medal {medal!r} for {raw} {year}")
+        attendance = r.get("attendance")
+        if attendance not in VALID_ATTENDANCE:
+            sys.exit(f"invalid attendance {attendance!r} for {raw} {year}")
 
         slug = make_slug(raw)
         slug = slug_aliases.get(slug, slug)
@@ -110,11 +117,15 @@ def main():
             None,
         )
         if dup is None:
-            students[slug]["participations"].append(
-                {"olympiad": olympiad, "year": year, "medal": medal}
-            )
-        elif dup["medal"] is None and medal is not None:
-            dup["medal"] = medal  # upgrade null -> known medal
+            part = {"olympiad": olympiad, "year": year, "medal": medal}
+            if attendance:
+                part["attendance"] = attendance
+            students[slug]["participations"].append(part)
+        else:
+            if dup["medal"] is None and medal is not None:
+                dup["medal"] = medal  # upgrade null -> known medal
+            if not attendance:
+                dup.pop("attendance", None)  # a row without the flag confirms it
 
         rosters.setdefault((olympiad, year), set()).add(slug)
 

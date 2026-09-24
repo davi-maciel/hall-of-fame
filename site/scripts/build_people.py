@@ -16,6 +16,12 @@ Key rules:
     * ijso: medalStatus from ijso/data/raw/ijso.json (unknown / inferred / ...)
     * oibf 2026: "pending" (roster announced, event not yet held)
     * everywhere else: null medal = confirmed no-award (confirmed below the award cut).
+- participations whose graph record carries `"attendance": "unconfirmed"` are
+  SKIPPED: the row rests on a pre-event source only, so it stays in the dataset
+  (raw + graph.json) but is held back from the site until a post-event source
+  confirms the student competed. A person left with no participation is dropped.
+- datasets listed in HIDDEN_DATASETS are skipped wholesale (same rule: the folder
+  and its checks are untouched, the site just does not show it yet).
 
 Run:  python3 site/scripts/build_people.py   (from repo root or anywhere)
 """
@@ -31,6 +37,12 @@ ROOT = SITE.parent
 OUT = SITE / "data" / "people.json"
 
 DATASETS = ["imo", "icho", "ioi", "ioaa", "ipho", "eupho", "oibf", "nbpho", "ijso", "oii", "egoi", "imcho", "oiaq", "apmo", "egmo", "oim", "conosur", "omcplp", "rioplatense", "rmm", "pagmo", "igo", "ibo", "oiab", "iao", "olaa", "iypt", "iol", "ieso", "igeo", "wopho", "ieo"]
+
+# Datasets held back from the SITE only: they stay in DATASETS (folders, checks and
+# reports are unchanged), but build_people.py/build_sources.py leave them out of
+# data/people.json and data/sources.json, and their entry in data/olympiads.json
+# carries "hidden": true so the UI stops listing them. Keep the two lists in sync.
+HIDDEN_DATASETS = {"igeo", "ieso"}
 
 
 def strip_diacritics(s: str) -> str:
@@ -88,21 +100,33 @@ def main():
 
     people = {}  # slug -> {names: set, participations: []}
     dataset_meta = {}
+    skipped_unconfirmed = 0  # rows held back from the site (attendance unconfirmed)
+    skipped_hidden = 0       # rows held back from the site (dataset in HIDDEN_DATASETS)
 
     for ds in DATASETS:
         gpath = ROOT / ds / "src" / "data" / "graph.json"
         g = json.loads(gpath.read_text(encoding="utf-8"))
-        dataset_meta[ds] = {
-            "students": g["metadata"]["studentCount"],
-            "generatedAt": g["metadata"]["generatedAt"],
-        }
+        hidden = ds in HIDDEN_DATASETS
+        if not hidden:
+            dataset_meta[ds] = {
+                "students": g["metadata"]["studentCount"],
+                "generatedAt": g["metadata"]["generatedAt"],
+            }
         for s in g["students"].values():
             slug = slugify(s["name"])
             slug = slug_aliases.get(slug, slug)
             p = people.setdefault(slug, {"names": set(), "participations": [], "datasets": set()})
+            if hidden:
+                # nothing of a hidden dataset reaches the site: no rows, no dataset
+                # badge, not even its spelling of the name
+                skipped_hidden += len(s["participations"])
+                continue
             p["names"].add(s["name"])
             p["datasets"].add(ds)
             for part in s["participations"]:
+                if part.get("attendance") == "unconfirmed":
+                    skipped_unconfirmed += 1
+                    continue
                 entry = {
                     "olympiad": part["olympiad"],
                     "year": part["year"],
@@ -121,7 +145,15 @@ def main():
     out_people = []
     multi_variant = []
     cross_dataset = 0
+    dropped_people = 0
+    dropped_hidden = 0
     for slug, p in people.items():
+        if not p["participations"]:  # every row of this person was held back
+            if p["names"]:
+                dropped_people += 1
+            else:  # seen only in hidden datasets
+                dropped_hidden += 1
+            continue
         variants = sorted(p["names"])
         if len(variants) > 1:
             multi_variant.append((slug, variants))
@@ -161,6 +193,10 @@ def main():
     OUT.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
 
     print(f"people: {len(out_people)}   participations: {total_parts}")
+    print(f"attendance unconfirmed (hidden from the site): {skipped_unconfirmed} participations, "
+          f"{dropped_people} people dropped")
+    print(f"hidden datasets ({', '.join(sorted(HIDDEN_DATASETS))}): {skipped_hidden} participations, "
+          f"{dropped_hidden} people dropped")
     print(f"cross-dataset people (in >1 olympiad dataset): {cross_dataset}")
     print(f"multi-variant name merges to review: {len(multi_variant)}")
     for slug, variants in multi_variant:
