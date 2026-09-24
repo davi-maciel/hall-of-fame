@@ -8,7 +8,8 @@
         {
           "olympiad": "ieso",
           "year": 2026,
-          "medal": null
+          "medal": null,
+          "attendance": "unconfirmed"
         }
       ]
     },
@@ -20,7 +21,8 @@
         {
           "olympiad": "ieso",
           "year": 2026,
-          "medal": null
+          "medal": null,
+          "attendance": "unconfirmed"
         }
       ]
     },
@@ -32,7 +34,8 @@
         {
           "olympiad": "ieso",
           "year": 2026,
-          "medal": null
+          "medal": null,
+          "attendance": "unconfirmed"
         }
       ]
     },
@@ -44,7 +47,8 @@
         {
           "olympiad": "ieso",
           "year": 2026,
-          "medal": null
+          "medal": null,
+          "attendance": "unconfirmed"
         }
       ]
     },
@@ -300,6 +304,18 @@
         }
       ]
     },
+    "guilherme-pagung-ribeiro": {
+      "id": "guilherme-pagung-ribeiro",
+      "name": "Guilherme Pagung Ribeiro",
+      "searchKey": "guilherme pagung ribeiro",
+      "participations": [
+        {
+          "olympiad": "ieso",
+          "year": 2013,
+          "medal": null
+        }
+      ]
+    },
     "igor-felix-pio": {
       "id": "igor-felix-pio",
       "name": "Igor Felix Pio",
@@ -412,12 +428,30 @@
     },
     {
       "source": "eliton-mathias-morais",
+      "target": "guilherme-pagung-ribeiro",
+      "olympiad": "ieso",
+      "year": 2013
+    },
+    {
+      "source": "eliton-mathias-morais",
       "target": "igor-felix-pio",
       "olympiad": "ieso",
       "year": 2013
     },
     {
       "source": "eliton-mathias-morais",
+      "target": "mario-lovo",
+      "olympiad": "ieso",
+      "year": 2013
+    },
+    {
+      "source": "guilherme-pagung-ribeiro",
+      "target": "igor-felix-pio",
+      "olympiad": "ieso",
+      "year": 2013
+    },
+    {
+      "source": "guilherme-pagung-ribeiro",
       "target": "mario-lovo",
       "olympiad": "ieso",
       "year": 2013
@@ -628,8 +662,8 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-18T05:57:05.771326+00:00",
-    "studentCount": 31,
-    "edgeCount": 42
+    "generatedAt": "2026-09-23T03:18:11.391769+00:00",
+    "studentCount": 32,
+    "edgeCount": 45
   }
 }

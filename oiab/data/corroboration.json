@@ -27,6 +27,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final table (ranks + scores; no medal column - medals from OLC/NOIC)",
+          "timing": "post",
           "needle": "BRASIL"
         },
         {
@@ -35,6 +36,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Negreiros Bessa"
         },
         {
@@ -43,6 +45,7 @@
           "cls": "primary",
           "coverage": "medal counts only",
           "confirms": "NOIC OIAB page: 2007 debut = 1st place with 1G 1S 2B",
+          "timing": "post",
           "needle": "1 medalha de ouro"
         }
       ],
@@ -61,6 +64,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results sheet (oiab.org archive): names, scores and medals",
+          "timing": "post",
           "needle": "Camelo Filho"
         },
         {
@@ -69,6 +73,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Camelo Filho"
         }
       ]
@@ -85,7 +90,8 @@
           "domain": "olimpiadadebiologia.edu.es",
           "cls": "official",
           "coverage": "full",
-          "confirms": "official score sheet (scanned image; read visually): 3 Brazilians, S+2B"
+          "confirms": "official score sheet (scanned image; read visually): 3 Brazilians, S+2B",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
@@ -93,6 +99,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Nunes Benevides"
         },
         {
@@ -100,7 +107,8 @@
           "domain": "aridesa.com.br",
           "cls": "primary",
           "coverage": "one student",
-          "confirms": "Ari de Sá poster: Rafael Lima Viana on the 2009 team (image)"
+          "confirms": "Ari de Sá poster: Rafael Lima Viana on the 2009 team (image)",
+          "timing": "pre"
         }
       ],
       "note": "Three contestants (official codes 05-07; OLC agrees). An Ari de Sá poster printed before the event says 'one of four representatives' - a fourth never appears in the results."
@@ -118,6 +126,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results sheet (oiab.org archive): names, scores and medals",
+          "timing": "post",
           "needle": "REGIS DE FREITAS"
         },
         {
@@ -126,6 +135,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Regis de Freitas"
         }
       ],
@@ -143,7 +153,8 @@
           "domain": "olimpiadadebiologia.edu.es",
           "cls": "official",
           "coverage": "full",
-          "confirms": "official medal list (scanned image; read visually): 2 Brazilian bronzes; unawarded contestants not listed"
+          "confirms": "official medal list (scanned image; read visually): 2 Brazilian bronzes; unawarded contestants not listed",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
@@ -151,6 +162,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Cayke"
         }
       ],
@@ -168,7 +180,8 @@
           "domain": "olimpiadadebiologia.edu.es",
           "cls": "official",
           "coverage": "full",
-          "confirms": "official final results (scanned image; read visually): 2G + 2S"
+          "confirms": "official final results (scanned image; read visually): 2G + 2S",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
@@ -176,6 +189,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Antunes Filho"
         },
         {
@@ -184,6 +198,7 @@
           "cls": "primary",
           "coverage": "first names + medals",
           "confirms": "O Globo: 2G (Antônio Pedro, Leonardo Costa) + 2S (Jéssica Lopes, Ivan Tadeu)",
+          "timing": "post",
           "needle": "Ivan Tadeu"
         }
       ],
@@ -201,7 +216,8 @@
           "domain": "olimpiadadebiologia.edu.es",
           "cls": "official",
           "coverage": "full",
-          "confirms": "official final results (scanned image; read visually): 4 bronzes"
+          "confirms": "official final results (scanned image; read visually): 4 bronzes",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
@@ -209,6 +225,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Diniz Macedo"
         },
         {
@@ -217,6 +234,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Agência FAPESP: four bronzes, full names + cities",
+          "timing": "post",
           "needle": "Diniz Macedo"
         }
       ],
@@ -235,6 +253,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results sheet (oiab.org archive): names, scores and medals",
+          "timing": "post",
           "needle": "Voltani"
         },
         {
@@ -243,6 +262,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Voltani"
         },
         {
@@ -251,6 +271,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post",
+          "timing": "post",
           "needle": "Voltani"
         },
         {
@@ -259,6 +280,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Voltani"
         },
         {
@@ -267,6 +289,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Agência FAPESP: 1G 2S 1B",
+          "timing": "post",
           "needle": "Leticia Pereira de Souza"
         }
       ]
@@ -284,6 +307,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official report + medal table: Brazil 3 silvers (Feitosa Viana, Natsubori Sato, Nogueira Filho) + 1 bronze",
+          "timing": "post",
           "needle": "NATSUBORI"
         },
         {
@@ -292,6 +316,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Natsubori"
         },
         {
@@ -300,6 +325,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post (lists Sato as bronze - overruled by the official table)",
+          "timing": "post",
           "needle": "Gerardo Albino"
         },
         {
@@ -308,6 +334,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Natsubori"
         },
         {
@@ -316,6 +343,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "pre-event roster with schools",
+          "timing": "pre",
           "needle": "Natsubori"
         }
       ],
@@ -333,7 +361,8 @@
           "domain": "olimpiadadebiologia.edu.es",
           "cls": "official",
           "coverage": "image (full ranking)",
-          "confirms": "official ranking (photo of the results sheet; read visually): G + 2S + B"
+          "confirms": "official ranking (photo of the results sheet; read visually): G + 2S + B",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/biologia/ibero/",
@@ -341,6 +370,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Adamian"
         },
         {
@@ -349,6 +379,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Adamian"
         },
         {
@@ -357,6 +388,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Galileu: 1G 2S 1B with names",
+          "timing": "post",
           "needle": "Teixeira Gomes"
         }
       ],
@@ -375,6 +407,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results sheet (oiab.org archive): names, scores and medals",
+          "timing": "post",
           "needle": "Helmich"
         },
         {
@@ -383,6 +416,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2007-2017 (sources: OBB site, OIAB 2014 site)",
+          "timing": "post",
           "needle": "Helmich"
         },
         {
@@ -391,6 +425,7 @@
           "cls": "primary",
           "coverage": "pre-event roster",
           "confirms": "NOIC team announcement (lists Olavo Borges Franco, later replaced by João Victor Almeida Oliveira Santos)",
+          "timing": "pre",
           "needle": "Helmich"
         }
       ],
@@ -408,7 +443,8 @@
           "domain": "oiab.org",
           "cls": "official",
           "coverage": "full",
-          "confirms": "official winners list (scanned image; read visually): 4 silvers"
+          "confirms": "official winners list (scanned image; read visually): 4 silvers",
+          "timing": "post"
         },
         {
           "url": "https://noic.com.br/biologia/brasil-conquista-4-pratas-na-oiab/",
@@ -416,6 +452,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post",
+          "timing": "post",
           "needle": "Jaziel"
         },
         {
@@ -423,7 +460,8 @@
           "domain": "aridesa.com.br",
           "cls": "primary",
           "coverage": "one student",
-          "confirms": "Ari de Sá poster: João Pedro de Souza Bezerra silver (image)"
+          "confirms": "Ari de Sá poster: João Pedro de Souza Bezerra silver (image)",
+          "timing": "post"
         }
       ],
       "note": "All four silver (official scan, NOIC)."
@@ -441,6 +479,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results sheet (oiab.org archive): names, scores and medals",
+          "timing": "post",
           "needle": "Haofu"
         },
         {
@@ -449,6 +488,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official memoir: same medal table",
+          "timing": "post",
           "needle": "Haofu"
         },
         {
@@ -457,6 +497,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 2S + 2B",
+          "timing": "post",
           "needle": "Haofu"
         }
       ]
@@ -474,6 +515,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results sheet (oiab.org archive): names, scores and medals",
+          "timing": "post",
           "needle": "Amano Tanaka"
         },
         {
@@ -482,6 +524,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official memoir: participants + medals",
+          "timing": "post",
           "needle": "Sonntag"
         },
         {
@@ -490,6 +533,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2021 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "AMANO TANAKA"
         }
       ],
@@ -497,8 +541,8 @@
     },
     {
       "year": 2022,
-      "namingSourceCount": 4,
-      "independentPrimaryCount": 3,
+      "namingSourceCount": 7,
+      "independentPrimaryCount": 6,
       "meetsThreeNaming": true,
       "meetsThreePrimary": true,
       "sources": [
@@ -508,7 +552,28 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2022 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "BRENO TAQUES"
+        },
+        {
+          "url": "https://www.instagram.com/p/ClTWjOWNTJE/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "one student: medal (post-event)",
+          "confirms": "IFCE Instagram, November 2022, POST-EVENT (caption pasted by the maintainer 2026-09-23; Instagram captions are not exposed to plain fetches): 'O estudante do curso técnico integrado em Química do campus de Fortaleza, Cícero Miguel Ângelo Neto, embarcou na última terça-feira (22/11) para São Paulo... Cícero Neto foi medalhista de ouro na Olimpíada Ibero-Americana de Biologia, na Olimpíada Brasileira de Biologia e 1º lugar da Regional Nordeste da Olimpíada Brasileira de Biotecnologia' - the institution's own confirmation of his OIAB gold",
+          "timing": "post",
+          "names": [
+            "cicero-miguel-angelo-neto"
+          ]
+        },
+        {
+          "url": "https://www.colegiosantoantonio.com.br/e-prata-aluna-do-csa-conquista-medalha-em-olimpiada-internacional/",
+          "domain": "colegiosantoantonio.com.br",
+          "cls": "primary",
+          "coverage": "one student",
+          "confirms": "Colégio Santo Antônio (Belo Horizonte) news, 2022-09-14: 'Isabela Trad, aluna da 2ª Série do Ensino Médio do Colégio Santo Antônio, alcançou mais uma conquista e ganhou a medalha de prata na Olimpíada Ibero-americana de Biologia (OIAB), realizada na primeira semana de setembro, em Lima, Peru'",
+          "timing": "post",
+          "needle": "medalha de prata na Olimpíada Ibero-americana de Biologia"
         },
         {
           "url": "https://massanews.com/noticia/noticias/educacao/estudante-de-curitiba-conquista-medalha-de-bronze-em-olimpiada-internacional/",
@@ -516,7 +581,17 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Prefeitura de Curitiba release (mirror): Breno Taques Mussi Endres bronze at the XV OIAB (Peru, virtual)",
+          "timing": "post",
           "needle": "Breno Taques Mussi Endres"
+        },
+        {
+          "url": "https://bandnewsfmcuritiba.com/curitibano-e-bronze-na-olimpiada-ibero-americana-de-biologia/",
+          "domain": "bandnewsfmcuritiba.com",
+          "cls": "primary",
+          "coverage": "one student + team origin",
+          "confirms": "BandNews FM Curitiba, 2022-09-09 (results day): Breno Endres bronze at the XV OIAB, theory and practical papers on 6-7 Sep, ~40 contestants, and 'Os outros 3 alunos brasileiros são dos estados do Ceará, Pernambuco e Minas Gerais' (no medals given for them)",
+          "timing": "post",
+          "needle": "Breno Endres"
         },
         {
           "url": "https://bosquemananciais.org.br/index.php?area=ver_noticia&id=1234",
@@ -524,6 +599,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "school news: Breno selected for the XV OIAB",
+          "timing": "pre",
           "needle": "Breno"
         },
         {
@@ -532,10 +608,11 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "UFPR POTI 2022 awards list: Breno bronze",
+          "timing": "post",
           "needle": "Breno Taques"
         }
       ],
-      "note": "Remote edition (Peru). No official results file on oiab.org and the organizer's (Butantan) news pages are offline under the 2026 electoral blackout. Team from the OBB selection list; only Breno Taques Mussi Endres's bronze is documented (Curitiba city hall, school, UFPR). Wikipedia's cumulative medal table implies 1G+2S for the other three - unknown assignment, medals left null with medalStatus."
+      "note": "Remote edition (Peru, 5-9 Sep; results announced Friday 9 Sep). No results file exists: oiab.org's 2022 section holds only the programme and the leaders list, Spain's OEB posted no memoir, and Butantan - unlike every other edition from 2018 on - published no results release at all (no such page in the Wayback record; its site is additionally offline under the 2026 electoral blackout). Team from the OBB selection list; the three documented medals were each reconstructed from the student's own institution or local press: Cícero Miguel Ângelo Neto gold (IFCE's Instagram, Nov 2022), Isabela Trad Timo Luz silver (her school's 2022-09-14 news) and Breno Taques Mussi Endres bronze (Curitiba city hall, BandNews FM, school, UFPR). Artur Neves Maia is the only award still unknown - null with medalStatus; Wikipedia's cumulative medal table would put a silver there, but nothing states it. Name: the OBB seletiva list writes 'Arthur', but OBQ/OBF/OBM/OBMEP/ONC annals and the April 2022 Recife press all print 'Artur Neves Maia' - the dataset follows Artur (slugAlias keeps the arthur- slug)."
     },
     {
       "year": 2023,
@@ -550,6 +627,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official award ceremony deck: ranks + medals",
+          "timing": "post",
           "needle": "Nakata"
         },
         {
@@ -558,6 +636,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official participants list",
+          "timing": "post",
           "needle": "Albuquerque Damasceno"
         },
         {
@@ -566,6 +645,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2023 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "ALBUQUERQUE DAMASCENO"
         }
       ],
@@ -584,6 +664,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final table: scores + medal bands",
+          "timing": "post",
           "needle": "Arthur Kui"
         },
         {
@@ -592,6 +673,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official memoir: medal lists",
+          "timing": "post",
           "needle": "Perry Resende"
         },
         {
@@ -600,6 +682,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2024 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "PERRY RESENDE"
         },
         {
@@ -608,6 +691,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "O Norte (Butantan release): 2G + 2S with names",
+          "timing": "post",
           "needle": "Perry Resende"
         }
       ],
@@ -626,6 +710,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official medal table (ranked; medal bands as colours)",
+          "timing": "post",
           "needle": "Montenegro Campos"
         },
         {
@@ -634,6 +719,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Primicia (organizer-published article): full medal lists",
+          "timing": "post",
           "needle": "Montenegro"
         },
         {
@@ -642,6 +728,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Superinteressante: 3G (Top Gold) + 1S with schools",
+          "timing": "post",
           "needle": "Ulisses"
         },
         {
@@ -650,6 +737,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Portal ABC do ABC (Butantan release)",
+          "timing": "post",
           "needle": "Ulisses"
         },
         {
@@ -658,6 +746,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Ari de Sá poster: Francisco Ulisses silver",
+          "timing": "post",
           "needle": "Ulisses"
         }
       ],
@@ -676,6 +765,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "UOL Educação (host/organizer Butantan release): four golds with names and schools",
+          "timing": "post",
           "needle": "Heronville"
         },
         {
@@ -684,6 +774,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "CNN Brasil: four golds",
+          "timing": "post",
           "needle": "Heronville"
         },
         {
@@ -692,6 +783,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "CNN Brasil: team at the opening (roster)",
+          "timing": "event",
           "needle": "Daltro"
         },
         {
@@ -700,6 +792,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Espaço do Povo: four golds",
+          "timing": "post",
           "needle": "Heronville"
         },
         {
@@ -708,6 +801,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Portal ABC do ABC: four golds",
+          "timing": "post",
           "needle": "Heronville"
         }
       ],

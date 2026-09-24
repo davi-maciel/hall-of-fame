@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-09-18T06:30:50+00:00",
+  "checkedAt": "2026-09-18T19:01:14+00:00",
   "summary": {
-    "PASS-STATUS": 11,
-    "PASS": 12,
+    "PASS-STATUS": 14,
+    "PASS": 15,
     "FAIL-HTTP": 2
   },
   "results": [
@@ -175,6 +175,38 @@
       "detail": "needle 'Granado'"
     },
     {
+      "year": 2025,
+      "url": "https://www.instagram.com/p/DM0VacVsMYU/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.instagram.com/p/DM1GXAqPBIk/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2025,
+      "url": "https://noic.com.br/quem-somos/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Seleção Brasileira de Geografia a disputar a iGeo 2025 em Bangkok'"
+    },
+    {
+      "year": 2025,
+      "url": "https://noic.com.br/materiais-geografia/guia-de-estudos/igeo/",
+      "domain": "noic.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Equipe Brasil na Cerimônia de Encerramento da iGeo Bangkok 2025'"
+    },
+    {
       "year": 2026,
       "url": "https://www.instagram.com/p/DcLny4cjo-R/",
       "domain": "instagram.com",
@@ -205,6 +237,22 @@
       "cls": "primary",
       "status": "FAIL-HTTP",
       "detail": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.instagram.com/p/Db-9ogylVuf/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.sulinfoco.com.br/estudante-de-laguna-representa-o-brasil-na-olimpiada-internacional-de-geografia-na-turquia/",
+      "domain": "sulinfoco.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Theodora Flor já está em Istambul'"
     }
   ]
 }

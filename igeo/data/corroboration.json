@@ -9,8 +9,9 @@
   "globalNotes": [
     "Editions attended: 2016, 2018, 2019, 2022-2026 (8; 2017 skipped, 2020 cancelled, 2021 online edition not entered). Brazilian medals: bronze 2024, 2025, 2026.",
     "COVERAGE IS PARTIAL: iGeo's official results list only gold medallists, so Brazilian rosters depend on OBG (Olimpíada Brasileira de Geografia) posts, schools and press. 2019 and 2023 have no usable names; 2018 has 3 of 4 and 2026 3 of 4; 2016 (3 of 3), 2022, 2024 and 2025 are complete. OBG's old site (unifal-mg.edu.br/obgeografia) returns HTTP 410 and its Instagram is only partly indexed (anonymous visitors see the three newest posts).",
-    "TEAM SIZE: up to four students per country is the iGeo rule (OBG's own page: 'equipes de quatro alunos e dois mentores'), but that is a cap, not evidence for a given year - the 2016 debut team was three. Edition-specific statements were found for 2016 (UNIFAL-MG and CREDE-01/SEDUC-CE, three students), 2018 (Comando Militar do Planalto), 2023 (Unicamp IG) and 2024 (FACEPE names all four); 2022, 2025 and 2026 rest on the OBG rosters already recorded. 2019 remains unverified.",
-    "Selection via the OBG national final (UNIFAL-MG, later Unicamp): a written round, a paper and simulated tests in English; travel depends on funding, so a year's team can be smaller than the rule allows."
+    "TEAM SIZE: up to four students per country is the iGeo rule (OBG's own page: 'equipes de quatro alunos e dois mentores'), but that is a cap, not evidence for a given year - the 2016 debut team was three. Edition-specific statements were found for 2016 (UNIFAL-MG and CREDE-01/SEDUC-CE, three students), 2018 (Comando Militar do Planalto), 2023 (Unicamp IG), 2024 (FACEPE names all four) and 2026 (Colégio Militar de Fortaleza, post-event, and Colégio Motiva); 2022 and 2025 rest on the OBG rosters already recorded. 2019 remains unverified.",
+    "Selection via the OBG national final (UNIFAL-MG, later Unicamp): a written round, a paper and simulated tests in English; travel depends on funding, so a year's team can be smaller than the rule allows.",
+    "ATTENDANCE (2026-09-18 pass): because most Brazilian names come from selection announcements, every named student was re-checked against evidence published during or after the competition. Confirmed: all four for 2025 and, for 2026, Bianca Ribas and Theodora Flor (Tiago Sales was already confirmed by his medal). Still pre-event only: all three named 2018 students (Marina Hutzler, Lucas Caetano Filippo and Guilherme Lomba Shittine) - no source places any of them in Quebec City. 2016, 2022, 2023 and 2024 rest on items written after their editions."
   ],
   "years": [
     {
@@ -25,7 +26,8 @@
           "domain": "geoolympiad.org",
           "cls": "official",
           "coverage": "gold medallists + team ranking",
-          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)",
+          "timing": "post"
         },
         {
           "url": "https://web.archive.org/web/20251109131732/https://www.unifal-mg.edu.br/comunicacao/universidadeparticipadeolimpiadainternacionaldegeografia",
@@ -33,6 +35,7 @@
           "cls": "primary",
           "coverage": "full (3 of 3) + team size (3)",
           "confirms": "UNIFAL-MG press office, 2016-09-01 (the team leader's own university): 'A equipe do Brasil foi formada pelo professor ... Clibson Alves dos Santos, pelo professor Roberto Greco da ... Unicamp e por três alunos do ensino médio ... sendo eles: Ana Byatriz Santos, Gabriella Abreu e José Carlos Castro da Silva (Escola Estadual Ensino Profissional Salaberga Torquato Gomes de Matos, Maranguape - Ceará)' - the only source with surnames; also 'primeira vez que uma equipe brasileira participa', no medals",
+          "timing": "post",
           "needle": "Ana Byatriz Santos"
         },
         {
@@ -41,6 +44,7 @@
           "cls": "primary",
           "coverage": "3 students (given names) + team size (3)",
           "confirms": "CREDE 01 / SEDUC-CE, 2016-08-18: 'Os alunos José Carlos, Ana Byatriz e Gabriella Vital, da Escola Estadual de Educação Profissional (EEEP) Salaberga Torquato, localizada em Maranguape, estão em Pequim' and 'Os participantes são os únicos estudantes brasileiros na Olimpíada' - team size, given names only",
+          "timing": "event",
           "needle": "Gabriella Vital"
         },
         {
@@ -49,6 +53,7 @@
           "cls": "primary",
           "coverage": "3 students, first names only",
           "confirms": "EEEP Salaberga Torquato Gomes de Matos (Ceará) school portal: 'Nossos estudantes José Carlos, Ana Byatriz e Gabriella Vital representaram o Brasil na 13ª Olimpíada Internacional de Geografia em Pequim, China' - first names only",
+          "timing": "post",
           "needle": "Gabriella Vital"
         },
         {
@@ -57,6 +62,7 @@
           "cls": "primary",
           "coverage": "event + team leader (no names)",
           "confirms": "UNIFAL-MG Geography course news archive (live): 'O Prof. Dr. Clibson Alves dos Santos foi um dos representantes do Brasil na 13ª Olimpíada Internacional de Geografia, que ocorreu entre os dias 16 e 22 de agosto de 2016, em Pequim na China' plus the link to the full press-office item - no student names",
+          "timing": "post",
           "needle": "Clibson Alves dos Santos foi um dos representantes do Brasil"
         }
       ],
@@ -74,31 +80,35 @@
           "domain": "geoolympiad.org",
           "cls": "official",
           "coverage": "gold medallists + team ranking",
-          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)",
+          "timing": "post"
         },
         {
           "url": "https://www.facebook.com/colegionucleo/photos/temos-mais-um-aluno-n%C3%BAcleo-provando-seu-conhecimento-para-o-mundo-marina-hutzler/1763515040405071",
           "domain": "facebook.com",
           "cls": "primary",
-          "coverage": "one student",
-          "confirms": "Colégio Núcleo (Recife): Marina Hutzler, 1st in Brazil, went to iGeo 2018 (Quebec) - text via search snippet"
+          "coverage": "one student (pre-event)",
+          "confirms": "Colégio Núcleo (Recife) Facebook, 2018-07-19, PRE-EVENT: 'Marina Hutzler conquistou o 1º lugar do Brasil na iGEO (Olimpíada Internacional de Geografia) e vai representar o país na próxima etapa, dessa vez no Canadá. Ela embarca no próximo dia 29' - read in the browser 2026-09-18 (the post is a login shell to plain fetches)",
+          "timing": "pre"
         },
         {
           "url": "http://www.cmp.eb.mil.br/index.php/cmp-noticias/344-alunos-do-cmb-sao-destaques-em-olimpiada-de-geografia",
           "domain": "cmp.eb.mil.br",
           "cls": "primary",
           "coverage": "2 students + team size (4)",
-          "confirms": "Comando Militar do Planalto (2018-06-05, host now refuses connections; text via search index): Lucas Caetano Filippo and Guilherme Lomba Shittine (Colégio Militar de Brasília, 3rd year) selected for the four-student team representing Brazil at the iGeo in Quebec - the only team-size statement found for 2018"
+          "confirms": "Comando Militar do Planalto (2018-06-05, host now refuses connections; text via search index): Lucas Caetano Filippo and Guilherme Lomba Shittine (Colégio Militar de Brasília, 3rd year) selected for the four-student team representing Brazil at the iGeo in Quebec - the only team-size statement found for 2018",
+          "timing": "pre"
         },
         {
           "url": "https://www.calameo.com/books/005823758ff8f3195c5f2",
           "domain": "calameo.com",
           "cls": "primary",
           "coverage": "2 students + team size (4), pre-event",
-          "confirms": "Jornal O Garanca no. 2 (Colegio Militar de Brasilia internal newsletter, Aug 2018), p. 3 'Alunos do CMB sao destaque em Olimpiada Brasileira de Geografia': Lucas Caetano Filippo and Guilherme Lomba, both 3o A/EM, 'foram selecionados para compor a equipe de quatro estudantes que representara o Brasil na Olimpiada Internacional de Geografia, a ser realizada em Quebec - Canada'; OBG 2017 gold medallists who sat the English-language international selection in 2018 - read in the Calameo viewer 2026-09-17 (pre-event wording; the text is not exposed to plain fetches)"
+          "confirms": "Jornal O Garanca no. 2 (Colegio Militar de Brasilia internal newsletter, Aug 2018), p. 3 'Alunos do CMB sao destaque em Olimpiada Brasileira de Geografia': Lucas Caetano Filippo and Guilherme Lomba, both 3o A/EM, 'foram selecionados para compor a equipe de quatro estudantes que representara o Brasil na Olimpiada Internacional de Geografia, a ser realizada em Quebec - Canada'; OBG 2017 gold medallists who sat the English-language international selection in 2018 - read in the Calameo viewer 2026-09-17 (pre-event wording; the text is not exposed to plain fetches)",
+          "timing": "pre"
         }
       ],
-      "note": "Quebec City. Marina Hutzler (Colégio Núcleo) plus Lucas Caetano Filippo and Guilherme Lomba Shittine (Colégio Militar de Brasília), from the Comando Militar do Planalto item of 2018-06-05; that item also states the team had four students, which is the team-size evidence for 2018. TRAP: every Brazilian-Army copy of that item is unreachable - cmp.eb.mil.br resets the connection, depa.eb.mil.br/noticias/227-... returns 403 and eb.mil.br/.../content/id/8928063 is a 404 with no Wayback capture; the text is only readable through the search index. VERIFIED 2026-09-17 in the Calameo viewer: the CMB newsletter O Garanca no. 2 (Aug 2018, p. 3) prints the same story - both names and 'equipe de quatro estudantes' - so the two CMB names no longer rest on a snippet alone, though both CMB sources are pre-event selection announcements (no post-event source confirms they travelled). Fourth member unknown."
+      "note": "Quebec City. Marina Hutzler (Colégio Núcleo) plus Lucas Caetano Filippo and Guilherme Lomba Shittine (Colégio Militar de Brasília), from the Comando Militar do Planalto item of 2018-06-05; that item also states the team had four students, which is the team-size evidence for 2018. TRAP: every Brazilian-Army copy of that item is unreachable - cmp.eb.mil.br resets the connection, depa.eb.mil.br/noticias/227-... returns 403 and eb.mil.br/.../content/id/8928063 is a 404 with no Wayback capture; the text is only readable through the search index. VERIFIED 2026-09-17 in the Calameo viewer: the CMB newsletter O Garanca no. 2 (Aug 2018, p. 3) prints the same story - both names and 'equipe de quatro estudantes' - so the two CMB names no longer rest on a snippet alone, though both CMB sources are pre-event selection announcements (no post-event source confirms they travelled). Fourth member unknown. ATTENDANCE STILL UNCONFIRMED for all three after the 2026-09-18 pass - every 2018 source is a selection/send-off announcement, including Colégio Núcleo's, which is dated 2018-07-19 and says Marina Hutzler 'vai representar o país ... Ela embarca no próximo dia 29': the rest of the CMB's own Calaméo archive was read page by page (O Garança 3rd and 4th editions and the 124-page Revista CMB 2018, all posted Feb 2019, plus the July 2019 issue) and none of them mentions Quebec, the iGeo or any olympiad of geography - issue 2's pre-event note is the only CMB print mention of the trip; the Wayback Machine was offline that day, so the unreachable Army copies could not be retried from an archive. Incidental: the Revista CMB 2018 roll of pupils spells the second student 'Guilherme Schittine Bezerra Lomba' (Sch-, against the record's 'Shittine')."
     },
     {
       "year": 2019,
@@ -112,7 +122,8 @@
           "domain": "geoolympiad.org",
           "cls": "official",
           "coverage": "gold medallists + team ranking",
-          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)",
+          "timing": "post"
         }
       ],
       "note": "Hong Kong. Nothing beyond the official results (gold medallists + team rankings, 43 teams / 166 students, no Brazilian entry): no Brazilian name and no team-size statement was found - OBG's old site (unifal-mg.edu.br/obgeografia) now returns HTTP 410, the host site's participant booklets do not list delegations, and no Brazilian press item on the 2019 team surfaced."
@@ -129,15 +140,23 @@
           "domain": "geoolympiad.org",
           "cls": "official",
           "coverage": "gold medallists + team ranking",
-          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)",
+          "timing": "post"
         },
         {
           "url": "https://www.facebook.com/obgeografia/videos/616207526523982",
           "domain": "facebook.com",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "OBG video post: Lucas Lang, Lauren Schuantes, Manuela Teixeira and Karen Gomes represented Brazil at the online iGeo 2022 (Paris)",
-          "needle": "Lauren"
+          "confirms": "OBG video post (caption read in the browser 2026-09-19: 'Os estudantes, Lucas Lang, Lauren Schuantes, Manuela Teixeira e Karen Gomes representaram o time brasileiro na edicao de 2022'): Lucas Lang, Lauren Schuantes, Manuela Teixeira and Karen Gomes represented Brazil at the online iGeo 2022 (Paris)",
+          "timing": "post",
+          "needle": "Lauren",
+          "names": [
+            "lucas-lang",
+            "lauren-schuantes",
+            "manuela-teixeira",
+            "karen-gomes"
+          ]
         }
       ],
       "note": "Online edition (Paris). Four short-form names from OBG's video post."
@@ -155,6 +174,7 @@
           "cls": "official",
           "coverage": "gold medallists + team ranking",
           "confirms": "iGeo 2023 official results: 45 teams / 177 students; gold medallists and team rankings only, but Brazil appears under 'Favourite poster selected by students' - positive proof a Brazilian team competed",
+          "timing": "post",
           "needle": "Tunisia, Brazil"
         },
         {
@@ -163,6 +183,7 @@
           "cls": "primary",
           "coverage": "team size (4), pre-event",
           "confirms": "Unicamp IG (co-organizer of the national final): the English test would be one of the marks used 'para a seleção de quatro estudantes que vão formar a equipe brasileira na 19ª Olimpíada Internacional de Geografia' in Bandung 2023 - team size, no names",
+          "timing": "pre",
           "needle": "quatro estudantes"
         }
       ],
@@ -180,7 +201,8 @@
           "domain": "geoolympiad.org",
           "cls": "official",
           "coverage": "gold medallists + team ranking",
-          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)"
+          "confirms": "iGeo official results: gold medallists and team rankings only (no Brazilian entry)",
+          "timing": "post"
         },
         {
           "url": "https://tribunaonline.com.br/atribunanasescolas/feras-da-geografia-se-destacam-na-irlanda-198302",
@@ -188,6 +210,7 @@
           "cls": "primary",
           "coverage": "2 of 4",
           "confirms": "A Tribuna (ES): Pablo Fernando de Azurza Nogueira e Gómez Alvarez bronze (first Brazilian/South American iGeo medal, short form 'Nogueira Gomez'), Gabriel Volpato Lima on the team; two more (CE, BH) unnamed",
+          "timing": "post",
           "needle": "Azurza"
         },
         {
@@ -196,6 +219,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "NOIC interview with the 2024 bronze medallist ('Pablo Alvarez')",
+          "timing": "post",
           "needle": "primeiro brasileiro medalhista"
         },
         {
@@ -204,6 +228,7 @@
           "cls": "primary",
           "coverage": "full (4 of 4) + team size",
           "confirms": "FACEPE/UNIFAL-MG (the OBG's support foundation): 'A equipe brasileira foi composta pelos estudantes Gabriel Volpato Lima, Pablo Fernando de Azurza Nogueira e Gómez Alvarez, Davi de Magalhães Vianna Navarro e Valentina Vale Farias Cruz' - full team of four plus team leaders",
+          "timing": "post",
           "needle": "Valentina Vale Farias Cruz"
         }
       ],
@@ -211,8 +236,8 @@
     },
     {
       "year": 2025,
-      "namingSourceCount": 3,
-      "independentPrimaryCount": 3,
+      "namingSourceCount": 7,
+      "independentPrimaryCount": 7,
       "meetsThreeNaming": true,
       "meetsThreePrimary": true,
       "sources": [
@@ -221,14 +246,16 @@
           "domain": "geoolympiad.org",
           "cls": "official",
           "coverage": "gold medallists + team ranking",
-          "confirms": "iGeo 2025 official results and report: gold medallists and team rankings only"
+          "confirms": "iGeo 2025 official results and report: gold medallists and team rankings only",
+          "timing": "post"
         },
         {
           "url": "https://www.instagram.com/p/DLYyq35MAsg/",
           "domain": "instagram.com",
           "cls": "primary",
           "coverage": "full (pre-event roster)",
-          "confirms": "OBG (national organizer) Instagram: the four selected for iGeo 2025 - Isabela Granado Santos, João Lucas Dantas Barbosa, Bárbara Pinheiro Puget Cruz, Clara Gonzalez Ferreira Pinto Sampaio"
+          "confirms": "OBG (national organizer) Instagram: the four selected for iGeo 2025 - Isabela Granado Santos, João Lucas Dantas Barbosa, Bárbara Pinheiro Puget Cruz, Clara Gonzalez Ferreira Pinto Sampaio",
+          "timing": "pre"
         },
         {
           "url": "https://regionalnorte.com.br/estudantes-paraenses-sao-selecionadas-para-olimpiada-internacional-de-geografia-na-tailandia",
@@ -236,15 +263,58 @@
           "cls": "primary",
           "coverage": "2 of 4 (pre-event)",
           "confirms": "Regional Norte: Isabela Granado and Bárbara Puget (Colégio Santa Rosa, Belém) selected; team of four from N/NE",
+          "timing": "pre",
           "needle": "Granado"
+        },
+        {
+          "url": "https://www.instagram.com/p/DM0VacVsMYU/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "one student: attendance + medal (post-event)",
+          "confirms": "Colegio Santa Rosa (Belem) Instagram, 2025-08-01, POST-EVENT (caption pasted by the maintainer 2026-09-22, confirms bronze): 'Nossa aluna Isabela Granado conquistou a medalha de bronze na categoria individual da Olimpíada Internacional de Geografia 2025 (iGEO), realizada em Bangkok, na Tailândia' - the school's own confirmation that she travelled and competed, and the first direct corroboration of the 2025 bronze (read in the browser 2026-09-18; captions are not exposed to plain fetches)",
+          "timing": "post",
+          "names": [
+            "isabela-granado-santos"
+          ]
+        },
+        {
+          "url": "https://www.instagram.com/p/DM1GXAqPBIk/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "3 of 4: attendance (post-event)",
+          "confirms": "Movimento Meninas Olimpicas, 2025-08-01, POST-EVENT (caption pasted by the maintainer 2026-09-19): 'O Brasil conquistou uma medalha de bronze na Olimpíada Internacional de Geografia (iGeo)!!! A equipe brasileira contou com uma maioria feminina, Bárbara Pinheiro e Clara Sampaio compuseram a equipe juntamente com a medalhista Isabela Granado. A competição foi realizada em Bangkok, Tailândia' - three of the four named as having made up the team that competed (read in the browser 2026-09-18; the same post is mirrored at facebook.com/meninas.olimpicas/posts/1153176893501793, whose permalink 400s to plain fetches)",
+          "timing": "post",
+          "names": [
+            "barbara-pinheiro-puget-cruz",
+            "clara-gonzalez-ferreira-pinto-sampaio",
+            "isabela-granado-santos"
+          ]
+        },
+        {
+          "url": "https://noic.com.br/quem-somos/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "one student: attendance (post-event bio)",
+          "confirms": "NOIC staff page - João Lucas Dantas Barbosa is now NOIC's Geography coordinator and his biography, written after the event, says he became 'parte da Seleção Brasileira de Geografia a disputar a iGeo 2025 em Bangkok, na Tailândia'; the only post-event statement found for the fourth 2025 member",
+          "timing": "post",
+          "needle": "Seleção Brasileira de Geografia a disputar a iGeo 2025 em Bangkok"
+        },
+        {
+          "url": "https://noic.com.br/materiais-geografia/guia-de-estudos/igeo/",
+          "domain": "noic.com.br",
+          "cls": "primary",
+          "coverage": "event + medal (post-event)",
+          "confirms": "NOIC iGeo study guide, bylined 'Por Pablo Fernando Nogueira e João Lucas Dantas Barbosa' (the 2024 medallist and a 2025 team member), illustrated with Bangkok 2025 photographs captioned 'Equipe Brasil na Cerimônia de Encerramento da iGeo Bangkok 2025', 'Realização do WRT na iGeo Bangkok 2025', 'Apresentação do pôster da Equipe Brasil na iGeo 2025' and 'Isabela Granado, segunda medalhista da história do Brasil na iGeo'",
+          "timing": "post",
+          "needle": "Equipe Brasil na Cerimônia de Encerramento da iGeo Bangkok 2025"
         }
       ],
-      "note": "Bangkok. Isabela Granado Santos bronze (second Brazilian medal) per the 2026-08 DATA_STATUS verification; here corroborated only indirectly (the CMF 2026 post counts three Brazilian medals) - re-check OBG's results post. Roster from the OBG announcement."
+      "note": "Bangkok. Roster first recorded from the OBG selection announcement; ATTENDANCE CONFIRMED for all four on 2026-09-18, each from a source published after the competition ended: Isabela Granado from her school's own post (Colégio Santa Rosa, 01/08), Bárbara Pinheiro Puget Cruz and Clara Gonzalez Ferreira Pinto Sampaio from Movimento Meninas Olímpicas (01/08, 'compuseram a equipe'), and João Lucas Dantas Barbosa from his NOIC staff biography ('a disputar a iGeo 2025 em Bangkok') plus the NOIC iGeo guide he co-wrote, which is illustrated with Bangkok 2025 closing-ceremony, exam and poster photographs. Isabela Granado Santos's bronze (second Brazilian medal) no longer rests on the 2026-08 DATA_STATUS verification alone - the school post states it outright. TRAP: the Meninas Olímpicas post mis-types the dates as '26 de junho e 1 de agosto'; every other source puts the edition in late July-1 August 2025. The @igeo.brazil Instagram account that the 2025 team set up (cited in the NOIC guide) has since been removed."
     },
     {
       "year": 2026,
-      "namingSourceCount": 4,
-      "independentPrimaryCount": 4,
+      "namingSourceCount": 6,
+      "independentPrimaryCount": 6,
       "meetsThreeNaming": true,
       "meetsThreePrimary": true,
       "sources": [
@@ -252,15 +322,20 @@
           "url": "https://www.instagram.com/p/DcLny4cjo-R/",
           "domain": "instagram.com",
           "cls": "primary",
-          "coverage": "one student + medal",
-          "confirms": "Colégio Militar de Fortaleza Instagram: Tiago Sales bronze at iGeo 2026 (Istanbul, 10-17 Aug), Brazil's only 2026 medal and third ever"
+          "coverage": "one student + medal + team size (4)",
+          "confirms": "Colégio Militar de Fortaleza Instagram, 2026-08-18, POST-EVENT: Tiago Sales bronze at iGeo 2026 (Istanbul, 10-17 Aug), Brazil's only 2026 medal and third ever; the same post states 'a equipe brasileira representada por quatro alunos', the only post-event team-size statement for 2026 (caption pasted by the maintainer 2026-09-19: 'a equipe brasileira representada por quatro alunos, entre os quais o Aluno Tiago Sales ... que conquistou a medalha de bronze na competicao individual')",
+          "timing": "post",
+          "names": [
+            "tiago-sales"
+          ]
         },
         {
           "url": "https://www.instagram.com/p/DcEdsF_EbMH/",
           "domain": "instagram.com",
           "cls": "primary",
-          "coverage": "event",
-          "confirms": "OBG Instagram: Brazilian team at the 2026 opening ceremony"
+          "coverage": "event, no names",
+          "confirms": "OBG Instagram, 2026-08-15: 'A equipe brasileira já está na Turquia e participou da cerimônia de abertura da Olimpíada Internacional de Geografia nesta segunda-feira dia 10/08' - event-day proof that a Brazilian team was in Istanbul, but the caption names nobody (re-read in the browser 2026-09-18)",
+          "timing": "event"
         },
         {
           "url": "https://wscom.com.br/noticias/noticias-locais/2026/03/05/estudante-paraibana-representa-o-brasil-na-olimpiada-internacional-de-geografia-em-istambul/",
@@ -268,6 +343,7 @@
           "cls": "primary",
           "coverage": "one student (pre-event)",
           "confirms": "WSCOM: Bianca Ribas (Colégio Motiva, João Pessoa) selected for iGeo 2026",
+          "timing": "pre",
           "needle": "Bianca Ribas"
         },
         {
@@ -276,10 +352,31 @@
           "cls": "primary",
           "coverage": "one student (pre-event)",
           "confirms": "Agora Laguna: Theodora Flor (Laguna-SC) selected for iGeo 2026",
+          "timing": "pre",
           "needle": "Theodora"
+        },
+        {
+          "url": "https://www.instagram.com/p/Db-9ogylVuf/",
+          "domain": "instagram.com",
+          "cls": "primary",
+          "coverage": "one student: attendance (event-day) + team size (4)",
+          "confirms": "Colégio Motiva João Pessoa Instagram, 2026-08-13 (EVENT DAY, the olympiad ran 10-17 Aug): 'Nossa aluna Bianca Ribas está representando o Brasil na International Geography Olympiad (iGeo), em Istambul, na Turquia, ao lado dos melhores estudantes de Geografia do planeta!' and 'Até a próxima segunda-feira, dia 17, os participantes encaram provas escritas, trabalhos de campo e desafios'; also 'a seleção brasileira, formada por apenas quatro estudantes' (read in the browser 2026-09-18; mirrored on the school's Facebook page)",
+          "timing": "event",
+          "names": [
+            "bianca-ribas"
+          ]
+        },
+        {
+          "url": "https://www.sulinfoco.com.br/estudante-de-laguna-representa-o-brasil-na-olimpiada-internacional-de-geografia-na-turquia/",
+          "domain": "sulinfoco.com.br",
+          "cls": "primary",
+          "coverage": "one student: attendance (event-day) + 4th member's city",
+          "confirms": "Sul in Foco (SC), 2026-08-11 (EVENT DAY): 'A estudante lagunense Theodora Flor já está em Istambul, na Turquia, onde representa o Brasil na Olimpíada Internacional de Geografia (iGeo) 2026. A competição segue até a próxima segunda-feira (17)'; the same item adds 'A equipe do país também conta com representantes de Brasília, Fortaleza e Paraíba', which places the still-unnamed fourth member in Brasília",
+          "timing": "event",
+          "needle": "Theodora Flor já está em Istambul"
         }
       ],
-      "note": "Istanbul (10-17 Aug 2026). Tiago Sales (Colégio Militar de Fortaleza) bronze - Brazil's third medal; Bianca Ribas (PB) and Theodora Flor (SC) documented pre-event; the fourth member is still unnamed. Re-checked 2026-09-16: OBG's Instagram has posted no results or roster item (its three visible posts are the 10/08 opening, the 21/08 wrap-up 'Chegamos ao fim da iGeo 2026' with no names, and OBG-2026 national results), FACEPE has no 2026 article yet, and no press item names a fourth state's student. FACEPE's 2024-style release is the best remaining lead."
+      "note": "Istanbul (10-17 Aug 2026). Tiago Sales (Colégio Militar de Fortaleza) bronze - Brazil's third medal. ATTENDANCE CONFIRMED 2026-09-18 for the other two named members from items published while the olympiad was running: Bianca Ribas 'está representando o Brasil ... em Istambul' (her school, 13/08) and Theodora Flor 'já está em Istambul' (Sul in Foco, 11/08). Team size 4 is now stated post-event by the Colégio Militar de Fortaleza. The fourth member is STILL UNNAMED, but Sul in Foco places the delegation's home cities as Laguna, Brasília, Fortaleza and Paraíba - so the missing student is from Brasília, and no press or school item naming a Brasília student surfaced. OBG's Instagram documents the trip without ever naming anyone: 08/08 'O Brasil já está a caminho da Turquia', 15/08 opening ceremony, 21/08 wrap-up 'Chegamos ao fim da iGeo 2026'. TRAPS: geoolympiad.org has published no 2026 results document (its results library still stops at 2025); FACEPE still has no 2026 article; and Agora Laguna ran the same 11/08 'está em Istambul' story but sits behind a Cloudflare challenge that 403s plain fetches, so Sul in Foco is cited instead."
     }
   ]
 }

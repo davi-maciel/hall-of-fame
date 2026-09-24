@@ -192,10 +192,10 @@
         }
       ]
     },
-    "arthur-neves-maia": {
-      "id": "arthur-neves-maia",
-      "name": "Arthur Neves Maia",
-      "searchKey": "arthur neves maia",
+    "artur-neves-maia": {
+      "id": "artur-neves-maia",
+      "name": "Artur Neves Maia",
+      "searchKey": "artur neves maia",
       "participations": [
         {
           "olympiad": "oiab",
@@ -224,7 +224,7 @@
         {
           "olympiad": "oiab",
           "year": 2022,
-          "medal": null
+          "medal": "gold"
         }
       ]
     },
@@ -236,7 +236,7 @@
         {
           "olympiad": "oiab",
           "year": 2022,
-          "medal": null
+          "medal": "silver"
         }
       ]
     },
@@ -1359,19 +1359,19 @@
       "year": 2021
     },
     {
-      "source": "arthur-neves-maia",
+      "source": "artur-neves-maia",
       "target": "breno-taques-mussi-endres",
       "olympiad": "oiab",
       "year": 2022
     },
     {
-      "source": "arthur-neves-maia",
+      "source": "artur-neves-maia",
       "target": "cicero-miguel-angelo-neto",
       "olympiad": "oiab",
       "year": 2022
     },
     {
-      "source": "arthur-neves-maia",
+      "source": "artur-neves-maia",
       "target": "isabela-trad-timo-luz",
       "olympiad": "oiab",
       "year": 2022
@@ -1540,7 +1540,7 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-10T06:50:02.145823+00:00",
+    "generatedAt": "2026-09-24T06:38:07.395882+00:00",
     "studentCount": 74,
     "edgeCount": 108
   }

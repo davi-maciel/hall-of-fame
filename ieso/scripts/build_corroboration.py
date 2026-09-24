@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Corroboration for Brazil at the IESO (repo-standard). 2026-09-10 collection pass. Editions attended: 2012-2019 and 2026
-(9). 2020 cancelled; 2021-2025 not attended. Rosters are partial for 2013-2015 and 2017 (see notes).
+(9). 2020 cancelled; 2021-2025 not attended. Rosters are partial for 2014 and 2017 (see notes).
 """
 import json
 import os
@@ -13,38 +13,44 @@ INDEX = "https://web.archive.org/web/20251213153335/https://www.igeoscied.org/ac
 OLC = "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ieso/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post", names=None):
+    # names: person ids (site/data/people.json slugs) this source names although its text
+    # cannot be fetched or parsed here (dead page, image, login wall) - curator attestation,
+    # read by site/scripts/check_source_names.py as level "attested".
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms,
+         "timing": timing}
     if needle:
         d["needle"] = needle
+    if names:
+        d["names"] = list(names)
     return d
 
 
-def medals(path, needle, confirms="IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards", coverage="medallists + team-award members"):
-    return src(WB + path, "web.archive.org", "official", coverage, confirms, needle)
+def medals(path, needle, confirms="IGEO official medal list (archived copy of igeoscied.org): individual medals and team awards", coverage="medallists + team-award members", timing="post"):
+    return src(WB + path, "web.archive.org", "official", coverage, confirms, needle, timing)
 
 
-def olc(needle):
-    return src(OLC, "olimpiadascientificas.org", "primary", "team list (2012-2013)", "olimpiadascientificas.org IESO teams page (sources: IF Sul de Minas, OBAP)", needle)
+def olc(needle, timing="post"):
+    return src(OLC, "olimpiadascientificas.org", "primary", "team list (2012-2013)", "olimpiadascientificas.org IESO teams page (sources: IF Sul de Minas, OBAP)", needle, timing)
 
 
-def wb(url, needle, confirms, coverage="full"):
-    return src(url, "web.archive.org", "archive", coverage, confirms, needle)
+def wb(url, needle, confirms, coverage="full", timing="post"):
+    return src(url, "web.archive.org", "archive", coverage, confirms, needle, timing)
 
 
-def press(url, domain, needle, confirms, coverage="full"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def press(url, domain, needle, confirms, coverage="full", timing="post", names=None):
+    return src(url, domain, "primary", coverage, confirms, needle, timing, names)
 
 
 SOURCES = {
  2012: [medals("2022/11/2012-IESO-2012-Argentina-Medals-List.pdf", "Fernandez"), olc("Mayara")],
  2013: [medals("2022/11/2013-IESO-2013-India-Medals-List.pdf", "Lovo", "IGEO medal list: Igor Felix Pio (ESP gold team award), Mario Lovo (ITFI gold team) - no individual medal"),
-        press("https://www.ifes.edu.br/noticias/14290-estudantes-do-ifes-conquistam-medalhas-em-competicao-internacional-de-ciencias-da-terra", "ifes.edu.br", None, "IFES news (page now 404; text via search snippet): Eliton Mathias Morais, Igor Felix Pio and Mario Lovo of Campus Itapina + one more student represented Brazil", "team (snippet)")],
+        press("https://www.ifes.edu.br/noticias/14290-estudantes-do-ifes-conquistam-medalhas-em-competicao-internacional-de-ciencias-da-terra", "ifes.edu.br", None, "IFES news, 2013-09-23 (page now 404, no Wayback capture; full text recovered 2026-09-18 from a search engine's cache): 'Guilherme Pagung Ribeiro, do campus Itapina, conquistou medalha de bronze na classificação individual na 7ª edição da International Earth Science Olympiad - IESO, realizada de 11 a 19 de setembro, em Mysore, Índia', 'ficou entre os 60% dos melhores alunos' and 'Ele e os estudantes Eliton Mathias Morais, Igor Felix Pio e Mario Lovo ... representaram o Brasil' - the complete four-student team, plus an individual bronze claim the IGEO medal list does not carry", "full (4 of 4) + individual medal claim", names=["eliton-mathias-morais", "igor-felix-pio", "mario-lovo", "guilherme-pagung-ribeiro"])],
  2014: [medals("2022/11/2014-IESO-2014-Spain-Medals-List-.pdf", "Colossi")],
  2015: [medals("2022/11/2015-IESO-2015-Brazil-Medals-List.pdf", "Dehet"),
         src("https://portal.ifsuldeminas.edu.br/images/PDFs/proex/publicacoes_livros/MIOLO_IESO_1.pdf", "portal.ifsuldeminas.edu.br", "official", "official participants list (four-student team)", "IESO 2015 Final Report (ed. R. Greco & M. Bregagnoli, IFSULDEMINAS 2016), ch. 5.1 Participants list: Brazil team = Geferson Rocha Santos, Antônio Vítor Dehet-Many, Cláudio de Brito da Silva (IFES Campus Itapina) and Shéron Luma de Oliveira (IFSULDEMINAS Campus Inconfidentes); mentors Patrícia Soares Furno Fontes, Cleiton Lourenço de Oliveira, Sindynara Ferreira", None)],
  2016: [medals("2022/11/2016-10th-IESO.pdf", "Ribeiro"),
-        wb("https://web.archive.org/web/20160412210656/http://www.ifes.edu.br/noticias/16330-alunos-de-itapina-sao-selecionados-para-a-olimpiada-internacional-de-ciencias-da-terra", "Bullergahn", "IFES news (archived): Vilian Borchardt Bullergahn, Gustavo Rocha Alves and Ronaldo Rodrigues Ribeiro selected for IESO 2016", "3 of 4 (pre-event)"),
+        wb("https://web.archive.org/web/20160412210656/http://www.ifes.edu.br/noticias/16330-alunos-de-itapina-sao-selecionados-para-a-olimpiada-internacional-de-ciencias-da-terra", "Bullergahn", "IFES news (archived): Vilian Borchardt Bullergahn, Gustavo Rocha Alves and Ronaldo Rodrigues Ribeiro selected for IESO 2016", "3 of 4 (pre-event)", timing="pre"),
         wb("https://web.archive.org/web/20191015234617/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/597-ieso-no-japao", "Lissandra", "IFSULDEMINAS news (archived): the four (3 IFES + Lissandra Souza, IFMG Bambuí); Ronaldo Rodrigues bronze")],
  2017: [medals("2022/11/2017-IESO2017-France-Medals-List.pdf", "PANCOTTO"),
         wb("https://web.archive.org/web/20251017002809/https://fapes.es.gov.br/Not%C3%ADcia/bolsistas-da-fapes-ganham-premiacoes-em-olimpiada-internacional-na-franca", "Pancotto", "FAPES news (archived): Bruno Pancotto bronze + ITFI 2nd, Guilherme Pratissoli ITFI 1st, Bruna de Oliveira also on the team", "3 of 4")],
@@ -52,13 +58,13 @@ SOURCES = {
         wb("https://web.archive.org/web/20190819093342/https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas/80-noticias-da-pppi/2286-finalistas-na-ieso", "Klauck", "IFSULDEMINAS news (archived): all four names, mentors, awards")],
  2019: [medals("2023/09/IESO-2019_Medalist.pdf", "De Sousa", "IGEO 2019 medallist deck: Ednaldo de Sousa bronze + ITFI bronze"),
         wb("https://web.archive.org/web/20190923193711/https://portal.ifsuldeminas.edu.br/index.php/institucional-geral/3062-ieso-2019", "Vilas Boas", "IFSULDEMINAS news (archived): the four names, mentors, bronze"),
-        press("https://cidadesemfoco.com/aluno-do-ifpi-de-paulistana-vai-representar-o-brasil-na-13a-olimpiada-internacional-de-ciencias-da-terra/", "cidadesemfoco.com", "Ednaldo", "IFPI news: pre-event team (Mauro Aparecido Ambrósio Filho later replaced by João Augusto Vilas Boas dos Santos Gonçalves)", "pre-event roster")],
- 2026: [press("https://drd.com.br/estudantes-do-ifmg-de-sao-joao-evangelista-vao-representar-o-brasil-em-olimpiada-internacional-na-italia/", "drd.com.br", "Washington", "Diário do Rio Doce (IFMG release): four IFMG São João Evangelista students named for IESO 2026 (Turin, 20-27 Aug)", "full (pre-event roster, short names)")],
+        press("https://cidadesemfoco.com/aluno-do-ifpi-de-paulistana-vai-representar-o-brasil-na-13a-olimpiada-internacional-de-ciencias-da-terra/", "cidadesemfoco.com", "Ednaldo", "IFPI news: pre-event team (Mauro Aparecido Ambrósio Filho later replaced by João Augusto Vilas Boas dos Santos Gonçalves)", "pre-event roster", timing="pre")],
+ 2026: [press("https://drd.com.br/estudantes-do-ifmg-de-sao-joao-evangelista-vao-representar-o-brasil-em-olimpiada-internacional-na-italia/", "drd.com.br", "Washington", "Diário do Rio Doce (IFMG release): four IFMG São João Evangelista students named for IESO 2026 (Turin, 20-27 Aug)", "full (pre-event roster, short names)", timing="pre")],
 }
 
 NOTES = {
  2012: "IFTM (Uberaba) team; Rafael Franco Fernandez bronze (OLC spells 'Fernandes'), Mayara Cardoso Oliveira Best Presentation. 'Fabrício da Silva' and 'Renato Silva' are OLC short forms.",
- 2013: "Roster 3 of 4 and team size still unverified. The IFES article naming the fourth student is offline (ifes.edu.br/noticias/14290-... 404, no Wayback capture under any http/https/www form tried on 2026-09-16, and the whole ifes.edu.br/noticias/ tree now 404s). OLC's trio (Bruno Xavier Rodrigues, Rodrigo Altoe, Sávio Fabres Boldrini) is the OBAP 2012 winning team ('Elite 2.0' - IFES), not necessarily the IESO team - not used. Team awards only (ESP gold, ITFI gold); no individual medal.",
+ 2013: "SETTLED 2026-09-18: roster 4 of 4, team size 4. The IFES article of 2013-09-23 is still offline (ifes.edu.br/noticias/14290-... 404, no Wayback capture under any http/https/www form tried on 2026-09-16, and the whole ifes.edu.br/noticias/ tree now 404s), but its text was recovered from a search engine's cache and names the whole delegation: 'Guilherme Pagung Ribeiro, do campus Itapina' and 'Ele e os estudantes Eliton Mathias Morais, Igor Felix Pio e Mario Lovo ... representaram o Brasil'. The page cannot be fetched, so the source entry attests those four person ids with \"names\". CONFLICT, left open: IFES says Guilherme Pagung Ribeiro 'conquistou medalha de bronze na classificação individual' (and 'ficou entre os 60% dos melhores alunos'), while the IGEO official 2013 medal list carries only the two team awards - Igor Felix Pio (ESP gold), Mario Lovo (ITFI gold) - and no Brazilian individual medal. Nothing decides between the two, so his medal stays null with medalStatus. OLC's trio (Bruno Xavier Rodrigues, Rodrigo Altoe, Sávio Fabres Boldrini) is the OBAP 2012 winning team ('Elite 2.0' - IFES), not the IESO team - not used.",
  2014: "Roster 1 of 4 and team size still unverified: the medal list names only the bronze medallist, the IGEO 'IESO 2014 Spain Participants List' is an unlinked line of text on igeoscied.org (both the 2022 and 2025 Wayback captures), the host's own site is gone and the 8th-IESO report in J. Geol. Soc. India is India-only (24 countries). Per the OBAP paper the 2014 team came from the OBAP 2013 winners ('Agro SMI' - CEEP Manoel Moreira Pena, PR).",
  2015: "Hosted (Poços de Caldas). SETTLED 2026-09-16 by the official IESO 2015 Final Report participants list: four-student team Geferson Rocha Santos, Antônio Vítor Dehet-Many, Cláudio de Brito da Silva and Shéron Luma de Oliveira. Only Cláudio took an individual medal (bronze); Antônio Vítor was on a bronze ESP team. IFES's pre-event story gives 'Antonio Vitor Côrtes' for Antônio Vítor Dehet-Many, but that page is offline.",
 
@@ -69,8 +75,8 @@ NOTES = {
 }
 
 GLOBAL_NOTES = [
- "Editions attended: 2012-2019 (8) and 2026 (1). 2020 cancelled; 2021-2025 not attended (per DATA_STATUS verification against full participant lists). A bronze every year 2012-2019 except 2013.",
- "Backbone: the IGEO medal lists archived from igeoscied.org (the domain no longer resolves) give medallists and team-award members; Brazilian IF news (IFES, IFSULDEMINAS, FAPES, IFPI) completes 2016, 2018, 2019, and the official IESO 2015 Final Report completes 2015. Rosters remain partial for 2013 (3 of 4), 2014 (1 of 4) and 2017 (3 of 4) - listed as coverage gaps.",
+ "Editions attended: 2012-2019 (8) and 2026 (1). 2020 cancelled; 2021-2025 not attended (per DATA_STATUS verification against full participant lists). An individual bronze on the IGEO medal lists every year 2012-2019 except 2013, where IFES claims one that the IGEO list does not carry (see the 2013 note).",
+ "Backbone: the IGEO medal lists archived from igeoscied.org (the domain no longer resolves) give medallists and team-award members; Brazilian IF news (IFES, IFSULDEMINAS, FAPES, IFPI) completes 2013, 2016, 2018, 2019, and the official IESO 2015 Final Report completes 2015. Rosters remain partial for 2014 (1 of 4) and 2017 (3 of 4) - listed as coverage gaps.",
  "TEAM SIZE: a national team is four students plus two mentors. Edition-specific evidence exists for 2012, 2013, 2016, 2018, 2019 and 2026 (four names each) and, best of all, for 2015 (official participants list: four students). 2014 and 2017 have no edition-specific statement; their 'N of 4' is an assumption, since IGEO's per-year participant lists were never actually published as files.",
  "Team awards (ITFI, ESP) are international mixed-team prizes and are not stored as medals. Selection: OBAP (Olimpíada Brasileira de Agropecuária) winners from federal institutes sit a further test; the OBAP edition of year N feeds the IESO of year N+1.",
 ]
@@ -125,7 +131,8 @@ def main():
         details.append("")
     md = ("# Per-Year Corroboration — Brazil at the IESO\n\n"
           "**Machine-readable:** `data/corroboration.json`. Rebuild: `python3 scripts/build_corroboration.py`; "
-          "verify: `python3 scripts/verify_corroboration.py`. 2026-09-10 collection pass; 2026-09-16 roster/team-size pass.\n\n## Notes\n\n"
+          "verify: `python3 scripts/verify_corroboration.py`. 2026-09-10 collection pass; 2026-09-16 roster/team-size pass; "
+          "2026-09-18 IFES 2013 text recovery.\n\n## Notes\n\n"
           + "\n".join(f"- {n}" for n in GLOBAL_NOTES)
           + "\n\n## Summary\n\n| Year | Sources | Domains |\n|-----:|:--:|---------|\n" + "\n".join(lines)
           + "\n\n## Per-year sources\n\n" + "\n".join(details))

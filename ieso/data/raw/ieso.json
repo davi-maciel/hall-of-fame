@@ -42,6 +42,13 @@
     "medal": null
   },
   {
+    "rawName": "Guilherme Pagung Ribeiro",
+    "olympiadId": "ieso",
+    "year": 2013,
+    "medal": null,
+    "medalStatus": "unknown-individual-bronze-claimed-by-ifes-absent-from-igeo-medal-list"
+  },
+  {
     "rawName": "Mateús Canavesi Colossi",
     "olympiadId": "ieso",
     "year": 2014,
@@ -166,27 +173,31 @@
     "olympiadId": "ieso",
     "year": 2026,
     "medal": null,
-    "medalStatus": "unknown-2026-results-not-yet-published"
+    "medalStatus": "unknown-2026-results-not-yet-published",
+    "attendance": "unconfirmed"
   },
   {
     "rawName": "João Paulo dos Santos",
     "olympiadId": "ieso",
     "year": 2026,
     "medal": null,
-    "medalStatus": "unknown-2026-results-not-yet-published"
+    "medalStatus": "unknown-2026-results-not-yet-published",
+    "attendance": "unconfirmed"
   },
   {
     "rawName": "Manuela Gonçalves",
     "olympiadId": "ieso",
     "year": 2026,
     "medal": null,
-    "medalStatus": "unknown-2026-results-not-yet-published"
+    "medalStatus": "unknown-2026-results-not-yet-published",
+    "attendance": "unconfirmed"
   },
   {
     "rawName": "Washington Mota",
     "olympiadId": "ieso",
     "year": 2026,
     "medal": null,
-    "medalStatus": "unknown-2026-results-not-yet-published"
+    "medalStatus": "unknown-2026-results-not-yet-published",
+    "attendance": "unconfirmed"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-09-10T06:54:21+00:00",
+  "checkedAt": "2026-09-24T06:30:17+00:00",
   "summary": {
-    "PASS": 56,
-    "PASS-STATUS": 9
+    "PASS": 58,
+    "PASS-STATUS": 10
   },
   "results": [
     {
@@ -367,11 +367,35 @@
     },
     {
       "year": 2022,
+      "url": "https://www.instagram.com/p/ClTWjOWNTJE/",
+      "domain": "instagram.com",
+      "cls": "primary",
+      "status": "PASS-STATUS",
+      "detail": "200 (no content assertion)"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.colegiosantoantonio.com.br/e-prata-aluna-do-csa-conquista-medalha-em-olimpiada-internacional/",
+      "domain": "colegiosantoantonio.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'medalha de prata na Olimpíada Ibero-americana de Biologia'"
+    },
+    {
+      "year": 2022,
       "url": "https://massanews.com/noticia/noticias/educacao/estudante-de-curitiba-conquista-medalha-de-bronze-em-olimpiada-internacional/",
       "domain": "massanews.com",
       "cls": "primary",
       "status": "PASS",
       "detail": "needle 'Breno Taques Mussi Endres'"
+    },
+    {
+      "year": 2022,
+      "url": "https://bandnewsfmcuritiba.com/curitibano-e-bronze-na-olimpiada-ibero-americana-de-biologia/",
+      "domain": "bandnewsfmcuritiba.com",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Breno Endres'"
     },
     {
       "year": 2022,
