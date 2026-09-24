@@ -37,6 +37,23 @@ def classify(label, url):
     return "primary"
 
 
+# "timing" = when the source was produced relative to the edition:
+#   "post"  - after it, reporting participation/results (default here: the IOI DB, the
+#             OBI/Unicamp and olimpiadascientificas per-year tables, aggregators, host
+#             result pages, post-event press/school posts, CVs)
+#   "event" - during it (ceremony/exam-day posts, live participant pages)
+#   "pre"   - before it (selection results, team announcements, pre-event press)
+#   "ref"   - not edition-specific participation evidence (regulations, overviews, indexes)
+TIMING = {
+    # NOIC announcing the team eight months before the Baku edition (8 Dec 2018).
+    "https://noic.com.br/2018/12/08/divulgado-time-brasileiro-da-ioi-2019-e-da-ciic-2019/": "pre",
+}
+
+
+def timing_for(url, default="post"):
+    return TIMING.get(url, default)
+
+
 def coverage_for(label, cls):
     # Full-roster sources: the IOI DB, the OBI/Unicamp per-year team lists, and
     # full-standings aggregators. Press/CV/school sources typically name a subset.
@@ -68,6 +85,7 @@ def main():
                 "url": e["url"],
                 "domain": urlparse(e["url"]).netloc.replace("www.", "") or e["url"],
                 "cls": cls,
+                "timing": timing_for(e["url"]),
                 "coverage": cov,
                 "confirms": e["source"],
             }

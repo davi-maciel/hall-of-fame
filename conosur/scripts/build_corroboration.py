@@ -14,8 +14,8 @@ OLC = "https://olimpiadascientificas.org/equipes-brasileiras/matematica/cone-sul
 WB = "https://web.archive.org/web/20171226121934/http://www.obm.org.br/opencms/competicoes/internacionais/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
@@ -35,8 +35,8 @@ def wb(page, needle, confirms, coverage="full"):
     return src(WB + page, "obm.org.br (Wayback)", "archive", coverage, confirms, needle)
 
 
-def post(url, needle, confirms="OBM news: full team result", coverage="full", domain="obm.org.br"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def post(url, needle, confirms="OBM news: full team result", coverage="full", domain="obm.org.br", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing)
 
 
 NEEDLE = {
@@ -60,15 +60,15 @@ POSTS = {
  2017: [post("https://www.obm.org.br/2017/08/21/ouro-perfeito-coroa-participacao-do-brasil-na-olimpiada-cone-sul/", "Trevizan", "OBM news: results (Guayaquil)"),
         post("https://noic.com.br/matematica/dois-ouros-para-o-brasil-na-olimpiada-de-matematica-cone-sul/", "Marcelo Hippolyto", "NOIC results post: 4 names (short forms) + medals", domain="noic.com.br"),
         post("https://impa.br/notices/ouro-perfeito-coroa-participacao-do-brasil-na-olimpiada-cone-sul/", "Hippolyto", "IMPA: results (4 names + medals), Guayaquil 15-21 Aug", domain="impa.br"),
-        post("https://impa.br/notices/com-presenca-feminina-brasil-quer-o-topo-na-cone-sul/", "Bigolin", "IMPA: team feature (first girl on a Brazilian Cono Sur team)", "partial (pre-event)", domain="impa.br")],
+        post("https://impa.br/notices/com-presenca-feminina-brasil-quer-o-topo-na-cone-sul/", "Bigolin", "IMPA: team feature (first girl on a Brazilian Cono Sur team)", "partial (pre-event)", domain="impa.br", timing="pre")],
  2018: [post("https://www.obm.org.br/2018/08/28/brasil-conquista-quatro-medalhas-na-olimpiada-do-cone-sul-em-maceio/", "Gomes Cabral", "OBM news: 4 names + medals; leaders; Maceió"),
         post("https://noic.com.br/matematica/brasil-leva-ouro-perfeito-na-cone-sul-2018-veja-o-resultado/", "Gabriel Ribeiro Paiva", "NOIC results post: 4 names (short forms) + medals", domain="noic.com.br"),
         post("https://impa.br/notices/brasil-conquista-quatro-medalhas-na-cone-sul/", "Gomes Cabral", "IMPA: results (4 names + medals)", domain="impa.br"),
-        post("https://impa.br/notices/definidas-as-equipes-para-as-disputas-da-cone-sul-e-cplp/", "Gomes Cabral", "IMPA: team announcement (full names, cities, leader)", "full (pre-event roster)", domain="impa.br")],
+        post("https://impa.br/notices/definidas-as-equipes-para-as-disputas-da-cone-sul-e-cplp/", "Gomes Cabral", "IMPA: team announcement (full names, cities, leader)", "full (pre-event roster)", domain="impa.br", timing="pre")],
  2019: [post("https://www.obm.org.br/2019/09/02/11538/", "Neves da Cruz", "OBM news: results table; leaders; Sucre; team champion"),
         post("https://noic.com.br/matematica/cone-sul/2-ouros-e-2-pratas-para-o-brasil-na-olimpiada-de-matematica-do-cone-sul/", "Longo", "NOIC results post: 4 names + medals", domain="noic.com.br"),
         post("https://impa.br/notices/brasil-e-campeao-da-30a-olimpiada-de-matematica-do-cone-sul/", "Neves da Cruz", "IMPA: results (4 names, cities, points); leaders", domain="impa.br"),
-        post("https://impa.br/notices/equipe-brasileira-esta-na-bolivia-para-disputar-a-cone-sul/", "Neves da Cruz", "IMPA: team at the venue (full names, cities)", "full (pre-event roster)", domain="impa.br")],
+        post("https://impa.br/notices/equipe-brasileira-esta-na-bolivia-para-disputar-a-cone-sul/", "Neves da Cruz", "IMPA: team at the venue (full names, cities)", "full (pre-event roster)", domain="impa.br", timing="pre")],
  2020: [src("https://www.obm.org.br/2020/12/07/brasil-encerra-participacao-na-cone-sul-com-quatro-medalhas/", "obm.org.br", "primary", "results published as an image (no names in text)", "OBM news: 1G/3S, 2nd place, virtual edition"),
         post("https://noic.com.br/matematica/cone-sul/saiu-o-resultado-da-olimpiada-de-matematica-do-cone-sul-2020/", "Domingos Porto", "NOIC results post: 4 names + medals", domain="noic.com.br")],
  2021: [post("https://www.obm.org.br/2021/12/03/brasil-conquista-quatro-medalhas-na-32a-olimpiada-do-cone-sul/", "Dellaroli", "OBM news: results table (virtual edition)")],

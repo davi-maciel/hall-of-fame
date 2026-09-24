@@ -24,6 +24,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — Leicester debut roster, 5 no-award students — the ONLY per-name source family for 2000 (mirror: olimpiada.webnode.com.br)",
           "needle": "Danilo Jimenez Rezende"
@@ -32,6 +33,7 @@
           "url": "http://web.archive.org/web/20100124032207/http://ipho.phy.ntnu.edu.tw/2000minutes.html",
           "domain": "ipho.phy.ntnu.edu.tw (Wayback)",
           "cls": "official",
+          "timing": "event",
           "coverage": "counts",
           "confirms": "IPhO 2000 minutes — Brazil in the new-participants list (no names)",
           "needle": "Brazil"
@@ -50,6 +52,7 @@
           "url": "https://ipho-unofficial.org/timeline/2001/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Pimentel HM",
           "needle": "Pimentel"
@@ -58,6 +61,7 @@
           "url": "http://web.archive.org/web/20010720031951/http://www.ipho2001.org.tr/results/all.html",
           "domain": "ipho2001.org.tr (host, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "host results — full 5-member roster + leaders, exact match",
           "needle": "Fontenele"
@@ -66,6 +70,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — Antalya roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Richartz"
@@ -83,6 +88,7 @@
           "url": "https://ipho-unofficial.org/timeline/2002/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "3/4",
           "confirms": "per-year individual results — 3 award winners (Pelá bronze; Brazil sent 4)",
           "needle": "Pela"
@@ -91,6 +97,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — Pelá bronze, Muniz + Fonteles HM",
           "needle": "Fonteles"
@@ -99,6 +106,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — 4-member roster (not a gap — consistent across sources) (mirror: olimpiada.webnode.com.br)",
           "needle": "Janilo"
@@ -116,6 +124,7 @@
           "url": "https://ipho-unofficial.org/timeline/2003/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Jong Woo Jin HM",
           "needle": "Jong Woo Jin"
@@ -124,6 +133,7 @@
           "url": "http://web.archive.org/web/20031027081111/http://www.phy.ntnu.edu.tw/ipho2003/English/result.htm",
           "domain": "phy.ntnu.edu.tw (host, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "host results — all award winners",
           "needle": "Jong Woo Jin"
@@ -132,6 +142,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Quixada"
@@ -149,6 +160,7 @@
           "url": "https://ipho-unofficial.org/timeline/2004/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Graminho HM",
           "needle": "Graminho"
@@ -157,6 +169,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — Graminho honourable mention",
           "needle": "Graminho"
@@ -165,6 +178,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Maracaba"
@@ -182,6 +196,7 @@
           "url": "https://ipho-unofficial.org/timeline/2005/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — 3 awards",
           "needle": "Heleodoro"
@@ -190,6 +205,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — Silva Filho, Heleodoro, Castro da Silva",
           "needle": "Heleodoro"
@@ -198,6 +214,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster ('Aron A. Heleodoro' — name-order conflict, see note) (mirror: olimpiada.webnode.com.br)",
           "needle": "Heleodoro"
@@ -216,6 +233,7 @@
           "url": "https://ipho-unofficial.org/timeline/2006/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Sobreira",
           "needle": "Sobreira"
@@ -224,6 +242,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — Sobreira + Rehn Casierra",
           "needle": "Casierra"
@@ -232,6 +251,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Aleixo"
@@ -249,6 +269,7 @@
           "url": "https://ipho-unofficial.org/timeline/2007/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Thomás F. Lima bronze",
           "needle": "Lima"
@@ -257,6 +278,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — Thomas F. Lima bronze",
           "needle": "Thomas F. Lima"
@@ -265,6 +287,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Nilo Daniel"
@@ -282,6 +305,7 @@
           "url": "https://ipho-unofficial.org/timeline/2008/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Takeda",
           "needle": "Takeda"
@@ -290,6 +314,7 @@
           "url": "http://web.archive.org/web/20080731100948/http://ipho2008.hnue.edu.vn/Competition/Results/tabid/82/Default.aspx",
           "domain": "ipho2008.hnue.edu.vn (host, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "host award winners",
           "needle": "Takeda"
@@ -298,6 +323,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster incl. non-medalist Vitor Mori (mirror: olimpiada.webnode.com.br)",
           "needle": "Vitor Mori"
@@ -315,6 +341,7 @@
           "url": "https://ipho-unofficial.org/timeline/2009/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Halpern",
           "needle": "Halpern"
@@ -323,6 +350,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — all 5 named (Farias, Guilhon, Halpern, Stedile, Paiva Filho)",
           "needle": "Halpern"
@@ -331,6 +359,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — Mérida roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Stedile"
@@ -348,6 +377,7 @@
           "url": "https://ipho-unofficial.org/timeline/2010/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Haddad",
           "needle": "Haddad"
@@ -356,6 +386,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — all 5 (Haddad, Lira, Andrade e Silva, Alencar, Sousa)",
           "needle": "Haddad"
@@ -364,6 +395,7 @@
           "url": "http://web.archive.org/web/20101008094715/http://www.sbfisica.org.br/v1/index.php?option=com_content&view=article&id=215:na-croacia-a-equipe-da-obf-conquista-cinco-medalhas-na-41o-ipho&catid=75:agosto-2010&Itemid=270",
           "domain": "sbfisica.org.br (Wayback)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "counts",
           "confirms": "SBF: 5 medals, first all-medal team (teaser, no names)",
           "needle": "cinco medalhas"
@@ -372,6 +404,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster (mirror: olimpiada.webnode.com.br)",
           "needle": "Lira"
@@ -389,6 +422,7 @@
           "url": "https://ipho-unofficial.org/timeline/2011/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Haddad gold",
           "needle": "Haddad"
@@ -397,6 +431,7 @@
           "url": "http://web.archive.org/web/20110825233428/http://www.sbfisica.org.br/v1/index.php?option=com_content&view=article&id=331:ouro-para-o-brasil-na-olimpiada-internacional-de-fisica&catid=94:julho-2011&Itemid=270",
           "domain": "sbfisica.org.br (Wayback)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF: names + schools + Haddad's 41.29 points",
           "needle": "Hernandes"
@@ -405,6 +440,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 5-member roster w/ states — roster (last OC year) (mirror: olimpiada.webnode.com.br)",
           "needle": "Godoi"
@@ -422,6 +458,7 @@
           "url": "https://ipho-unofficial.org/timeline/2012/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "per-year individual results — gold Antunes + 3 bronze; Dalla Stella no award",
           "needle": "Antunes"
@@ -430,6 +467,7 @@
           "url": "http://web.archive.org/web/20140805021810/http://g1.globo.com/educacao/noticia/2012/07/brasil-ganha-quatro-medalhas-na-olimpiada-internacional-de-fisica.html",
           "domain": "g1.globo.com (Wayback)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "G1: all 5 names incl. Dalla Stella as non-medalist",
           "needle": "Dalla Stella"
@@ -438,6 +476,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — gold Antunes; Dalla Stella under Participation certificate",
           "needle": "Antunes"
@@ -456,6 +495,7 @@
           "url": "https://ipho-unofficial.org/timeline/2013/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Arai silver",
           "needle": "Arai"
@@ -464,6 +504,7 @@
           "url": "https://noic.com.br/fisica/ipho/resultado-ipho-2013/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC: silver Arai + 4 bronze (site 406-blocks curl; verify via browser fetch)",
           "needle": "Arai"
@@ -472,6 +513,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — 2013 awards",
           "needle": "Arai"
@@ -489,6 +531,7 @@
           "url": "https://ipho-unofficial.org/timeline/2014/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Cronemberger",
           "needle": "Cronemberger"
@@ -497,6 +540,7 @@
           "url": "https://noic.com.br/fisica/5-medalhas-brasileiras-na-ipho-2014/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC: 5 bronzes (site 406-blocks curl; verify via browser fetch)",
           "needle": "CRONEMBERGER"
@@ -505,6 +549,7 @@
           "url": "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf",
           "domain": "jyu.fi (old official IPhO site, Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "official 'Winners by Olympiads' compilation (1967–2014) — 2014 awards",
           "needle": "Cronemberger"
@@ -522,6 +567,7 @@
           "url": "https://ipho-unofficial.org/timeline/2015/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Tafnes",
           "needle": "Tafnes"
@@ -530,6 +576,7 @@
           "url": "https://noic.com.br/fisica/tres-medalhas-para-o-brasil-na-olimpiada-internacional-de-fisica-ipho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC: 3 bronze + 2 HM w/ states (site 406-blocks curl; verify via browser fetch)",
           "needle": "Tafnes"
@@ -547,6 +594,7 @@
           "url": "https://ipho-unofficial.org/timeline/2016/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Bergamaschi gold",
           "needle": "Bergamaschi"
@@ -555,6 +603,7 @@
           "url": "https://www1.fisica.org.br/olimpiada/2016/images/arquivos/AnuncioMedalhasIPhO2016__2_.pdf",
           "domain": "fisica.org.br (SBF/OBF)",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF medal announcement PDF — all 5 names",
           "needle": "Zanarella"
@@ -572,6 +621,7 @@
           "url": "https://ipho-unofficial.org/timeline/2017/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Golfetti",
           "needle": "Golfetti"
@@ -580,6 +630,7 @@
           "url": "https://noic.com.br/uncategorized/brasil-conquista-melhor-resultado-da-historia-na-ipho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC: 3 gold + 2 bronze — best result in history (site 406-blocks curl; verify via browser fetch)",
           "needle": "Golfetti"
@@ -597,6 +648,7 @@
           "url": "https://ipho-unofficial.org/timeline/2018/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Kitayama",
           "needle": "Kitayama"
@@ -605,6 +657,7 @@
           "url": "https://noic.com.br/uncategorized/5-medalhas-para-o-brasil-na-ipho-2018/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC: all 5 w/ cities (Thomas Bergamaschi silver) (site 406-blocks curl; verify via browser fetch)",
           "needle": "Bergamaschi"
@@ -622,6 +675,7 @@
           "url": "https://ipho-unofficial.org/timeline/2019/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "per-year individual results — all 5 incl. Eleni Claire Shor silver (rank 45)",
           "needle": "Shor"
@@ -630,6 +684,7 @@
           "url": "https://noic.com.br/fisica/ipho/cinco-medalhas-para-o-brasil-na-ipho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post — one team member appears under a former name (same person; see note) (site 406-blocks curl; verify via browser fetch)",
           "needle": "Cutrim"
@@ -648,6 +703,7 @@
           "url": "http://web.archive.org/web/20201219170042/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/1237-estudantes-brasileiro-conquistam-medalhas-de-prata-e-bronze-na-international-distributed-physics-olympiad",
           "domain": "sbfisica.org.br (Wayback)",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF: IdPhO 2020 — all 5 names + schools + medals (4 silver + 1 bronze) + event explanation",
           "needle": "Takose"
@@ -656,6 +712,7 @@
           "url": "https://noic.com.br/olimpiadas/fisica/hall-da-fisica/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/5",
           "confirms": "NOIC hall: Davi Maciel + Vinícius Rodrigues prata, IdPhO framing (site 406-blocks curl; verify via browser fetch)",
           "needle": "Davi Maciel"
@@ -664,6 +721,7 @@
           "url": "https://en.wikipedia.org/wiki/International_Physics_Olympiad",
           "domain": "en.wikipedia.org",
           "cls": "archive",
+          "timing": "ref",
           "coverage": "counts",
           "confirms": "confirms IdPhO 2020 as the IPhO-endorsed substitute (no Brazilian names)",
           "needle": "IdPhO"
@@ -682,6 +740,7 @@
           "url": "https://ipho-unofficial.org/timeline/2021/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "per-year individual results — gold/silver/3 bronze",
           "needle": "Uchoa"
@@ -690,6 +749,7 @@
           "url": "http://web.archive.org/web/20210730163251/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/1380-ouro-prata-e-bronze-na-ipho-2021",
           "domain": "sbfisica.org.br (Wayback)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF: all 5 + schools (live URL now 404)",
           "needle": "Siqueira"
@@ -698,6 +758,7 @@
           "url": "https://www1.fisica.org.br/olimpiada/2020/",
           "domain": "fisica.org.br (SBF/OBF)",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full — selection stage",
           "confirms": "TBF top-5 = the same 5 students",
           "needle": "CAIO AUGUSTO"
@@ -715,6 +776,7 @@
           "url": "https://ipho-unofficial.org/timeline/2022/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Tizon",
           "needle": "Tizon"
@@ -723,6 +785,7 @@
           "url": "https://ipho2022.com/results/",
           "domain": "ipho2022.com (host)",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "host results — all 5",
           "needle": "Tizon"
@@ -740,6 +803,7 @@
           "url": "https://ipho-unofficial.org/timeline/2023/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Menhem",
           "needle": "Menhem"
@@ -748,6 +812,7 @@
           "url": "https://noic.com.br/uncategorized/resultado-do-brasil-na-ipho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC: all 5 (Porfirio silver) (site 406-blocks curl; verify via browser fetch)",
           "needle": "Porfirio"
@@ -756,6 +821,7 @@
           "url": "https://olimpiadas.etapa.com.br/fisica",
           "domain": "etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Etapa: Porfirio prata",
           "needle": "Porfirio"
@@ -773,6 +839,7 @@
           "url": "https://ipho-unofficial.org/timeline/2025/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "awards",
           "confirms": "per-year individual results — Feltran",
           "needle": "Feltran"
@@ -781,6 +848,7 @@
           "url": "https://cdn.prod.website-files.com/664df830da8ff5d22656764b/68834cd4e6e698960f2c6e1a_final_ranks_ipho2025.pdf",
           "domain": "ipho2025.fr (host)",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "host final ranks PDF — all 5 + medals + scores (linked from ipho2025.fr results page)",
           "needle": "Feltran"
@@ -789,6 +857,7 @@
           "url": "https://olimpiadas.etapa.com.br/fisica",
           "domain": "etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Etapa: Feltran prata 2025",
           "needle": "Feltran"
@@ -806,6 +875,7 @@
           "url": "https://ipho-unofficial.org/timeline/2026/individual",
           "domain": "ipho-unofficial.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "per-year individual results — all 5 (Feltran gold)",
           "needle": "Feltran"
@@ -814,6 +884,7 @@
           "url": "https://olimpiadas.etapa.com.br/fisica",
           "domain": "etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/5",
           "confirms": "Etapa: Feltran ouro + Kojima bronze 2026",
           "needle": "Kojima"

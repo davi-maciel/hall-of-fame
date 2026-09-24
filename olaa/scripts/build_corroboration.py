@@ -12,27 +12,28 @@ WIKI = "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Latino-Americana_de_Astrono
 OLC = "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/olaa/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms,
+         "timing": timing}
     if needle:
         d["needle"] = needle
     return d
 
 
-def wiki(needle):
-    return src(WIKI, "pt.wikipedia.org", "primary", "full", "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)", needle)
+def wiki(needle, timing="post"):
+    return src(WIKI, "pt.wikipedia.org", "primary", "full", "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)", needle, timing)
 
 
-def olc(needle, sub=""):
-    return src(OLC + sub, "olimpiadascientificas.org", "primary", "full", "olimpiadascientificas.org roster 2009-2012 (medals + states)", needle)
+def olc(needle, sub="", timing="post"):
+    return src(OLC + sub, "olimpiadascientificas.org", "primary", "full", "olimpiadascientificas.org roster 2009-2012 (medals + states)", needle, timing)
 
 
-def noic(url, needle, confirms, coverage="full"):
-    return src(url, "noic.com.br", "primary", coverage, confirms, needle)
+def noic(url, needle, confirms, coverage="full", timing="post"):
+    return src(url, "noic.com.br", "primary", coverage, confirms, needle, timing)
 
 
-def press(url, domain, needle, confirms, coverage="full"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def press(url, domain, needle, confirms, coverage="full", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing)
 
 
 SOURCES = {
@@ -40,20 +41,20 @@ SOURCES = {
  2010: [wiki("Pomgeluppi"), olc("Pomgeluppi"), olc("Smaira", "olaa-2010/")],
  2011: [wiki("Bordoni"), olc("Bordoni")],
  2012: [wiki("Pedarnig"), olc("Pedarnig"),
-        press("https://extra.globo.com/noticias/educacao/vida-de-calouro/estudantes-brasileiros-participam-da-olimpiada-latino-americana-de-astronomia-astronautica-5983975.html", "extra.globo.com", "Pedarnig", "Extra (OBA release): full 2012 roster with cities", "full (pre-event roster)")],
+        press("https://extra.globo.com/noticias/educacao/vida-de-calouro/estudantes-brasileiros-participam-da-olimpiada-latino-americana-de-astronomia-astronautica-5983975.html", "extra.globo.com", "Pedarnig", "Extra (OBA release): full 2012 roster with cities", "full (pre-event roster)", timing="pre")],
  2013: [wiki("Sontag")],
  2014: [wiki("Heringer"), noic("https://noic.com.br/uncategorized/equipe-brasileira-da-olaa-e-mais-premiada-de-todos-os-tempos/", "Hagemaister", "NOIC results post: 3G + 2S"),
-        noic("https://noic.com.br/uncategorized/alunos-selecionados-para-ioaa-e-olaa/", "HAGEMAISTER", "NOIC team announcement (IOAA + OLAA)", "full (pre-event roster)"),
+        noic("https://noic.com.br/uncategorized/alunos-selecionados-para-ioaa-e-olaa/", "HAGEMAISTER", "NOIC team announcement (IOAA + OLAA)", "full (pre-event roster)", timing="pre"),
         press("https://g1.globo.com/educacao/noticia/2014/10/brasil-ganha-tres-medalhas-de-ouro-em-olimpiada-latina-de-astronomia.html", "g1.globo.com", "Heringer", "G1: 3G + 2S with cities")],
  2015: [wiki("Renner"), noic("https://noic.com.br/uncategorized/equipe-brasileira-da-olaa-e-a-mais-premiada-de-todos-os-tempos/", "Renner", "NOIC results post: 4G + 1S"),
-        noic("https://noic.com.br/astronomia-2/divulgadas-as-equipes-brasileiras-das-internacionais-de-astronomia/", "Renner", "NOIC team announcement (Vitor Gomes Pires listed as reserve; Felipe Vieira Coimbra later replaced)", "pre-event roster"),
+        noic("https://noic.com.br/astronomia-2/divulgadas-as-equipes-brasileiras-das-internacionais-de-astronomia/", "Renner", "NOIC team announcement (Vitor Gomes Pires listed as reserve; Felipe Vieira Coimbra later replaced)", "pre-event roster", timing="pre"),
         press("https://revistagalileu.globo.com/Ciencia/noticia/2015/10/brasileiros-conquistam-cinco-medalhas-na-olimpiada-latino-americana-de-astronomia-e-astronautica.html", "revistagalileu.globo.com", "Schuch", "Galileu: 4G + 1S, full names (Ana Paula Lopes Schuch)")],
- 2016: [wiki("Verras"), noic("https://noic.com.br/astronomia-2/divulgadas-as-equipes-das-olimpiadas-internacionais-de-astronomia/", "Thimoteo", "NOIC team announcement (Victor Praxedes Rael listed; replaced by Nicolas Almeida Verras)", "pre-event roster"),
+ 2016: [wiki("Verras"), noic("https://noic.com.br/astronomia-2/divulgadas-as-equipes-das-olimpiadas-internacionais-de-astronomia/", "Thimoteo", "NOIC team announcement (Victor Praxedes Rael listed; replaced by Nicolas Almeida Verras)", "pre-event roster", timing="pre"),
         press("https://g1.globo.com/educacao/noticia/brasil-vence-olimpiada-latino-americana-de-astronomia-e-astronautica.ghtml", "g1.globo.com", "Verras", "G1: 2G + 2S + 1B with names")],
- 2017: [wiki("Apendino"), noic("https://noic.com.br/uncategorized/divulgados-os-times-das-olimpiadas-internacionais-de-astronomia/", "Apendino", "NOIC team announcement", "full (pre-event roster)"),
+ 2017: [wiki("Apendino"), noic("https://noic.com.br/uncategorized/divulgados-os-times-das-olimpiadas-internacionais-de-astronomia/", "Apendino", "NOIC team announcement", "full (pre-event roster)", timing="pre"),
         press("https://g1.globo.com/educacao/noticia/brasil-conquista-quatro-medalhas-de-ouro-em-olimpiada-de-astronomia-e-astronautica-no-chile.ghtml", "g1.globo.com", "Apendino", "G1: 4G + 1S with cities")],
  2018: [wiki("Klitzke"), noic("https://noic.com.br/astronomia-2/brasil-se-destaca-na-olaa-2018/", "Katarine", "NOIC results post: 4G + 1S"),
-        noic("https://noic.com.br/uncategorized/veja-as-equipes-brasileiras-das-olimpiadas-internacionais-de-astronomia/", "Klitzke", "NOIC team announcement with schools", "full (pre-event roster)"),
+        noic("https://noic.com.br/uncategorized/veja-as-equipes-brasileiras-das-olimpiadas-internacionais-de-astronomia/", "Klitzke", "NOIC team announcement with schools", "full (pre-event roster)", timing="pre"),
         press("https://g1.globo.com/educacao/noticia/2018/10/23/brasil-conquista-quatro-ouros-e-uma-prata-em-olimpiada-latino-americana-de-astronomia.ghtml", "g1.globo.com", "Klitzke", "G1: 4G + 1S")],
  2019: [wiki("Fabrizio"), noic("https://noic.com.br/astronomia-2/brasil-conquista-4-ouros-e-1-prata-na-olaa-2019/", "Fabrizio", "NOIC results post: 4G + 1S with full names")],
  2020: [wiki("Sobreira"), noic("https://noic.com.br/uncategorized/confira-o-resultado-do-brasil-na-olaa/", "Sobreira", "NOIC results post (virtual edition): 4G + 1B"),
@@ -61,7 +62,7 @@ SOURCES = {
  2021: [wiki("Gregio"), press("https://agenciabrasil.ebc.com.br/educacao/noticia/2021-11/brasil-ganha-cinco-ouros-em-olimpiada-de-astronomia-e-astronautica/", "agenciabrasil.ebc.com.br", "Gregio", "Agência Brasil: five golds, names, ages, schools"),
         press("https://g1.globo.com/educacao/noticia/2021/11/16/brasil-leva-5-medalhas-de-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica.ghtml", "g1.globo.com", "Gregio", "G1: five golds + special prizes")],
  2022: [wiki("Chalfun"), press("https://jornaldachapada.com.br/2022/10/24/mundo-selecao-brasileira-faz-bonito-na-olimpiada-latino-americana-de-astronomia-e-astronautica/", "jornaldachapada.com.br", "Chalfun", "Jornal da Chapada (OBA release): five golds, names, ages, schools")],
- 2023: [wiki("Segrini"), noic("https://noic.com.br/uncategorized/resultado-da-seletiva-de-astronomia/", "Mychel", "NOIC selection result (short names)", "pre-event roster"),
+ 2023: [wiki("Segrini"), noic("https://noic.com.br/uncategorized/resultado-da-seletiva-de-astronomia/", "Mychel", "NOIC selection result (short names)", "pre-event roster", timing="pre"),
         press("https://jc.ne10.uol.com.br/colunas/enem-e-educacao/2023/10/15617811-brasil-conquista-cinco-medalhas-em-olimpiada-latina-de-astronomia.html", "jc.ne10.uol.com.br", "Segrini", "JC: 2G + 3S with names")],
  2024: [wiki("Gurjão"), press("https://horacampinas.com.br/estudante-de-valinhos-e-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica/", "horacampinas.com.br", "Gurjão", "Hora Campinas: 4G + 1B (short names)")],
  2025: [wiki("Waiandt"), press("https://agenciabrasil.ebc.com.br/educacao/noticia/2025-09/equipes-brasileiras-sao-premiadas-em-olimpiada-de-astronomia", "agenciabrasil.ebc.com.br", "Waiandt", "Agência Brasil: ten Brazilians, 9G + 1S, full names and cities")],

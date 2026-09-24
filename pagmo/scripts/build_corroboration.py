@@ -11,8 +11,8 @@ ROOT = os.path.dirname(HERE)
 OBM = "https://www.obm.org.br/resultados-pagmo/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
@@ -22,20 +22,20 @@ def obm(needle):
     return src(OBM, "obm.org.br", "primary", "full", "national organizer results table (all 5 editions): names, city/state, medal", needle)
 
 
-def post(url, needle, confirms, coverage="full", domain="obm.org.br"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def post(url, needle, confirms, coverage="full", domain="obm.org.br", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing)
 
 
 SOURCES = {
  2021: [obm("Quintanilla"), post("https://www.obm.org.br/2021/10/09/com-xxxx-medalhas-brasil-encerra-participacao-na-pagmo-2021/", "Quintanilla", "OBM news: 4 medals by name (virtual 1st edition)"),
-        post("https://noic.com.br/matematica/divulgado-o-time-da-pagmo-2021/", "Quintanilla", "NOIC team announcement", "full (pre-event roster)", domain="noic.com.br")],
+        post("https://noic.com.br/matematica/divulgado-o-time-da-pagmo-2021/", "Quintanilla", "NOIC team announcement", "full (pre-event roster)", domain="noic.com.br", timing="pre")],
  2022: [obm("Kochloukova"), post("https://www.obm.org.br/2022/10/31/brasil-conquista-uma-medalha-de-ouro-e-tres-de-prata-na-pagmo-2022/", "Miyashita", "OBM news: gold + 3 silvers by name"),
         post("https://noic.com.br/matematica/divulgado-o-resultado-da-pagmo-2022/", "Miyashita", "NOIC results post", domain="noic.com.br")],
  2023: [obm("Pazó"), post("https://www.obm.org.br/2023/08/13/20594/", "Pazó", "OBM news: G/S/2B by name"),
-        post("https://noic.com.br/uncategorized/anunciado-o-time-da-pagmo-2023/", "Schneider", "NOIC team announcement", "full (pre-event roster)", domain="noic.com.br")],
+        post("https://noic.com.br/uncategorized/anunciado-o-time-da-pagmo-2023/", "Schneider", "NOIC team announcement", "full (pre-event roster)", domain="noic.com.br", timing="pre")],
  2024: [obm("Sophia Li Ci Liu"), post("https://www.obm.org.br/2024/11/30/brasil-e-campeao-da-pagmo-2024/", "Sophia", "OBM news: 3 golds + silver by name; team champion")],
  2025: [obm("Passarini"), post("https://www.obm.org.br/2025/10/31/time-brasil-conquista-quatro-medalhas-de-prata-na-5a-pagmo/", "Passarini", "OBM news: 4 silvers by name; Fortaleza hosts"),
-        post("https://www.obm.org.br/2025/04/12/equipe-brasileira-para-a-pagmo-2025-e-definida/", "Passarini", "OBM: team announcement", "full (pre-event roster)")],
+        post("https://www.obm.org.br/2025/04/12/equipe-brasileira-para-a-pagmo-2025-e-definida/", "Passarini", "OBM: team announcement", "full (pre-event roster)", timing="pre")],
 }
 
 NOTES = {

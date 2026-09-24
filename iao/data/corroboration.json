@@ -25,6 +25,7 @@
           "cls": "official",
           "coverage": "medal count + team list",
           "confirms": "III IAO report: Brazil among the five teams; diploma table Brazil 0/0/1 (winner names never posted)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -33,6 +34,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Iguchi"
         },
         {
@@ -41,6 +43,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],
@@ -59,6 +62,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "IV IAO report: Shridhar Jayanthi (São José dos Campos) II prize; diploma table 0/1/0",
+          "timing": "post",
           "needle": "Shridhar Jayanthi"
         },
         {
@@ -67,6 +71,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Della Lastra"
         },
         {
@@ -75,6 +80,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ]
@@ -92,6 +98,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "V IAO report: Jayanthi Shridhar III prize; diploma table 0/0/1",
+          "timing": "post",
           "needle": "Jayanthi Shridhar"
         },
         {
@@ -100,6 +107,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Quachio"
         },
         {
@@ -108,6 +116,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],
@@ -126,6 +135,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "VII IAO results: Bortoluci José III, Pereira Felipe III; team table",
+          "timing": "post",
           "needle": "Bortoluci"
         },
         {
@@ -134,6 +144,7 @@
           "cls": "official",
           "coverage": "team list",
           "confirms": "VII IAO report: Brazil applied and arrived",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -142,6 +153,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Slepetys"
         },
         {
@@ -150,6 +162,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],
@@ -168,6 +181,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "VIII IAO report: Celistrino Teixeira II, Silva Michel III (55 participants, 14 teams)",
+          "timing": "post",
           "needle": "Celistrino"
         },
         {
@@ -176,6 +190,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Cosentino"
         },
         {
@@ -184,6 +199,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],
@@ -202,6 +218,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "IX IAO report: Villar Coelho II (junior), Echelmeier III and de Araujo e Silva III (senior)",
+          "timing": "post",
           "needle": "Echelmeier"
         },
         {
@@ -210,6 +227,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Echelmeier"
         },
         {
@@ -218,6 +236,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ]
@@ -235,6 +254,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "X IAO prizewinners: Villar Coelho Felipe Ferreira I Diploma",
+          "timing": "post",
           "needle": "Villar Coelho"
         },
         {
@@ -243,6 +263,7 @@
           "cls": "official",
           "coverage": "team list + gold",
           "confirms": "X IAO front page: Brazil among teams; Felipe Ferreira Villar Coelho gold",
+          "timing": "post",
           "needle": "Villar Coelho"
         },
         {
@@ -251,6 +272,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Donadia"
         },
         {
@@ -259,6 +281,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],
@@ -277,6 +300,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "XI IAO prizewinners: Assis Felipe Goncalves II (senior), Araujo Hugo Fonseca III (junior)",
+          "timing": "post",
           "needle": "Fonseca"
         },
         {
@@ -285,6 +309,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Palmeira"
         },
         {
@@ -293,6 +318,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],
@@ -311,6 +337,7 @@
           "cls": "official",
           "coverage": "medallists + team list",
           "confirms": "XII IAO prizewinners: Fonseca Araujo Hugo II, Parpinel Cavina Rafael III",
+          "timing": "post",
           "needle": "Parpinel"
         },
         {
@@ -319,6 +346,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states",
+          "timing": "post",
           "needle": "Mippo"
         },
         {
@@ -327,6 +355,7 @@
           "cls": "primary",
           "coverage": "team size + medal counts",
           "confirms": "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)",
+          "timing": "post",
           "needle": "Brasil participa da IAO"
         }
       ],

@@ -27,6 +27,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Lilian Teixeira Patitucci"
         }
       ],
@@ -45,6 +46,7 @@
           "cls": "official",
           "coverage": "2/3",
           "confirms": "II OIAQ list: two Brazilian bronzes",
+          "timing": "post",
           "needle": "Heron"
         },
         {
@@ -53,6 +55,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Caxilé"
         }
       ],
@@ -71,6 +74,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full III OIAQ medal list",
+          "timing": "post",
           "needle": "André da Silva Abreu"
         },
         {
@@ -79,6 +83,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Ataíde"
         }
       ]
@@ -96,6 +101,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full IV OIAQ medal list",
+          "timing": "post",
           "needle": "Pedro Madeira Nóbrega"
         },
         {
@@ -104,6 +110,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Rodolfo"
         }
       ]
@@ -121,6 +128,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full V OIAQ medal list",
+          "timing": "post",
           "needle": "Ivan Mota Moura Fé"
         },
         {
@@ -129,6 +137,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "annual essay names the 1999 team",
+          "timing": "post",
           "needle": "Joamara"
         }
       ]
@@ -146,6 +155,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full VI OIAQ medal list",
+          "timing": "post",
           "needle": "Michel"
         },
         {
@@ -154,6 +164,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Lavor"
         }
       ]
@@ -171,6 +182,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full VII OIAQ medal list",
+          "timing": "post",
           "needle": "Yuri Sammuel"
         },
         {
@@ -179,6 +191,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Janilo"
         }
       ]
@@ -196,6 +209,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full VIII OIAQ medal list",
+          "timing": "post",
           "needle": "Studart"
         },
         {
@@ -204,6 +218,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Haroldo"
         }
       ]
@@ -221,6 +236,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full IX OIAQ medal list",
+          "timing": "post",
           "needle": "Lucas Veloso Saraiva"
         },
         {
@@ -229,6 +245,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Karoline"
         }
       ]
@@ -246,6 +263,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full X OIAQ medal list",
+          "timing": "post",
           "needle": "JULIANA"
         },
         {
@@ -254,6 +272,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Damasceno"
         }
       ]
@@ -271,6 +290,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full XI OIAQ medal list",
+          "timing": "post",
           "needle": "Césaris"
         },
         {
@@ -279,6 +299,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Jório"
         }
       ]
@@ -296,6 +317,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full XII OIAQ medal list",
+          "timing": "post",
           "needle": "Nakasu"
         },
         {
@@ -304,6 +326,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Thaís"
         }
       ]
@@ -321,6 +344,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full XIII OIAQ medal list",
+          "timing": "post",
           "needle": "David Willian"
         },
         {
@@ -329,6 +353,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Collyer"
         }
       ]
@@ -346,6 +371,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2009 pp.137-139: team + Levindo 1º lugar)",
+          "timing": "post",
           "needle": "Levindo"
         },
         {
@@ -354,6 +380,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full XIV OIAQ medal list",
+          "timing": "post",
           "needle": "Kakiuthi"
         }
       ]
@@ -371,6 +398,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "full team + 3 golds + 1º lugar",
+          "timing": "post",
           "needle": "Okuma"
         },
         {
@@ -379,6 +407,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "press: team + schools",
+          "timing": "post",
           "needle": "Kazumi"
         }
       ]
@@ -396,6 +425,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "XVI team + medals (Arjona=prata here)",
+          "timing": "post",
           "needle": "Tábata"
         },
         {
@@ -404,6 +434,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2011 pp.90-91,157-158 — Arjona=bronze; see note)",
+          "timing": "post",
           "needle": "Arjona"
         }
       ],
@@ -422,6 +453,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "XVII team + medals",
+          "timing": "post",
           "needle": "Vitória"
         },
         {
@@ -430,6 +462,7 @@
           "cls": "archive",
           "coverage": "full",
           "confirms": "Brazilian teams 1995–2012 w/ full names + states",
+          "timing": "post",
           "needle": "Arjona"
         }
       ]
@@ -447,6 +480,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2013 pp.78-79 + destaques)",
+          "timing": "post",
           "needle": "Maurocélio"
         },
         {
@@ -455,6 +489,7 @@
           "cls": "primary",
           "coverage": "counts",
           "confirms": "XVIII host/dates, Brazil among 17 countries",
+          "timing": "post",
           "needle": "La Paz"
         }
       ],
@@ -473,6 +508,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2014 pp.110-111,180-181 incl. substitution)",
+          "timing": "post",
           "needle": "Iwashita"
         },
         {
@@ -481,6 +517,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "4 medals",
+          "timing": "post",
           "needle": "Iwashita"
         }
       ]
@@ -498,6 +535,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "XX Teresina team + schools + medals",
+          "timing": "post",
           "needle": "Amgarten"
         },
         {
@@ -506,6 +544,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "identical",
+          "timing": "post",
           "needle": "Cortez"
         }
       ]
@@ -523,6 +562,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2016 pp.176-177 Bogotá delegation)",
+          "timing": "post",
           "needle": "Aragão"
         },
         {
@@ -531,6 +571,7 @@
           "cls": "primary",
           "coverage": "full — selection",
           "confirms": "2016 team + reserve",
+          "timing": "pre",
           "needle": "Seber"
         }
       ]
@@ -548,6 +589,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2017 p.215 destaques (João Vitor ouro / Celso prata))",
+          "timing": "post",
           "needle": "Celso Renan"
         },
         {
@@ -556,6 +598,7 @@
           "cls": "primary",
           "coverage": "full — CONFLICTING split, see note",
           "confirms": "NOIC: Celso ouro / Pimentel prata",
+          "timing": "post",
           "needle": "Toscano"
         },
         {
@@ -564,6 +607,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "XXII OIAQ delegation with medals (the tie-breaking third source); also notes Lígia = OQSP/ESP (SP)",
+          "timing": "post",
           "needle": "Celso Soares"
         }
       ],
@@ -582,6 +626,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "XXIII: 1º/2º geral + medals",
+          "timing": "post",
           "needle": "Orisvaldo"
         },
         {
@@ -590,6 +635,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "press",
+          "timing": "post",
           "needle": "Salviano"
         }
       ]
@@ -607,6 +653,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2019 p.208 destaques)",
+          "timing": "post",
           "needle": "Joaquim"
         },
         {
@@ -615,6 +662,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "council news",
+          "timing": "post",
           "needle": "Kuroishi"
         }
       ]
@@ -632,6 +680,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ Anais (2021 pp.211-212: team + champion + ACIPI)",
+          "timing": "post",
           "needle": "Glauco"
         },
         {
@@ -640,6 +689,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "council: 4 medals + champion",
+          "timing": "post",
           "needle": "Avelar"
         }
       ]
@@ -657,6 +707,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "4 golds — full delegation",
+          "timing": "post",
           "needle": "Naílton"
         },
         {
@@ -665,6 +716,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "press",
+          "timing": "post",
           "needle": "Conrado"
         },
         {
@@ -673,6 +725,7 @@
           "cls": "primary",
           "coverage": "1/4",
           "confirms": "school news",
+          "timing": "post",
           "needle": "Odebrecht"
         }
       ]
@@ -690,6 +743,7 @@
           "cls": "primary",
           "coverage": "3/4",
           "confirms": "Enzo ouro Top Gold + 2 pratas",
+          "timing": "post",
           "needle": "Rosenfeld"
         },
         {
@@ -698,6 +752,7 @@
           "cls": "primary",
           "coverage": "full — roster only",
           "confirms": "2023 team list incl. Gabriela",
+          "timing": "pre",
           "needle": "Torreao"
         },
         {
@@ -706,6 +761,7 @@
           "cls": "primary",
           "coverage": "1/4",
           "confirms": "Enzo maior nota",
+          "timing": "post",
           "needle": "Enzo"
         },
         {
@@ -713,7 +769,11 @@
           "domain": "linkedin.com (student's own certificate post)",
           "cls": "official",
           "coverage": "1/4",
-          "confirms": "organizer-issued Primer Lugar diploma, XXVII OIAQ 2023 remote/Ecuador"
+          "confirms": "organizer-issued Primer Lugar diploma, XXVII OIAQ 2023 remote/Ecuador",
+          "timing": "post",
+          "names": [
+            "gabriela-torreao-marques-ferreira"
+          ]
         }
       ],
       "note": "Gabriela Torreão RESOLVED 2026-08-26: her official XXVII-OIAQ 'Diploma de Honor — Primer Lugar' (signed by OIAQ president Byron Cuaspud, Daule 9/10/2023), published on her LinkedIn and supplied by the project owner, confirms GOLD ('primer lugar' = the gold-band premio; consistent with Enzo separately holding 'Top Gold'/maior nota per CFQ). Brazil 2023 = 2 ouro + 2 prata. Archived: data/raw/gabriela-torreao-oiaq2023-diploma.png (local)."
@@ -731,7 +791,11 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "host-university medal lists (hispanicized spellings)",
-          "needle": "Viera Lima"
+          "timing": "post",
+          "needle": "Viera Lima",
+          "names": [
+            "joao-guilherme-camilo-azevedo"
+          ]
         },
         {
           "url": "https://rseq.org/exito-espanol-en-la-xxviii-olimpiada-iberoamericana-de-quimica-2024/",
@@ -739,6 +803,7 @@
           "cls": "primary",
           "coverage": "counts",
           "confirms": "dates/host/14 countries",
+          "timing": "post",
           "needle": "Sarapiqu"
         },
         {
@@ -746,10 +811,11 @@
           "domain": "instagram.com",
           "cls": "primary",
           "coverage": "full (first names + schools)",
-          "confirms": "Olimpíadas de Química de Roraima: the four Brazilians with schools and medals (2G Helena, Rafael; 2S Alexandre, João Guilherme)"
+          "confirms": "Olimpíadas de Química de Roraima: the four Brazilians with schools and medals (2G Helena, Rafael; 2S Alexandre, João Guilherme)",
+          "timing": "post"
         }
       ],
-      "note": "Host-university source hispanicizes names (Helena Viera Lima, Rafael Joaquín Parra, Guillermo Camilo Acevedo). Brazilian confirmation (Olimpíadas de Química de Roraima Instagram post DBHiyewJWBL, 14 Oct 2024: Helena – Colégio Master CE gold; Rafael – Colégio Objetivo SP gold; Alexandre – Colégio Objetivo SP silver; João Guilherme – Colégio Farias Brito CE silver): 'Guillermo Camilo Acevedo' = João Guilherme Camilo Azevedo (the IOL 2024/2025 contestant; merged 2026-09-12). 'Rafael Joaquín Parra' = Rafael Joaquim Parra (Objetivo Integrado; IMChO 2024 protocol + OBQ ranking) and 'Helena Viera Lima' = Helena Vieira Lima (Colégio Master; OBQ ranking) — Brazilian spellings adopted 2026-09-16; 'Alexandre de Almeida' = Alexandre Andrade de Almeida (Colégio Objetivo Integrado per Objetivo's EuPhO 2024 news; the Roraima post places the OIAQ silver 'Alexandre' at Colégio Objetivo SP; merged 2026-09-12; formerly kept separate). Watch: an Instagram-sourced report claims Giovana Ayumi Matsumoto was also on the 2024 team (5th member or duplicate of a medalist, unresolved) — high conflation risk with the April-2024 Mendeleev team she verifiably attended; not added."
+      "note": "Host-university source hispanicizes names (Helena Viera Lima, Rafael Joaquín Parra, Guillermo Camilo Acevedo). Brazilian confirmation (Olimpíadas de Química de Roraima Instagram post DBHiyewJWBL, 14 Oct 2024: Helena – Colégio Master CE gold; Rafael – Colégio Objetivo SP gold; Alexandre – Colégio Objetivo SP silver; João Guilherme – Colégio Farias Brito CE silver): 'Guillermo Camilo Acevedo' = João Guilherme Camilo Azevedo (the IOL 2024/2025 contestant; merged 2026-09-12) — the hispanicised form shares no matchable token with his Brazilian name, so the UNA entry carries \"names\" for him (curated attestation, 2026-09-22). 'Rafael Joaquín Parra' = Rafael Joaquim Parra (Objetivo Integrado; IMChO 2024 protocol + OBQ ranking) and 'Helena Viera Lima' = Helena Vieira Lima (Colégio Master; OBQ ranking) — Brazilian spellings adopted 2026-09-16; 'Alexandre de Almeida' = Alexandre Andrade de Almeida (Colégio Objetivo Integrado per Objetivo's EuPhO 2024 news; the Roraima post places the OIAQ silver 'Alexandre' at Colégio Objetivo SP; merged 2026-09-12; formerly kept separate). Watch: an Instagram-sourced report claims Giovana Ayumi Matsumoto was also on the 2024 team (5th member or duplicate of a medalist, unresolved) — high conflation risk with the April-2024 Mendeleev team she verifiably attended; not added."
     },
     {
       "year": 2025,
@@ -764,6 +830,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "PNOQ: full team + medals",
+          "timing": "post",
           "needle": "Queiroz"
         },
         {
@@ -772,6 +839,7 @@
           "cls": "primary",
           "coverage": "counts",
           "confirms": "dates/13 countries",
+          "timing": "post",
           "needle": "Cuernavaca"
         }
       ]

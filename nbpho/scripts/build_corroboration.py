@@ -11,8 +11,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    # timing = when the source was produced relative to the edition:
+    # "post" (after it, reporting results/participation), "event" (during it),
+    # "pre" (before it: selection/team announcements), "ref" (no edition-specific roster).
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing,
+         "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d

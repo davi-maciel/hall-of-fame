@@ -25,6 +25,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/1999",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -32,6 +33,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -39,6 +41,7 @@
           "url": "https://cphof.org/standings/ioi/1999",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator, derives from IOI-DB) — participation/roster only (medal colors unreliable)"
         }
@@ -55,6 +58,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2000",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -62,6 +66,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -69,6 +74,7 @@
           "url": "https://cphof.org/standings/ioi/2000",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -85,6 +91,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2001",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -92,6 +99,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -99,6 +107,7 @@
           "url": "https://cphof.org/standings/ioi/2001",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -115,6 +124,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2002",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -122,6 +132,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -129,6 +140,7 @@
           "url": "https://ioi.te.lv/locations/ioi02/medals.shtml",
           "domain": "ioi.te.lv",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-official mirror (ioi.te.lv)"
         },
@@ -136,6 +148,7 @@
           "url": "https://www2.unicamp.br/unicamp/unicamp_hoje/jornalPDF/189-pag10.pdf",
           "domain": "www2.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Jornal da Unicamp (independent press)"
         },
@@ -143,6 +156,7 @@
           "url": "https://cphof.org/standings/ioi/2002",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -159,6 +173,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2003",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -166,6 +181,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -173,6 +189,7 @@
           "url": "https://denilson.sa.nom.br/denilsonsa-curriculo.pdf",
           "domain": "denilson.sa.nom.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Personal CV, Denilson de Sá (independent)"
         },
@@ -180,6 +197,7 @@
           "url": "https://cphof.org/standings/ioi/2003",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -196,6 +214,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2004",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -203,6 +222,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -210,6 +230,7 @@
           "url": "https://cphof.org/standings/ioi/2004",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -226,6 +247,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2005",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -233,6 +255,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -240,6 +263,7 @@
           "url": "https://cphof.org/standings/ioi/2005",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         },
@@ -247,6 +271,7 @@
           "url": "https://clist.by/standings/ioi-2005-31998753/",
           "domain": "clist.by",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "clist.by (aggregator)"
         }
@@ -263,6 +288,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2006",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -270,6 +296,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -277,6 +304,7 @@
           "url": "https://cphof.org/standings/ioi/2006",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         },
@@ -284,6 +312,7 @@
           "url": "https://clist.by/standings/ioi-2006-31998747/",
           "domain": "clist.by",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "clist.by (aggregator)"
         }
@@ -300,6 +329,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2007",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -307,6 +337,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -314,6 +345,7 @@
           "url": "https://agencia.fapesp.br/tres-medalhas-na-olimpiada-internacional-de-informatica/7657",
           "domain": "agencia.fapesp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Agência FAPESP (independent press)"
         },
@@ -321,6 +353,7 @@
           "url": "https://cphof.org/standings/ioi/2007",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -337,6 +370,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2008",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -344,6 +378,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -351,6 +386,7 @@
           "url": "https://agencia.fapesp.br/medalhas-no-egito/9332",
           "domain": "agencia.fapesp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Agência FAPESP (independent press)"
         },
@@ -358,6 +394,7 @@
           "url": "https://cphof.org/standings/ioi/2008",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -374,6 +411,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2009",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -381,6 +419,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -388,6 +427,7 @@
           "url": "https://cphof.org/standings/ioi/2009",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -404,6 +444,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2010",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -411,6 +452,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -418,6 +460,7 @@
           "url": "https://ioi2010.org/finalResults.html",
           "domain": "ioi2010.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI 2010 host results (independent)"
         },
@@ -425,6 +468,7 @@
           "url": "https://cphof.org/standings/ioi/2010",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -441,6 +485,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2011",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -448,6 +493,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -455,6 +501,7 @@
           "url": "https://sindpdrj.org.br/2011/07/28/brasil-conquista-ouro-inedito-na-olimpiada-internacional-de-informatica/",
           "domain": "sindpdrj.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "SINDPD-RJ (independent press)"
         },
@@ -462,6 +509,7 @@
           "url": "https://portal.cin.ufpe.br/2011/08/03/primeira-medalha-de-ouro-para-o-brasil-na-olimpiada-internacional-de-informatica/",
           "domain": "portal.cin.ufpe.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "CIn-UFPE (independent)"
         },
@@ -469,6 +517,7 @@
           "url": "https://cphof.org/standings/ioi/2011",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -485,6 +534,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2012",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -492,6 +542,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -499,6 +550,7 @@
           "url": "https://cphof.org/standings/ioi/2012",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -515,6 +567,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2013",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -522,6 +575,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -529,6 +583,7 @@
           "url": "https://ioi2013.org/competition/results/",
           "domain": "ioi2013.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI 2013 host results (independent)"
         },
@@ -536,6 +591,7 @@
           "url": "https://cphof.org/standings/ioi/2013",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator; medal-color unreliable) — participation/roster only (medal colors unreliable)"
         }
@@ -552,6 +608,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2014",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -559,6 +616,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -566,6 +624,7 @@
           "url": "https://agencia.fapesp.br/brasileiros-conquistam-medalhas-em-olimpiada-de-informatica/19460",
           "domain": "agencia.fapesp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Agência FAPESP (independent press)"
         },
@@ -573,6 +632,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "olimpiadascientificas.org (independent)"
         },
@@ -580,6 +640,7 @@
           "url": "https://cphof.org/standings/ioi/2014",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -596,6 +657,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2015",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -603,6 +665,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -610,6 +673,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "olimpiadascientificas.org (independent)"
         },
@@ -617,6 +681,7 @@
           "url": "https://cphof.org/standings/ioi/2015",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator; medal-color unreliable) — participation/roster only (medal colors unreliable)"
         }
@@ -633,6 +698,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2016",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -640,6 +706,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -647,6 +714,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "olimpiadascientificas.org (independent)"
         },
@@ -654,6 +722,7 @@
           "url": "https://cphof.org/standings/ioi/2016",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -670,6 +739,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2017",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -677,6 +747,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -684,6 +755,7 @@
           "url": "https://www2.unicamp.br/unicamp/noticias/2017/08/04/brasileiro-leva-ouro-na-olimpiada-internacional-de-informatica-unicamp-organiza/",
           "domain": "www2.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Unicamp news (independent)"
         },
@@ -691,6 +763,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/informatica/ioi/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "olimpiadascientificas.org (independent)"
         },
@@ -698,6 +771,7 @@
           "url": "https://cphof.org/standings/ioi/2017",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -714,6 +788,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2018",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -721,6 +796,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -728,6 +804,7 @@
           "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-prata-na-ioi",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Colégio Etapa (independent)"
         },
@@ -735,6 +812,7 @@
           "url": "https://cphof.org/standings/ioi/2018",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -751,6 +829,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2019",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -758,6 +837,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -765,6 +845,7 @@
           "url": "https://noic.com.br/2018/12/08/divulgado-time-brasileiro-da-ioi-2019-e-da-ciic-2019/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "partial",
           "confirms": "NOIC (independent)"
         },
@@ -772,6 +853,7 @@
           "url": "https://cphof.org/standings/ioi/2019",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         },
@@ -779,6 +861,7 @@
           "url": "https://clist.by/standings/ioi-2019-31998620/",
           "domain": "clist.by",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "clist.by (aggregator)"
         }
@@ -795,6 +878,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2020",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -802,6 +886,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -809,6 +894,7 @@
           "url": "https://blog.etapa.com.br/noticias/ioi-2020",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Colégio Etapa (independent)"
         },
@@ -816,6 +902,7 @@
           "url": "https://cphof.org/standings/ioi/2020",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -832,6 +919,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2021",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -839,6 +927,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -846,6 +935,7 @@
           "url": "https://blog.etapa.com.br/noticias/ioi-2021",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Colégio Etapa (independent)"
         },
@@ -853,6 +943,7 @@
           "url": "https://pleno.news/educacao/brasileira-e-a-melhor-ranqueada-em-olimpiada-de-informatica.html",
           "domain": "pleno.news",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Pleno.News (independent press)"
         }
@@ -869,6 +960,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2022",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -876,6 +968,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -883,6 +976,7 @@
           "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/equipe-brasileira-foi-premiada-na-34a-olimpiada-internacional-de-informatica-na-indonesia",
           "domain": "gov.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "gov.br / MCTI (independent)"
         },
@@ -890,6 +984,7 @@
           "url": "https://blog.etapa.com.br/noticias/ioi-2022",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Colégio Etapa (independent)"
         }
@@ -906,6 +1001,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2023",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -913,6 +1009,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -920,6 +1017,7 @@
           "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-ioi/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "NOIC (independent)"
         },
@@ -927,6 +1025,7 @@
           "url": "https://blog.etapa.com.br/noticias/ioi-2023",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Colégio Etapa (independent)"
         }
@@ -943,6 +1042,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2024",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -950,6 +1050,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -957,6 +1058,7 @@
           "url": "https://horizontes.sbc.org.br/index.php/2024/09/giro-sbc-edicao-38-24/",
           "domain": "horizontes.sbc.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "SBC Horizontes (independent)"
         },
@@ -964,6 +1066,7 @@
           "url": "https://cphof.org/standings/ioi/2024",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         }
@@ -980,6 +1083,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2025",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -987,6 +1091,7 @@
           "url": "https://olimpiada.ic.unicamp.br/competicoes/ioi/",
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBI/Unicamp (independent national body)"
         },
@@ -994,6 +1099,7 @@
           "url": "https://jtv.com.br/pedro-henrique-assuncao-medalha-prata-olimpiada-internacional-informatica-2025/",
           "domain": "jtv.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Jornal Terceira Visão (independent press)"
         },
@@ -1001,6 +1107,7 @@
           "url": "https://cphof.org/standings/ioi/2025",
           "domain": "cphof.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "cphof (aggregator) — participation/roster only (medal colors unreliable)"
         },
@@ -1008,6 +1115,7 @@
           "url": "https://clist.by/standings/ioi-2025-61139460/",
           "domain": "clist.by",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "clist.by (aggregator)"
         }
@@ -1024,6 +1132,7 @@
           "url": "https://stats.ioinformatics.org/delegations/BRA/2026",
           "domain": "stats.ioinformatics.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IOI-DB (primary, team view)"
         },
@@ -1031,6 +1140,7 @@
           "url": "https://clickpetroleoegas.com.br/brasil-encerra-a-olimpiada-internacional-de-informatica-no-uzbequistao-com-medalha-para-os-4-estudantes-pedro-suyama-leva-ouro-joao-paulo-prata-maria-clara-e-enzo-bronze-fcmo87/",
           "domain": "clickpetroleoegas.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "Brazilian press (independent) — all 4 full names+medals+ranks+schools"
         }

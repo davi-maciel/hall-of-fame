@@ -12,8 +12,8 @@ OBM = "https://www.obm.org.br/resultados-romanian-master-of-mathematics/"
 OLC = "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
@@ -28,8 +28,8 @@ def official(year, needle, coverage="full"):
                "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)", needle)
 
 
-def post(url, needle, confirms, coverage="full", domain="obm.org.br"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def post(url, needle, confirms, coverage="full", domain="obm.org.br", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing)
 
 
 SOURCES = {
@@ -42,7 +42,7 @@ SOURCES = {
  2013: [obm("Bitarães"), official(2013, "Bitaraes")],
  2015: [obm("Gabriel Fazoli Domingos"), official(2015, "ZANARELLA"),
         post("https://noic.com.br/uncategorized/divulgado-resultado-da-romanian-master-mathematics-2015/", "Zanarella", "NOIC results post", domain="noic.com.br"),
-        post("https://noic.com.br/uncategorized/e-comeca-romanian-master-mathematics-2015/", "Sacramento", "NOIC: team at the start", "full (pre-event roster)", domain="noic.com.br")],
+        post("https://noic.com.br/uncategorized/e-comeca-romanian-master-mathematics-2015/", "Sacramento", "NOIC: team at the start", "full (pre-event roster)", domain="noic.com.br", timing="event")],
  2016: [obm("Gabriel Toneatti Vercelli"), official(2016, "Toneatti"),
         post("https://www.obm.org.br/2016/03/03/brasil-conquista-quatro-bronzes-na-romanian-master-of-mathematics-2016/", "Campos Vargas", "OBM news: 4 bronzes by name")],
  2017: [obm("Mateus Siqueira Thimoteo"), official(2017, "THIMÓTEO", "full (9 contestants; OBM lists the 6 awardees/certificates)"),
@@ -51,24 +51,24 @@ SOURCES = {
         post("https://www.obm.org.br/2018/02/26/com-2-medalhas-de-bronze-brasil-retorna-da-romanian-master-of-mathematics/", "Tostes", "OBM news: 2 bronzes + HMs by name"),
         post("https://noic.com.br/uncategorized/brasil-ganha-dois-bronzes-na-romenian-masters-de-matematica/", "Tostes", "NOIC results post", domain="noic.com.br"),
         post("https://impa.br/notices/brasil-ganha-duas-medalhas-em-olimpiada-na-romenia/", "Tostes", "IMPA: results (names, medals)", domain="impa.br"),
-        post("https://impa.br/notices/brasil-esta-escalado-para-a-10a-romanian-master-of-mathematics/", "Tostes", "IMPA: team announcement", "full (pre-event roster)", domain="impa.br")],
+        post("https://impa.br/notices/brasil-esta-escalado-para-a-10a-romanian-master-of-mathematics/", "Tostes", "IMPA: team announcement", "full (pre-event roster)", domain="impa.br", timing="pre")],
  2019: [obm("Samuel Prieto Lima"), official(2019, "SPONCHIADO"),
         post("https://www.obm.org.br/2019/02/24/brasileiros-voltam-da-romenia-com-tres-medalhas-na-bagagem/", "Prieto", "OBM news: 3 bronzes + HM by name"),
-        post("https://www.obm.org.br/2019/01/24/conheca-a-equipe-que-competira-na-proxima-rmm-na-romenia/", "Prieto", "OBM: team announcement", "full (pre-event roster)"),
+        post("https://www.obm.org.br/2019/01/24/conheca-a-equipe-que-competira-na-proxima-rmm-na-romenia/", "Prieto", "OBM: team announcement", "full (pre-event roster)", timing="pre"),
         post("https://noic.com.br/matematica/brasil-conquista-tres-bronzes-na-romanian-masters-of-mathematics-2019/", "Prieto", "NOIC results post", domain="noic.com.br"),
         post("https://impa.br/notices/brasil-conquista-tres-medalhas-na-romanian-master-of-mathematics/", "Prieto", "IMPA: results (names, medals)", domain="impa.br"),
-        post("https://impa.br/notices/brasil-anuncia-equipe-que-disputara-olimpiada-na-romenia/", "Prieto", "IMPA: team announcement", "full (pre-event roster)", domain="impa.br")],
+        post("https://impa.br/notices/brasil-anuncia-equipe-que-disputara-olimpiada-na-romenia/", "Prieto", "IMPA: team announcement", "full (pre-event roster)", domain="impa.br", timing="pre")],
  2020: [obm("Francisco Moreira Machado Neto"), official(2020, "GOMES CABRAL"),
         post("https://www.obm.org.br/2020/03/02/brasil-volta-da-romenia-com-medalha-de-bronze/", "Gomes Cabral", "OBM news: bronze + HMs by name"),
-        post("https://www.obm.org.br/2020/02/11/selecao-olimpica-e-escalada-para-competir-na-romenia/", "Zeus", "OBM: team announcement", "full (pre-event roster)"),
+        post("https://www.obm.org.br/2020/02/11/selecao-olimpica-e-escalada-para-competir-na-romenia/", "Zeus", "OBM: team announcement", "full (pre-event roster)", timing="pre"),
         post("https://noic.com.br/uncategorized/divulgado-o-resultado-da-olimpiada-romeniana-de-matematica/", "Paschoal", "NOIC results post", domain="noic.com.br"),
         post("https://impa.br/notices/equipe-brasileira-conquista-bronze-em-olimpiada-romena/", "Gomes Cabral", "IMPA: results (names, awards)", domain="impa.br"),
-        post("https://impa.br/notices/definida-equipe-do-brasil-para-olimpiada-romena-de-matematica/", "Zeus", "IMPA: team announcement", "full (pre-event roster)", domain="impa.br")],
+        post("https://impa.br/notices/definida-equipe-do-brasil-para-olimpiada-romena-de-matematica/", "Zeus", "IMPA: team announcement", "full (pre-event roster)", domain="impa.br", timing="pre")],
  2021: [obm("Miguel de Carvalho Oliveira"), official(2021, "MACHADO LAGE"),
         post("https://www.obm.org.br/2021/10/16/equipe-brasileira-conquista-tres-medalhas-da-13a-rmm/", "Machado Lage", "OBM news: silver + 2 bronzes + 3 HMs by name (virtual edition, October)")],
  2026: [obm("Alessandro Mathias Machado"), official(2026, "Mathias Machado"),
         post("https://www.obm.org.br/2026/02/28/brasil-conquista-melhor-resultado-da-historia-na-rmm-2026-e-alcanca-5a-posicao-geral/", "Amiune", "OBM news: 2 silvers + 2 bronzes + HM by name; 5th place"),
-        post("https://www.obm.org.br/2026/01/12/10a-romanian-master-of-mathematics-confira-a-escalacao-do-brasil/", "Amiune", "OBM: team announcement", "full (pre-event roster)")],
+        post("https://www.obm.org.br/2026/01/12/10a-romanian-master-of-mathematics-confira-a-escalacao-do-brasil/", "Amiune", "OBM: team announcement", "full (pre-event roster)", timing="pre")],
 }
 
 NOTES = {

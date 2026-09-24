@@ -11,15 +11,19 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    # timing = when the source was produced relative to the edition:
+    # "post" (after it, reporting results/participation), "event" (during it),
+    # "pre" (before it: selection/team announcements), "ref" (no edition-specific roster).
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing,
+         "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
 
 
-def pdf(url, confirms, needle):
-    return src(url, "eupho.ee", "official", "full", f"official results PDF — {confirms}", needle)
+def pdf(url, confirms, needle, timing="post"):
+    return src(url, "eupho.ee", "official", "full", f"official results PDF — {confirms}", needle, timing)
 
 
 SOURCES = {
@@ -39,7 +43,7 @@ SOURCES = {
  2020: [pdf("https://eupho.ee/wp-content/uploads/2020/07/EuPhO-2020-results.pdf", "online edition, 4-student team w/ scores+awards", "Menegon"),
         src("https://noic.com.br/uncategorized/sai-o-resultado-da-seletiva-de-fisica-descubra-quem-respresentara-o-brasil-nas-internacionais/",
             "noic.com.br", "primary", "3/4 — pre-event announcement (roster later changed, see note)",
-            "NOIC seletiva announcement (2020-03-15)", "Wanderson Faustino Patricio")],
+            "NOIC seletiva announcement (2020-03-15)", "Wanderson Faustino Patricio", timing="pre")],
  2021: [pdf("https://eupho.ee/wp-content/uploads/2021/06/EuPhO2021-results.pdf", "full results table", "Ian Seo Takose"),
         src("https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/soif/15-soif/269-brasil-conquista-cinco-medalhas-na-eupho-2021.html",
             "sbfisica.org.br", "primary", "full", "SBF/OBF: 5 medals", "Takose"),
@@ -67,7 +71,8 @@ SOURCES = {
         src("https://g1.globo.com/pa/para/noticia/2026/06/19/estudante-do-pa-conquista-bronze-inedito-na-olimpiada-europeia-de-fisica.ghtml",
             "g1.globo.com", "primary", "1/5", "bronze, EuPhO 2026 na Suécia (19/06/2026)", "Eyke Cardoso"),
         src("https://www.oliberal.com/para/aluno-paraense-e-selecionado-para-representar-o-brasil-na-olimpiada-europeia-de-fisica-1.1095992",
-            "oliberal.com", "primary", "1/5 — pre-event selection (Mar 2026)", "O Liberal selection story", "Eyke")],
+            "oliberal.com", "primary", "1/5 — pre-event selection (Mar 2026)", "O Liberal selection story", "Eyke",
+            timing="pre")],
 }
 
 NOTES = {

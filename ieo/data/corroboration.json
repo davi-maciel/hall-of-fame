@@ -26,6 +26,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2018 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Rafael Carlini"
         },
         {
@@ -34,6 +35,7 @@
           "cls": "official",
           "coverage": "medallists",
           "confirms": "IEO 2018 news 'The final results': team ranking (Brazil joint 3rd) and gold/silver/bronze lists",
+          "timing": "post",
           "needle": "Marcio Akira Imanishi de Moraes"
         },
         {
@@ -41,7 +43,8 @@
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://liberdadenews.com.br/educacao/25947-brasil-ficou-com-as-medalhas-de-ouro-e-prata-na-olimpiada-internacional-de-economia",
@@ -49,6 +52,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Press (Oct 2018): two golds (Rafael Carlini - Etapa; Marcio Akira Imanishi - Objetivo Integrado), two silvers (Tomas Aguirre Lessa Vaz - EE Manuel Ciridiao Buarque; Henrique Lasevicius - Objetivo Integrado); Adriano Kenzo Bonara the fifth member; team 3rd",
+          "timing": "post",
           "needle": "Lasevicius"
         },
         {
@@ -57,6 +61,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "OBECON profile: Rafael Carlini gold and 6th overall at IEO 2018; Brazil two golds and two silvers",
+          "timing": "post",
           "needle": "Rafael Carlini"
         }
       ],
@@ -75,6 +80,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2019 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Guilhermo Cutrim Costa"
         },
         {
@@ -82,21 +88,24 @@
           "domain": "files.ecolymp.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2019 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2019 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://gauchazh.clicrbs.com.br/educacao/noticia/2019/08/comandado-por-tecnicos-gauchos-grupo-do-brasil-leva-1o-lugar-em-olimpiada-internacional-de-economia-cjzkc3ovc04fu01qm0nynvpk4.html",
           "domain": "gauchazh.clicrbs.com.br",
           "cls": "primary",
           "coverage": "team result",
-          "confirms": "GZH (Aug 2019): Brazil 1st overall in Saint Petersburg with three golds, one silver and one bronze; team led by Germano Martinelli and the Zimmermann brothers"
+          "confirms": "GZH (Aug 2019): Brazil 1st overall in Saint Petersburg with three golds, one silver and one bronze; team led by Germano Martinelli and the Zimmermann brothers",
+          "timing": "post"
         }
       ],
       "note": "Saint Petersburg. First team title (Gold trophy). All five names verbatim from the official site."
@@ -114,6 +123,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2020 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Costa Guilhermo Cutrim"
         },
         {
@@ -121,21 +131,24 @@
           "domain": "files.ecolymp.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2020 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2020 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2020/10/estudantes-medalhistas-das-olimpiadas-internacionais-de-economia-e-matematica-sao-recebidos-pelo-presidente-da-republica",
           "domain": "gov.br",
           "cls": "primary",
           "coverage": "event",
-          "confirms": "MCTI (Oct 2020): the IEO-winning Brazilian team received by the President and the Economy minister; OBECON's Gustavo Wigman quoted"
+          "confirms": "MCTI (Oct 2020): the IEO-winning Brazilian team received by the President and the Economy minister; OBECON's Gustavo Wigman quoted",
+          "timing": "post"
         }
       ],
       "note": "Online (Astana host). Second team title. The 2020 yearly site lists names surname-first ('Costa Guilhermo Cutrim'); rows use the main site's first-name-first form."
@@ -153,6 +166,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2021 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Ayres de Camargo"
         },
         {
@@ -160,14 +174,16 @@
           "domain": "files.ecolymp.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2021 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2021 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=brasil-e-tricampeao-consecutivo-na-olimpiada-internacional-de-economia-ieo-2",
@@ -175,6 +191,7 @@
           "cls": "primary",
           "coverage": "2 of 5",
           "confirms": "Colegio Objetivo: Sebastiao Froes Nachtergaele Gomes Navarro and Nicolas Goulart Moura (Objetivo Integrado, 3rd year) gold at the online IEO 2021 (Latvia, 26 Jul-1 Aug); Brazil three-time champion",
+          "timing": "post",
           "needle": "Nachtergaele"
         }
       ],
@@ -193,6 +210,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2022 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Fornielles"
         },
         {
@@ -200,14 +218,16 @@
           "domain": "files.ecolymp.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2022 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2022 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://www.obecon.org.br/mirella-da-obecon-a-notre-dame/",
@@ -215,6 +235,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "OBECON profile: Mirella Diniz Wunderlich (Juiz de Fora) on the 2022 delegation (Shanghai/online, 26 Jul-1 Aug 2022), first woman on a Brazilian IEO team",
+          "timing": "post",
           "needle": "Mirella Diniz Wunderlich"
         }
       ],
@@ -233,6 +254,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2023 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Zanetti"
         },
         {
@@ -240,14 +262,16 @@
           "domain": "files.ecolymp.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2023 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2023 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://www.obecon.org.br/na-grecia-o-tao-aguardado-tetracampeonato/",
@@ -255,6 +279,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "OBECON: fourth team title in Greece (1 Aug 2023) - three golds, one silver, one bronze; the five names",
+          "timing": "post",
           "needle": "Renato Timoteo Wanderley"
         }
       ],
@@ -273,6 +298,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2024 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Schmaltz"
         },
         {
@@ -280,21 +306,24 @@
           "domain": "files.ieo-official.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2024 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2024 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://exame.com/carreira/olimpiada-brasileira-de-economia-conheca-os-5-brasileiros-que-irao-participar-da-disputa-mundial/",
           "domain": "exame.com",
           "cls": "primary",
           "coverage": "full (pre-event, short names)",
-          "confirms": "Exame (Jun 2024): the five OBECON winners selected for Hong Kong - Antonio Lima, Frederico Ribeiro, Joao Vitor Carvalho, Lucas Rivelli, Manuela Buesa"
+          "confirms": "Exame (Jun 2024): the five OBECON winners selected for Hong Kong - Antonio Lima, Frederico Ribeiro, Joao Vitor Carvalho, Lucas Rivelli, Manuela Buesa",
+          "timing": "pre"
         }
       ],
       "note": "Hong Kong. Team 4th. Full names from the official spreadsheet; Exame's pre-event list uses short forms (Antonio Lima = Antonio Gama Lima, Frederico Ribeiro = Frederico Schmaltz de Rezende Ribeiro, Joao Vitor Carvalho = Joao Vitor de Castro Carvalho)."
@@ -312,6 +341,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "Official IEO 2025 site: individual results (medal lists + full ranking by score) with the five Brazilians",
+          "timing": "post",
           "needle": "Rivelli"
         },
         {
@@ -319,14 +349,16 @@
           "domain": "files.ieo-official.org",
           "cls": "official",
           "coverage": "full (spreadsheet; not text-checked)",
-          "confirms": "Official IEO 2025 results spreadsheet: surname/first name, country, scores, medal"
+          "confirms": "Official IEO 2025 results spreadsheet: surname/first name, country, scores, medal",
+          "timing": "post"
         },
         {
           "url": "https://ieo-official.org/results",
           "domain": "ieo-official.org",
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
-          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026"
+          "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post"
         },
         {
           "url": "https://www.bcb.gov.br/conteudo/agendas/Documents/Lista_de_presen%C3%A7a%20OBECON.pdf",
@@ -334,6 +366,7 @@
           "cls": "primary",
           "coverage": "full (post-event, full names)",
           "confirms": "Banco Central do Brasil agenda (5 Aug 2025): attendance list of the delegation that represented Brazil at the IEO in Azerbaijan - full names of the five contestants and three leaders",
+          "timing": "post",
           "needle": "Marina Cintra Luiz"
         },
         {
@@ -342,6 +375,7 @@
           "cls": "primary",
           "coverage": "team result",
           "confirms": "FGV portal: Baku 2025 - two silvers, two bronzes, 1st in Finance; Antonio Gama named among the delegation",
+          "timing": "post",
           "needle": "Antonio Gama"
         },
         {
@@ -350,6 +384,7 @@
           "cls": "primary",
           "coverage": "event",
           "confirms": "OBECON (Sep 2025): the five gold medallists of the 3rd phase represented Brazil at IEO 2025 in Baku (July 2025); Lucas Monteiro Rivelli quoted",
+          "timing": "post",
           "needle": "Lucas Monteiro Rivelli"
         }
       ],
@@ -368,6 +403,7 @@
           "cls": "official",
           "coverage": "full (Livewire year selector; the fetched default view shows the latest edition only)",
           "confirms": "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026",
+          "timing": "post",
           "needle": "Arthur Spuri"
         },
         {
@@ -376,6 +412,7 @@
           "cls": "primary",
           "coverage": "3 of 5",
           "confirms": "Brazil Journal (20 Jul 2026): three golds in Shenzhen - Arthur Spuri (Top Gold, 1st overall), Artur Teixeira (11th), Enzo Tavares (12th); best business case",
+          "timing": "post",
           "needle": "Artur Teixeira"
         },
         {
@@ -384,6 +421,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Tribuna Online / Folhapress (22 Jul 2026): Arthur Spuri, 16, Colegio Farias Brito (Fortaleza), 1st overall with 199.469; days earlier he won IPhO silver in Bucaramanga",
+          "timing": "post",
           "needle": "Arthur Spuri"
         },
         {
@@ -392,6 +430,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Radar Urgente / O Globo (24 Jul 2026): Arthur Spuri first South American to top the IEO; two other Brazilian golds",
+          "timing": "post",
           "needle": "Spuri"
         },
         {
@@ -400,6 +439,7 @@
           "cls": "primary",
           "coverage": "full (pre-event, short names)",
           "confirms": "BTG Pactual (Apr 2026): the delegation selected at the OBECON final - Arthur Spuri, Arthur Teixeira, Enzo Tavares, Luiza Araujo, Pedro Camara",
+          "timing": "pre",
           "needle": "Luiza Ara"
         },
         {
@@ -407,7 +447,8 @@
           "domain": "instagram.com",
           "cls": "primary",
           "coverage": "one student (full name)",
-          "confirms": "Razoes para Acreditar (24 Jul 2026): 'Arthur Alencar Spuri, de Fortaleza' gold and top score at the IEO in Shenzhen"
+          "confirms": "Razoes para Acreditar (24 Jul 2026): 'Arthur Alencar Spuri, de Fortaleza' gold and top score at the IEO in Shenzhen",
+          "timing": "post"
         }
       ],
       "note": "Shenzhen, 12-20 Jul 2026 (9th IEO). Arthur Spuri = Arthur Alencar Spuri (Farias Brito, Fortaleza; IPhO 2026 silver days earlier) - Top Gold, best score in IEO history (199.469); Artur Teixeira ('Arthur' in BTG's post) and Enzo Tavares gold; Luiza Araujo bronze; Pedro Camara (= Pedro Paraguassu Camara of the IYPT 2026 team, identified from the delegation photos; Zurich 5-12 Jul immediately preceded Shenzhen) without individual award. Best business case. Full names for Teixeira, Tavares and Araujo not yet published."

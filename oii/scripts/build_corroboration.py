@@ -12,8 +12,9 @@ ROOT = os.path.dirname(HERE)
 OBI = "https://olimpiada.ic.unicamp.br/competicoes/oii_ciic/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms,
+         "timing": timing}
     if needle:
         d["needle"] = needle
     return d

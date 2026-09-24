@@ -10,8 +10,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
@@ -40,7 +40,7 @@ def oma(year):
 
 SOURCES = {y: [oma(y)] for y in EDITION}
 SOURCES[1996].append(src("https://noic.com.br/olimpiadas/matematica/rioplatense/", "noic.com.br", "primary", "format description only (no names)",
-                         "NOIC: Brazil = the only country with two teams (Fortaleza via OCM, São Paulo via OPM); four levels A/1/2/3", None))
+                         "NOIC: Brazil = the only country with two teams (Fortaleza via OCM, São Paulo via OPM); four levels A/1/2/3", None, "ref"))
 
 NOTES = {
  1996: "Debut (V edition, Mendoza): two Brazilians under the single label 'Brasil' (Catae silver, Arroyo Ruiz gold). Editions I-IV (1992-95) have no published participant data.",

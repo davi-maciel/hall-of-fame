@@ -26,6 +26,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "VI CIIC results: Brasil 1G/2S/4B/3 meritos, per-problem scores (meritos mapped to honorable-mention)",
+          "timing": "post",
           "needle": "Slepetys"
         }
       ],
@@ -44,6 +45,7 @@
           "cls": "primary",
           "coverage": "1/? — only documented member",
           "confirms": "Ricardo Hahn Pereira silver; article says he was the only high-schooler in the delegation",
+          "timing": "post",
           "needle": "Ricardo"
         },
         {
@@ -51,7 +53,8 @@
           "domain": "iberoinformatica.org",
           "cls": "official",
           "coverage": "stub",
-          "confirms": "official DB 2007 page exists but is empty (0 contestants) — no official roster published"
+          "confirms": "official DB 2007 page exists but is empty (0 contestants) — no official roster published",
+          "timing": "post"
         }
       ],
       "note": "Roster partially documented: only Ricardo Hahn Pereira (silver) is recoverable; delegation size unknown."
@@ -69,6 +72,7 @@
           "cls": "primary",
           "coverage": "participation only",
           "confirms": "XII CIIC: Brazil among participating countries; no Brazilian names — ROSTER UNKNOWN, no dataset records",
+          "timing": "post",
           "needle": "Brasil"
         }
       ],
@@ -87,6 +91,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results",
+          "timing": "post",
           "needle": "Renato Ferreira Pinto Junior"
         },
         {
@@ -94,7 +99,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -111,6 +117,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results",
+          "timing": "post",
           "needle": "Mateus Carvalho Dantas"
         },
         {
@@ -118,7 +125,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -135,6 +143,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Zelazny",
+          "timing": "post",
           "needle": "Michel Rozenberg Zelazny"
         },
         {
@@ -142,7 +151,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -159,6 +169,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Bezrutchka",
+          "timing": "post",
           "needle": "Mateus Bezrutchka"
         },
         {
@@ -166,7 +177,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -183,6 +195,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results",
+          "timing": "post",
           "needle": "Victor Agnez Lima"
         },
         {
@@ -190,7 +203,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ],
       "note": "Three Brazilians at rank 1 (350.0) tied with 4 Mexicans; OBI marks no 2016 champion."
@@ -208,6 +222,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results",
+          "timing": "post",
           "needle": "Gabriel Silva Simões"
         },
         {
@@ -215,7 +230,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -232,6 +248,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Bulhões + Ivan Carvalho (co)",
+          "timing": "post",
           "needle": "Frederico Bulhões de Sousa Ribeiro"
         },
         {
@@ -239,7 +256,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -256,6 +274,7 @@
           "cls": "official",
           "coverage": "full — 10 incl. 3 non-medalists (OBI lists only 7)",
           "confirms": "official per-name results",
+          "timing": "post",
           "needle": "Thiago Mota Martins"
         },
         {
@@ -263,7 +282,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ],
       "note": "Official page lists 10 incl. 3 non-medalists; OBI lists only the 7 medalists — official is the more complete source."
@@ -281,6 +301,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Yan Matheus",
+          "timing": "post",
           "needle": "Yan Matheus Tavares e Silva"
         },
         {
@@ -288,7 +309,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -305,6 +327,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Oda",
+          "timing": "post",
           "needle": "Luiz Henrique Yuji Delgado Oda"
         },
         {
@@ -312,7 +335,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -329,6 +353,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Carolina + Luca + Pedro Chen (co, shared w/ ESP/CUB)",
+          "timing": "post",
           "needle": "Pedro Shinzato Chen"
         },
         {
@@ -336,7 +361,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -353,6 +379,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Arthur Lobo + Leonardo Valente (co)",
+          "timing": "post",
           "needle": "Vladimir Arauzo Huisa"
         },
         {
@@ -360,7 +387,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -377,6 +405,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Arthur Lobo",
+          "timing": "post",
           "needle": "Arthur Lobo Leite Lopes"
         },
         {
@@ -384,7 +413,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -401,6 +431,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Graminholi",
+          "timing": "post",
           "needle": "Fernando Graminholi Gonçalves"
         },
         {
@@ -408,7 +439,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer roster w/ schools"
+          "confirms": "national organizer roster w/ schools",
+          "timing": "post"
         }
       ]
     },
@@ -425,6 +457,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official per-name results; Brazilian champion: Maria Clara Fontes Silva",
+          "timing": "post",
           "needle": "Maria Clara Fontes Silva"
         }
       ],

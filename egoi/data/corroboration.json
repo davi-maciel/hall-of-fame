@@ -25,6 +25,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official delegation page — roster + medals + leaders",
+          "timing": "post",
           "needle": "Carolina Moura Valle Costa"
         },
         {
@@ -33,6 +34,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results table — ranks + scores",
+          "timing": "post",
           "needle": "Carolina"
         },
         {
@@ -40,7 +42,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer rosters w/ schools + reserves"
+          "confirms": "national organizer rosters w/ schools + reserves",
+          "timing": "post"
         },
         {
           "url": "https://noic.com.br/uncategorized/saiu-o-resultado-da-egoi/",
@@ -48,6 +51,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "4 medals",
+          "timing": "post",
           "needle": "Carolina"
         },
         {
@@ -56,6 +60,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "timing": "post",
           "needle": "Costa"
         }
       ]
@@ -73,6 +78,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official delegation page — roster + medals + leaders",
+          "timing": "post",
           "needle": "Pietra Gullo Salgado Chaves"
         },
         {
@@ -81,6 +87,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results table — ranks + scores",
+          "timing": "post",
           "needle": "Pietra"
         },
         {
@@ -88,7 +95,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer rosters w/ schools + reserves"
+          "confirms": "national organizer rosters w/ schools + reserves",
+          "timing": "post"
         },
         {
           "url": "https://noic.com.br/informatica/confira-o-resultado-da-egoi/",
@@ -96,6 +104,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "medalist named",
+          "timing": "post",
           "needle": "Luana"
         },
         {
@@ -104,6 +113,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "timing": "post",
           "needle": "Chaves"
         }
       ],
@@ -122,6 +132,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official delegation page — roster + medals + leaders",
+          "timing": "post",
           "needle": "Anita Ramos Almeida"
         },
         {
@@ -130,6 +141,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results table — ranks + scores",
+          "timing": "post",
           "needle": "Anita"
         },
         {
@@ -137,7 +149,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer rosters w/ schools + reserves"
+          "confirms": "national organizer rosters w/ schools + reserves",
+          "timing": "post"
         },
         {
           "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-egoi-2/",
@@ -145,6 +158,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "2 bronzes + roster + leaders",
+          "timing": "post",
           "needle": "Endy"
         },
         {
@@ -153,6 +167,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "timing": "post",
           "needle": "Almeida"
         }
       ]
@@ -170,6 +185,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official delegation page — roster + medals + leaders",
+          "timing": "post",
           "needle": "Clara Fontes"
         },
         {
@@ -178,6 +194,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results table — ranks + scores",
+          "timing": "post",
           "needle": "Clara"
         },
         {
@@ -185,7 +202,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer rosters w/ schools + reserves"
+          "confirms": "national organizer rosters w/ schools + reserves",
+          "timing": "post"
         },
         {
           "url": "https://www.sonoticiaboa.com.br/2024/07/30/brasil-conquista-ouro-prata-e-bronze-em-olimpiada-europeia-de-informatica-para-garotas",
@@ -193,6 +211,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "medals + ranks + full name Maria Clara",
+          "timing": "post",
           "needle": "Maria Clara Fontes"
         },
         {
@@ -201,6 +220,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "timing": "post",
           "needle": "Fontes"
         }
       ],
@@ -219,6 +239,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official delegation page — roster + medals + leaders",
+          "timing": "post",
           "needle": "Gabriela Barbieri Stroeh"
         },
         {
@@ -227,6 +248,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results table — ranks + scores",
+          "timing": "post",
           "needle": "Gabriela"
         },
         {
@@ -234,7 +256,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "national organizer rosters w/ schools + reserves"
+          "confirms": "national organizer rosters w/ schools + reserves",
+          "timing": "post"
         },
         {
           "url": "https://www.colegioetapa.com.br/portal/resultados/olimpiadas-cientificas",
@@ -242,6 +265,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "Sofia gold + Gabriela silver",
+          "timing": "post",
           "needle": "Cintra"
         },
         {
@@ -250,6 +274,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "timing": "post",
           "needle": "Stroeh"
         }
       ]
@@ -267,6 +292,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official delegation page — roster + medals + leaders",
+          "timing": "post",
           "needle": "Julia Tiosso"
         },
         {
@@ -275,6 +301,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results table — ranks + scores",
+          "timing": "post",
           "needle": "Julia"
         },
         {
@@ -282,7 +309,8 @@
           "domain": "olimpiada.ic.unicamp.br",
           "cls": "primary",
           "coverage": "absent (page ends at 2025)",
-          "confirms": "national organizer rosters w/ schools + reserves"
+          "confirms": "national organizer rosters w/ schools + reserves",
+          "timing": "ref"
         },
         {
           "url": "https://olimpiada.ic.unicamp.br/noticias/2026/05/16/meninas-conquistam-quatro-medalhas-na-egoi2026/",
@@ -290,6 +318,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "OBI news: full medals + schools + Cesenatico 12-18 May",
+          "timing": "post",
           "needle": "Coesi"
         },
         {
@@ -298,6 +327,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "TFC (Brazilian girls' CS tournament) prize gallery — medals + ranks",
+          "timing": "post",
           "needle": "Tiosso"
         }
       ],

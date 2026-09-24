@@ -24,36 +24,47 @@ OC_URL = "http://olimpiadascientificas.org/equipes-brasileiras/fisica/ipho/"
 WIN_URL = "http://web.archive.org/web/20150912074235/http://www.jyu.fi/tdk/kastdk/olympiads/ipho_winners_45.pdf"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+# Every entry carries a "timing": when the source was produced relative to the edition.
+#   "post"  - after it, reporting participation/results (default: results tables,
+#             post-event press, retrospective compilations)
+#   "event" - during it (ceremony/exam-day posts, live participant pages)
+#   "pre"   - before it (selection results, team announcements, pre-event press)
+#   "ref"   - not edition-specific participation evidence (overviews without a roster)
+
+
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing,
+         "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
 
 
-def uyr(year, coverage, confirms, needle):
+def uyr(year, coverage, confirms, needle, timing="post"):
     return src(f"https://ipho-unofficial.org/timeline/{year}/individual", "ipho-unofficial.org", "primary",
-               coverage, f"per-year individual results — {confirms}", needle)
+               coverage, f"per-year individual results — {confirms}", needle, timing)
 
 
-def oc(confirms, needle):
+def oc(confirms, needle, timing="post"):
     return src(OC_URL, "olimpiadascientificas.org", "primary", "full",
-               f"full 5-member roster w/ states — {confirms} (mirror: olimpiada.webnode.com.br)", needle)
+               f"full 5-member roster w/ states — {confirms} (mirror: olimpiada.webnode.com.br)", needle, timing)
 
 
-def win(confirms, needle):
+def win(confirms, needle, timing="post"):
     return src(WIN_URL, "jyu.fi (old official IPhO site, Wayback)", "official", "awards",
-               f"official 'Winners by Olympiads' compilation (1967–2014) — {confirms}", needle)
+               f"official 'Winners by Olympiads' compilation (1967–2014) — {confirms}", needle, timing)
 
 
-def noic(url, coverage, confirms, needle):
-    return src(url, "noic.com.br", "primary", coverage, confirms + " (site 406-blocks curl; verify via browser fetch)", needle)
+def noic(url, coverage, confirms, needle, timing="post"):
+    return src(url, "noic.com.br", "primary", coverage, confirms + " (site 406-blocks curl; verify via browser fetch)",
+               needle, timing)
 
 
 SOURCES = {
  2000: [oc("Leicester debut roster, 5 no-award students — the ONLY per-name source family for 2000", "Danilo Jimenez Rezende"),
         src("http://web.archive.org/web/20100124032207/http://ipho.phy.ntnu.edu.tw/2000minutes.html",
-            "ipho.phy.ntnu.edu.tw (Wayback)", "official", "counts", "IPhO 2000 minutes — Brazil in the new-participants list (no names)", "Brazil")],
+            "ipho.phy.ntnu.edu.tw (Wayback)", "official", "counts", "IPhO 2000 minutes — Brazil in the new-participants list (no names)", "Brazil",
+            timing="event")],
  2001: [uyr(2001, "awards", "Pimentel HM", "Pimentel"),
         src("http://web.archive.org/web/20010720031951/http://www.ipho2001.org.tr/results/all.html",
             "ipho2001.org.tr (host, Wayback)", "official", "full", "host results — full 5-member roster + leaders, exact match", "Fontenele"),
@@ -123,12 +134,12 @@ SOURCES = {
             "SBF: IdPhO 2020 — all 5 names + schools + medals (4 silver + 1 bronze) + event explanation", "Takose"),
         noic("https://noic.com.br/olimpiadas/fisica/hall-da-fisica/", "2/5", "NOIC hall: Davi Maciel + Vinícius Rodrigues prata, IdPhO framing", "Davi Maciel"),
         src("https://en.wikipedia.org/wiki/International_Physics_Olympiad", "en.wikipedia.org", "archive", "counts",
-            "confirms IdPhO 2020 as the IPhO-endorsed substitute (no Brazilian names)", "IdPhO")],
+            "confirms IdPhO 2020 as the IPhO-endorsed substitute (no Brazilian names)", "IdPhO", timing="ref")],
  2021: [uyr(2021, "full", "gold/silver/3 bronze", "Uchoa"),
         src("http://web.archive.org/web/20210730163251/http://www.sbfisica.org.br/v1/home/index.php/pt/acontece/1380-ouro-prata-e-bronze-na-ipho-2021",
             "sbfisica.org.br (Wayback)", "primary", "full", "SBF: all 5 + schools (live URL now 404)", "Siqueira"),
         src("https://www1.fisica.org.br/olimpiada/2020/", "fisica.org.br (SBF/OBF)", "primary", "full — selection stage",
-            "TBF top-5 = the same 5 students", "CAIO AUGUSTO")],
+            "TBF top-5 = the same 5 students", "CAIO AUGUSTO", timing="pre")],
  2022: [uyr(2022, "awards", "Tizon", "Tizon"),
         src("https://ipho2022.com/results/", "ipho2022.com (host)", "official", "full", "host results — all 5", "Tizon")],
  2023: [uyr(2023, "awards", "Menhem", "Menhem"),

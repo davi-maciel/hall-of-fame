@@ -23,6 +23,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Davi Lopes de Medeiros"
@@ -31,6 +32,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster mirror (source: OBM) - listed under the label '2009'",
           "needle": "Hugo Fonseca Araújo"
@@ -49,6 +51,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Lucas Lourenço Hernandes"
@@ -57,6 +60,7 @@
           "url": "https://rmms.lbi.ro/rmm2011/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "Empinotti"
@@ -65,6 +69,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster mirror (source: OBM) - listed under the label '2010'",
           "needle": "Lourenço Hernandes"
@@ -83,6 +88,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Henrique Gasparini Fiúza do Nascimento"
@@ -91,6 +97,7 @@
           "url": "https://rmms.lbi.ro/rmm2012/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "Camelo"
@@ -99,6 +106,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/rmm/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster mirror (source: OBM), label '2012'",
           "needle": "Macieira"
@@ -116,6 +124,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Bitarães"
@@ -124,6 +133,7 @@
           "url": "https://rmms.lbi.ro/rmm2013/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "Bitaraes"
@@ -142,6 +152,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Gabriel Fazoli Domingos"
@@ -150,6 +161,7 @@
           "url": "https://rmms.lbi.ro/rmm2015/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "ZANARELLA"
@@ -158,6 +170,7 @@
           "url": "https://noic.com.br/uncategorized/divulgado-resultado-da-romanian-master-mathematics-2015/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post",
           "needle": "Zanarella"
@@ -166,6 +179,7 @@
           "url": "https://noic.com.br/uncategorized/e-comeca-romanian-master-mathematics-2015/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "event",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC: team at the start",
           "needle": "Sacramento"
@@ -184,6 +198,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Gabriel Toneatti Vercelli"
@@ -192,6 +207,7 @@
           "url": "https://rmms.lbi.ro/rmm2016/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "Toneatti"
@@ -200,6 +216,7 @@
           "url": "https://www.obm.org.br/2016/03/03/brasil-conquista-quatro-bronzes-na-romanian-master-of-mathematics-2016/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 4 bronzes by name",
           "needle": "Campos Vargas"
@@ -217,6 +234,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Mateus Siqueira Thimoteo"
@@ -225,6 +243,7 @@
           "url": "https://rmms.lbi.ro/rmm2017/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full (9 contestants; OBM lists the 6 awardees/certificates)",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "THIMÓTEO"
@@ -233,6 +252,7 @@
           "url": "https://noic.com.br/matematica/brasil-conquista-decimo-lugar-na-romenia/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: names + awards, 10th place",
           "needle": "Kowalczuk"
@@ -251,6 +271,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Gabriel Tostes Messias Pereira"
@@ -259,6 +280,7 @@
           "url": "https://rmms.lbi.ro/rmm2018/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "TREVIZAN"
@@ -267,6 +289,7 @@
           "url": "https://www.obm.org.br/2018/02/26/com-2-medalhas-de-bronze-brasil-retorna-da-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 2 bronzes + HMs by name",
           "needle": "Tostes"
@@ -275,6 +298,7 @@
           "url": "https://noic.com.br/uncategorized/brasil-ganha-dois-bronzes-na-romenian-masters-de-matematica/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post",
           "needle": "Tostes"
@@ -283,6 +307,7 @@
           "url": "https://impa.br/notices/brasil-ganha-duas-medalhas-em-olimpiada-na-romenia/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IMPA: results (names, medals)",
           "needle": "Tostes"
@@ -291,6 +316,7 @@
           "url": "https://impa.br/notices/brasil-esta-escalado-para-a-10a-romanian-master-of-mathematics/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "IMPA: team announcement",
           "needle": "Tostes"
@@ -308,6 +334,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Samuel Prieto Lima"
@@ -316,6 +343,7 @@
           "url": "https://rmms.lbi.ro/rmm2019/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "SPONCHIADO"
@@ -324,6 +352,7 @@
           "url": "https://www.obm.org.br/2019/02/24/brasileiros-voltam-da-romenia-com-tres-medalhas-na-bagagem/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 3 bronzes + HM by name",
           "needle": "Prieto"
@@ -332,6 +361,7 @@
           "url": "https://www.obm.org.br/2019/01/24/conheca-a-equipe-que-competira-na-proxima-rmm-na-romenia/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "OBM: team announcement",
           "needle": "Prieto"
@@ -340,6 +370,7 @@
           "url": "https://noic.com.br/matematica/brasil-conquista-tres-bronzes-na-romanian-masters-of-mathematics-2019/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post",
           "needle": "Prieto"
@@ -348,6 +379,7 @@
           "url": "https://impa.br/notices/brasil-conquista-tres-medalhas-na-romanian-master-of-mathematics/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IMPA: results (names, medals)",
           "needle": "Prieto"
@@ -356,6 +388,7 @@
           "url": "https://impa.br/notices/brasil-anuncia-equipe-que-disputara-olimpiada-na-romenia/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "IMPA: team announcement",
           "needle": "Prieto"
@@ -374,6 +407,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Francisco Moreira Machado Neto"
@@ -382,6 +416,7 @@
           "url": "https://rmms.lbi.ro/rmm2020/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "GOMES CABRAL"
@@ -390,6 +425,7 @@
           "url": "https://www.obm.org.br/2020/03/02/brasil-volta-da-romenia-com-medalha-de-bronze/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: bronze + HMs by name",
           "needle": "Gomes Cabral"
@@ -398,6 +434,7 @@
           "url": "https://www.obm.org.br/2020/02/11/selecao-olimpica-e-escalada-para-competir-na-romenia/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "OBM: team announcement",
           "needle": "Zeus"
@@ -406,6 +443,7 @@
           "url": "https://noic.com.br/uncategorized/divulgado-o-resultado-da-olimpiada-romeniana-de-matematica/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post",
           "needle": "Paschoal"
@@ -414,6 +452,7 @@
           "url": "https://impa.br/notices/equipe-brasileira-conquista-bronze-em-olimpiada-romena/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IMPA: results (names, awards)",
           "needle": "Gomes Cabral"
@@ -422,6 +461,7 @@
           "url": "https://impa.br/notices/definida-equipe-do-brasil-para-olimpiada-romena-de-matematica/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "IMPA: team announcement",
           "needle": "Zeus"
@@ -440,6 +480,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Miguel de Carvalho Oliveira"
@@ -448,6 +489,7 @@
           "url": "https://rmms.lbi.ro/rmm2021/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "MACHADO LAGE"
@@ -456,6 +498,7 @@
           "url": "https://www.obm.org.br/2021/10/16/equipe-brasileira-conquista-tres-medalhas-da-13a-rmm/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: silver + 2 bronzes + 3 HMs by name (virtual edition, October)",
           "needle": "Machado Lage"
@@ -474,6 +517,7 @@
           "url": "https://www.obm.org.br/resultados-romanian-master-of-mathematics/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 12 editions): names, city/state, award/certificate",
           "needle": "Alessandro Mathias Machado"
@@ -482,6 +526,7 @@
           "url": "https://rmms.lbi.ro/rmm2026/index.php?id=results_math",
           "domain": "rmms.lbi.ro",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official individual results: rank, per-problem scores, total, medal (country code BRA/BRZ)",
           "needle": "Mathias Machado"
@@ -490,6 +535,7 @@
           "url": "https://www.obm.org.br/2026/02/28/brasil-conquista-melhor-resultado-da-historia-na-rmm-2026-e-alcanca-5a-posicao-geral/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 2 silvers + 2 bronzes + HM by name; 5th place",
           "needle": "Amiune"
@@ -498,6 +544,7 @@
           "url": "https://www.obm.org.br/2026/01/12/10a-romanian-master-of-mathematics-confira-a-escalacao-do-brasil/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "OBM: team announcement",
           "needle": "Amiune"

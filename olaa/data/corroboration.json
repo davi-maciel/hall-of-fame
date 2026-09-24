@@ -25,6 +25,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Tafarello"
         },
         {
@@ -33,6 +34,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "timing": "post",
           "needle": "Tafarello"
         }
       ],
@@ -51,6 +53,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Pomgeluppi"
         },
         {
@@ -59,6 +62,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "timing": "post",
           "needle": "Pomgeluppi"
         },
         {
@@ -67,6 +71,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "timing": "post",
           "needle": "Smaira"
         }
       ]
@@ -84,6 +89,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Bordoni"
         },
         {
@@ -92,6 +98,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "timing": "post",
           "needle": "Bordoni"
         }
       ],
@@ -110,6 +117,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Pedarnig"
         },
         {
@@ -118,6 +126,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster 2009-2012 (medals + states)",
+          "timing": "post",
           "needle": "Pedarnig"
         },
         {
@@ -126,6 +135,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "Extra (OBA release): full 2012 roster with cities",
+          "timing": "pre",
           "needle": "Pedarnig"
         }
       ]
@@ -143,6 +153,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Sontag"
         }
       ],
@@ -161,6 +172,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Heringer"
         },
         {
@@ -169,6 +181,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 3G + 2S",
+          "timing": "post",
           "needle": "Hagemaister"
         },
         {
@@ -177,6 +190,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement (IOAA + OLAA)",
+          "timing": "pre",
           "needle": "HAGEMAISTER"
         },
         {
@@ -185,6 +199,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: 3G + 2S with cities",
+          "timing": "post",
           "needle": "Heringer"
         }
       ]
@@ -202,6 +217,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Renner"
         },
         {
@@ -210,6 +226,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 4G + 1S",
+          "timing": "post",
           "needle": "Renner"
         },
         {
@@ -218,6 +235,7 @@
           "cls": "primary",
           "coverage": "pre-event roster",
           "confirms": "NOIC team announcement (Vitor Gomes Pires listed as reserve; Felipe Vieira Coimbra later replaced)",
+          "timing": "pre",
           "needle": "Renner"
         },
         {
@@ -226,6 +244,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Galileu: 4G + 1S, full names (Ana Paula Lopes Schuch)",
+          "timing": "post",
           "needle": "Schuch"
         }
       ],
@@ -244,6 +263,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Verras"
         },
         {
@@ -252,6 +272,7 @@
           "cls": "primary",
           "coverage": "pre-event roster",
           "confirms": "NOIC team announcement (Victor Praxedes Rael listed; replaced by Nicolas Almeida Verras)",
+          "timing": "pre",
           "needle": "Thimoteo"
         },
         {
@@ -260,6 +281,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: 2G + 2S + 1B with names",
+          "timing": "post",
           "needle": "Verras"
         }
       ],
@@ -278,6 +300,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Apendino"
         },
         {
@@ -286,6 +309,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Apendino"
         },
         {
@@ -294,6 +318,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: 4G + 1S with cities",
+          "timing": "post",
           "needle": "Apendino"
         }
       ]
@@ -311,6 +336,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Klitzke"
         },
         {
@@ -319,6 +345,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 4G + 1S",
+          "timing": "post",
           "needle": "Katarine"
         },
         {
@@ -327,6 +354,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement with schools",
+          "timing": "pre",
           "needle": "Klitzke"
         },
         {
@@ -335,6 +363,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: 4G + 1S",
+          "timing": "post",
           "needle": "Klitzke"
         }
       ]
@@ -352,6 +381,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Fabrizio"
         },
         {
@@ -360,6 +390,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 4G + 1S with full names",
+          "timing": "post",
           "needle": "Fabrizio"
         }
       ]
@@ -377,6 +408,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Sobreira"
         },
         {
@@ -385,6 +417,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post (virtual edition): 4G + 1B",
+          "timing": "post",
           "needle": "Sobreira"
         },
         {
@@ -393,6 +426,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Rádio Senado: 4G + 1B with names",
+          "timing": "post",
           "needle": "Sobreira"
         }
       ],
@@ -411,6 +445,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Gregio"
         },
         {
@@ -419,6 +454,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Agência Brasil: five golds, names, ages, schools",
+          "timing": "post",
           "needle": "Gregio"
         },
         {
@@ -427,6 +463,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: five golds + special prizes",
+          "timing": "post",
           "needle": "Gregio"
         }
       ],
@@ -445,6 +482,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Chalfun"
         },
         {
@@ -453,6 +491,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Jornal da Chapada (OBA release): five golds, names, ages, schools",
+          "timing": "post",
           "needle": "Chalfun"
         }
       ],
@@ -471,6 +510,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Segrini"
         },
         {
@@ -479,6 +519,7 @@
           "cls": "primary",
           "coverage": "pre-event roster",
           "confirms": "NOIC selection result (short names)",
+          "timing": "pre",
           "needle": "Mychel"
         },
         {
@@ -487,6 +528,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "JC: 2G + 3S with names",
+          "timing": "post",
           "needle": "Segrini"
         }
       ]
@@ -504,6 +546,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Gurjão"
         },
         {
@@ -512,6 +555,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Hora Campinas: 4G + 1B (short names)",
+          "timing": "post",
           "needle": "Gurjão"
         }
       ]
@@ -529,6 +573,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia 'Delegações brasileiras' (OBA-sourced per-year rosters with medals, cities and leaders)",
+          "timing": "post",
           "needle": "Waiandt"
         },
         {
@@ -537,6 +582,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Agência Brasil: ten Brazilians, 9G + 1S, full names and cities",
+          "timing": "post",
           "needle": "Waiandt"
         }
       ],

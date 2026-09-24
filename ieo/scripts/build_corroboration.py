@@ -13,31 +13,32 @@ ROOT = os.path.dirname(HERE)
 MAIN = "https://ieo-official.org/results"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms,
+         "timing": timing}
     if needle:
         d["needle"] = needle
     return d
 
 
-def yearly(year, needle, path="results"):
+def yearly(year, needle, path="results", timing="post"):
     return src(f"https://{year}.ieo-official.org/{path}", f"{year}.ieo-official.org", "official", "full",
-               f"Official IEO {year} site: individual results (medal lists + full ranking by score) with the five Brazilians", needle)
+               f"Official IEO {year} site: individual results (medal lists + full ranking by score) with the five Brazilians", needle, timing)
 
 
-def xlsx(url, year):
+def xlsx(url, year, timing="post"):
     return src(url, url.split('/')[2], "official", "full (spreadsheet; not text-checked)",
-               f"Official IEO {year} results spreadsheet: surname/first name, country, scores, medal", None)
+               f"Official IEO {year} results spreadsheet: surname/first name, country, scores, medal", None, timing)
 
 
-def main_page(needle=None):
+def main_page(needle=None, timing="post"):
     return src(MAIN, "ieo-official.org", "official",
                "full (Livewire year selector; the fetched default view shows the latest edition only)",
-               "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026", needle)
+               "ieo-official.org annual results: name, country, final total, medal, special awards for every year 2018-2026", needle, timing)
 
 
-def press(url, domain, needle, confirms, coverage="full"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def press(url, domain, needle, confirms, coverage="full", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing)
 
 
 SOURCES = {
@@ -55,7 +56,7 @@ SOURCES = {
  2023: [yearly(2023, "Zanetti"), xlsx("https://files.ecolymp.org/2023/IEO_Results_2023.xlsx", 2023), main_page(),
         press("https://www.obecon.org.br/na-grecia-o-tao-aguardado-tetracampeonato/", "obecon.org.br", "Renato Timoteo Wanderley", "OBECON: fourth team title in Greece (1 Aug 2023) - three golds, one silver, one bronze; the five names")],
  2024: [yearly(2024, "Schmaltz"), xlsx("http://files.ieo-official.org/2024/IEO_2024_Results.xlsx", 2024), main_page(),
-        press("https://exame.com/carreira/olimpiada-brasileira-de-economia-conheca-os-5-brasileiros-que-irao-participar-da-disputa-mundial/", "exame.com", None, "Exame (Jun 2024): the five OBECON winners selected for Hong Kong - Antonio Lima, Frederico Ribeiro, Joao Vitor Carvalho, Lucas Rivelli, Manuela Buesa", "full (pre-event, short names)")],
+        press("https://exame.com/carreira/olimpiada-brasileira-de-economia-conheca-os-5-brasileiros-que-irao-participar-da-disputa-mundial/", "exame.com", None, "Exame (Jun 2024): the five OBECON winners selected for Hong Kong - Antonio Lima, Frederico Ribeiro, Joao Vitor Carvalho, Lucas Rivelli, Manuela Buesa", "full (pre-event, short names)", timing="pre")],
  2025: [yearly(2025, "Rivelli"), xlsx("https://files.ieo-official.org/2025/IEO_2025_Results.xlsx", 2025), main_page(),
         press("https://www.bcb.gov.br/conteudo/agendas/Documents/Lista_de_presen%C3%A7a%20OBECON.pdf", "bcb.gov.br", "Marina Cintra Luiz", "Banco Central do Brasil agenda (5 Aug 2025): attendance list of the delegation that represented Brazil at the IEO in Azerbaijan - full names of the five contestants and three leaders", "full (post-event, full names)"),
         press("https://portal.fgv.br/noticias/retrospectiva-2025-brasil-e-destaque-na-olimpiada-internacional-de-economia-com-premiacoes-historicas", "portal.fgv.br", "Antonio Gama", "FGV portal: Baku 2025 - two silvers, two bronzes, 1st in Finance; Antonio Gama named among the delegation", "team result"),
@@ -64,7 +65,7 @@ SOURCES = {
         press("https://braziljournal.com/brasil-ganha-tres-ouros-na-olimpiada-de-economia-e-tem-maior-nota-da-historia/", "braziljournal.com", "Artur Teixeira", "Brazil Journal (20 Jul 2026): three golds in Shenzhen - Arthur Spuri (Top Gold, 1st overall), Artur Teixeira (11th), Enzo Tavares (12th); best business case", "3 of 5"),
         press("https://tribunaonline.com.br/brasil/brasileiro-de-16-anos-conquista-recorde-na-olimpiada-internacional-de-economia-316687", "tribunaonline.com.br", "Arthur Spuri", "Tribuna Online / Folhapress (22 Jul 2026): Arthur Spuri, 16, Colegio Farias Brito (Fortaleza), 1st overall with 199.469; days earlier he won IPhO silver in Bucaramanga", "one student"),
         press("https://www.radarurgente.com.br/site/ler/brasileiro-de-16-anos-e-o-primeiro-sul-americano-a-vencer-olimpiada-internacional-de-economia-/34872", "radarurgente.com.br", "Spuri", "Radar Urgente / O Globo (24 Jul 2026): Arthur Spuri first South American to top the IEO; two other Brazilian golds", "one student"),
-        press("https://pt.linkedin.com/posts/btgpactual_btgpactual-bancobtgpactual-obecon-activity-7447645060394835968-GJaB", "linkedin.com", "Luiza Ara", "BTG Pactual (Apr 2026): the delegation selected at the OBECON final - Arthur Spuri, Arthur Teixeira, Enzo Tavares, Luiza Araujo, Pedro Camara", "full (pre-event, short names)"),
+        press("https://pt.linkedin.com/posts/btgpactual_btgpactual-bancobtgpactual-obecon-activity-7447645060394835968-GJaB", "linkedin.com", "Luiza Ara", "BTG Pactual (Apr 2026): the delegation selected at the OBECON final - Arthur Spuri, Arthur Teixeira, Enzo Tavares, Luiza Araujo, Pedro Camara", "full (pre-event, short names)", timing="pre"),
         press("https://www.instagram.com/p/DbL-mKDq6A4/", "instagram.com", None, "Razoes para Acreditar (24 Jul 2026): 'Arthur Alencar Spuri, de Fortaleza' gold and top score at the IEO in Shenzhen", "one student (full name)")],
 }
 

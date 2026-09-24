@@ -26,6 +26,12 @@ roster member of that (olympiad, year) — site/data/people.json `name` plus
              the halves in two table cells ("Alexandrino | Davi"), or a
              fixed-width truncation ("Ulisses Fonsec"). Weakest level: it only
              counts when no teammate of that edition could be meant instead.
+  attested   the source's text cannot be fetched or parsed at all (a social post
+             behind a login wall, a diploma image), and the curation attests that
+             it names the person: the source entry in <ol>/data/corroboration.json
+             carries "names": ["<person-id>", ...] (person ids = the slugs in
+             site/data/people.json). Weakest level of all — a curator's reading of
+             the source, not this script's; it never overrides a real text match.
 
 Sources that are not plain HTML are opened too: spreadsheets are read cell by
 cell (one line per row, cells joined with " | "), PDFs without a text layer and
@@ -43,13 +49,16 @@ list of names as one person.
 
 Best level wins; anything else = not named. Pages that yield no usable text
 (dead links, images, spreadsheets, JS shells, social login walls) get status
-"error" / "status-only" with an empty found-set: unverifiable, not negative.
+"error" / "status-only" with an empty found-set: unverifiable, not negative —
+unless the source entry attests names, which is exactly what "names" is for.
 
 Writes site/data/source_names.json
   {"generatedAt": ..., "byOlympiad": {ol: {year: {url:
       {"status": "text"|"status-only"|"error", "found": {personId: level}}}}}}
 and tmp/source_names_report.md (per-dataset tallies plus the list of
 participations that have no name-bearing source at all — the gap list).
+Its name-expansion candidates skip the person ids recorded in site/scripts/aliases.json
+`expansionsRejected` — forms already looked at and turned down (source typo, spelling-only).
 
 Fetched text is cached under tmp/source_cache/<sha1(url)>.txt (+ .json meta),
 so reruns only re-analyse. Requests are serialised per host with a small delay.
@@ -101,9 +110,12 @@ MAX_DOC_BYTES = 96_000_000  # a scanned results PDF runs to tens of MB, and a tr
 #                             cannot be opened at all — pages are still capped for HTML
 MIN_TEXT = 200  # folded chars; a 200 page with less than this is a shell, not a document
 PARTICLES = {"de", "da", "do", "dos", "das", "e"}
+# a conjunction that the fold drops (or punctuates away) between two tokens separates
+# two names: "Vilian Borchardt e Ronaldo Rodrigues" is a list, not one long name
+CONJUNCTIONS = {"e", "and", "y"}
 SUFFIXES = {"filho", "neto", "junior", "sobrinho"}
-RANK = {"full": 5, "firstlast": 4, "variant": 3, "surname": 2, "short": 1}
-LEVELS = ["full", "firstlast", "variant", "surname", "short"]
+RANK = {"full": 5, "firstlast": 4, "variant": 3, "surname": 2, "short": 1, "attested": 0}
+LEVELS = ["full", "firstlast", "variant", "surname", "short", "attested"]
 # anonymous fetches of these hosts return a login wall / JS shell, never the post
 NO_TEXT_HOSTS = {"instagram.com", "facebook.com", "twitter.com", "x.com", "linkedin.com", "youtube.com", "youtu.be", "tiktok.com"}
 BINARY_CT = ("image/", "video/", "audio/", "zip", "msword", "vnd.", "octet-stream", "font/")
@@ -228,13 +240,29 @@ class Doc:
     def tok_index(self, pos: int) -> int:
         return bisect.bisect_right(self.tpos, pos) - 1
 
+    def conj_between(self, k: int, m: int) -> bool:
+        """True when the raw text between two neighbouring tokens is exactly a
+        conjunction. "e" folds away with the particles, so "Borchardt e Ronaldo"
+        reads as one run here although the page lists two people."""
+        if not (0 <= k < len(self.spans) and 0 <= m < len(self.spans)):
+            return False
+        a, b = self.spans[min(k, m)][1], self.spans[max(k, m)][0]
+        return a <= b and self.raw[a:b].strip().lower() in CONJUNCTIONS
+
+    def neighbour(self, k: int, step: int) -> str:
+        """The token next to index k (step -1 before, +1 after), or "" when a dropped
+        conjunction stands between the two: it separates names, so whatever follows
+        it is not hugging the span."""
+        m = k + step
+        if not (0 <= m < len(self.toks)) or self.conj_between(k, m):
+            return ""
+        return self.toks[m]
+
     def token_before(self, start: int) -> str:
-        k = self.tok_index(start)
-        return self.toks[k - 1] if k > 0 else ""
+        return self.neighbour(self.tok_index(start), -1)
 
     def token_after(self, end: int) -> str:
-        k = self.tok_index(end - 1)
-        return self.toks[k + 1] if k + 1 < len(self.toks) else ""
+        return self.neighbour(self.tok_index(end - 1), 1)
 
     def raw_span(self, start: int, end: int) -> str:
         a = self.spans[self.tok_index(start)][0]
@@ -321,7 +349,7 @@ def _seq_variant(doc: Doc, seq, first, others):
                 continue
             if run[q] not in near_forms(seq[q]):
                 continue
-            if doc.token_at(s - 1) in others or doc.token_at(s + len(seq)) in others:
+            if doc.neighbour(s, -1) in others or doc.neighbour(s + len(seq) - 1, 1) in others:
                 continue
             return s, s + len(seq) - 1
     return None
@@ -356,10 +384,10 @@ def _gap_variant(doc: Doc, sp: NameSpec, others):
         (_near_positions(doc, sp.first, VAR_MIN_FIRST), exact_last),
     ):
         for i in starts:
-            if doc.toks[i] in others or doc.token_at(i - 1) in others:
+            if doc.toks[i] in others or doc.neighbour(i, -1) in others:
                 continue
             j = _reach(doc, i, targets, allowed, others)
-            if j is not None and doc.token_at(j + 1) not in others:
+            if j is not None and doc.neighbour(j, 1) not in others:
                 return i, j
     return None
 
@@ -435,14 +463,14 @@ def _mates_ok(run, mates, trunc=None):
 
 
 def _edges_ok(doc: Doc, i: int, j: int, others):
-    return doc.token_at(i - 1) not in others and doc.token_at(j + 1) not in others
+    return doc.neighbour(i, -1) not in others and doc.neighbour(j, 1) not in others
 
 
 def _alone(doc: Doc, i: int, j: int, run, pool):
     """No neighbouring token turns the span into somebody else's name: "João Victor"
     is not a short form of João Victor Soares Aleixo when the page reads
     "João Victor Teixeira Degelo" and that person exists in the same dataset."""
-    for nb in (doc.token_at(i - 1), doc.token_at(j + 1)):
+    for nb in (doc.neighbour(i, -1), doc.neighbour(j, 1)):
         if len(nb) < 3 or not nb.isalpha():
             continue
         if any(nb in q and all(t in q for t in run) for q in pool):
@@ -1022,6 +1050,7 @@ def analyse(datasets, corr, rosters, metas):
     expansions = {}  # pid -> (longer form seen on a page, url, ds, year)
     variants = []  # (ds, year, pid, url, raw span) for every near-miss match, for review
     shorts = []    # the same for every shortened-form match
+    bad_attested = []  # "names" ids that are not on that edition's roster (typos)
     for ds in datasets:
         # every other person of the dataset, for the "is this somebody else?" guard
         ds_own = defaultdict(set)
@@ -1060,9 +1089,19 @@ def analyse(datasets, corr, rosters, metas):
                             found[pid] = best
                             if best in ("variant", "short"):
                                 (variants if best == "variant" else shorts).append((ds, year, pid, url, span))
+                # curated attestation: the source names these people even though its
+                # text could not be read here; never overrides a match found above
+                members = {pid for pid, _ in roster}
+                for pid in s.get("names", ()):
+                    if pid in members:
+                        found.setdefault(pid, "attested")
+                    else:
+                        bad_attested.append((ds, year, pid, url))
                 by_url[url] = {"status": status, "found": dict(sorted(found.items()))}
             by_year[str(year)] = by_url
         by_ol[ds] = by_year
+    for ds, year, pid, url in bad_attested:
+        print(f"WARNING: {ds} {year} attests `{pid}` on {url}, but that person is not on the edition's roster", flush=True)
     return by_ol, expansions, variants, shorts
 
 
@@ -1075,12 +1114,14 @@ def write_report(by_ol, rosters, parts, generated_at, metas, expansions, variant
     L = ["# Source name-presence report", "", f"Generated {generated_at} by `site/scripts/check_source_names.py`.", ""]
     L += [
         "A (url, person) pair is **found** when the page text names the roster member",
-        "(levels: full > firstlast > variant > surname), **not found** when the page has text",
-        "but no match, **unverifiable** when the page yielded no usable text (error / status-only).",
+        "(levels: full > firstlast > variant > surname > short, plus **attested** — a source",
+        "whose text cannot be read, curated with `\"names\"`), **not found** when the page has",
+        "text but no match, **unverifiable** when the page yielded no usable text and attests",
+        "nothing (error / status-only).",
         "",
         "## Per dataset",
         "",
-        "| dataset | url refs | text | status-only | error | pairs found | not found | unverifiable | full / firstlast / variant / surname |",
+        f"| dataset | url refs | text | status-only | error | pairs found | not found | unverifiable | {' / '.join(LEVELS)} |",
         "|---|---:|---:|---:|---:|---:|---:|---:|---|",
     ]
     tot = defaultdict(int)
@@ -1093,13 +1134,12 @@ def write_report(by_ol, rosters, parts, generated_at, metas, expansions, variant
             for url, rec in by_url.items():
                 c[rec["status"]] += 1
                 c["refs"] += 1
-                if rec["status"] == "text":
-                    c["found"] += len(rec["found"])
-                    c["notfound"] += roster_n - len(rec["found"])
-                    for lv in rec["found"].values():
-                        c[lv] += 1
-                else:
-                    c["unverifiable"] += roster_n
+                c["found"] += len(rec["found"])
+                for lv in rec["found"].values():
+                    c[lv] += 1
+                # an unreadable source is unverifiable for everyone it does not attest
+                key = "notfound" if rec["status"] == "text" else "unverifiable"
+                c[key] += roster_n - len(rec["found"])
         for k, v in c.items():
             tot[k] += v
         L.append(
@@ -1181,13 +1221,17 @@ def write_report(by_ol, rosters, parts, generated_at, metas, expansions, variant
         typical = max(set(errs), key=errs.count)[:70]
         L.append(f"| {host} | {len(errs)} | {typical} |")
 
-    # name-expansion candidates: a page shows first + middle names the pool lacks + last
-    rows = sorted(expansions.items(), key=lambda kv: (DATASETS.index(kv[1][2]), kv[1][3], kv[0]))
-    L += ["", f"## Name-expansion candidates ({len(rows)} people: a page shows a longer form than the pool has)", ""]
-    for pid, (longer, url, ds, year) in rows[:26]:
+    # name-expansion candidates: a page shows first + middle names the pool lacks + last.
+    # Ids curated into aliases.json `expansionsRejected` were looked at and turned down
+    # (source typo, spelling-only difference): drop them so they stop being re-proposed.
+    rejected = json.loads((SITE / "scripts" / "aliases.json").read_text(encoding="utf-8")).get("expansionsRejected", {})
+    rows = sorted(((pid, v) for pid, v in expansions.items() if pid not in rejected),
+                  key=lambda kv: (DATASETS.index(kv[1][2]), kv[1][3], kv[0]))
+    skipped = sum(1 for pid in expansions if pid in rejected)
+    L += ["", f"## Name-expansion candidates ({len(rows)} people: a page shows a longer form than the pool has"
+          + (f"; {skipped} rejected earlier, see aliases.json)" if skipped else ")"), ""]
+    for pid, (longer, url, ds, year) in rows:  # listed in full: the list is short and every row is a decision
         L.append(f"- {ds} {year} — `{pid}` → \"{longer}\" — {url}")
-    if len(rows) > 26:
-        L.append(f"- … {len(rows) - 26} more")
 
     # appendix: pages with text that name nobody on the roster (JS shells, soft-404s, counts-only)
     zero = []

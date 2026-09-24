@@ -22,6 +22,7 @@
           "url": "https://www.obm.org.br/resultados-pagmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
           "needle": "Quintanilla"
@@ -30,6 +31,7 @@
           "url": "https://www.obm.org.br/2021/10/09/com-xxxx-medalhas-brasil-encerra-participacao-na-pagmo-2021/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 4 medals by name (virtual 1st edition)",
           "needle": "Quintanilla"
@@ -38,6 +40,7 @@
           "url": "https://noic.com.br/matematica/divulgado-o-time-da-pagmo-2021/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
           "needle": "Quintanilla"
@@ -56,6 +59,7 @@
           "url": "https://www.obm.org.br/resultados-pagmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
           "needle": "Kochloukova"
@@ -64,6 +68,7 @@
           "url": "https://www.obm.org.br/2022/10/31/brasil-conquista-uma-medalha-de-ouro-e-tres-de-prata-na-pagmo-2022/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: gold + 3 silvers by name",
           "needle": "Miyashita"
@@ -72,6 +77,7 @@
           "url": "https://noic.com.br/matematica/divulgado-o-resultado-da-pagmo-2022/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post",
           "needle": "Miyashita"
@@ -90,6 +96,7 @@
           "url": "https://www.obm.org.br/resultados-pagmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
           "needle": "Pazó"
@@ -98,6 +105,7 @@
           "url": "https://www.obm.org.br/2023/08/13/20594/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: G/S/2B by name",
           "needle": "Pazó"
@@ -106,6 +114,7 @@
           "url": "https://noic.com.br/uncategorized/anunciado-o-time-da-pagmo-2023/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
           "needle": "Schneider"
@@ -124,6 +133,7 @@
           "url": "https://www.obm.org.br/resultados-pagmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
           "needle": "Sophia Li Ci Liu"
@@ -132,6 +142,7 @@
           "url": "https://www.obm.org.br/2024/11/30/brasil-e-campeao-da-pagmo-2024/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 3 golds + silver by name; team champion",
           "needle": "Sophia"
@@ -150,6 +161,7 @@
           "url": "https://www.obm.org.br/resultados-pagmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 5 editions): names, city/state, medal",
           "needle": "Passarini"
@@ -158,6 +170,7 @@
           "url": "https://www.obm.org.br/2025/10/31/time-brasil-conquista-quatro-medalhas-de-prata-na-5a-pagmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 4 silvers by name; Fortaleza hosts",
           "needle": "Passarini"
@@ -166,6 +179,7 @@
           "url": "https://www.obm.org.br/2025/04/12/equipe-brasileira-para-a-pagmo-2025-e-definida/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "OBM: team announcement",
           "needle": "Passarini"

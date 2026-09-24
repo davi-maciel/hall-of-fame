@@ -15,8 +15,10 @@ OBL = "https://obling.org/"
 OLC = "https://olimpiadascientificas.org/equipes-brasileiras/linguistica/iol/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    # timing: when the source was produced relative to the edition -
+    # "post" (results/reporting), "event" (during), "pre" (selection/announcement), "ref" (not edition-specific).
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms, "timing": timing}
     if needle:
         d["needle"] = needle
     return d
@@ -42,12 +44,12 @@ def olc(needle, sub=""):
     return src(OLC + sub, "olimpiadascientificas.org", "primary", "full", "olimpiadascientificas.org roster (2011-2012) with cities and awards", needle)
 
 
-def noic(url, needle, confirms, coverage="full"):
-    return src(url, "noic.com.br", "primary", coverage, confirms, needle)
+def noic(url, needle, confirms, coverage="full", timing="post"):
+    return src(url, "noic.com.br", "primary", coverage, confirms, needle, timing=timing)
 
 
-def press(url, domain, needle, confirms, coverage="full"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def press(url, domain, needle, confirms, coverage="full", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing=timing)
 
 
 SOURCES = {
@@ -61,11 +63,11 @@ SOURCES = {
         noic("https://noic.com.br/uncategorized/confira-o-resultado-do-brasil-na-olimpiada-internacional-de-linguistica/", "Steinmetz", "NOIC: both teams, S + B + HM, team bronze")],
  2019: [part("Nh"), res(2019, "Palote"), bra("Palote"), obl("yora", "Azevedo"),
         noic("https://noic.com.br/uncategorized/brasileiros-conquistam-duas-pratas-na-olimpiada-internacional-de-linguistica/", "Palote", "NOIC: two silvers, both teams"),
-        noic("https://noic.com.br/linguistica/confira-as-equipes-da-iol/", "Palote", "NOIC team announcement", "full (pre-event roster)")],
+        noic("https://noic.com.br/linguistica/confira-as-equipes-da-iol/", "Palote", "NOIC team announcement", "full (pre-event roster)", timing="pre")],
  2022: [part("Naigeborin"), res(2022, "Naigeborin"), bra("Naigeborin"), obl("mascate", "Naigeborin")],
  2023: [part("Oikawa"), res(2023, "Oikawa"), bra("Oikawa"), obl("khipu", "Oikawa"),
         noic("https://noic.com.br/uncategorized/o-brasil-obteve-resultado-historico-na-iol/", "Luiz Satoshi", "NOIC: 2G + 5B + HM (record)"),
-        noic("https://noic.com.br/uncategorized/saiu-o-time-da-iol/", "Luiz Satoshi", "NOIC team announcement", "full (pre-event roster)")],
+        noic("https://noic.com.br/uncategorized/saiu-o-time-da-iol/", "Luiz Satoshi", "NOIC team announcement", "full (pre-event roster)", timing="pre")],
  2024: [part("Ramscheid"), res(2024, "Moraes Barros"), bra("Moraes Barros"), obl("abya-yala", "Ramscheid")],
  2025: [part("Pigini"), res(2025, "Pigini"), bra("Pigini")],
  2026: [part("Lonel"), res(2026, "Lonel"), bra("Lonel")],

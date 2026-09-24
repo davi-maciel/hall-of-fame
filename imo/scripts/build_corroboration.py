@@ -21,11 +21,35 @@ import json, os
 
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 
+# "timing" = when a source was produced relative to the edition:
+#   "post"  - after it, reporting participation/results (results databases, mirrors,
+#             post-event press, retrospective compilations, CVs/biographies)
+#   "event" - during it (ceremony/exam-day posts, live participant pages)
+#   "pre"   - before it (selection results, team announcements, pre-event press)
+#   "ref"   - not edition-specific participation evidence (regulations, overviews, indexes)
+# Every IMO source below is a results record or a later account of one, so "post" is the
+# default; timed() stamps it on entries (helper-built or literal) that don't set their own.
+def timed(s, timing="post"):
+    out = {}
+    for k, v in s.items():
+        if k == "timing": continue
+        out[k] = v
+        if k == "cls": out["timing"] = s.get("timing", timing)
+    if "timing" not in out: out["timing"] = s.get("timing", timing)
+    return out
+
 def imo(y):   return {"url": f"https://www.imo-official.org/results/team/year/{y}/country/BRA/", "domain": "imo-official.org", "cls": "official", "coverage": "full", "confirms": "full roster + medals + ranks"}
 def olc():    return {"url": "http://olimpiadascientificas.org/equipes-brasileiras/matematica/imo/", "domain": "olimpiadascientificas.org", "cls": "archive", "coverage": "full", "confirms": "full roster + medals (per-year section on one page)"}
 def wiki():   return {"url": "https://pt.wikipedia.org/wiki/Desempenho_do_Brasil_na_Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica", "domain": "pt.wikipedia.org", "cls": "counts", "coverage": "counts", "confirms": "medal counts + rank + team size (no individual names)"}
 def poly(y, page="scores-code"): return {"url": f"https://www.polyomino.org.uk/mathematics/imo-scores/{y}/{page}.html", "domain": "polyomino.org.uk", "cls": "archive", "coverage": "full", "confirms": "full roster + scores + medals"}
 def tartu(u): return {"url": u, "domain": "math.olympiaadid.ut.ee", "cls": "archive", "coverage": "full", "confirms": "full roster + scores"}
+
+# Curator attestation on the olimpiadascientificas.org page, per year: person ids
+# (site/data/people.json slugs) the page names in a form the text matcher cannot
+# reach. 1979: its roster line reads "Edson de Faria Zaqueu Nogueira Samir Jacob
+# Bechara Liao Sebastião" — the single token "Liao" is Liaw Wen Chao.
+# Read by site/scripts/check_source_names.py as level "attested".
+OLC_NAMES = {1979: ["liaw-wen-chao"]}
 
 # Per-year additional independent sources found & verified by the research pass.
 EXTRA = {
@@ -118,11 +142,11 @@ def build():
     for y in YEARS:
         srcs = [imo(y)]
         if 1979 <= y <= 2013:
-            srcs.append(olc())
+            srcs.append({**olc(), "names": OLC_NAMES[y]} if y in OLC_NAMES else olc())
         srcs += EXTRA.get(y, [])
         if 1979 <= y <= 2023:
             srcs.append(wiki())
-        out[y] = srcs
+        out[y] = [timed(s) for s in srcs]
     return out
 
 def main():

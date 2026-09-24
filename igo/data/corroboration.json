@@ -23,6 +23,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Bigolin"
@@ -41,6 +42,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Hisatsuga"
@@ -49,6 +51,7 @@
           "url": "https://impa.br/notices/brasil-conquista-13-medalhas-na-olimpiada-de-geometria/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "IMPA: 13 medals, names by level",
           "needle": "Hisatsuga"
@@ -66,6 +69,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Sponchiado"
@@ -74,6 +78,7 @@
           "url": "https://impa.br/notices/brasil-ganha-nove-medalhas-em-olimpiada-de-geometria/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "IMPA: 9 medals, names by level",
           "needle": "Sponchiado"
@@ -82,6 +87,7 @@
           "url": "https://noic.com.br/matematica/veja-o-resultado-do-brasil-na-igo-2018/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "NOIC results post",
           "needle": "Sponchiado"
@@ -99,6 +105,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Lengruber"
@@ -107,6 +114,7 @@
           "url": "https://www.obm.org.br/2019/10/18/estudantes-brasileiros-conquistaram-11-medalhas-na-igo-de-2019/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "OBM news: 11 medals, names by level",
           "needle": "Lengruber"
@@ -115,6 +123,7 @@
           "url": "https://noic.com.br/uncategorized/confira-o-resultado-da-olimpiada-iraniana-de-geometria/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "NOIC results post (medallists named)",
           "needle": "Dellaroli"
@@ -133,6 +142,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Machado Lage"
@@ -141,6 +151,7 @@
           "url": "https://www.obm.org.br/2021/01/12/igo-2020-conheca-o-resultado-do-brasil/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "OBM news: results table by level",
           "needle": "Domingos Porto"
@@ -158,6 +169,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Shimamura"
@@ -166,6 +178,7 @@
           "url": "https://www.obm.org.br/2021/12/27/16218/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "OBM news: 10 medals, results table by level",
           "needle": "Shimamura"
@@ -183,6 +196,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Stabenow"
@@ -191,6 +205,7 @@
           "url": "https://www.obm.org.br/2023/01/02/brasil-conquista-8-medalhas-na-9a-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "OBM news: 8 medals, results table by level",
           "needle": "Stabenow"
@@ -208,6 +223,7 @@
           "url": "https://igo-official.com/wp-content/uploads/2025/02/IGO-2023-Final-Results.xlsx",
           "domain": "igo-official.com",
           "cls": "official",
+          "timing": "post",
           "coverage": "complete: every Brazilian participant, all levels, per-problem scores, medal (xlsx; content checked locally 2026-09-09, the verifier only tests liveness)",
           "confirms": "official final-results spreadsheet (one sheet per level)"
         },
@@ -215,6 +231,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Padovan"
@@ -223,6 +240,7 @@
           "url": "https://www.obm.org.br/2024/04/11/igo-2023-conheca-o-resultado-do-brasil/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "OBM news: results table by level",
           "needle": "Fontes Silva"
@@ -241,6 +259,7 @@
           "url": "https://igo-official.com/wp-content/uploads/2025/02/Final-Results-IGO-2024.xlsx",
           "domain": "igo-official.com",
           "cls": "official",
+          "timing": "post",
           "coverage": "complete: every Brazilian participant, all levels, per-problem scores, medal (xlsx; content checked locally 2026-09-09, the verifier only tests liveness)",
           "confirms": "official final-results spreadsheet (one sheet per level)"
         },
@@ -248,6 +267,7 @@
           "url": "https://www.obm.org.br/resultados-olimpiada-iraniana-de-geometria-igo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "national organizer results table (2016-2024, by level): names, city/state, medal",
           "needle": "Gago"
@@ -266,6 +286,7 @@
           "url": "https://igo-official.com/wp-content/uploads/2025/12/Final-Results-IGO-2025.xlsx",
           "domain": "igo-official.com",
           "cls": "official",
+          "timing": "post",
           "coverage": "complete: every Brazilian participant, all levels, per-problem scores, medal (xlsx; content checked locally 2026-09-09, the verifier only tests liveness)",
           "confirms": "official final-results spreadsheet (one sheet per level)"
         },
@@ -273,6 +294,7 @@
           "url": "https://www.obm.org.br/2026/01/01/igo-2024-conheca-os-resultados/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medallists only",
           "confirms": "OBM news (2026-01-01): 12 medals, results table by level",
           "needle": "Acioli"

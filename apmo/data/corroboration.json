@@ -25,6 +25,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2010",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Camelo Sá"
@@ -33,6 +34,7 @@
           "url": "https://www.apmo-official.org/static/results/apmo2010_res.pdf",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "awardees only (7/10 — no HMs)",
           "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
           "needle": "Empinotti"
@@ -41,6 +43,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Marcelo Tadeu de Sá Oliveira Sales"
@@ -59,6 +62,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2011",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Braga Costa"
@@ -67,6 +71,7 @@
           "url": "https://www.apmo-official.org/static/results/apmo2011_res.pdf",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "awardees only (10/10)",
           "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
           "needle": "Macieira"
@@ -75,6 +80,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Hanon Guy Lima Rossi"
@@ -93,6 +99,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2012",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Miyazaki"
@@ -101,6 +108,7 @@
           "url": "https://www.apmo-official.org/static/results/apmo2012_res.pdf",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "awardees only (10/10)",
           "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
           "needle": "Rodrigo Sanches"
@@ -109,6 +117,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Rafael Kazuhiro Miyazaki"
@@ -127,6 +136,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2013",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Zanarella"
@@ -135,6 +145,7 @@
           "url": "https://www.apmo-official.org/static/results/apmo2013_res.pdf",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "awardees only (10/10)",
           "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
           "needle": "Zanarella"
@@ -143,6 +154,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Murilo Corato Zanarella"
@@ -151,6 +163,7 @@
           "url": "https://noic.com.br/uncategorized/resultados-apmo/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medal counts only",
           "confirms": "1G/2S/4B/3HM and 9th place; links the official PDF"
         }
@@ -168,6 +181,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2014",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Santana Rocha"
@@ -176,6 +190,7 @@
           "url": "https://www.apmo-official.org/static/results/apmo2014_res.pdf",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "awardees only (10/10)",
           "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
           "needle": "Santana Rocha"
@@ -184,6 +199,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Daniel Santana Rocha"
@@ -202,6 +218,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2015",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Sichinel"
@@ -210,6 +227,7 @@
           "url": "https://www.apmo-official.org/static/results/apmo2015_res.pdf",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "awardees only (10/10)",
           "confirms": "official results PDF: country table (rank, score, G/S/B/HM counts) + award lists by name",
           "needle": "Sacramento"
@@ -218,6 +236,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Valentino Amadeus Sichinel"
@@ -226,6 +245,7 @@
           "url": "https://noic.com.br/matematica/saiu-o-resultado-da-apmo-2015/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: 10 names + awards",
           "needle": "Valentino Amadeus Sichinel"
@@ -234,6 +254,7 @@
           "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/apmo.html",
           "domain": "obm.org.br (Wayback)",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM's former site (2016 snapshot): 2015 table with city/state, points, award",
           "needle": "Sichinel"
@@ -252,6 +273,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2016",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Kowalczuk"
@@ -260,6 +282,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Diemison Vargas de Cerqueira"
@@ -268,6 +291,7 @@
           "url": "https://noic.com.br/matematica/divulgado-o-resultado-da-asian-pacific-mathematics-olympiad/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: 10 names, points, awards",
           "needle": "Diemison Vargas de Cerqueira"
@@ -286,6 +310,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2017",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Thimoteo"
@@ -294,6 +319,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Mateus Siqueira Thimoteo"
@@ -302,6 +328,7 @@
           "url": "https://www.obm.org.br/2017/05/22/resultado-da-asian-pacific-mathematics-olympiad-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table",
           "needle": "Mateus Siqueira Thimoteo"
@@ -320,6 +347,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2018",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Meinhart"
@@ -328,6 +356,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Bruno Brasil Meinhart"
@@ -346,6 +375,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2019",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Ishiyi"
@@ -354,6 +384,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Othon Daiki Ishiyi"
@@ -362,6 +393,7 @@
           "url": "https://www.obm.org.br/2019/06/12/divulgado-o-resultado-da-asian-pacific-mathematics-olympiad-apmo-2019/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table",
           "needle": "Othon Daiki Ishiyi"
@@ -379,6 +411,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2020",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Saraiva de Moraes"
@@ -387,6 +420,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Luciano Rodrigues de Oliveira Junior"
@@ -405,6 +439,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2021",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Prado Porto"
@@ -413,6 +448,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Yvens Ian Prado Porto"
@@ -421,6 +457,7 @@
           "url": "https://www.obm.org.br/2021/06/09/15161/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table",
           "needle": "Yvens Ian Prado Porto"
@@ -439,6 +476,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2022",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Lengruber"
@@ -447,6 +485,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Fabrícia Cardoso Marques"
@@ -455,6 +494,7 @@
           "url": "https://www.obm.org.br/2022/06/02/17226/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table; 15th of 35 countries",
           "needle": "Fabrícia Cardoso Marques"
@@ -473,6 +513,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2023",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Constancio"
@@ -481,6 +522,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Caio Harley Constancio Neves"
@@ -489,6 +531,7 @@
           "url": "https://www.obm.org.br/2023/07/24/20395/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table; 11th of 38",
           "needle": "Caio Harley Constancio Neves"
@@ -507,6 +550,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2024",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Ursino"
@@ -515,6 +559,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Gabriel Bastos Vasconcelos Duarte"
@@ -523,6 +568,7 @@
           "url": "https://www.obm.org.br/2024/08/15/divulgados-os-resultados-internacionais-da-apmo-2024/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table; 12th of 39",
           "needle": "Gabriel Bastos Vasconcelos Duarte"
@@ -540,6 +586,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2025",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Portella"
@@ -548,6 +595,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Alessandro Mathias Machado"
@@ -556,6 +604,7 @@
           "url": "https://www.obm.org.br/2025/08/08/brasil-fica-na-8a-posicao-na-apmo-2025/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table; 8th of 37",
           "needle": "Alessandro Mathias Machado"
@@ -574,6 +623,7 @@
           "url": "https://www.apmo-official.org/country_report/BRA/2026",
           "domain": "apmo-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-name results: in-country rank, total score, award",
           "needle": "Ivamoto"
@@ -582,6 +632,7 @@
           "url": "https://www.obm.org.br/resultados-apmo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all years): full names, city/state, points, award",
           "needle": "Enzo Ivamoto Hirota"
@@ -590,6 +641,7 @@
           "url": "https://www.obm.org.br/2026/06/04/24708/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: full results table",
           "needle": "Enzo Ivamoto Hirota"

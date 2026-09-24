@@ -23,6 +23,7 @@
           "url": "https://nbpho.ee/wp-content/uploads/2020/05/NB_final_results_publish.pdf",
           "domain": "nbpho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "17th NBPhO (online) final results — G Antonio Italo, S Felipe Farias + Lucas Shoji, B Lucas Takayasu + 'Maria Freitas'",
           "needle": "Lucas Takayasu"
@@ -31,6 +32,7 @@
           "url": "https://blog.etapa.com.br/noticias/olimpiada-de-fisica-dos-paises-balticos",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/5",
           "confirms": "Etapa (04/06/2020): prata+bronze, 17ª NBPhO online, 'primeira participação do Brasil'",
           "needle": "Lucas Shoji"
@@ -49,6 +51,7 @@
           "url": "https://nbpho.ee/wp-content/uploads/2025/04/NBPhO-2025-grading-Final-for-web.pdf",
           "domain": "nbpho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "grading/results PDF (short-form names; medals match dataset)",
           "needle": "Mateus Sussia"
@@ -57,6 +60,7 @@
           "url": "https://www1.fisica.org.br/olimpiada/2025/index.php/15-soif/367-desempenho-de-destaque-na-nbpho-2025",
           "domain": "fisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF: full names + schools + medals, Tallinn 25–27 Apr",
           "needle": "Tobias Gabriel Utz"
@@ -74,6 +78,7 @@
           "url": "https://nbpho.ee/wp-content/uploads/2026/04/NBPhO-2026-results.pdf",
           "domain": "nbpho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "results PDF (surname column truncated: 'Carneiro Bitten', 'Ulisses Fonsec')",
           "needle": "Benny Pereira"
@@ -82,6 +87,7 @@
           "url": "https://mais.opovo.com.br/jornal/cidades/2026/05/03/aluno-cearense-se-destaca-em-olimpiada-internacional-de-fisica-na-estonia.html",
           "domain": "opovo.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "O Povo (03/05/2026): prata, Tallinn, best Brazilian",
           "needle": "Matheus Facó"
@@ -90,6 +96,7 @@
           "url": "https://ne9.com.br/conheca-o-aluno-cearense-vice-campeao-da-olimpiada-de-fisica-na-europa/",
           "domain": "ne9.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "NE9 (30/04/2026): prata, Colégio 7 de Setembro",
           "needle": "Matheus Facó"

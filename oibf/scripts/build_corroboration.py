@@ -20,32 +20,44 @@ EQ11 = "https://sec.sbfisica.org.br/olimpiadas/obf2011/EquipeBROIbF.shtm"
 OC = "http://olimpiadascientificas.org/equipes-brasileiras/fisica/oibf/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+# Every entry carries a "timing": when the source was produced relative to the edition.
+#   "post"  - after it, reporting participation/results (default: premiacoes PDFs, SBF
+#             results notes, team pages that carry each year's medals)
+#   "event" - during it (ceremony/exam-day posts, live participant pages)
+#   "pre"   - before it (selection results, team announcements, pre-event press)
+#   "ref"   - not edition-specific participation evidence (regulations, overviews)
+
+
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing,
+         "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
 
 
-def pdf(fname, confirms, needle):
+def pdf(fname, confirms, needle, timing="post"):
     return src(PREM + fname, "fisica.org.br (~oibf)", "official", "full",
-               f"official results PDF ({confirms})", needle)
+               f"official results PDF ({confirms})", needle, timing)
 
 
-def eq10(confirms, needle):
-    return src(EQ10, "sbf1.sbfisica.org.br", "primary", "full", f"SBF Brazilian-teams page 2000–2010 — {confirms}", needle)
+def eq10(confirms, needle, timing="post"):
+    return src(EQ10, "sbf1.sbfisica.org.br", "primary", "full", f"SBF Brazilian-teams page 2000–2010 — {confirms}",
+               needle, timing)
 
 
-def eq11(confirms, needle):
-    return src(EQ11, "sbf1.sbfisica.org.br", "primary", "full", f"SBF Brazilian-teams page through 2011 — {confirms}", needle)
+def eq11(confirms, needle, timing="post"):
+    return src(EQ11, "sbf1.sbfisica.org.br", "primary", "full", f"SBF Brazilian-teams page through 2011 — {confirms}",
+               needle, timing)
 
 
-def oc(confirms, needle):
-    return src(OC, "olimpiadascientificas.org", "archive", "full", f"Brazilian teams 2000–2012 — {confirms}", needle)
+def oc(confirms, needle, timing="post"):
+    return src(OC, "olimpiadascientificas.org", "archive", "full", f"Brazilian teams 2000–2012 — {confirms}",
+               needle, timing)
 
 
-def wb(url, domain, cls, coverage, confirms, needle):
-    return src(url, domain + " (Wayback)", cls, coverage, confirms, needle)
+def wb(url, domain, cls, coverage, confirms, needle, timing="post"):
+    return src(url, domain + " (Wayback)", cls, coverage, confirms, needle, timing)
 
 
 SOURCES = {
@@ -99,7 +111,7 @@ SOURCES = {
             "NOIC results (typo 'Alvez')", "Souza Neto")],
  2015: [pdf("2015_XX.pdf", "XX OIbF, 1G/1S/2B", "Mateus de Castro Silva"),
         src("https://noic.com.br/fisica/divulgadas-as-equipes-da-ipho-e-oibf/", "noic.com.br", "primary", "full — pre-event roster",
-            "NOIC team announcement (spells LENNON; gives 'Leonardo H. M. FLORENTINO')", "FLORENTINO")],
+            "NOIC team announcement (spells LENNON; gives 'Leonardo H. M. FLORENTINO')", "FLORENTINO", timing="pre")],
  2016: [pdf("2016_XXI.pdf", "XXI OIbF, 2G/2S", "Marina Maciel Ansanelli"),
         src("https://www.sbfisica.org.br/v1/olimpiada/2016/images/arquivos/Brasil_conquista_medalhas_na_XXI_Olimp%C3%ADada_Ibero.pdf",
             "sbfisica.org.br", "primary", "full", "SBF results note (spells 'Fontelles')", "Fontelles")],
@@ -120,7 +132,8 @@ SOURCES = {
         src("https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/20-oibf/254-resultado-oibf-2020.html",
             "sbfisica.org.br", "primary", "full", "OBF site 2020 results", "Lucas Takayasu"),
         src("https://noic.com.br/uncategorized/sai-o-resultado-da-seletiva-de-fisica-descubra-quem-respresentara-o-brasil-nas-internacionais/",
-            "noic.com.br", "primary", "full — pre-event roster", "NOIC seletiva announcement", "Maria Eduarda")],
+            "noic.com.br", "primary", "full — pre-event roster", "NOIC seletiva announcement", "Maria Eduarda",
+            timing="pre")],
  2021: [pdf("2021_XXVI.pdf", "XXVI João Pessoa, 4 golds + Mejor Oro/Mejor Prueba Teórica (Lucas Almeida)", "Lucas Almeida Oliveira"),
         src("https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/15-soif/281-olimpiada-ibero-americana-de-fisica-oibf-brasil-vence-em-casa",
             "sbfisica.org.br", "primary", "full", "SBF: Brazil wins at home", "Kerber")],

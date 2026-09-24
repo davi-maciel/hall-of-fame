@@ -11,8 +11,8 @@ ROOT = os.path.dirname(HERE)
 OBM = "https://www.obm.org.br/resultados-apmo/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d

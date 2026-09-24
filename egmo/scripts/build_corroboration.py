@@ -12,8 +12,8 @@ COUNTRY = "https://www.egmo.org/countries/country51/"
 OBM = "https://www.obm.org.br/resultados-european-girls-mathematical-olympiad/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
@@ -34,16 +34,16 @@ def obm(needle):
                "national organizer results table (all years): full names, city/state, award", needle)
 
 
-def post(url, needle, confirms="OBM news: full team result", coverage="full", domain="obm.org.br"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def post(url, needle, confirms="OBM news: full team result", coverage="full", domain="obm.org.br", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing)
 
 
-def impa(url, needle, confirms, coverage="full"):
-    return src(url, "impa.br", "primary", coverage, confirms, needle)
+def impa(url, needle, confirms, coverage="full", timing="post"):
+    return src(url, "impa.br", "primary", coverage, confirms, needle, timing)
 
 
-def noic(url, needle, confirms, coverage="full"):
-    return src(url, "noic.com.br", "primary", coverage, confirms, needle)
+def noic(url, needle, confirms, coverage="full", timing="post"):
+    return src(url, "noic.com.br", "primary", coverage, confirms, needle, timing)
 
 
 SOURCES = {
@@ -54,16 +54,16 @@ SOURCES = {
         post("https://www.obm.org.br/2018/04/14/brasil-encerra-participacao-na-egmo-2018-com-2-pratas-e-2-bronzes/", "Mariana Quirino de Oliveira",
              "OBM news: 4 medals by full name + points, leaders, 13th place"),
         impa("https://impa.br/notices/sbm-e-impa-anunciam-equipe-feminina-que-disputara-a-egmo/", "Mariana Quirino de Oliveira",
-             "IMPA: team announcement (full names, cities, leaders)", "full (pre-event roster)"),
+             "IMPA: team announcement (full names, cities, leaders)", "full (pre-event roster)", timing="pre"),
         noic("https://noic.com.br/matematica/egmo/brasil-conquista-2-bronzes-e-2-pratas-na-egmo/", "Mariana Quirino",
              "NOIC results post: 4 names (short forms), points, medals, 13th place"),
         noic("https://noic.com.br/uncategorized/divulgado-o-time-brasileiro-da-egmo/", "Débora Tami Yamato",
-             "NOIC team announcement", "full (pre-event roster)")],
+             "NOIC team announcement", "full (pre-event roster)", timing="pre")],
  2019: [country("Bruna Shoji Nakamura"), board(8, "Bigolin"), obm("Mariana Bigolin Groff"),
         post("https://www.obm.org.br/2019/04/11/egmo-2019-ouro-inedito-para-o-brasil-na-ucrania/", "Bruna Arisa Shoji Nakamura",
              "OBM news: gold + 2 bronzes by full name, fourth member named, 20th place"),
         impa("https://impa.br/notices/equipe-feminina-escalada-para-a-disputa-de-olimpiada-na-ucrania/", "Bruna Arisa Shoji Nakamura",
-             "IMPA: team announcement (full names, ages, cities)", "full (pre-event roster)"),
+             "IMPA: team announcement (full names, ages, cities)", "full (pre-event roster)", timing="pre"),
         noic("https://noic.com.br/matematica/brasil-ganha-ouro-inedito-na-egmo/", "Mariana Groff",
              "NOIC results post: 4 names (short forms), points, medals, 20th place")],
  2020: [country("Carolina Moura Valle Costa"), board(9, "Stroeh"), obm("Carolina Moura Valle Costa"),
@@ -72,11 +72,11 @@ SOURCES = {
         impa("https://impa.br/notices/equipe-brasileira-conquista-quatro-medalhas-na-egmo-2020/", "Carolina Moura Valle Costa",
              "IMPA: results (full names, cities, medals)"),
         impa("https://impa.br/notices/conheca-as-competidoras-que-vao-representar-o-brasil-na-egmo/", "Letícia Barbieri Stroeh",
-             "IMPA: team announcement (full names, cities)", "full (pre-event roster)"),
+             "IMPA: team announcement (full names, cities)", "full (pre-event roster)", timing="pre"),
         noic("https://noic.com.br/matematica/brasil-conquista-15-lugar-na-egmo/", "Carolina Costa",
              "NOIC results post: 4 names (short forms) + medals, 15th place"),
         noic("https://noic.com.br/matematica/confira-a-equipe-que-representara-o-brasil-na-egmo-2020/", "Carolina Moura Valle Costa",
-             "NOIC team announcement with selection scores", "full (pre-event roster)")],
+             "NOIC team announcement with selection scores", "full (pre-event roster)", timing="pre")],
  2021: [country("Laís Nuto Rossman"), board(10, "Rossman"), obm("Laís Nuto Rossman"),
         post("https://www.obm.org.br/2021/04/15/com-tres-medalhas-de-bronze-brasil-encerra-participacao-na-egmo-2021/", "Gabriella Santana Morgado",
              "OBM news: 3 bronzes by full name, fourth member named, leaders, 23rd place")],
@@ -91,14 +91,14 @@ SOURCES = {
         noic("https://noic.com.br/matematica/resultado-egmo/", "Cecilia Mileski",
              "NOIC results post: 3 awardees (short forms), 27th place", "partial (3/4)"),
         noic("https://noic.com.br/uncategorized/time-da-egmo-2023/", "Bilhana Kochloukova",
-             "NOIC team announcement (short forms) + leaders", "full (pre-event roster)")],
+             "NOIC team announcement (short forms) + leaders", "full (pre-event roster)", timing="pre")],
  2024: [country("Luiza Akemi Bidoia de Freitas"), board(13, "Bidoia"), obm("Luiza Akemi Bidoia de Freitas"),
         post("https://www.obm.org.br/2024/04/15/brasil-brilha-na-egmo-2024-uma-medalha-de-prata-e-tres-de-bronze-conquistadas-na-georgia/", "Luiza Akemi Bidoia de Freitas",
              "OBM news: silver + 3 bronzes by full name with points, leaders, 22nd place"),
         impa("https://impa.br/notices/brasil-conquista-uma-medalha-de-prata-e-tres-de-bronze-na-egmo-2024/", "Luiza Akemi Bidoia de Freitas",
              "IMPA: results (all four named, states)"),
         impa("https://impa.br/notices/egmo-2024-comeca-nesta-quinta-feira-11-na-georgia/", "Luiza Akemi Bidoia de Freitas",
-             "IMPA: team at the opening (full names, leaders)", "full (pre-event roster)")],
+             "IMPA: team at the opening (full names, leaders)", "full (pre-event roster)", timing="event")],
  2025: [country("Ana Beatriz Pazó"), board(14, "Mysczak"), obm("Alice Schneider"),
         post("https://www.obm.org.br/2025/04/16/brasil-brilha-na-14a-european-girls-mathematical-olympiad-egmo-2025/", "Alice Schneider",
              "OBM news: 2 silvers + bronze + HM by name, leaders, 20th place")],

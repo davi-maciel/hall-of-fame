@@ -26,6 +26,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "TAVARES Bruno"
         },
         {
@@ -34,6 +35,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Saharoff"
         }
       ],
@@ -52,6 +54,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "NEGREIROS BESSA"
         },
         {
@@ -60,6 +63,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Negreiros Bessa"
         }
       ],
@@ -78,6 +82,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final report (the results PDF is a scan): team list + full ranking with medals",
+          "timing": "post",
           "needle": "Patrocinio Zen"
         },
         {
@@ -86,6 +91,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Rainne"
         }
       ],
@@ -104,6 +110,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "BENEVIDES"
         },
         {
@@ -112,6 +119,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Benevides"
         }
       ]
@@ -129,6 +137,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Medeiros Fernandes"
         },
         {
@@ -137,6 +146,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Medeiros Fernandes"
         }
       ]
@@ -154,6 +164,7 @@
           "cls": "official",
           "coverage": "full (scores; medals from OLC)",
           "confirms": "official detailed results: names, scores, rank (no medal column)",
+          "timing": "post",
           "needle": "Lubiana"
         },
         {
@@ -162,6 +173,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Lubiana"
         }
       ],
@@ -180,6 +192,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Lavor Lira"
         },
         {
@@ -188,6 +201,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Lavor Lira"
         },
         {
@@ -196,6 +210,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: Brazilian medal table",
+          "timing": "post",
           "needle": "Lavor"
         }
       ]
@@ -213,6 +228,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final scores (text extraction garbles rows; BRA01-04 identified by code)",
+          "timing": "post",
           "needle": "PERTOT"
         },
         {
@@ -221,6 +237,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Allan"
         },
         {
@@ -229,6 +246,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post",
+          "timing": "post",
           "needle": "Allan"
         },
         {
@@ -237,6 +255,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Allan"
         }
       ],
@@ -255,6 +274,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Voltani"
         },
         {
@@ -263,6 +283,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Voltani"
         },
         {
@@ -271,6 +292,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 3 bronzes",
+          "timing": "post",
           "needle": "Voltani"
         },
         {
@@ -279,6 +301,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Voltani"
         }
       ]
@@ -296,6 +319,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "KAWAKAMI"
         },
         {
@@ -304,6 +328,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Kawakami"
         },
         {
@@ -312,6 +337,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement (IBO + OIAB)",
+          "timing": "pre",
           "needle": "Kawakami"
         }
       ]
@@ -329,6 +355,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Parada"
         },
         {
@@ -337,6 +364,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017",
+          "timing": "post",
           "needle": "Parada"
         },
         {
@@ -345,6 +373,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement with full names (IBO + OIAB)",
+          "timing": "pre",
           "needle": "Coca Parada"
         }
       ],
@@ -363,6 +392,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Galiza Soares"
         },
         {
@@ -371,6 +401,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post",
+          "timing": "post",
           "needle": "Galiza"
         }
       ],
@@ -389,6 +420,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Jaziel"
         },
         {
@@ -397,6 +429,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC results post: 2 bronzes",
+          "timing": "post",
           "needle": "Jaziel"
         }
       ],
@@ -415,6 +448,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official IBO Challenge II results (remote edition): names + awards",
+          "timing": "post",
           "needle": "Sicupira"
         },
         {
@@ -423,6 +457,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2021 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "SICUPIRA"
         }
       ],
@@ -441,6 +476,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Pascalichio"
         },
         {
@@ -449,6 +485,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2022 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "PASCALICHIO"
         }
       ]
@@ -466,6 +503,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Gabilondo"
         },
         {
@@ -474,6 +512,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2023 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "GABILONDO"
         }
       ]
@@ -491,6 +530,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results (amended version, Jan 2025)",
+          "timing": "post",
           "needle": "Vitarelli"
         },
         {
@@ -499,6 +539,7 @@
           "cls": "archive",
           "coverage": "full (pre-event roster)",
           "confirms": "OBB 'Resultado definitivo da Seletiva Internacional' 2024 (archived copy; live host gone): IBO + OIAB teams with school and city",
+          "timing": "pre",
           "needle": "VITARELLI"
         }
       ],
@@ -517,6 +558,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final results PDF: full ranking with names, scores and medals",
+          "timing": "post",
           "needle": "Pongelupp"
         }
       ]
@@ -534,6 +576,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official final updated individual results (302 competitors)",
+          "timing": "post",
           "needle": "Tsuchie"
         }
       ]

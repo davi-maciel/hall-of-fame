@@ -24,6 +24,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr5.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 5th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Catae"
@@ -32,6 +33,7 @@
           "url": "https://noic.com.br/olimpiadas/matematica/rioplatense/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "ref",
           "coverage": "format description only (no names)",
           "confirms": "NOIC: Brazil = the only country with two teams (Fortaleza via OCM, São Paulo via OPM); four levels A/1/2/3"
         }
@@ -49,6 +51,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr6.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 6th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Nascimento"
@@ -67,6 +70,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr7.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 7th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Honda Saito"
@@ -85,6 +89,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr8.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 8th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Alinson"
@@ -102,6 +107,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr9.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 9th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Gukovas"
@@ -120,6 +126,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr10.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 10th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Braun Vieira"
@@ -138,6 +145,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr11.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 11th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Luty"
@@ -156,6 +164,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr12.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 12th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Carrah"
@@ -174,6 +183,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr13.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 13th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Regitano"
@@ -191,6 +201,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr14.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 14th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Sorensen"
@@ -208,6 +219,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr15.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 15th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Gleycianne"
@@ -225,6 +237,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr16.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 16th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Camelo"
@@ -242,6 +255,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr17.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 17th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Guinsberg"
@@ -259,6 +273,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr18.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 18th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Achjian"
@@ -277,6 +292,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr19.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 19th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Tsuzuki"
@@ -295,6 +311,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr20.htm",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 20th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Fazoli"
@@ -312,6 +329,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr21.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 21th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Hisatsuga"
@@ -330,6 +348,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr22.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 22th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Nishimoto"
@@ -348,6 +367,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr23.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 23th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Degelo"
@@ -365,6 +385,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr24.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 24th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Dominguez"
@@ -382,6 +403,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr25.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 25th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Ticianelli"
@@ -399,6 +421,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr26.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 26th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Saneshima"
@@ -416,6 +439,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr27.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 27th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Maziviero"
@@ -434,6 +458,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr28.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 28th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Vichinsky"
@@ -451,6 +476,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr29.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 29th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Busetti"
@@ -468,6 +494,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr30.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 30th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Stabenow"
@@ -485,6 +512,7 @@
           "url": "https://oma.org.ar/old_oma/internacional/resultados-omr31.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 31th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Koshimizu"
@@ -502,6 +530,7 @@
           "url": "https://oma.org.ar/contents/paginas/contents/32_rio_resultados.html",
           "domain": "oma.org.ar",
           "cls": "official",
+          "timing": "post",
           "coverage": "medallists and honourable mentions only",
           "confirms": "OMA medal table of the 32th Rioplatense: name, team (Fortaleza / San Pablo / Brasil), level, medal",
           "needle": "Gastao"

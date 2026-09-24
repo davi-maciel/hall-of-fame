@@ -27,7 +27,8 @@
           "domain": "agencia.fapesp.br (Wayback)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "final traveling delegation — all 6 names + ages + schools (26/11/2004)"
+          "confirms": "final traveling delegation — all 6 names + ages + schools (26/11/2004)",
+          "timing": "pre"
         },
         {
           "url": "https://web.archive.org/web/20050207052420/http://www.ozzybohmer.com/jakarta2004-resultado.asp",
@@ -35,6 +36,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "post-event: Rafael Guedes Lang bronze (the only medal)",
+          "timing": "post",
           "needle": "Lang"
         },
         {
@@ -42,14 +44,16 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + Lang bronze, 25th place ('Karen Hosomi, Teramae' typo = one person)"
+          "confirms": "full roster + Lang bronze, 25th place ('Karen Hosomi, Teramae' typo = one person)",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals"
+          "confirms": "roster + medals",
+          "timing": "post"
         }
       ],
       "note": "Pre-travel roster substitution: the original selection list (Wayback 20041204154540) named Fernanda Ishizaki Brocanella Witter and Lucas Kollef; the delegation that flew (FAPESP list) had Bruna Guidini Santos and Rafael Guedes Lang instead."
@@ -66,21 +70,24 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster: 3 silver + 1 bronze + 2 no-award, 12th place"
+          "confirms": "full roster: 3 silver + 1 bronze + 2 no-award, 12th place",
+          "timing": "post"
         },
         {
           "url": "https://web.archive.org/web/20110206035452/http://www.ijso.com.br/historia.htm",
           "domain": "ijso.com.br (B8, Wayback 2011)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "earliest organizer record — same roster/medals"
+          "confirms": "earliest organizer record — same roster/medals",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals — ⚠️ weakest year: organizer and wiki wording overlap; no contemporary source survives"
+          "confirms": "roster + medals — ⚠️ weakest year: organizer and wiki wording overlap; no contemporary source survives",
+          "timing": "post"
         }
       ],
       "note": "Weakest-sourced year: no contemporary source survives; organizer (OBC/B8) and pt-wikipedia wording overlap, so lineage independence is limited."
@@ -98,6 +105,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "host result sheet — all 12 students under 'Brazil 1'/'Brazil 2' headings (ONLY source for the team split)",
+          "timing": "post",
           "needle": "Terceros"
         },
         {
@@ -106,6 +114,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ranked medal list — Cavina/Terceros silver band, Niide/Valverde bronze band, others rank ≈129–172",
+          "timing": "post",
           "needle": "Cavina"
         },
         {
@@ -114,6 +123,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "current official past-results: Brazil-1 0/1/1, Brazil-2 0/1/1",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -121,7 +131,8 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "roster + the 4 medalists (no team split)"
+          "confirms": "roster + the 4 medalists (no team split)",
+          "timing": "post"
         }
       ],
       "note": "Host year, TWO teams (Brazil-1/Brazil-2, 12 students). The team split exists ONLY in the host Moderation sheet + ijsoweb country table (they agree). Closing ceremony was cancelled. Graph convention: all 12 linked as same-edition co-participants (same as IOAA 2012)."
@@ -139,6 +150,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "official ranking: Brazil 0G/4S/2B, 7th place",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -147,6 +159,7 @@
           "cls": "primary",
           "coverage": "5/6",
           "confirms": "names the 5 Objetivo students + medals; 7th of 43",
+          "timing": "post",
           "needle": "Tsai"
         },
         {
@@ -154,14 +167,16 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + medals (organizer's História page)"
+          "confirms": "full roster + medals (organizer's História page)",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals (incl. dedicated IJSO 2007 article)"
+          "confirms": "roster + medals (incl. dedicated IJSO 2007 article)",
+          "timing": "post"
         }
       ]
     },
@@ -177,14 +192,16 @@
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster + medals + SP states"
+          "confirms": "full roster + medals + SP states",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster; Gustavo Haddad gold = first ever by an Americas country"
+          "confirms": "full roster; Gustavo Haddad gold = first ever by an Americas country",
+          "timing": "post"
         },
         {
           "url": "https://ijsoweb.org/participating-countries",
@@ -192,6 +209,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "Brazil 1G/4S/1B",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -199,7 +217,8 @@
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals"
+          "confirms": "roster + medals",
+          "timing": "post"
         }
       ]
     },
@@ -215,21 +234,24 @@
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster + medals (page authored by Ivan Antunes Filho, a 2009 team member — near-primary)"
+          "confirms": "full roster + medals (page authored by Ivan Antunes Filho, a 2009 team member — near-primary)",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + medals (organizer's História page)"
+          "confirms": "full roster + medals (organizer's História page)",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals"
+          "confirms": "roster + medals",
+          "timing": "post"
         }
       ]
     },
@@ -245,28 +267,32 @@
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster + medals + leaders"
+          "confirms": "full roster + medals + leaders",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + experimental-exam team bronze"
+          "confirms": "full roster + experimental-exam team bronze",
+          "timing": "post"
         },
         {
           "url": "https://olimpiada.webnode.com.br/home/newscbm_124783/110/",
           "domain": "olimpiada.webnode.com.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "contemporary article (2010-12-10): full roster + medals + experimental 3rd place"
+          "confirms": "contemporary article (2010-12-10): full roster + medals + experimental 3rd place",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/IJSO_2010",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster (dedicated IJSO_2010 article; 32 delegations)"
+          "confirms": "full roster (dedicated IJSO_2010 article; 32 delegations)",
+          "timing": "post"
         }
       ]
     },
@@ -282,14 +308,16 @@
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster + medals + leaders"
+          "confirms": "full roster + medals + leaders",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster (leader full name Victor Fujii Ando)"
+          "confirms": "full roster (leader full name Victor Fujii Ando)",
+          "timing": "post"
         },
         {
           "url": "https://ijsoweb.org/participating-countries",
@@ -297,6 +325,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "8th IJSO ranking: Brazil 3S/3B",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -304,7 +333,8 @@
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals"
+          "confirms": "roster + medals",
+          "timing": "post"
         }
       ]
     },
@@ -320,21 +350,24 @@
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster + overall & experimental medals + leaders"
+          "confirms": "full roster + overall & experimental medals + leaders",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + experimental GOLD (perfect score — Forte/Farias/Camacho)"
+          "confirms": "full roster + experimental GOLD (perfect score — Forte/Farias/Camacho)",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/IJSO_Brasil_2012",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster, 1G/3S/2B (dedicated IJSO_Brasil_2012 article)"
+          "confirms": "full roster, 1G/3S/2B (dedicated IJSO_Brasil_2012 article)",
+          "timing": "post"
         }
       ]
     },
@@ -350,28 +383,32 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "contemporary item 21/12/2013 — all six full names + medals + Pune dates"
+          "confirms": "contemporary item 21/12/2013 — all six full names + medals + Pune dates",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + medals (organizer's História page)"
+          "confirms": "full roster + medals (organizer's História page)",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "full roster + medals"
+          "confirms": "full roster + medals",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals"
+          "confirms": "roster + medals",
+          "timing": "post"
         }
       ]
     },
@@ -387,35 +424,40 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster + medals + leaders/observers"
+          "confirms": "full roster + medals + leaders/observers",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/resultados-2014.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "selection list — exactly these 6 with schools/cities"
+          "confirms": "selection list — exactly these 6 with schools/cities",
+          "timing": "pre"
         },
         {
           "url": "http://www.obciencias.com.br/notiacutecias.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "contemporary item 21/12/2014: 2 silver + 4 bronze"
+          "confirms": "contemporary item 21/12/2014: 2 silver + 4 bronze",
+          "timing": "post"
         },
         {
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/interdisciplinar/ijso/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "same 6 names + medal split"
+          "confirms": "same 6 names + medal split",
+          "timing": "post"
         },
         {
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_J%C3%BAnior_de_Ci%C3%AAncias",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
           "coverage": "full",
-          "confirms": "roster + medals"
+          "confirms": "roster + medals",
+          "timing": "post"
         }
       ]
     },
@@ -431,21 +473,24 @@
           "domain": "noic.com.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "2015-12-10: full 6-name roster, all silver; Victor Cambraia top silver of the event"
+          "confirms": "2015-12-10: full 6-name roster, all silver; Victor Cambraia top silver of the event",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "'12.a IJSO' — full roster, all silver"
+          "confirms": "'12.a IJSO' — full roster, all silver",
+          "timing": "post"
         },
         {
           "url": "https://web.archive.org/web/20160415035329/http://www.obciencias.com.br/notiacutecias.html",
           "domain": "obciencias.com.br (Wayback)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "item 17/12/2015 — all 6 silver (short names)"
+          "confirms": "item 17/12/2015 — all 6 silver (short names)",
+          "timing": "post"
         }
       ]
     },
@@ -461,14 +506,16 @@
           "domain": "noic.com.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full roster, 4G+2S + experimental gold/silver split — best result in history"
+          "confirms": "full roster, 4G+2S + experimental gold/silver split — best result in history",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "'13.a IJSO' — full unabbreviated names, 4G+2S, experimental gold Time A"
+          "confirms": "'13.a IJSO' — full unabbreviated names, 4G+2S, experimental gold Time A",
+          "timing": "post"
         },
         {
           "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=ijso-equipe-olimpica-do-objetivo-conquista-ouro-e-prata-na-indonesia",
@@ -476,6 +523,7 @@
           "cls": "primary",
           "coverage": "3/6",
           "confirms": "Calderaro + Corrêa gold, Anne Feng Cai silver",
+          "timing": "post",
           "needle": "Calderaro"
         },
         {
@@ -483,7 +531,8 @@
           "domain": "obciencias.com.br (Wayback)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "OBC 2016 gold medalists = the IJSO team (schools/cities)"
+          "confirms": "OBC 2016 gold medalists = the IJSO team (schools/cities)",
+          "timing": "pre"
         }
       ]
     },
@@ -499,7 +548,8 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "'14.a IJSO' — full 6-name roster, all silver (final delegation)"
+          "confirms": "'14.a IJSO' — full 6-name roster, all silver (final delegation)",
+          "timing": "post"
         },
         {
           "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=olimpiada-internacional-de-ciencias-junior-ijso-rafael-akira-e-medalha-de-prata",
@@ -507,6 +557,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Rafael Akira Okamura Ferro silver, best BR score, Gelderland Dec 3–12",
+          "timing": "post",
           "needle": "Akira"
         },
         {
@@ -515,6 +566,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Lattes-derived: Ricardo Sammuel Moura Lima silver, 14th IJSO",
+          "timing": "post",
           "needle": "Sammuel"
         },
         {
@@ -523,6 +575,7 @@
           "cls": "primary",
           "coverage": "5/6 — SUPERSEDED pre-event roster",
           "confirms": "Oct 2017 announcement listed Ygor de Santana Moura; final delegation had Ricardo Sammuel instead",
+          "timing": "pre",
           "needle": "Ygor"
         }
       ],
@@ -540,7 +593,8 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "'15.a IJSO' — full roster, 4S+2B"
+          "confirms": "'15.a IJSO' — full roster, 4S+2B",
+          "timing": "post"
         },
         {
           "url": "https://objetivo.br/institucional/noticias.aspx?titulo=ijso-selecao-olimpica-do-objetivo-conquista-prata-e-bronze-na-africa",
@@ -548,6 +602,7 @@
           "cls": "primary",
           "coverage": "3/6",
           "confirms": "Baracat + Menegon silver, Alexandre Almeida bronze; Baracat top of Americas/S. hemisphere (school claim)",
+          "timing": "post",
           "needle": "Baracat"
         },
         {
@@ -556,6 +611,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Eduardo Bardal Slikta silver; team total 4 prata + 2 bronze",
+          "timing": "post",
           "needle": "Slikta"
         },
         {
@@ -563,7 +619,8 @@
           "domain": "noic.com.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "pre-event roster — matches final delegation"
+          "confirms": "pre-event roster — matches final delegation",
+          "timing": "pre"
         }
       ]
     },
@@ -579,14 +636,16 @@
           "domain": "noic.com.br",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "full 6-name roster with medals (2G+4S)"
+          "confirms": "full 6-name roster with medals (2G+4S)",
+          "timing": "post"
         },
         {
           "url": "http://www.obciencias.com.br/histoacuteria.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "'16.a IJSO' — full roster with medals"
+          "confirms": "'16.a IJSO' — full roster with medals",
+          "timing": "post"
         },
         {
           "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=olimpiada-internacional-junior-de-ciencias-no-catar-alunos-do-objetivo-conquistam-ouro-e-prata",
@@ -594,6 +653,7 @@
           "cls": "primary",
           "coverage": "4/6",
           "confirms": "Caio gold (best BR score), Baracat/Pezato/Alicia silver",
+          "timing": "post",
           "needle": "Pezato"
         },
         {
@@ -602,6 +662,7 @@
           "cls": "primary",
           "coverage": "2/6",
           "confirms": "Vinícius Kenji gold, Lucas Takayasu silver; team 2G+4S",
+          "timing": "post",
           "needle": "Takayasu"
         }
       ]
@@ -618,7 +679,8 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "official convocados — all 6 names + seletiva ranks"
+          "confirms": "official convocados — all 6 names + seletiva ranks",
+          "timing": "pre"
         },
         {
           "url": "https://ijsoweb.org/event/2021/medals-list-2021.pdf",
@@ -626,6 +688,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "official medals list: Brazil 0G/2S/2B",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -634,6 +697,7 @@
           "cls": "primary",
           "coverage": "2/6",
           "confirms": "Viegas + Lucas Cavalcante silver; team of 6; hybrid Dubai edition",
+          "timing": "post",
           "needle": "Viegas"
         },
         {
@@ -642,6 +706,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Igor Bersanetti Gabilondo bronze",
+          "timing": "post",
           "needle": "Gabilondo"
         },
         {
@@ -649,7 +714,11 @@
           "domain": "linkedin.com",
           "cls": "primary",
           "coverage": "1/6 — single source",
-          "confirms": "Cavassin bronze, world rank 56 (self-reported; consistent with official tally)"
+          "confirms": "Cavassin bronze, world rank 56 (self-reported; consistent with official tally)",
+          "timing": "post",
+          "names": [
+            "mateus-augusto-de-lara-cavassin"
+          ]
         }
       ],
       "note": "Hybrid Dubai edition; Brazilian team sat exams online from São Paulo. The two no-medal records are INFERRED from the official 0G/2S/2B tally (airtight: the other 4 medals are individually attributed)."
@@ -667,6 +736,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "official results page + individual-results PDF link — 2G/4S + BEST EXPERIMENTAL = Brazil Team B (Loes, Porfirio, Oda)",
+          "timing": "post",
           "needle": "Loes"
         },
         {
@@ -674,7 +744,8 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "official convocados — same 6 names"
+          "confirms": "official convocados — same 6 names",
+          "timing": "pre"
         },
         {
           "url": "https://blog.etapa.com.br/noticias/ijso-2022",
@@ -682,6 +753,7 @@
           "cls": "primary",
           "coverage": "2/6",
           "confirms": "Loes 6th overall (best BR placement ever) + Porfírio 16th, both gold; experimental gold",
+          "timing": "post",
           "needle": "Loes"
         },
         {
@@ -690,6 +762,7 @@
           "cls": "primary",
           "coverage": "4/6",
           "confirms": "4 Objetivo silvers + Gustavo Jun experimental gold (article uses first names: 'Gustavo Jun e Vitor Takashi')",
+          "timing": "post",
           "needle": "Gustavo Jun"
         }
       ]
@@ -706,7 +779,8 @@
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "official convocados — 6 names + seletiva scores (ROSTER only; per-student medals unpublished)"
+          "confirms": "official convocados — 6 names + seletiva scores (ROSTER only; per-student medals unpublished)",
+          "timing": "pre"
         },
         {
           "url": "https://web.archive.org/web/20241013093932/https://ijso2023.in.th/wp-content/uploads/2023/12/IJSO_2023_Results.pdf",
@@ -714,6 +788,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "official results: Brazil 0G/4S/1B (country level only)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -722,6 +797,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Sanzio Fechine selection/participation (gov.br-CE)",
+          "timing": "pre",
           "needle": "Sanzio"
         },
         {
@@ -730,10 +806,14 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Henrique Pongelupp 'premiado na IJSO 2023' (medal color unstated)",
+          "timing": "post",
           "needle": "Pongelupp"
         }
       ],
-      "note": "RESOLVED 2026-08-04: per-student medals via direct communication from the Brazilian olympiad community (project owner's contact) — 4 silver (Evers Cordeiro, Feltran, Porfirio, Azevedo) + 1 bronze (Pongelupp), exactly matching the official country tally (0G/4S/1B, host PDF via Wayback). Only year whose per-student medals rest on a non-public source. The sixth convoked student was removed from the dataset by project decision (2026-08-04). Historical traps kept on record: organizer posted nothing about this edition; en-wiki carries an uncited incident claim (added 2026-06-17, hidden team-leader comment) — never attributed to anyone here."
+      "note": "RESOLVED 2026-08-04: per-student medals via direct communication from the Brazilian olympiad community (project owner's contact) — 4 silver (Evers Cordeiro, Feltran, Porfirio, Azevedo) + 1 bronze (Pongelupp), exactly matching the official country tally (0G/4S/1B, host PDF via Wayback). Only year whose per-student medals rest on a non-public source. The sixth convoked student was removed from the dataset by project decision (2026-08-04). Historical traps kept on record: organizer posted nothing about this edition; en-wiki carries an uncited incident claim (added 2026-06-17, hidden team-leader comment) — never attributed to anyone here.",
+      "attested": {
+        "murilo-de-andrade-porfirio": "silver per direct communication from the Brazilian olympiad community, matching the official 0G/4S/1B country tally (see the year note)"
+      }
     },
     {
       "year": 2024,
@@ -747,14 +827,20 @@
           "domain": "instagram.com/@obciencias (via imginn)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "ORGANIZER'S RESULT POST (11 Dec 2024): 'Brasil ganha 6 medalhas de bronze na IJSO... 100%% do time brasileiro volta premiado' — ALL SIX bronze."
+          "confirms": "ORGANIZER'S RESULT POST (11 Dec 2024): 'Brasil ganha 6 medalhas de bronze na IJSO... 100%% do time brasileiro volta premiado' — ALL SIX bronze.",
+          "timing": "post",
+          "names": [
+            "gabriel-mendes-freitas",
+            "raul-saraiva-cavalcante"
+          ]
         },
         {
           "url": "http://www.obciencias.com.br/resultados-2024.html",
           "domain": "obciencias.com.br (OBC/B8)",
           "cls": "primary",
           "coverage": "full",
-          "confirms": "official convocados — 6 names + seletiva scores (page live but unlinked from menu)"
+          "confirms": "official convocados — 6 names + seletiva scores (page live but unlinked from menu)",
+          "timing": "pre"
         },
         {
           "url": "https://www.objetivo.br/institucional/noticias.aspx?titulo=aluno-do-objetivo-conquista-bronze-na-ijso-uma-das-mais-importantes-olimpiadas-cientificas-do-mundo",
@@ -762,6 +848,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Felipe Garcia Araújo bronze, 21st IJSO Bucharest",
+          "timing": "post",
           "needle": "Felipe"
         },
         {
@@ -770,6 +857,7 @@
           "cls": "primary",
           "coverage": "1/6",
           "confirms": "Jailson Godeiro Neto bronze (year inferred from his single OBC convocation)",
+          "timing": "post",
           "needle": "Jailson"
         },
         {
@@ -777,7 +865,8 @@
           "domain": "consed.org.br",
           "cls": "primary",
           "coverage": "counts",
-          "confirms": "OBC→IJSO 2024 pipeline + dates (no names)"
+          "confirms": "OBC→IJSO 2024 pipeline + dates (no names)",
+          "timing": "pre"
         }
       ],
       "note": "RESOLVED 2026-08-03 via the organizer's Instagram (@obciencias, 11 Dec 2024, read through imginn.com): ALL SIX students won bronze ('100%% do time brasileiro volta premiado', six 🥉). Consistent with the two independently-known bronzes (Felipe — Objetivo; Jailson — NOIC bio). The IJSO organisation itself still published no results document. Delegation post comments confirm Victor Tsuneichi is STAFF (grouped with Ronaldo Fogo; also tagged as staff in the Dec-2022 post), not a seventh student."

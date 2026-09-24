@@ -25,6 +25,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=31&year=1999",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -32,6 +33,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4, 'Participante' — independently reproduces the hardest year"
         },
@@ -39,6 +41,7 @@
           "url": "http://web.archive.org/web/20001208072100/http://scicsws01.sci.ku.ac.th:80/~icho31/mainpage/winner3.html",
           "domain": "web.archive.org (Thai host)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "original 31st-IChO host winners page (archived) — all 4 with full names, scores, ranks (150/161/180/170), 'Participant'"
         }
@@ -55,6 +58,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=32&year=2000",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -62,6 +66,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Sergio X. B. Araujo = Menção honrosa"
         },
@@ -69,6 +74,7 @@
           "url": "http://www.obq.ufc.br/Resultado32IChO.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/4",
           "confirms": "confirms Sergio Xavier Barbosa Araujo's honorable mention",
           "needle": "Sergio"
@@ -86,6 +92,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=33&year=2001",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -93,6 +100,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "nominal year-by-year table 1999–2024: name + rank + medal for every Brazilian competitor"
         },
@@ -100,6 +108,7 @@
           "url": "http://www.obq.ufc.br/Resultado33IChO.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4 verbatim (Carlos Henrique, Luiz Bruno Pereira Lima, Marcus Paulo F. Amarante, Michelle M. T. Figueiredo)"
         }
@@ -116,6 +125,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=34&year=2002",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -123,6 +133,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 2 bronze, 2 HM"
         },
@@ -130,6 +141,7 @@
           "url": "http://www.obq.ufc.br/Resultado%20IChO34.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "confirms the medalists (Fonteles, Yuri)",
           "needle": "Fonteles"
@@ -147,6 +159,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=35&year=2003",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -154,6 +167,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "nominal year-by-year table 1999–2024: name + rank + medal for every Brazilian competitor"
         },
@@ -161,6 +175,7 @@
           "url": "http://www.35icho.uoa.gr/ichol_eng/chemistry_eng/results/results.pdf",
           "domain": "35icho.uoa.gr (Greek host)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "original host results PDF — lists Brazil incl. Studart",
           "needle": "Studart"
@@ -169,6 +184,7 @@
           "url": "http://www.obq.ufc.br/35th%20IChOResultado.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster"
         }
@@ -185,6 +201,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=36&year=2004",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -192,6 +209,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; R. V. Ferreira Alves = HM"
         },
@@ -199,6 +217,7 @@
           "url": "http://www.obq.ufc.br/36th%20IChOResultado.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster"
         }
@@ -215,6 +234,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=37&year=2005",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -222,6 +242,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Juliana V. Mota = bronze"
         },
@@ -229,6 +250,7 @@
           "url": "http://www.obq.ufc.br/Resultado37thIChO.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 4-person roster"
         }
@@ -245,6 +267,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=38&year=2006",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -252,6 +275,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 3 bronze"
         },
@@ -259,6 +283,7 @@
           "url": "http://www.obq.ufc.br/38th%20IChOResultado.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster (Cesaris, Meneses, Apolônio, Thais)"
         }
@@ -275,6 +300,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=39&year=2007",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -282,6 +308,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Thais = silver"
         },
@@ -289,6 +316,7 @@
           "url": "http://www.obq.ufc.br/Resultados%20IChO39.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster (Thais, Cesaris, Jorio, Ernando)"
         }
@@ -305,6 +333,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=40&year=2008",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -312,6 +341,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Thais = silver, 3 bronze"
         },
@@ -319,6 +349,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2008",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         },
@@ -326,6 +357,7 @@
           "url": "http://www.obq.ufc.br/40thIChO_resultado.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster"
         }
@@ -342,6 +374,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=41&year=2009",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -349,6 +382,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Levindo = silver"
         },
@@ -356,6 +390,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2009",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         },
@@ -363,6 +398,7 @@
           "url": "http://www.obq.ufc.br/ResultadoIChO2009.pdf",
           "domain": "obq.ufc.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster"
         },
@@ -370,6 +406,7 @@
           "url": "https://www.quimica.com.br/41st-international-chemistry-olimpiad-delegacao-brasileira-ganha-destaque-em-evento-na-inglaterra/",
           "domain": "quimica.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "press — delegation coverage",
           "needle": "Levindo"
@@ -387,6 +424,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=42&year=2010",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -394,6 +432,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Levindo = silver, 3 bronze"
         },
@@ -401,6 +440,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2010",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         },
@@ -408,6 +448,7 @@
           "url": "https://abqsp.org.br/oqsp/historico/",
           "domain": "abqsp.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "Okuma + Franco = bronze (SP medalists, prose history)",
           "needle": "Okuma"
@@ -425,6 +466,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=43&year=2011",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -432,6 +474,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Davi R. Chaves = silver"
         },
@@ -439,6 +482,7 @@
           "url": "https://abqsp.org.br/oqsp/historico/",
           "domain": "abqsp.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "\"2011 IChO … Tábata C. A. de Pontes (bronze) … + 1 silver + 1 bronze\"",
           "needle": "Pontes"
@@ -447,6 +491,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2011",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -463,6 +508,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=44&year=2012",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -470,6 +516,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Daniel Hara = silver, 3 bronze"
         },
@@ -477,6 +524,7 @@
           "url": "https://abqsp.org.br/oqsp/historico/",
           "domain": "abqsp.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "\"2012 IChO … Daniel Arjona de Andrade Hara (prata) … outros três brasileiros … bronze\"",
           "needle": "Arjona"
@@ -485,6 +533,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2012",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -501,6 +550,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=45&year=2013",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -508,6 +558,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4, all bronze"
         },
@@ -515,6 +566,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/ResultadoIChO2013%E2%80%93Russia.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -522,6 +574,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2013",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -538,6 +591,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=46&year=2014",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -545,6 +599,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 3 bronze, 1 none"
         },
@@ -552,6 +607,7 @@
           "url": "https://abqsp.org.br/oqsp/historico/",
           "domain": "abqsp.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "\"2014 IChO … Chan Song Moon e Kevin Eiji Iwashita (bronze)\"",
           "needle": "Iwashita"
@@ -560,6 +616,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2014",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -576,6 +633,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=47&year=2015",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -583,6 +641,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Vitor Gomes Pires = silver"
         },
@@ -590,6 +649,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202015.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -597,6 +657,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2015",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -613,6 +674,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=48&year=2016",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -620,6 +682,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 2 silver, 2 bronze"
         },
@@ -627,6 +690,7 @@
           "url": "https://abqsp.org.br/oqsp/historico/",
           "domain": "abqsp.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "\"Vitor Gomes Pires e Pedro Seber e Silva (prata); Amgarten e Davi O. Aragão (bronze)\""
         },
@@ -634,6 +698,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202016.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -641,6 +706,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2016",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -657,6 +723,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=49&year=2017",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -664,6 +731,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 3 silver, 1 bronze"
         },
@@ -671,6 +739,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2017",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         },
@@ -678,6 +747,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202017.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         }
@@ -694,6 +764,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=50&year=2018",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -701,6 +772,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 2 gold"
         },
@@ -708,6 +780,7 @@
           "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2018-08/brasil-ganha-2-medalhas-de-ouro-na-olimpiada-internacional-de-quimica",
           "domain": "agenciabrasil.ebc.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "2 golds (Armelin + Ivna)",
           "needle": "Armelin"
@@ -716,6 +789,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202018.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -723,6 +797,7 @@
           "url": "https://agencia.fapesp.br/dois-estudantes-brasileiros-conquistam-ouro-na-olimpiada-internacional-de-quimica/28398",
           "domain": "agencia.fapesp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "2 golds",
           "needle": "Armelin"
@@ -731,6 +806,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2018",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -747,6 +823,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=51&year=2019",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -754,6 +831,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 2 silver, 2 bronze"
         },
@@ -761,6 +839,7 @@
           "url": "https://www.ufpi.br/ultimas-noticias-ufpi/32315-alunos-brasileiros-conquistam-medalhas-na-51-edicao-da-olimpiada-internacional-de-quimica-icho",
           "domain": "ufpi.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "3/4",
           "confirms": "Ygor/Joaquim silver, Lucas bronze",
           "needle": "Ygor"
@@ -769,6 +848,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202019.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -776,6 +856,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2019",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -792,6 +873,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=52&year=2020",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -799,6 +881,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Ygor = silver, 3 bronze"
         },
@@ -806,6 +889,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202020.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -813,6 +897,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2020",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -829,6 +914,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=53&year=2021",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -836,6 +922,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Vinicius Avelar = silver"
         },
@@ -843,6 +930,7 @@
           "url": "https://cfq.org.br/noticia/brasil-conquista-quatro-medalhas-na-olimpiada-internacional-de-quimica/",
           "domain": "cfq.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4"
         },
@@ -850,6 +938,7 @@
           "url": "https://obquimica.org/storage/olympiads/result-files/Resultado%20IChO%202021.pdf",
           "domain": "obquimica.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBQ result PDF — all 4 with medals"
         },
@@ -857,6 +946,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2021",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -873,6 +963,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=54&year=2022",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -880,6 +971,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 3 bronze, 1 HM"
         },
@@ -887,6 +979,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2022",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4 (Rafael/Moises/Diego bronze, João Pedro diploma)"
         },
@@ -894,6 +987,7 @@
           "url": "https://www.correiobraziliense.com.br/euestudante/educacao-basica/2022/08/5026143-aluno-do-ceara-e-o-1-brasileiro-a-vencer-olimpiadas-internacionais.html",
           "domain": "correiobraziliense.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/4",
           "confirms": "Rafael Moreno Ribeiro bronze",
           "needle": "Moreno"
@@ -911,6 +1005,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=55&year=2023",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -918,6 +1013,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; 3 silver, 1 bronze — resolves the CFQ medal swap"
         },
@@ -925,6 +1021,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2023",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         },
@@ -932,6 +1029,7 @@
           "url": "https://cfq.org.br/noticia/brasil-participa-da-55a-olimpiada-internacional-de-quimica-na-suica-e-obtem-melhor-resultado-das-ultimas-cinco-olimpiadas/",
           "domain": "cfq.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full — but SWAPS the Nailton/João Vitor medals (press error; resolved by the ABQ table + rank ordering)",
           "confirms": "names all 4; medal attribution for 2 of them is wrong",
           "needle": "Nailton"
@@ -950,6 +1048,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=56&year=2024",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -957,6 +1056,7 @@
           "url": "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf",
           "domain": "abq.org.br (RQI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4; Lucas Loes = gold, rank 6"
         },
@@ -964,6 +1064,7 @@
           "url": "https://www.qui.ufmg.br/equipe-brasileira-das-olimpiadas-de-quimica/",
           "domain": "qui.ufmg.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "Lucas ouro, Artur + Gabriel Paz prata, Fernando bronze"
         },
@@ -971,6 +1072,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2024",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "independent aggregator — all 4 Brazilians with score + medal"
         }
@@ -987,6 +1089,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=57&year=2025",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -994,6 +1097,7 @@
           "url": "https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/2025",
           "domain": "scoreboard.bc-pf.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all 4 (Lucas silver; Daniel, Ian, Cristian bronze)"
         },
@@ -1001,6 +1105,7 @@
           "url": "https://www.colegioetapa.com.br/portal/resultados/olimpiadas-cientificas",
           "domain": "colegioetapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/4",
           "confirms": "Lucas Kenji = prata, Daniel Suda = bronze",
           "needle": "Kenji"
@@ -1019,6 +1124,7 @@
           "url": "http://www.icho-official.org/results/results.php?id=58&year=2026",
           "domain": "icho-official.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official per-edition result table — full 4-person team, ranks + awards"
         },
@@ -1026,6 +1132,7 @@
           "url": "https://www.icho2026.uz/results/rankings.pdf",
           "domain": "icho2026.uz (Tashkent host)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "host rankings PDF — all 4 with scores + ranks (138/156/175/278), exact match"
         }

@@ -13,23 +13,24 @@ OLC = "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/iao/"
 WIKI = "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms,
+         "timing": timing}
     if needle:
         d["needle"] = needle
     return d
 
 
-def official(path, needle, confirms, coverage="medallists + team list"):
-    return src(R + path, "issp.ac.ru", "official", coverage, confirms, needle)
+def official(path, needle, confirms, coverage="medallists + team list", timing="post"):
+    return src(R + path, "issp.ac.ru", "official", coverage, confirms, needle, timing)
 
 
-def olc(needle, sub="", coverage="full"):
-    return src(OLC + sub, "olimpiadascientificas.org", "primary", coverage, "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states", needle)
+def olc(needle, sub="", coverage="full", timing="post"):
+    return src(OLC + sub, "olimpiadascientificas.org", "primary", coverage, "olimpiadascientificas.org roster (source: OBA site) incl. non-medallists and states", needle, timing)
 
 
-def wiki(needle="Brasil participa da IAO"):
-    return src(WIKI, "pt.wikipedia.org", "primary", "team size + medal counts", "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)", needle)
+def wiki(needle="Brasil participa da IAO", timing="post"):
+    return src(WIKI, "pt.wikipedia.org", "primary", "team size + medal counts", "pt.wikipedia 'A Participação do Brasil' table (participants and medals per year)", needle, timing)
 
 
 SOURCES = {

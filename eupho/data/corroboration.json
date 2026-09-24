@@ -23,6 +23,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2020/07/1stEuPhO_results.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — 1st EuPhO (Tallinn), results+medals; Diogo listed as 'Diogo Netto'",
           "needle": "Gabriel Golfetti"
@@ -31,6 +32,7 @@
           "url": "https://noic.com.br/fisica/ipho/brasil-conquista-medalhas-de-ouro-prata-e-bronze-na-eupho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "per-student medals, 1ª edição/Estônia (2017-05-24)",
           "needle": "Golfetti"
@@ -48,6 +50,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2020/07/eupho18-results.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — full ranked table w/ scores ('Gabriel Trigo', no 'Guerra')",
           "needle": "Rafael Timbó"
@@ -56,6 +59,7 @@
           "url": "https://noic.com.br/uncategorized/tres-pratas-e-dois-bronzes-para-o-brasil-na-eupho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "3 pratas + 2 bronzes, Moscou (2018-06-01)",
           "needle": "GABRIEL GUERRA TRIGO"
@@ -64,6 +68,7 @@
           "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-bronze-na-2a-eupho",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Etapa student bronze, 2ª EuPhO",
           "needle": "Gabriel Guerra Trigo"
@@ -82,6 +87,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2020/07/EuPhO2019_results.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — full results table",
           "needle": "Gabriel Capelo Domingues"
@@ -90,6 +96,7 @@
           "url": "https://noic.com.br/fisica/resultado-historico-para-o-brasil-na-eupho-2019/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "Riga/Letônia results (2019-06-04)",
           "needle": "Santana Moura"
@@ -98,6 +105,7 @@
           "url": "https://blog.etapa.com.br/noticias/bronze-na-olimpiada-europeia-de-fisica",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "bronze at 3ª edição, Riga (07/06/2019)",
           "needle": "Miguel Vieira Pereira"
@@ -115,6 +123,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2020/07/EuPhO-2020-results.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — online edition, 4-student team w/ scores+awards",
           "needle": "Menegon"
@@ -123,6 +132,7 @@
           "url": "https://noic.com.br/uncategorized/sai-o-resultado-da-seletiva-de-fisica-descubra-quem-respresentara-o-brasil-nas-internacionais/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "3/4 — pre-event announcement (roster later changed, see note)",
           "confirms": "NOIC seletiva announcement (2020-03-15)",
           "needle": "Wanderson Faustino Patricio"
@@ -141,6 +151,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2021/06/EuPhO2021-results.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — full results table",
           "needle": "Ian Seo Takose"
@@ -149,6 +160,7 @@
           "url": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/soif/15-soif/269-brasil-conquista-cinco-medalhas-na-eupho-2021.html",
           "domain": "sbfisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF/OBF: 5 medals",
           "needle": "Takose"
@@ -157,6 +169,7 @@
           "url": "https://blog.etapa.com.br/noticias/eupho-2021",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/5",
           "confirms": "Etapa students at EuPhO 2021",
           "needle": "Makoto"
@@ -174,6 +187,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2022/05/EuPhO2022-awards.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — awards list",
           "needle": "Pepato"
@@ -182,6 +196,7 @@
           "url": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/soif/15-soif/304-olimpiada-europeia-de-fisica-eupho-2022.html",
           "domain": "sbfisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF article incl. Alícia HM",
           "needle": "Everton Albuquerque"
@@ -190,6 +205,7 @@
           "url": "https://noic.com.br/olimpiadas/fisica/hall-da-fisica/",
           "domain": "noic.com.br",
           "cls": "archive",
+          "timing": "post",
           "coverage": "partial",
           "confirms": "NOIC hall compilation w/ testimonials (2018/2021/2022/2023)",
           "needle": "João Pepato"
@@ -207,6 +223,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2023/06/EuPhO23-results.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — full results",
           "needle": "Albernaz"
@@ -215,6 +232,7 @@
           "url": "https://noic.com.br/uncategorized/resultados-da-eupho/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "ouro + 3 pratas + bronze, Alemanha (2023-07-10)",
           "needle": "Alberto Akira Ito Albernaz"
@@ -223,6 +241,7 @@
           "url": "https://www1.fisica.org.br/olimpiada/2024/index.php/15-soif/329-desempenho-historico-na-eupho-2023",
           "domain": "fisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF article",
           "needle": "Mazili"
@@ -240,6 +259,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2024/07/EuPhO-2024-results-resultsforweb.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — full results, 256 participants",
           "needle": "Bruno Machado Feltran"
@@ -248,6 +268,7 @@
           "url": "https://www1.fisica.org.br/olimpiada/2024/index.php/soif/15-soif/356-brasil-conquista-2-pratas-e-3-bronzes-na-eupho-2024",
           "domain": "fisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF: 2 pratas + 3 bronzes",
           "needle": "Gurjão"
@@ -265,6 +286,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2025/06/EuPhO_2025_results-3.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — results (Sofia) — 4/5: Hideshima (no award) absent from PDF; two-column text layer, token matching needed",
           "needle": "Avelar"
@@ -273,6 +295,7 @@
           "url": "https://www1.fisica.org.br/olimpiada/2025/index.php/15-soif/373-conquistas-na-eupho-2025",
           "domain": "fisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "SBF article — all 5 incl. Hideshima (photo caption) + schools",
           "needle": "Vitor Takashi Hideshima"
@@ -281,6 +304,7 @@
           "url": "https://www.agazeta.com.br/colunas/leonel-ximenes/einstein-capixaba-faz-bonito-na-olimpiada-de-fisica-na-europa-0625",
           "domain": "agazeta.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "column 26/06/2025: prata, IFES, Bulgária",
           "needle": "Patrick Avelar"
@@ -299,6 +323,7 @@
           "url": "https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Results-1.pdf",
           "domain": "eupho.ee",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results PDF — all 5 Brazilians bronze (ranks 73–96), Sweden",
           "needle": "Yamashita Risseto"
@@ -307,6 +332,7 @@
           "url": "https://g1.globo.com/pa/para/noticia/2026/06/19/estudante-do-pa-conquista-bronze-inedito-na-olimpiada-europeia-de-fisica.ghtml",
           "domain": "g1.globo.com",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "bronze, EuPhO 2026 na Suécia (19/06/2026)",
           "needle": "Eyke Cardoso"
@@ -315,6 +341,7 @@
           "url": "https://www.oliberal.com/para/aluno-paraense-e-selecionado-para-representar-o-brasil-na-olimpiada-europeia-de-fisica-1.1095992",
           "domain": "oliberal.com",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "1/5 — pre-event selection (Mar 2026)",
           "confirms": "O Liberal selection story",
           "needle": "Eyke"

@@ -23,6 +23,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Haddad"
@@ -31,6 +32,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/lusofonia/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 2011-2012",
           "needle": "Haddad"
@@ -49,6 +51,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Zanarella"
@@ -57,6 +60,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/matematica/lusofonia/",
           "domain": "olimpiadascientificas.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster mirror (source: OBM), 2011-2012",
           "needle": "Zanarella"
@@ -74,6 +78,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Siaudizionis"
@@ -82,6 +87,7 @@
           "url": "https://noic.com.br/uncategorized/resultados-da-3a-omcplp/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: 4 names + medals (Maputo)",
           "needle": "Siaudzionis"
@@ -90,6 +96,7 @@
           "url": "https://noic.com.br/matematica/comeca-a-olimpiada-matematica-da-lusofonia/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "event",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC: team at the start (names, cities)",
           "needle": "Campos Vargas"
@@ -108,6 +115,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Kowalczuk"
@@ -116,6 +124,7 @@
           "url": "https://noic.com.br/matematica/resultado-brasileira-da-lusofonia-2014/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post (Luanda)",
           "needle": "Kowalczuk"
@@ -133,6 +142,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Sponchiado"
@@ -141,6 +151,7 @@
           "url": "https://noic.com.br/matematica/brasil-conquista-primeiro-lugar-na-olimpiada-de-matematica-da-cplp/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: 4 names + medals; team champion (Praia)",
           "needle": "Sponchiado"
@@ -149,6 +160,7 @@
           "url": "https://noic.com.br/matematica/divulgada-a-equipe-brasileira-para-a-olimpiada-de-matematica-da-cplp/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
           "needle": "Sponchiado"
@@ -157,6 +169,7 @@
           "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html",
           "domain": "obm.org.br (Wayback)",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM's former site (2016 snapshot): 2015 table (names, cities, medals)",
           "needle": "Sponchiado"
@@ -174,6 +187,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Hippólyto"
@@ -182,6 +196,7 @@
           "url": "https://web.archive.org/web/20161224154153/http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html",
           "domain": "obm.org.br (Wayback)",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM's former site (2016 snapshot): 2016 table (names, cities, medals) + leaders",
           "needle": "Hippólyto"
@@ -190,6 +205,7 @@
           "url": "https://www.obm.org.br/2016/10/10/o-brasil-conquistou-o-segundo-lugar-na-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "team placing only (results linked, no names)",
           "confirms": "OBM news: 2nd place (117 pts vs Portugal 121), Fortaleza 5-9 Oct"
         }
@@ -207,6 +223,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Koga"
@@ -215,6 +232,7 @@
           "url": "https://www.obm.org.br/2017/05/16/confira-a-equipe-que-participara-da-7a-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "OBM: team announcement (Porto, 24-30 Jul)",
           "needle": "Koga"
@@ -223,6 +241,7 @@
           "url": "https://impa.br/notices/brasil-conquista-quatro-medalhas-na-olimpiada-dos-paises-lusofonos/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IMPA: results (4 names, cities, medals)",
           "needle": "Koga"
@@ -240,6 +259,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Quirino"
@@ -248,6 +268,7 @@
           "url": "https://www.obm.org.br/2018/09/11/com-ouro-maximo-equipe-do-brasil-volta-da-omcplp-2018/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 4 names (short forms) + medals; leaders; team champion (São Tomé)",
           "needle": "Quirino"
@@ -256,6 +277,7 @@
           "url": "https://noic.com.br/matematica/brasil-conquista-4-medalhas-na-cplp-2018/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: 4 names (short forms) + medals",
           "needle": "Quirino"
@@ -264,6 +286,7 @@
           "url": "https://impa.br/notices/com-ouro-perfeito-brasil-conquista-quatro-medalhas-na-omcplp/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IMPA: results (4 names, cities, medals)",
           "needle": "Quirino"
@@ -282,6 +305,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Lengruber"
@@ -290,6 +314,7 @@
           "url": "https://www.obm.org.br/2019/11/04/9a-olimpiada-de-matematica-dos-paises-da-cplp-comecou-neste-domingo-em-nova-friburgo/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "event",
           "coverage": "full (pre-event roster)",
           "confirms": "OBM: team at the opening (full names, cities), leaders",
           "needle": "Lengruber"
@@ -298,6 +323,7 @@
           "url": "https://www.obm.org.br/2019/11/08/12007/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "medal counts",
           "confirms": "OBM news: medal table; team champion (Nova Friburgo)",
           "needle": "Ouro"
@@ -306,6 +332,7 @@
           "url": "https://noic.com.br/matematica/brasil-conquista-dois-ouros-e-duas-pratas-na-omcplp/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "NOIC results post: 4 names + medals",
           "needle": "Lengruber"
@@ -314,6 +341,7 @@
           "url": "https://impa.br/notices/brasil-e-ouro-na-olimpiada-de-matematica-de-paises-de-lingua-portuguesa/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "IMPA: results (4 names, cities, medals); leaders",
           "needle": "Lengruber"
@@ -322,6 +350,7 @@
           "url": "https://impa.br/notices/brasil-sedia-9a-omcplp-a-partir-de-domingo-3/",
           "domain": "impa.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "IMPA: team at the venue (full names)",
           "needle": "Lengruber"
@@ -340,6 +369,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Fontenele"
@@ -348,6 +378,7 @@
           "url": "https://www.obm.org.br/2022/11/05/com-tres-ouros-e-uma-prata-brasil-fica-em-primeiro-lugar-na-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 4 names, points, medals; leader; team champion (Maputo)",
           "needle": "Fontenele"
@@ -366,6 +397,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Fujibayashi"
@@ -374,6 +406,7 @@
           "url": "https://www.obm.org.br/2023/05/28/com-dois-ouros-e-duas-pratas-brasil-fica-em-primeiro-lugar-na-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: results table; team champion (Fortaleza)",
           "needle": "Fujibayashi"
@@ -382,6 +415,7 @@
           "url": "https://noic.com.br/uncategorized/times-luso-e-cone-sul-anunciados/",
           "domain": "noic.com.br",
           "cls": "primary",
+          "timing": "pre",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement (first-name short forms)",
           "needle": "Lucas Kenji"
@@ -399,6 +433,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Amiune"
@@ -407,6 +442,7 @@
           "url": "https://www.obm.org.br/2024/07/27/brasil-e-campeao-da-olimpiada-de-matematica-da-cplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: 4 names, points, medals; leaders; team champion (Oeiras)",
           "needle": "Amiune"
@@ -424,6 +460,7 @@
           "url": "https://www.obm.org.br/resultados-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "national organizer results table (all 13 editions): names, city/state, medal",
           "needle": "Basílio"
@@ -432,6 +469,7 @@
           "url": "https://www.obm.org.br/2025/11/01/brasil-e-campeao-da-13a-omcplp/",
           "domain": "obm.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBM news: results table; team champion (Fortaleza)",
           "needle": "Basílio"

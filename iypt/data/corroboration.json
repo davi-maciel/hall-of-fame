@@ -25,6 +25,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Lazarte"
         },
         {
@@ -33,6 +34,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Lazarte"
         },
         {
@@ -41,6 +43,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -49,6 +52,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -57,6 +61,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Lazarte"
         },
         {
@@ -65,6 +70,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Lazarte"
         }
       ],
@@ -83,6 +89,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Ogassavara"
         },
         {
@@ -91,6 +98,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Ogassavara"
         },
         {
@@ -99,6 +107,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -107,6 +116,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -115,6 +125,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Ogassavara"
         },
         {
@@ -123,6 +134,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Ogassavara"
         }
       ]
@@ -140,6 +152,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Vignon"
         },
         {
@@ -148,6 +161,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Vignon"
         },
         {
@@ -156,6 +170,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -164,6 +179,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -172,6 +188,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Vignon"
         },
         {
@@ -180,6 +197,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Vignon"
         }
       ],
@@ -198,6 +216,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Velani"
         },
         {
@@ -206,6 +225,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Velani"
         },
         {
@@ -214,6 +234,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -222,6 +243,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -230,6 +252,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Velani"
         },
         {
@@ -238,6 +261,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Velani"
         }
       ],
@@ -256,6 +280,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Frassei"
         },
         {
@@ -264,6 +289,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Frassei"
         },
         {
@@ -272,6 +298,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -280,6 +307,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -288,6 +316,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Frassei"
         },
         {
@@ -296,6 +325,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Frassei"
         }
       ],
@@ -314,6 +344,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Guinsberg"
         },
         {
@@ -322,6 +353,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Guinsberg"
         },
         {
@@ -330,6 +362,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -338,6 +371,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -346,6 +380,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Guinsberg"
         },
         {
@@ -354,6 +389,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Guinsberg"
         }
       ],
@@ -372,6 +408,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Christovam"
         },
         {
@@ -380,6 +417,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Christovam"
         },
         {
@@ -388,6 +426,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -396,6 +435,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -404,6 +444,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Christovam"
         },
         {
@@ -412,6 +453,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal",
+          "timing": "post",
           "needle": "Christovam"
         },
         {
@@ -420,6 +462,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: silver, 7th, team",
+          "timing": "post",
           "needle": "Christovam"
         },
         {
@@ -428,6 +471,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "G1: team announced with cities",
+          "timing": "pre",
           "needle": "Christovam"
         }
       ],
@@ -446,6 +490,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Ceotto"
         },
         {
@@ -454,6 +499,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Ceotto"
         },
         {
@@ -462,6 +508,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -470,6 +517,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -478,6 +526,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Ceotto"
         },
         {
@@ -486,6 +535,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: 18th, team",
+          "timing": "post",
           "needle": "Ceotto"
         }
       ]
@@ -503,6 +553,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Kalife"
         },
         {
@@ -511,6 +562,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Kalife"
         },
         {
@@ -519,6 +571,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -527,6 +580,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -535,6 +589,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Kalife"
         },
         {
@@ -543,6 +598,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: silver, 5th, team",
+          "timing": "post",
           "needle": "Kalife"
         }
       ]
@@ -560,6 +616,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Tamae"
         },
         {
@@ -568,6 +625,7 @@
           "cls": "official",
           "coverage": "full (with captain and leaders)",
           "confirms": "IYPT Archive 'People': team rosters per IYPT",
+          "timing": "post",
           "needle": "Tamae"
         },
         {
@@ -576,6 +634,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "IYPT Archive factsheets: per-year ranking tables (scores, diploma/medal)",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -584,6 +643,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -592,6 +652,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Tamae"
         },
         {
@@ -600,6 +661,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: bronze, 14th, team",
+          "timing": "post",
           "needle": "Tamae"
         }
       ],
@@ -618,6 +680,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Mambrim"
         },
         {
@@ -626,6 +689,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -634,6 +698,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "M. Barbosa"
         },
         {
@@ -642,6 +707,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Mambrim"
         },
         {
@@ -650,6 +716,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: silver, 8th, five names, medal bands explained",
+          "timing": "post",
           "needle": "Mambrim"
         }
       ],
@@ -668,6 +735,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Crocia"
         },
         {
@@ -676,6 +744,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -684,6 +753,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "Cutrim Costa"
         },
         {
@@ -692,6 +762,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Crocia"
         },
         {
@@ -700,6 +771,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Galileu: silver, 5th, five names",
+          "timing": "post",
           "needle": "Crocia"
         },
         {
@@ -708,6 +780,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "G1: 5th, silver band = ranks 5-8",
+          "timing": "post",
           "needle": "Cutrim Costa"
         }
       ],
@@ -726,6 +799,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Slikta"
         },
         {
@@ -734,6 +808,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -742,6 +817,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "Ventura Andreossi"
         },
         {
@@ -750,6 +826,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "pt.wikipedia: 'Delegações brasileiras' (2004-2019) and results table",
+          "timing": "post",
           "needle": "Slikta"
         },
         {
@@ -758,6 +835,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: silver, 6th, team with states",
+          "timing": "post",
           "needle": "Slikta"
         },
         {
@@ -766,6 +844,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Galileu: silver, 6th, names and schools",
+          "timing": "post",
           "needle": "Slikta"
         }
       ]
@@ -783,6 +862,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Frascati"
         },
         {
@@ -791,6 +871,7 @@
           "cls": "official",
           "coverage": "team rank",
           "confirms": "iypt.org past-tournament page: final ranking",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -799,6 +880,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "Seino"
         }
       ],
@@ -817,6 +899,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Hinsching"
         },
         {
@@ -825,6 +908,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "iypt.org past-tournament page: final ranking with medal bands",
+          "timing": "post",
           "needle": "Silver"
         },
         {
@@ -833,6 +917,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "Monforte"
         },
         {
@@ -841,6 +926,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Diário do Nordeste: José Eleutério silver (Murree)",
+          "timing": "post",
           "needle": "Eleutério"
         },
         {
@@ -849,6 +935,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Correio Braziliense: José Eleutério silver",
+          "timing": "post",
           "needle": "Eleutério"
         }
       ],
@@ -867,6 +954,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Aleixo"
         },
         {
@@ -875,6 +963,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "iypt.org past-tournament page: final ranking with medal bands",
+          "timing": "post",
           "needle": "Bronze"
         },
         {
@@ -883,6 +972,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "Bandeira Martins"
         },
         {
@@ -891,6 +981,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "Folha: Gabriel Bassi bronze 2024, silver 2025 (captain)",
+          "timing": "post",
           "needle": "Bassi"
         }
       ]
@@ -908,6 +999,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Scarabelli"
         },
         {
@@ -916,6 +1008,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "iypt.org tournament page: final ranking with medal bands",
+          "timing": "post",
           "needle": "Silver"
         },
         {
@@ -924,6 +1017,7 @@
           "cls": "official",
           "coverage": "fight line-ups (initial + surname)",
           "confirms": "IYPT competition-control team page: Brazil's fight results and speakers",
+          "timing": "event",
           "needle": "Dochi Scarabelli"
         },
         {
@@ -932,6 +1026,7 @@
           "cls": "primary",
           "coverage": "one student",
           "confirms": "G1: Gabriel Bassi, IYPT silver 2025",
+          "timing": "post",
           "needle": "Bassi"
         }
       ]
@@ -949,6 +1044,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "IYPT Brasil (national organizer) 'História' page: every Brazilian delegation 2004-2026 + results narrative",
+          "timing": "post",
           "needle": "Manzoli Gorni"
         },
         {
@@ -957,6 +1053,7 @@
           "cls": "official",
           "coverage": "team rank + medal",
           "confirms": "iypt.org tournament page: final ranking with medal bands (Zurich)",
+          "timing": "post",
           "needle": "Bronze"
         }
       ],

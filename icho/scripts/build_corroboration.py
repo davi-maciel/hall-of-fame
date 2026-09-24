@@ -26,42 +26,56 @@ ROOT = os.path.dirname(HERE)
 ABQ_PDF = "https://www.abq.org.br/rqi/2014/777/RQI-777-pagina16-56-Edicao-Olimpiada-Intenacional-de-Quimica.pdf"
 
 
-def s1(edition_id, year):
+# Every entry carries a "timing": when the source was produced relative to the edition.
+#   "post"  - after it, reporting participation/results (results tables, press, compilations)
+#   "event" - during it (ceremony/exam-day posts, live participant pages)
+#   "pre"   - before it (selection results, team announcements, pre-event press)
+#   "ref"   - not edition-specific participation evidence (regulations, overviews, indexes)
+# Every IChO source is a results record or post-event report, so "post" is the default.
+
+
+def s1(edition_id, year, timing="post"):
     return {"url": f"http://www.icho-official.org/results/results.php?id={edition_id}&year={year}",
-            "domain": "icho-official.org", "cls": "official", "coverage": "full",
+            "domain": "icho-official.org", "cls": "official", "timing": timing, "coverage": "full",
             "confirms": "official per-edition result table — full 4-person team, ranks + awards"}
 
 
-def s4(confirms="nominal year-by-year table 1999–2024: name + rank + medal for every Brazilian competitor"):
-    return {"url": ABQ_PDF, "domain": "abq.org.br (RQI)", "cls": "primary", "coverage": "full", "confirms": confirms}
+def s4(confirms="nominal year-by-year table 1999–2024: name + rank + medal for every Brazilian competitor",
+       timing="post"):
+    return {"url": ABQ_PDF, "domain": "abq.org.br (RQI)", "cls": "primary", "timing": timing,
+            "coverage": "full", "confirms": confirms}
 
 
-def s5(url, coverage, confirms, needle=None):
-    d = {"url": url, "domain": "obq.ufc.br", "cls": "primary", "coverage": coverage, "confirms": confirms}
-    if needle:
-        d["needle"] = needle
-    return d
-
-
-def s6(url, confirms="OBQ result PDF — all 4 with medals"):
-    return {"url": url, "domain": "obquimica.org", "cls": "primary", "coverage": "full", "confirms": confirms}
-
-
-def s8(year, confirms="independent aggregator — all 4 Brazilians with score + medal"):
-    return {"url": f"https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/{year}",
-            "domain": "scoreboard.bc-pf.org", "cls": "archive", "coverage": "full", "confirms": confirms}
-
-
-def abqsp(coverage, confirms, needle=None):
-    d = {"url": "https://abqsp.org.br/oqsp/historico/", "domain": "abqsp.org.br", "cls": "primary",
+def s5(url, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": "obq.ufc.br", "cls": "primary", "timing": timing,
          "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def s6(url, confirms="OBQ result PDF — all 4 with medals", timing="post"):
+    return {"url": url, "domain": "obquimica.org", "cls": "primary", "timing": timing,
+            "coverage": "full", "confirms": confirms}
+
+
+def s8(year, confirms="independent aggregator — all 4 Brazilians with score + medal", timing="post"):
+    return {"url": f"https://scoreboard.bc-pf.org/en/results/chemistry/international-chemistry-olympiad/{year}",
+            "domain": "scoreboard.bc-pf.org", "cls": "archive", "timing": timing,
+            "coverage": "full", "confirms": confirms}
+
+
+def abqsp(coverage, confirms, needle=None, timing="post"):
+    d = {"url": "https://abqsp.org.br/oqsp/historico/", "domain": "abqsp.org.br", "cls": "primary",
+         "timing": timing, "coverage": coverage, "confirms": confirms}
+    if needle:
+        d["needle"] = needle
+    return d
+
+
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing,
+         "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d

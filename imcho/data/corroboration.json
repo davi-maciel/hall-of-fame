@@ -25,6 +25,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "signed 57th-IMChO protocol, full 113-rank table — all 4 Brazilians with band + points",
+          "timing": "post",
           "needle": "Nailton"
         },
         {
@@ -33,6 +34,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "first Brazilian participation; 1 prata + 2 bronzes + 1 'menção honrosa'",
+          "timing": "post",
           "needle": "Mendelev"
         },
         {
@@ -41,6 +43,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "4 names + states + leaders; Astana; only Americas team",
+          "timing": "post",
           "needle": "Astana"
         }
       ],
@@ -59,6 +62,7 @@
           "cls": "official",
           "coverage": "medalists",
           "confirms": "58th results page + medal-list images: Artur Galiza silver r39; Loes r51 + Gabriel Paz r88 bronze; no Brazilian gold",
+          "timing": "post",
           "needle": "itog"
         },
         {
@@ -67,6 +71,7 @@
           "cls": "primary",
           "coverage": "2/10",
           "confirms": "Sophia Alves + Matsumoto, Farias Brito, only girls in the delegation",
+          "timing": "event",
           "needle": "Sophia"
         },
         {
@@ -75,6 +80,7 @@
           "cls": "primary",
           "coverage": "2/10",
           "confirms": "delegation of ten; Ayumi Matsumoto; Shenzhen 20–27 Apr",
+          "timing": "pre",
           "needle": "Matsumoto"
         },
         {
@@ -83,6 +89,7 @@
           "cls": "primary",
           "coverage": "full (151-row protocol incl. non-medallists; local copy data/raw/bcpf-scoreboard-imcho-2024.html)",
           "confirms": "bc-pf scoreboard reproduction of the 58th IMChO protocol: all ten Brazilians with scores - Galiza silver r39, Loes bronze r51, Aguiar bronze r88, then Melo Garcia, Joaquim Parra, Queiroz Dias, Camilo Azevedo, De Lucca Tavares da Costa, Alves da Silva, Ayumi Matsumoto without award",
+          "timing": "post",
           "needle": "Melo Garcia"
         }
       ],
@@ -101,6 +108,7 @@
           "cls": "official",
           "coverage": "counts",
           "confirms": "59th results release: 19G/38S/58B; links full lists",
+          "timing": "post",
           "needle": "59th"
         },
         {
@@ -108,7 +116,8 @@
           "domain": "disk.yandex.ru (official full results)",
           "cls": "official",
           "coverage": "full (xlsx via JS viewer — status-only liveness check)",
-          "confirms": "official Gold/Silver/Bronze xlsx: exactly 8 Brazil rows, all Bronze (xlsx behind a JS viewer — content verified by API download at collection; liveness check is status-only)"
+          "confirms": "official Gold/Silver/Bronze xlsx: exactly 8 Brazil rows, all Bronze (xlsx behind a JS viewer — content verified by API download at collection; liveness check is status-only)",
+          "timing": "post"
         },
         {
           "url": "https://cfq.org.br/noticia/brasil-conquista-oito-medalhas-na-olimpiada-internacional-de-quimica-e-consolida-protagonismo-global-cfq-participou-da-abertura-do-evento/",
@@ -116,6 +125,7 @@
           "cls": "primary",
           "coverage": "8/15",
           "confirms": "8 medalist names (7 CE + Daniel Suda SP)",
+          "timing": "post",
           "needle": "oito medalhas"
         },
         {
@@ -124,6 +134,7 @@
           "cls": "primary",
           "coverage": "partial",
           "confirms": "10 of 15 Brazilian participants from Ceará; João Marcelo (Colégio Master) participated",
+          "timing": "post",
           "needle": "Master"
         },
         {
@@ -131,7 +142,8 @@
           "domain": "disk.360.yandex.ru (signed protocol)",
           "cls": "official",
           "coverage": "full (image-scan PDF; names read visually, archived as data/raw/protocolmmo59.pdf)",
-          "confirms": "Signed 59th IMChO protocol (jury chair Gladilin): full 188-rank table incl. non-medallists - all 15 Brazilians"
+          "confirms": "Signed 59th IMChO protocol (jury chair Gladilin): full 188-rank table incl. non-medallists - all 15 Brazilians",
+          "timing": "post"
         }
       ],
       "note": "Host edition (UFMG, Belo Horizonte — first IMChO in the Americas; 40 countries). All 15 Brazilian participants recorded: 8 bronzes + 7 without award (six added 2026-09-16 from the signed protocol). CFQ misattaches 'Hatushikano'."
@@ -149,6 +161,7 @@
           "cls": "official",
           "coverage": "medalists",
           "confirms": "60th results: three '(Brazil)' entries in the bronze list; none in gold/silver",
+          "timing": "post",
           "needle": "Brazil"
         },
         {
@@ -157,6 +170,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "Guilherme Soares profile; names all 3 bronzes; delegation of 10",
+          "timing": "post",
           "needle": "Iguatu"
         },
         {
@@ -164,7 +178,8 @@
           "domain": "msu.ru (signed protocol)",
           "cls": "official",
           "coverage": "full (image-scan PDF; names read visually, archived as data/raw/mmo60-results.pdf)",
-          "confirms": "Signed 60th IMChO protocol: full 160-rank table - all 10 Brazilians (3 bronzes + 7 without award)"
+          "confirms": "Signed 60th IMChO protocol: full 160-rank table - all 10 Brazilians (3 bronzes + 7 without award)",
+          "timing": "post"
         }
       ],
       "note": "Jubilee 60th, Moscow. All 10 Brazilian participants recorded: 3 bronzes + 7 without award (added 2026-09-16 from the signed protocol)."

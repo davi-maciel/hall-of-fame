@@ -25,6 +25,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Miquelin"
         },
         {
@@ -32,7 +33,8 @@
           "domain": "ioling.org",
           "cls": "official",
           "coverage": "awards + scores (no Brazilian award)",
-          "confirms": "ioling.org 2011 results: no Brazilian award that year"
+          "confirms": "ioling.org 2011 results: no Brazilian award that year",
+          "timing": "post"
         },
         {
           "url": "https://obling.org/kyta",
@@ -40,6 +42,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Miquelin"
         },
         {
@@ -48,6 +51,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2011-2012) with cities and awards",
+          "timing": "post",
           "needle": "Miquelin"
         }
       ],
@@ -66,6 +70,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Miyazaki"
         },
         {
@@ -74,6 +79,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Miyazaki"
         },
         {
@@ -82,6 +88,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Miyazaki"
         },
         {
@@ -90,6 +97,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Miyazaki"
         },
         {
@@ -98,6 +106,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "olimpiadascientificas.org roster (2011-2012) with cities and awards",
+          "timing": "post",
           "needle": "Miyazaki"
         }
       ],
@@ -116,6 +125,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Navarro Barros"
         },
         {
@@ -124,6 +134,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Navarro Barros"
         },
         {
@@ -132,6 +143,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Navarro Barros"
         },
         {
@@ -140,6 +152,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Navarro Barros"
         }
       ],
@@ -158,6 +171,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Cavalcanti Silva"
         },
         {
@@ -166,6 +180,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Diniz"
         },
         {
@@ -174,6 +189,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Diniz"
         },
         {
@@ -182,6 +198,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Cavalcanti"
         },
         {
@@ -190,6 +207,7 @@
           "cls": "primary",
           "coverage": "awards",
           "confirms": "NOIC: the single 2014 award (HM)",
+          "timing": "post",
           "needle": "DINIZ"
         }
       ]
@@ -207,6 +225,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Kumruian"
         },
         {
@@ -215,6 +234,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Ozaki"
         },
         {
@@ -223,6 +243,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Ozaki"
         },
         {
@@ -231,6 +252,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Kumruian"
         }
       ],
@@ -249,6 +271,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Herkenhoff"
         },
         {
@@ -257,6 +280,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -265,6 +289,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -273,6 +298,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Herkenhoff"
         }
       ]
@@ -290,6 +316,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Steinmetz"
         },
         {
@@ -298,6 +325,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -306,6 +334,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -314,6 +343,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Steinmetz"
         },
         {
@@ -322,6 +352,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: both teams, S + B + HM, team bronze",
+          "timing": "post",
           "needle": "Steinmetz"
         }
       ],
@@ -340,6 +371,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Nh"
         },
         {
@@ -348,6 +380,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -356,6 +389,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -364,6 +398,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Azevedo"
         },
         {
@@ -372,6 +407,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: two silvers, both teams",
+          "timing": "post",
           "needle": "Palote"
         },
         {
@@ -380,6 +416,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Palote"
         }
       ],
@@ -398,6 +435,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Naigeborin"
         },
         {
@@ -406,6 +444,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Naigeborin"
         },
         {
@@ -414,6 +453,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Naigeborin"
         },
         {
@@ -422,6 +462,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Naigeborin"
         }
       ],
@@ -440,6 +481,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Oikawa"
         },
         {
@@ -448,6 +490,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Oikawa"
         },
         {
@@ -456,6 +499,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Oikawa"
         },
         {
@@ -464,6 +508,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Oikawa"
         },
         {
@@ -472,6 +517,7 @@
           "cls": "primary",
           "coverage": "full",
           "confirms": "NOIC: 2G + 5B + HM (record)",
+          "timing": "post",
           "needle": "Luiz Satoshi"
         },
         {
@@ -480,6 +526,7 @@
           "cls": "primary",
           "coverage": "full (pre-event roster)",
           "confirms": "NOIC team announcement",
+          "timing": "pre",
           "needle": "Luiz Satoshi"
         }
       ],
@@ -498,6 +545,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Ramscheid"
         },
         {
@@ -506,6 +554,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Moraes Barros"
         },
         {
@@ -514,6 +563,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Moraes Barros"
         },
         {
@@ -522,6 +572,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "OBL (national organizer) edition page: IOL team with full names, schools and cities, awards",
+          "timing": "post",
           "needle": "Ramscheid"
         }
       ],
@@ -540,6 +591,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Pigini"
         },
         {
@@ -548,6 +600,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Pigini"
         },
         {
@@ -556,6 +609,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Pigini"
         }
       ],
@@ -574,6 +628,7 @@
           "cls": "official",
           "coverage": "full",
           "confirms": "ioling.org 'Delegations' for Brazil: every team, member and leader per year (medal emoji on winners)",
+          "timing": "post",
           "needle": "Lonel"
         },
         {
@@ -582,6 +637,7 @@
           "cls": "official",
           "coverage": "awards + scores",
           "confirms": "ioling.org per-year results: individual contest awards (medals, HM) and team contest results",
+          "timing": "post",
           "needle": "Lonel"
         },
         {
@@ -590,6 +646,7 @@
           "cls": "official",
           "coverage": "medallists + HM",
           "confirms": "ioling.org country page: all Brazilian medallists, honourable mentions and team trophies",
+          "timing": "post",
           "needle": "Lonel"
         }
       ],

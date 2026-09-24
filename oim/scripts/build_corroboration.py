@@ -13,8 +13,8 @@ OLC = "https://olimpiadascientificas.org/equipes-brasileiras/matematica/oim/"
 WB = "https://web.archive.org/web/20161110114648/http://www.obm.org.br/opencms/competicoes/internacionais/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d

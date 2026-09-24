@@ -16,8 +16,10 @@ WIKI = "https://pt.wikipedia.org/wiki/Torneio_Internacional_de_Jovens_F%C3%ADsic
 OLC = "https://olimpiadascientificas.org/equipes-brasileiras/fisica/iypt/"
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    # timing: when the source was produced relative to the edition -
+    # "post" (results/reporting), "event" (during), "pre" (selection/announcement), "ref" (not edition-specific).
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms, "timing": timing}
     if needle:
         d["needle"] = needle
     return d
@@ -41,7 +43,8 @@ def past(year, needle, confirms="iypt.org past-tournament page: final ranking", 
 
 
 def cc(year, needle):
-    return src(f"https://cc.iypt.org/iypt{year}/team/brazil/", "cc.iypt.org", "official", "fight line-ups (initial + surname)", "IYPT competition-control team page: Brazil's fight results and speakers", needle)
+    return src(f"https://cc.iypt.org/iypt{year}/team/brazil/", "cc.iypt.org", "official", "fight line-ups (initial + surname)", "IYPT competition-control team page: Brazil's fight results and speakers", needle,
+               timing="event")
 
 
 def wiki(needle):
@@ -52,12 +55,12 @@ def olc(needle, sub=""):
     return src(OLC + sub, "olimpiadascientificas.org", "primary", "full", "olimpiadascientificas.org roster (2004-07, 2011-13) with rank and medal", needle)
 
 
-def noic(url, needle, confirms):
-    return src(url, "noic.com.br", "primary", "full", confirms, needle)
+def noic(url, needle, confirms, timing="post"):
+    return src(url, "noic.com.br", "primary", "full", confirms, needle, timing=timing)
 
 
-def press(url, domain, needle, confirms, coverage="full"):
-    return src(url, domain, "primary", coverage, confirms, needle)
+def press(url, domain, needle, confirms, coverage="full", timing="post"):
+    return src(url, domain, "primary", coverage, confirms, needle, timing=timing)
 
 
 SOURCES = {
@@ -69,7 +72,7 @@ SOURCES = {
  2012: [hist("Guinsberg"), arc_people("Guinsberg"), arc_facts("Brazil"), past(2012, "Brazil"), wiki("Guinsberg"), olc("Guinsberg", "iypt-2012/")],
  2013: [hist("Christovam"), arc_people("Christovam"), arc_facts("Brazil"), past(2013, "Brazil"), wiki("Christovam"), olc("Christovam"),
         noic("https://noic.com.br/uncategorized/resultado-historico-na-iypt-2013/", "Christovam", "NOIC: silver, 7th, team"),
-        press("https://g1.globo.com/educacao/noticia/2013/05/estudantes-brasileiros-vao-disputar-torneio-de-fisica-em-taiwan.html", "g1.globo.com", "Christovam", "G1: team announced with cities", "full (pre-event roster)")],
+        press("https://g1.globo.com/educacao/noticia/2013/05/estudantes-brasileiros-vao-disputar-torneio-de-fisica-em-taiwan.html", "g1.globo.com", "Christovam", "G1: team announced with cities", "full (pre-event roster)", timing="pre")],
  2014: [hist("Ceotto"), arc_people("Ceotto"), arc_facts("Brazil"), past(2014, "Brazil"), wiki("Ceotto"), noic("https://noic.com.br/fisica/iypt/divulgado-o-resultado-da-iypt-2014/", "Ceotto", "NOIC: 18th, team")],
  2015: [hist("Kalife"), arc_people("Kalife"), arc_facts("Brazil"), past(2015, "Brazil"), wiki("Kalife"), noic("https://noic.com.br/fisica/resultado-inedito-para-o-brasil-na-copa-do-mundo-de-fisica/", "Kalife", "NOIC: silver, 5th, team")],
  2016: [hist("Tamae"), arc_people("Tamae"), arc_facts("Brazil"), past(2016, "Brazil"), wiki("Tamae"), noic("https://noic.com.br/uncategorized/brasil-conquista-bronze-na-copa-do-mundo-de-fisica/", "Tamae", "NOIC: bronze, 14th, team")],

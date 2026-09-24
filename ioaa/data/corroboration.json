@@ -24,6 +24,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "both names + medals (\"Thomas Ferreira de Lima (CE) - Prata / Júlio César Neves Campagnolo (PR) - Bronze\")"
         },
@@ -31,6 +32,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "both names + medals, inaugural edition"
         },
@@ -38,6 +40,7 @@
           "url": "https://claffisica.org.br/news-item/brasil-sedia-olimpiada-internacional-de-astronomia-pela-primeira-vez",
           "domain": "claffisica.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/2",
           "confirms": "Julio Campagnolo bronze, \"first Brazilian at IOAA 2007\" — does not name Thomas",
           "needle": "Campagnolo"
@@ -56,6 +59,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all four + medals incl. Katague = participation-only"
         },
@@ -63,6 +67,7 @@
           "url": "http://astrophysicsblogs.blogspot.com/2008/08/2nd-international-olympiad-on-astronomy.html",
           "domain": "astrophysicsblogs.blogspot.com",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official results table with delegation codes (\"BR-ST01 Rafael Parpinel Cavina Silver … BR-ST02 Gustavo Perez Katague Certificate\")",
           "needle": "Katague"
@@ -71,6 +76,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all four incl. Katague = Certificado de participação"
         }
@@ -87,6 +93,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals"
         },
@@ -94,6 +101,7 @@
           "url": "https://clubedeastronomiacmpa.blogspot.com/2009/",
           "domain": "clubedeastronomiacmpa.blogspot.com",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five (\"prata: Hugo Fonseca, Daniel de Barros Soares e Leonardo Stedile; bronze: Thiago Hallak; menção honrosa: Otavio Menezes\")"
         },
@@ -101,6 +109,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals"
         }
@@ -117,6 +126,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals"
         },
@@ -124,6 +134,7 @@
           "url": "http://ccd-oba.blogspot.com/2010/10/ioaa-e-olaa-resultados.html",
           "domain": "ccd-oba.blogspot.com",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "OBA's own blog — all five + medals (Thiago Hallak prata; Luiz Felipe, Tábata, Gustavo Haddad bronze; Tiago Gimenes MH)"
         },
@@ -131,6 +142,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals"
         }
@@ -147,6 +159,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals incl. Bordoni = no award"
         },
@@ -154,6 +167,7 @@
           "url": "https://objetivo.br/institucional/noticias.aspx?titulo=polonia-gustavo-haddad-e-ivan-tadeu-no-podio-da-olimpiada-internacional-de-astronomia-e-astrofisica",
           "domain": "objetivo.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "2/5",
           "confirms": "Gustavo Haddad + Ivan Tadeu bronze",
           "needle": "Haddad"
@@ -162,6 +176,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster + medals"
         }
@@ -178,6 +193,7 @@
           "url": "http://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/ioaa-2012/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full 10-name roster + medals (host-year double team)"
         },
@@ -185,6 +201,7 @@
           "url": "https://www.abc.org.br/2012/08/17/olimpiada-internacional-de-astronomia-termina-com-prata-e-bronze-para-o-brasil/",
           "domain": "abc.org.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "9/10",
           "confirms": "Academia Brasileira de Ciências — 2 silver + 1 bronze + six HM named",
           "needle": "Trianon"
@@ -193,6 +210,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2012 table"
         }
@@ -209,6 +227,7 @@
           "url": "https://agencia.fapesp.br/brasil-ganha-cinco-medalhas-em-olimpiada-internacional-de-astronomia/17703",
           "domain": "agencia.fapesp.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals"
         },
@@ -216,6 +235,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five (gives fuller \"Luis Fernando Machado Poletti Valle\")"
         },
@@ -223,6 +243,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2013 table"
         }
@@ -239,6 +260,7 @@
           "url": "https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_educacaobasica/2014/08/18/ensino_educacaobasica_interna,442913/em-olimpiada-de-astronomia-brasileiros-conquistam-medalha-de-prata.shtml",
           "domain": "correiobraziliense.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "names the 5-student delegation + results (confirms the *Heringer* surname)"
         },
@@ -246,6 +268,7 @@
           "url": "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/",
           "domain": "olimpiadascientificas.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five individual medals"
         },
@@ -253,6 +276,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2014 table"
         }
@@ -269,6 +293,7 @@
           "url": "https://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2015-08/estudantes-brasileiros-sao-premiados-em-olimpiada-internacional",
           "domain": "agenciabrasil.ebc.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "four HM + Pedro Henrique Dias in delegation (spells \"Barscevicius\", \"João Paulo Paiva\")",
           "needle": "Khalil"
@@ -277,6 +302,7 @@
           "url": "https://www.eso.org/public/portugal/announcements/annlocal15001-pt-br/",
           "domain": "eso.org",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Carolina Lima Guimarães HM",
           "needle": "Guimar"
@@ -285,6 +311,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster + medals"
         }
@@ -301,6 +328,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster + medals — the ONLY live source for 2016"
         }
@@ -318,6 +346,7 @@
           "url": "https://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2017-11/brasil-ganha-5-medalhas-na-olimpiada-internacional-de-astronomia",
           "domain": "agenciabrasil.ebc.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "silver + 2 bronze + 2 HM (corrected spellings)"
         },
@@ -325,6 +354,7 @@
           "url": "https://catracalivre.com.br/quem-inova/olimpiada-internacional-de-astronomia-e-astrofisica-premia-brasil/",
           "domain": "catracalivre.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five (confirms \"Gorresen\" and \"Pompeu Carneiro\" spellings)"
         },
@@ -332,6 +362,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2017 table (uses older \"Görressen\"/\"de Sousa\" forms)",
           "needle": "Martins"
@@ -349,6 +380,7 @@
           "url": "https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_ensinosuperior/2018/11/12/ensino_ensinosuperior_interna,719102/brasil-conquista-quatro-medalhas-em-olimpiada-astrofisica-na-china.shtml",
           "domain": "correiobraziliense.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full delegation + results"
         },
@@ -356,6 +388,7 @@
           "url": "https://blog.etapa.com.br/noticias/aluno-etapa-conquista-medalha-na-12a-ioaa",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Bruno Caixeta Piazza silver + team tally",
           "needle": "Piazza"
@@ -364,6 +397,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2018 table"
         }
@@ -380,6 +414,7 @@
           "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-08/brasileiros-sao-destaque-em-olimpiada-internacional-de-astronomia",
           "domain": "agenciabrasil.ebc.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "3 bronze + 2 HM (confirms \"Raul Basilides Gomes\")"
         },
@@ -387,6 +422,7 @@
           "url": "https://coolmagazine.com.br/com-a-maior-participacao-feminina-da-historia-brasil-conquista-tres-medalhas-em-olimpiada-internacional-de-astronomia-e-astrofisica-na-hungria/",
           "domain": "coolmagazine.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + results"
         },
@@ -394,6 +430,7 @@
           "url": "https://blog.etapa.com.br/noticias/etapa-na-maior-competicao-de-astronomia",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "3/5",
           "confirms": "Girotto, Bruna Lopes, Lucas Shoji + team tally",
           "needle": "Girotto"
@@ -411,6 +448,7 @@
           "url": "https://web.archive.org/web/20201104071317/https://gecaa.ee/individual-competition/",
           "domain": "web.archive.org",
           "cls": "official",
+          "timing": "post",
           "coverage": "full",
           "confirms": "Archived gecaa.ee 'Individual Competition Results': first/middle/last name, country, award for every contestant - the ten Brazilians with 4 gold, 2 silver, 4 bronze",
           "needle": "Tanabe de Lima"
@@ -419,6 +457,7 @@
           "url": "https://web.archive.org/web/20201231/https://gecaa.ee/",
           "domain": "web.archive.org",
           "cls": "official",
+          "timing": "ref",
           "coverage": "event",
           "confirms": "Archived gecaa.ee home: 'GeCAA is an online astronomy and astrophysics competition held instead of the cancelled IOAA 2020 by the IOAA international board and Estonian Astronomy Olympiad Committee'",
           "needle": "instead of the cancelled IOAA 2020"
@@ -436,6 +475,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2 golds (Bruno + Otávio), 4 silver, 4 bronze — matches the dataset"
         },
@@ -443,6 +483,7 @@
           "url": "https://www.gov.br/observatorio/pt-br/assuntos/noticias/brasil-conquista-cinco-medalhas-na-olimpiada-internacional-de-astronomia-e-astrofisica-2013-ioaa-2022",
           "domain": "gov.br (Observatório Nacional)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "counts",
           "confirms": "official page referring to 2021's \"dois ouros inéditos\" (two golds)",
           "needle": "ouros"
@@ -451,6 +492,7 @@
           "url": "https://spacewatchafrica.com/brazil-wins-gold-at-the-international-astronomy-and-astrophysics-olympiad-for-the-first-time/",
           "domain": "spacewatchafrica.com",
           "cls": "primary",
+          "timing": "post",
           "coverage": "partial — MINORITY ACCOUNT",
           "confirms": "reports 1 gold (Otávio), Bruno among silvers, Ualype among bronzes — disputed, see note",
           "needle": "Ferrari"
@@ -469,6 +511,7 @@
           "url": "https://www.gov.br/observatorio/pt-br/assuntos/noticias/brasil-conquista-cinco-medalhas-na-olimpiada-internacional-de-astronomia-e-astrofisica-2013-ioaa-2022",
           "domain": "gov.br (Observatório Nacional)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official, all five + medals"
         },
@@ -476,6 +519,7 @@
           "url": "https://www.bandab.com.br/curitiba/estudante-de-curitiba-medalha-de-prata-olimpiada-astronomia-astrofisica/",
           "domain": "bandab.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Jan Bojan Ratier silver + team tally",
           "needle": "Ratier"
@@ -484,6 +528,7 @@
           "url": "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica",
           "domain": "pt.wikipedia.org",
           "cls": "archive",
+          "timing": "post",
           "coverage": "full",
           "confirms": "2022 table"
         }
@@ -500,6 +545,7 @@
           "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/cnpq-em-acao/brasil-conquista-ouro-prata-e-mencao-honrosa-na-16a-olimpiada-internacional-de-astronomia-e-astrofisica-1",
           "domain": "gov.br (CNPq)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official, all five (confirms Gabriel Hemétrio = silver)"
         },
@@ -507,6 +553,7 @@
           "url": "https://www.terra.com.br/byte/brasileiro-ouro-em-olimpiada-de-astronomia-quer-melhorar-energia-renovavel,a35ac98da9411118383d2499c0ffe0d1fq5thlyy.html",
           "domain": "terra.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "full roster + medals"
         },
@@ -514,6 +561,7 @@
           "url": "https://blog.etapa.com.br/noticias/ioaa-2023",
           "domain": "blog.etapa.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "1/5",
           "confirms": "Murilo de Andrade Porfírio gold",
           "needle": "Porf"
@@ -531,6 +579,7 @@
           "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/08/brasil-conquista-cinco-medalhas-na-17a-olimpiada-internacional-de-astronomia-e-astrofisica",
           "domain": "gov.br (MCTI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official, all five + medals"
         },
@@ -538,6 +587,7 @@
           "url": "https://revistaeducacao.com.br/2024/08/27/olimpiada-internacional-de-astronomia-e-astrofisica/",
           "domain": "revistaeducacao.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + home states"
         },
@@ -545,6 +595,7 @@
           "url": "https://jornalpequeno.com.br/2024/08/27/maranhense-de-17-anos-brilha-na-olimpiada-internacional-de-astronomia-e-astrofisica-2024/",
           "domain": "jornalpequeno.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + results"
         }
@@ -561,6 +612,7 @@
           "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/08/jovens-brasileiros-ganham-quatro-medalhas-na-18o-olimpiada-internacional-de-astronomia-e-astrofisica",
           "domain": "gov.br (MCTI)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "official, all five + medals"
         },
@@ -568,6 +620,7 @@
           "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/premios/estudantes-brasileiros-conquistam-14-medalhas-em-olimpiadas-internacionais-de-astronomia-e-astronautica",
           "domain": "gov.br (CNPq)",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "all five + medals (same gov.br domain as MCTI but a different agency)"
         },
@@ -575,6 +628,7 @@
           "url": "https://jtv.com.br/luca-pieroni-pimenta-ouro-olimpiada-internacional-astronomia-2025/",
           "domain": "jtv.com.br",
           "cls": "primary",
+          "timing": "post",
           "coverage": "full",
           "confirms": "Luca Pieroni Pimenta gold + full roster"
         }

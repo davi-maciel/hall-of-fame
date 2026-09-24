@@ -17,26 +17,29 @@ SEL = "/https://olimpiadasbiologiasistema.butantan.gov.br/ResultadoSeletivaInter
 
 def obb(ts, needle, year):
     return src(WB + ts + SEL, "web.archive.org", "archive", "full (pre-event roster)",
-               f"OBB 'Resultado definitivo da Seletiva Internacional' {year} (archived copy; live host gone): IBO + OIAB teams with school and city", needle)
+               f"OBB 'Resultado definitivo da Seletiva Internacional' {year} (archived copy; live host gone): IBO + OIAB teams with school and city", needle,
+               timing="pre")
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    # timing: when the source was produced relative to the edition -
+    # "post" (results/reporting), "event" (during), "pre" (selection/announcement), "ref" (not edition-specific).
+    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms, "timing": timing}
     if needle:
         d["needle"] = needle
     return d
 
 
-def official(path, needle, confirms="official final results PDF: full ranking with names, scores and medals", coverage="full"):
-    return src(R + path, "ibo-info.org", "official", coverage, confirms, needle)
+def official(path, needle, confirms="official final results PDF: full ranking with names, scores and medals", coverage="full", timing="post"):
+    return src(R + path, "ibo-info.org", "official", coverage, confirms, needle, timing=timing)
 
 
-def olc(needle, coverage="full"):
-    return src(OLC, "olimpiadascientificas.org", "primary", coverage, "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017", needle)
+def olc(needle, coverage="full", timing="post"):
+    return src(OLC, "olimpiadascientificas.org", "primary", coverage, "olimpiadascientificas.org roster (sources: OBB site, past IBO sites, NOIC), 2005-2017", needle, timing=timing)
 
 
-def noic(url, needle, confirms, coverage="full"):
-    return src(url, "noic.com.br", "primary", coverage, confirms, needle)
+def noic(url, needle, confirms, coverage="full", timing="post"):
+    return src(url, "noic.com.br", "primary", coverage, confirms, needle, timing=timing)
 
 
 SOURCES = {
@@ -51,14 +54,14 @@ SOURCES = {
         noic("https://noic.com.br/biologia/quadro-de-medalhas-brasileiras-ibo-2013/", "Lavor", "NOIC: Brazilian medal table")],
  2014: [official("IBO2014_FINAL_scores.pdf", "PERTOT", "official final scores (text extraction garbles rows; BRA01-04 identified by code)", "full"), olc("Allan"),
         noic("https://noic.com.br/uncategorized/resultado-brasileiro-na-ibo-2014/", "Allan", "NOIC results post"),
-        noic("https://noic.com.br/biologia/divulgadas-equipes-brasileiras-da-ibo-e-oiab/", "Allan", "NOIC team announcement", "full (pre-event roster)")],
+        noic("https://noic.com.br/biologia/divulgadas-equipes-brasileiras-da-ibo-e-oiab/", "Allan", "NOIC team announcement", "full (pre-event roster)", timing="pre")],
  2015: [official("IBO2015-official-ranking.pdf", "Voltani"), olc("Voltani"),
         noic("https://noic.com.br/biologia/tres-medalhas-para-o-brasil-na-olimpiada-internacional-de-biologia-ibo/", "Voltani", "NOIC results post: 3 bronzes"),
-        noic("https://noic.com.br/biologia/divulgada-a-equipe-brasileira-da-ibo-e-da-oiab-2015/", "Voltani", "NOIC team announcement", "full (pre-event roster)")],
+        noic("https://noic.com.br/biologia/divulgada-a-equipe-brasileira-da-ibo-e-da-oiab-2015/", "Voltani", "NOIC team announcement", "full (pre-event roster)", timing="pre")],
  2016: [official("IBO2016.pdf", "KAWAKAMI"), olc("Kawakami"),
-        noic("https://noic.com.br/uncategorized/divulgadas-as-equipes-brasileiras-nas-internacionais-de-biologia/", "Kawakami", "NOIC team announcement (IBO + OIAB)", "full (pre-event roster)")],
+        noic("https://noic.com.br/uncategorized/divulgadas-as-equipes-brasileiras-nas-internacionais-de-biologia/", "Kawakami", "NOIC team announcement (IBO + OIAB)", "full (pre-event roster)", timing="pre")],
  2017: [official("IBO2017Full.pdf", "Parada"), olc("Parada"),
-        noic("https://noic.com.br/biologia/divulgados-os-representantes-do-brasil-nas-internacionais-de-biologia/", "Coca Parada", "NOIC team announcement with full names (IBO + OIAB)", "full (pre-event roster)")],
+        noic("https://noic.com.br/biologia/divulgados-os-representantes-do-brasil-nas-internacionais-de-biologia/", "Coca Parada", "NOIC team announcement with full names (IBO + OIAB)", "full (pre-event roster)", timing="pre")],
  2018: [official("IBO2018-IBO-Ranking_web.pdf", "Galiza Soares"), noic("https://noic.com.br/uncategorized/confira-resultado-da-ibo/", "Galiza", "NOIC results post")],
  2019: [official("IBO2019-IBO-Ranking_web.pdf", "Jaziel"), noic("https://noic.com.br/uncategorized/duas-medalhas-para-o-brasil-na-ibo/", "Jaziel", "NOIC results post: 2 bronzes")],
  2021: [official("IBO%202021%20-%20IBO%20Challenge%20II%20-%20results.pdf", "Sicupira", "official IBO Challenge II results (remote edition): names + awards"), obb("20210723210710", "SICUPIRA", 2021)],

@@ -20,6 +20,14 @@ sites go offline. That absence is exactly why this trail matters.)
 Optional per-source "needle": string that verify_corroboration.py must find in the
 page (diacritics-insensitive). Sources with coverage=="full" are auto-checked against
 the year's roster surnames instead.
+
+Per-source "timing": when the source was produced relative to the edition it backs.
+  - "post"  : after the edition, reporting participation/results (results pages, medal
+              lists, post-event press, retrospective compilations, alumni profiles).
+  - "event" : produced during the event and naming/showing the team.
+  - "pre"   : before the event (selection results, team announcements, pre-event press).
+  - "ref"   : not evidence about a specific edition's participation (regulations,
+              overview/history pages without a roster, index pages).
 """
 import json
 import os
@@ -31,19 +39,21 @@ OLC = "https://olimpiadascientificas.org/equipes-brasileiras/astronomia/ioaa/"
 PTWIKI = "https://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Astronomia_e_Astrof%C3%ADsica"
 
 
-def olc(confirms, url=OLC):
-    return {"url": url, "domain": "olimpiadascientificas.org", "cls": "archive", "coverage": "full", "confirms": confirms}
+def olc(confirms, url=OLC, timing="post"):
+    return {"url": url, "domain": "olimpiadascientificas.org", "cls": "archive", "timing": timing,
+            "coverage": "full", "confirms": confirms}
 
 
-def wiki(confirms, coverage="full", needle=None):
-    d = {"url": PTWIKI, "domain": "pt.wikipedia.org", "cls": "archive", "coverage": coverage, "confirms": confirms}
+def wiki(confirms, coverage="full", needle=None, timing="post"):
+    d = {"url": PTWIKI, "domain": "pt.wikipedia.org", "cls": "archive", "timing": timing,
+         "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
 
 
-def src(url, domain, cls, coverage, confirms, needle=None):
-    d = {"url": url, "domain": domain, "cls": cls, "coverage": coverage, "confirms": confirms}
+def src(url, domain, cls, coverage, confirms, needle=None, timing="post"):
+    d = {"url": url, "domain": domain, "cls": cls, "timing": timing, "coverage": coverage, "confirms": confirms}
     if needle:
         d["needle"] = needle
     return d
@@ -110,7 +120,7 @@ SOURCES = {
         src("https://blog.etapa.com.br/noticias/etapa-na-maior-competicao-de-astronomia", "blog.etapa.com.br",
             "primary", "3/5", "Girotto, Bruna Lopes, Lucas Shoji + team tally", needle="Girotto")],
  2020: [src("https://web.archive.org/web/20201104071317/https://gecaa.ee/individual-competition/", "web.archive.org", "official", "full", "Archived gecaa.ee 'Individual Competition Results': first/middle/last name, country, award for every contestant - the ten Brazilians with 4 gold, 2 silver, 4 bronze", "Tanabe de Lima"),
-        src("https://web.archive.org/web/20201231/https://gecaa.ee/", "web.archive.org", "official", "event", "Archived gecaa.ee home: 'GeCAA is an online astronomy and astrophysics competition held instead of the cancelled IOAA 2020 by the IOAA international board and Estonian Astronomy Olympiad Committee'", "instead of the cancelled IOAA 2020")],
+        src("https://web.archive.org/web/20201231/https://gecaa.ee/", "web.archive.org", "official", "event", "Archived gecaa.ee home: 'GeCAA is an online astronomy and astrophysics competition held instead of the cancelled IOAA 2020 by the IOAA international board and Estonian Astronomy Olympiad Committee'", "instead of the cancelled IOAA 2020", timing="ref")],
  2021: [wiki("2 golds (Bruno + Otávio), 4 silver, 4 bronze — matches the dataset"),
         src("https://www.gov.br/observatorio/pt-br/assuntos/noticias/brasil-conquista-cinco-medalhas-na-olimpiada-internacional-de-astronomia-e-astrofisica-2013-ioaa-2022",
             "gov.br (Observatório Nacional)", "primary", "counts",
