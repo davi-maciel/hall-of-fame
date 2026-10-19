@@ -14,7 +14,6 @@ Key rules:
   extractor). Every multi-variant merge is printed for human review.
 - medal null is disambiguated into medalNote where known:
     * ijso: medalStatus from ijso/data/raw/ijso.json (unknown / inferred / ...)
-    * oibf 2026: "pending" (roster announced, event not yet held)
     * everywhere else: null medal = confirmed no-award (confirmed below the award cut).
 - participations whose graph record carries `"attendance": "unconfirmed"` are
   SKIPPED: the row rests on a pre-event source only, so it stays in the dataset
@@ -136,8 +135,6 @@ def main():
                 if part["medal"] is None:
                     if note:
                         entry["medalNote"] = note
-                    elif part["olympiad"] == "oibf" and part["year"] == 2026:
-                        entry["medalNote"] = "pending"
                     else:
                         entry["medalNote"] = "no-award"
                 p["participations"].append(entry)

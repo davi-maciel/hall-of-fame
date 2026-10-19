@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-09-15T04:21:38+00:00",
   "summary": {
-    "PASS": 50,
+    "PASS": 55,
     "FAIL-NEEDLE": 4
   },
   "results": [
@@ -436,6 +436,46 @@
       "cls": "primary",
       "status": "PASS",
       "detail": "roster surname 'queiroz'"
+    },
+    {
+      "year": 2026,
+      "url": "https://cdn.ioaastrophysics.org/assets/NEWS/2026/Newsletter/NEWSLETTER%20IOAA%20SO%2010.pdf",
+      "domain": "cdn.ioaastrophysics.org",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Godeiro'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.cnnbrasil.com.br/ciencia/brasil-conquista-medalhas-de-ouro-prata-e-tres-bronzes-na-olimpiada-internacional-de-astronomia/",
+      "domain": "cnnbrasil.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Spuri'"
+    },
+    {
+      "year": 2026,
+      "url": "https://diariodonordeste.verdesmares.com.br/ceara/alunos-do-ce-conquistam-medalhas-de-prata-e-bronze-em-olimpiada-de-astronomia-no-vietna-1.3796840",
+      "domain": "diariodonordeste.verdesmares.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Spuri'"
+    },
+    {
+      "year": 2026,
+      "url": "https://noticiamarajo.com.br/marajo-2/estudante-do-para-conquista-ouro-em-olimpiada-de-astronomia-no-vietna/",
+      "domain": "noticiamarajo.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Eyke'"
+    },
+    {
+      "year": 2026,
+      "url": "https://tribunadosertao.com.br/geral/2026/09/17/980610-cinco-estudantes-representam-o-brasil-na-olimpiada-internacional-de-astronomia-e-astrofisica-no-vietna",
+      "domain": "tribunadosertao.com.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Spuri'"
     }
   ]
 }

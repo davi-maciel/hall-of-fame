@@ -1,13 +1,13 @@
 {
   "students": {
-    "bruno-machado-feltran": {
-      "id": "bruno-machado-feltran",
-      "name": "Bruno Machado Feltran",
-      "searchKey": "bruno machado feltran",
+    "enzo-holanda-sampaio": {
+      "id": "enzo-holanda-sampaio",
+      "name": "Enzo Holanda Sampaio",
+      "searchKey": "enzo holanda sampaio",
       "participations": [
         {
           "olympiad": "oim",
-          "year": 2025,
+          "year": 2026,
           "medal": "gold"
         }
       ]
@@ -21,6 +21,47 @@
           "olympiad": "oim",
           "year": 2025,
           "medal": "silver"
+        },
+        {
+          "olympiad": "oim",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "paulo-jonatas-de-oliveira-pimentel-leite": {
+      "id": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "name": "Paulo Jônatas de Oliveira Pimentel Leite",
+      "searchKey": "paulo jonatas de oliveira pimentel leite",
+      "participations": [
+        {
+          "olympiad": "oim",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "rafael-alves-amiune": {
+      "id": "rafael-alves-amiune",
+      "name": "Rafael Alves Amiune",
+      "searchKey": "rafael alves amiune",
+      "participations": [
+        {
+          "olympiad": "oim",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "bruno-machado-feltran": {
+      "id": "bruno-machado-feltran",
+      "name": "Bruno Machado Feltran",
+      "searchKey": "bruno machado feltran",
+      "participations": [
+        {
+          "olympiad": "oim",
+          "year": 2025,
+          "medal": "gold"
         }
       ]
     },
@@ -2896,11 +2937,47 @@
       "target": "vinicius-pimentel-nunes-portella-de-macedo",
       "olympiad": "oim",
       "year": 2025
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "erick-akira-koga",
+      "olympiad": "oim",
+      "year": 2026
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "olympiad": "oim",
+      "year": 2026
+    },
+    {
+      "source": "enzo-holanda-sampaio",
+      "target": "rafael-alves-amiune",
+      "olympiad": "oim",
+      "year": 2026
+    },
+    {
+      "source": "erick-akira-koga",
+      "target": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "olympiad": "oim",
+      "year": 2026
+    },
+    {
+      "source": "erick-akira-koga",
+      "target": "rafael-alves-amiune",
+      "olympiad": "oim",
+      "year": 2026
+    },
+    {
+      "source": "paulo-jonatas-de-oliveira-pimentel-leite",
+      "target": "rafael-alves-amiune",
+      "olympiad": "oim",
+      "year": 2026
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-09T07:26:21.816368+00:00",
-    "studentCount": 114,
-    "edgeCount": 222
+    "generatedAt": "2026-10-19T04:28:58.565320+00:00",
+    "studentCount": 117,
+    "edgeCount": 228
   }
 }

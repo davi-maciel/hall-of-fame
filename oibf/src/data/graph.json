@@ -8,7 +8,7 @@
         {
           "olympiad": "oibf",
           "year": 2026,
-          "medal": null
+          "medal": "gold"
         }
       ]
     },
@@ -20,7 +20,19 @@
         {
           "olympiad": "oibf",
           "year": 2026,
-          "medal": null
+          "medal": "gold"
+        }
+      ]
+    },
+    "luiz-cavalcante-stedile": {
+      "id": "luiz-cavalcante-stedile",
+      "name": "Luiz Cavalcante Stedile",
+      "searchKey": "luiz cavalcante stedile",
+      "participations": [
+        {
+          "olympiad": "oibf",
+          "year": 2026,
+          "medal": "gold"
         }
       ]
     },
@@ -32,19 +44,7 @@
         {
           "olympiad": "oibf",
           "year": 2026,
-          "medal": null
-        }
-      ]
-    },
-    "victor-helano-xavier-de-castro": {
-      "id": "victor-helano-xavier-de-castro",
-      "name": "Victor Helano Xavier de Castro",
-      "searchKey": "victor helano xavier de castro",
-      "participations": [
-        {
-          "olympiad": "oibf",
-          "year": 2026,
-          "medal": null
+          "medal": "gold"
         }
       ]
     },
@@ -2014,13 +2014,19 @@
     },
     {
       "source": "alan-pinheiro-de-oliveira",
-      "target": "maria-beatriz-mesquita-ximenes",
+      "target": "luiz-cavalcante-stedile",
       "olympiad": "oibf",
       "year": 2026
     },
     {
       "source": "alan-pinheiro-de-oliveira",
-      "target": "victor-helano-xavier-de-castro",
+      "target": "maria-beatriz-mesquita-ximenes",
+      "olympiad": "oibf",
+      "year": 2026
+    },
+    {
+      "source": "joao-vitor-garcia-geiss",
+      "target": "luiz-cavalcante-stedile",
       "olympiad": "oibf",
       "year": 2026
     },
@@ -2031,20 +2037,14 @@
       "year": 2026
     },
     {
-      "source": "joao-vitor-garcia-geiss",
-      "target": "victor-helano-xavier-de-castro",
-      "olympiad": "oibf",
-      "year": 2026
-    },
-    {
-      "source": "maria-beatriz-mesquita-ximenes",
-      "target": "victor-helano-xavier-de-castro",
+      "source": "luiz-cavalcante-stedile",
+      "target": "maria-beatriz-mesquita-ximenes",
       "olympiad": "oibf",
       "year": 2026
     }
   ],
   "metadata": {
-    "generatedAt": "2026-08-16T17:19:33.734350+00:00",
+    "generatedAt": "2026-10-19T04:31:34.914276+00:00",
     "studentCount": 98,
     "edgeCount": 144
   }

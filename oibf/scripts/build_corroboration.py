@@ -145,17 +145,26 @@ SOURCES = {
             "official medallero: 3G (Alexandre, Arthur Hwang, Rafael Sena + best theoretical) + 1S (Augusto Burlacchini)", "Burlacchini"),
         src("https://www1.fisica.org.br/olimpiada/2023/index.php/15-soif/333-brasil-conquista-3-ouros-e-1-prata-na-oibf-2023",
             "fisica.org.br", "primary", "full", "SBF results 3G/1S", "Rafael Sena")],
+ 2026: [src("https://app.graxaim.org/oibf/2026/page/barrier/awards/0", "app.graxaim.org (official XXIX)", "official", "full",
+            "official ranked awards list: 4 golds at ranks 1, 4, 5, 6 + Top Gold/best experimental (Stedile), best theoretical (Pinheiro de Oliveira), female distinction (Ximenes)", "Stedile"),
+        src("https://app.graxaim.org/oibf/2026/open_page/delegacoes", "app.graxaim.org (official XXIX)", "official", "full",
+            "official delegation list: the four students who competed (no second Brazilian team)", "Stedile", timing="event"),
+        src("https://www.sbfisica.org.br/v1/sbf/brasil-domina-olimpiada-ibero-americana-de-fisica/",
+            "sbfisica.org.br", "primary", "full", "SBF news (2026-10-06): 4 golds + special awards", "Stedile"),
+        src("https://uepb.edu.br/em-joao-pessoa-universidade-estadual-protagoniza-organizacao-da-olimpiada-ibero-americana-de-fisica/",
+            "uepb.edu.br", "primary", "full", "host university (co-organizer) news (2026-10-09): 4 golds + special awards", "Stedile")],
 }
 
 NOTES = {
  2003: "Official PDF lists awardees only — Milton Eiji Kato's absence = confirmed no-award (dataset medal null is correct); SBF team page lists him without a medal.",
  2010: "Edition confirmed held (XV, Panama; Brazil 4 golds) — contra any claim of a 2010 gap.",
+ 2026: "XXIX, João Pessoa (Brazil host), 25 Sep-2 Oct; 59 students, 16 countries. Substitution: the announced Victor Helano Xavier de Castro (TBF 2026 list tagged him OIbF) did not compete; Luiz Cavalcante Stedile (TBF 2026, untagged) took the place - official delegation + awards pages name Stedile, no source names Victor Helano. TBF list spells 'Cavalcanti'; every OIbF source has 'Cavalcante' (kept). All four results sources sit on the organizer/host side (official site, SBF, UEPB); no independent press/school item found 2026-10-18.",
  2022: "Virtual edition; official Google-Sites medallero is image-based (not text-verifiable) — SBF's live article is the text-verified record. Spelling conflict 'Mazzili' (SBF) vs 'Mazili' (dataset, from EuPhO source) unresolved — official medallero can't adjudicate.",
 }
 
 GLOBAL_NOTES = [
  "PDF-origin recovery (2026-08-22): the per-edition premiacoes PDFs are stable live files at fisica.org.br/~oibf/.../premiacoes_n/{YEAR}_{ROMAN}.pdf; Wayback snapshots exist for all 22.",
- "2024 and 2025 editions were cancelled (not sourced); 2026 roster is in the dataset with pending medals (grandfathered) — corroborate after the event.",
+ "2024 and 2025 editions were cancelled (not sourced). 2026 (Brazil host) results added 2026-10-18 — the grandfathered pre-event roster was replaced by the official delegation (one substitution, see 2026 note).",
  "PDF text layers contain garbled names in some years (2009 'Rolim Mendez', 2011 'Lara Timbo Aram', 2021 'boliviaBarros' artifact) — the SBF team pages carry the clean full names; dataset spellings verified against the cleaner of the two.",
  "Spelling watch (source vs dataset, unresolved but low-stakes): 2015 Florentino RESOLVED 2026-08-22: merged with IJSO's Leonardo Henrique Martins Florentino (site alias); 2016 'Fontelles' vs 'Fonteles'; 2018 'Fernandez' vs 'Fernandes'.",
  "sbf1.sbfisica.org.br now answers with a fake-200 'Object Moved' page — the live host is sec.sbfisica.org.br (fixed 2026-08-22).",

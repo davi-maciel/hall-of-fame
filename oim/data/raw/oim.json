@@ -917,5 +917,29 @@
     "olympiadId": "oim",
     "year": 2025,
     "medal": "silver"
+  },
+  {
+    "rawName": "Enzo Holanda Sampaio",
+    "olympiadId": "oim",
+    "year": 2026,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Erick Akira Koga",
+    "olympiadId": "oim",
+    "year": 2026,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Rafael Alves Amiune",
+    "olympiadId": "oim",
+    "year": 2026,
+    "medal": "gold"
+  },
+  {
+    "rawName": "Paulo Jônatas de Oliveira Pimentel Leite",
+    "olympiadId": "oim",
+    "year": 2026,
+    "medal": "silver"
   }
 ]

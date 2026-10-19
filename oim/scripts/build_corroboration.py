@@ -2,6 +2,7 @@
 """
 Corroboration for Brazil at the OIM (repo-standard). 2026-09-09 collection pass:
 every URL fetched and content-verified. Editions: 1985, 1987-2025 (40; no 1986 edition).
+2026-10-18: 41st OIM (Buenos Aires) added from the host's results page + OBM.
 """
 import json
 import os
@@ -46,7 +47,7 @@ NEEDLE = {
  2005: "Hoshina", 2006: "Linhares Rodrigues", 2007: "Pondé", 2008: "Finder", 2009: "Lopes Pedroso", 2010: "Empinotti",
  2011: "Camelo", 2012: "Miyazaki", 2013: "Oliveira Reis", 2014: "Zanarella", 2015: "Vercelli", 2016: "Jhen Shan",
  2017: "Hisatsuga", 2018: "Sponchiado", 2019: "Prieto", 2020: "Zeus", 2021: "Machado Lage", 2022: "Torkomian",
- 2023: "Giglio", 2024: "Bandeira Lemos", 2025: "Feltran",
+ 2023: "Giglio", 2024: "Bandeira Lemos", 2025: "Feltran", 2026: "Amiune",
 }
 PARTIAL = {1985: "medalists only (2 named; delegation size undetermined)", 1989: "medalists only (2 named)",
            1991: "medalists only (2 named)", 1992: "medalists only (3 named)"}
@@ -72,6 +73,11 @@ POSTS = {
         post("https://noic.com.br/uncategorized/confira-o-resultado-da-olimpiada-ibero-americana-de-matematica/", "Giglio", "NOIC results post: 4 names + medals", domain="noic.com.br")],
  2024: [post("https://www.obm.org.br/2024/09/25/brasil-brilha-na-39a-olimpiada-ibero-americana-de-matematica/", "Bandeira Lemos", "OBM news: 4 names + medals")],
  2025: [post("https://www.obm.org.br/2025/09/28/brasil-e-campeao-na-olimpiada-ibero-americana-de-matematica-no-chile/", "Feltran", "OBM news: 4 names, points, medals; leaders; team champion")],
+ 2026: [src("https://ibero2026.oma.org.ar/es/resultados/", "ibero2026.oma.org.ar", "official", "full",
+            "host (OMA) results table: 4 names, per-problem scores, totals, medals", "Pimentel Leite"),
+        post("https://www.obm.org.br/2026/09/14/brasil-e-campeao-da-41a-olimpiada-ibero-americana-de-matematica/", "Amiune", "OBM news: 4 names, states, points, medals; team champion"),
+        src("https://www.unotv.com/nacional/jovenes-mexicanos-conquistan-4-medallas-y-el-subcampeonato-de-matematicas-en-argentina/", "unotv.com", "counts",
+            "team total only", "Mexican press: Brazil 1st with 123 points (= 33+33+30+27); no Brazilian names", "123")],
 }
 
 
@@ -107,13 +113,13 @@ NOTES = {
  2022: "'Gabriel Cruz Vitale Torkomian' = IMO-DB 'Gabriel Torkomian' (OBM IMO 2022 team post) - site alias.",
  2024: "OBM table 'Marco Aurélio Nogueira D’ Emidio' -> D'Emidio; OBM post 'Castelo Branco' -> Castello (IMO/APMO).",
  2025: "40th edition, Temuco; Brazil champion (3G+1S). Bruno Machado Feltran = the ipho/eupho/ijso/apmo contestant (São Paulo, OBM awardee).",
+ 2026: "41st edition, Buenos Aires, 6-13 Sep; Brazil champion (3G+1S, 123 points; Mexico 117, Spain 112). Koga and Sampaio tied for the top individual score (33). Per-name evidence rests on two organizations (host OMA + OBM); no IMPA/NOIC/press item naming the students found 2026-10-18 - third per-name source pending.",
 }
 
 GLOBAL_NOTES = [
  "Teams of up to four (under 18, at most two participations). OBM's all-years results table is the naming source for every edition; it lists medals only (no honourable mentions or certificates), and for 1985/1989/1991/1992 fewer than four names - rosters for those years may be partial.",
  "rawName policy: OBM table forms with initials expanded from the archived OBM page, OLC and the IMO dataset (most-complete documented form); spellings aligned to the IMO dataset where the student is already there (~70 of 113 also appear in imo/).",
  "medal null occurs once: Carlos Gustavo Tamm de Araújo Moreira 1990, hors concours (medalStatus).",
- "Not added: 41st OIM 2026 (Buenos Aires) - team announced 2026-08-14, event not yet held on 2026-09-09.",
 ]
 
 YEARS = sorted(SOURCES)
@@ -139,9 +145,10 @@ def main():
         "olympiadId": "oim",
         "description": "Sources confirming Brazilian OIM contestants + results, per edition.",
         "provenanceClasses": {
-            "official": "(none online - OEI's historical OIM site is offline)",
+            "official": "Host-edition results pages (2026 on); OEI's historical OIM site is offline.",
             "primary": "OBM (national organizer) all-years results table and news; olimpiadascientificas.org mirror; NOIC; IMPA.",
             "archive": "Wayback snapshots of OBM's former site (1985-2016 team pages).",
+            "counts": "corroborates the team result only, no individual names.",
         },
         "globalNotes": GLOBAL_NOTES,
         "years": records,

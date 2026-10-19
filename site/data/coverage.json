@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24",
+ "generatedAt": "2026-10-18",
  "olympiads": [
   {
    "id": "apmo",
@@ -76,9 +76,9 @@
    "code": "OIM",
    "name": "Olimpíada Ibero-americana de Matemática",
    "field": "matematica",
-   "attended": 40,
-   "span": "1985–2025",
-   "complete": 36,
+   "attended": 41,
+   "span": "1985–2026",
+   "complete": 37,
    "gaps": [
     {
      "year": null,
@@ -208,7 +208,7 @@
    "field": "fisica",
    "attended": 25,
    "span": "2000–2026",
-   "complete": 21,
+   "complete": 22,
    "gaps": [
     {
      "year": 2000,
@@ -221,13 +221,9 @@
     {
      "year": 2003,
      "label": "um resultado não publicado"
-    },
-    {
-     "year": 2026,
-     "label": "resultados pendentes"
     }
    ],
-   "caveat": "2000 e 2002: 3 de 4 nomes; 2003: um resultado não consta do PDF oficial; 2026: equipe anunciada, resultados pendentes."
+   "caveat": "2000 e 2002: 3 de 4 nomes; 2003: um resultado não consta do PDF oficial."
   },
   {
    "id": "wopho",
@@ -336,9 +332,9 @@
    "code": "IOAA",
    "name": "Int'l Olympiad on Astronomy and Astrophysics",
    "field": "astronomia",
-   "attended": 19,
-   "span": "2007–2025",
-   "complete": 19,
+   "attended": 20,
+   "span": "2007–2026",
+   "complete": 20,
    "gaps": [],
    "caveat": "2021: as fontes divergem sobre o número de ouros (dois na contagem oficial, um em relatos)."
   },

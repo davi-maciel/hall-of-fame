@@ -3,7 +3,7 @@
 Brazilian students at the OIbF. Part of the hall-of-fame data collection —
 one olympiad per folder, shared schema.
 
-Coverage: 2000–2023 (+2026 roster pending results; 2024–25 cancelled).
+Coverage: 2000–2023 + 2026 (2024–25 cancelled).
 
 ```
 data/raw/oibf.json       canonical records (name, year, medal) — edit this file

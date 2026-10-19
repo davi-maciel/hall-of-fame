@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T22:08:17+00:00",
+ "generatedAt": "2026-10-19T16:38:27+00:00",
  "byOlympiad": {
   "imo": {
    "1979": {
@@ -4621,6 +4621,54 @@
       "lucas-amaral-jensen": "full"
      }
     }
+   },
+   "2026": {
+    "https://cdn.ioaastrophysics.org/assets/NEWS/2026/Newsletter/NEWSLETTER%20IOAA%20SO%2010.pdf": {
+     "status": "text",
+     "found": {
+      "arthur-alencar-spuri": "full",
+      "biatriz-soares-silva": "full",
+      "eyke-cardoso-de-souza-torres": "full",
+      "isaac-victor-de-araujo-santos": "full",
+      "jailson-henrique-godeiro-neto": "full"
+     }
+    },
+    "https://www.cnnbrasil.com.br/ciencia/brasil-conquista-medalhas-de-ouro-prata-e-tres-bronzes-na-olimpiada-internacional-de-astronomia/": {
+     "status": "text",
+     "found": {
+      "arthur-alencar-spuri": "full",
+      "biatriz-soares-silva": "full",
+      "eyke-cardoso-de-souza-torres": "full",
+      "isaac-victor-de-araujo-santos": "full",
+      "jailson-henrique-godeiro-neto": "full"
+     }
+    },
+    "https://diariodonordeste.verdesmares.com.br/ceara/alunos-do-ce-conquistam-medalhas-de-prata-e-bronze-em-olimpiada-de-astronomia-no-vietna-1.3796840": {
+     "status": "text",
+     "found": {
+      "arthur-alencar-spuri": "full",
+      "biatriz-soares-silva": "full",
+      "eyke-cardoso-de-souza-torres": "full",
+      "isaac-victor-de-araujo-santos": "full",
+      "jailson-henrique-godeiro-neto": "full"
+     }
+    },
+    "https://noticiamarajo.com.br/marajo-2/estudante-do-para-conquista-ouro-em-olimpiada-de-astronomia-no-vietna/": {
+     "status": "text",
+     "found": {
+      "eyke-cardoso-de-souza-torres": "firstlast"
+     }
+    },
+    "https://tribunadosertao.com.br/geral/2026/09/17/980610-cinco-estudantes-representam-o-brasil-na-olimpiada-internacional-de-astronomia-e-astrofisica-no-vietna": {
+     "status": "text",
+     "found": {
+      "arthur-alencar-spuri": "full",
+      "biatriz-soares-silva": "full",
+      "eyke-cardoso-de-souza-torres": "full",
+      "isaac-victor-de-araujo-santos": "full",
+      "jailson-henrique-godeiro-neto": "full"
+     }
+    }
    }
   },
   "ipho": {
@@ -6222,6 +6270,44 @@
       "arthur-jiun-wei-hwang": "full",
       "augusto-carneiro-burlacchini-de-carvalho": "full",
       "rafael-sena-lima-sousa": "full"
+     }
+    }
+   },
+   "2026": {
+    "https://app.graxaim.org/oibf/2026/page/barrier/awards/0": {
+     "status": "text",
+     "found": {
+      "alan-pinheiro-de-oliveira": "full",
+      "joao-vitor-garcia-geiss": "full",
+      "luiz-cavalcante-stedile": "full",
+      "maria-beatriz-mesquita-ximenes": "full"
+     }
+    },
+    "https://app.graxaim.org/oibf/2026/open_page/delegacoes": {
+     "status": "text",
+     "found": {
+      "alan-pinheiro-de-oliveira": "full",
+      "joao-vitor-garcia-geiss": "full",
+      "luiz-cavalcante-stedile": "full",
+      "maria-beatriz-mesquita-ximenes": "full"
+     }
+    },
+    "https://www.sbfisica.org.br/v1/sbf/brasil-domina-olimpiada-ibero-americana-de-fisica/": {
+     "status": "text",
+     "found": {
+      "alan-pinheiro-de-oliveira": "full",
+      "joao-vitor-garcia-geiss": "full",
+      "luiz-cavalcante-stedile": "full",
+      "maria-beatriz-mesquita-ximenes": "full"
+     }
+    },
+    "https://uepb.edu.br/em-joao-pessoa-universidade-estadual-protagoniza-organizacao-da-olimpiada-ibero-americana-de-fisica/": {
+     "status": "text",
+     "found": {
+      "alan-pinheiro-de-oliveira": "full",
+      "joao-vitor-garcia-geiss": "full",
+      "luiz-cavalcante-stedile": "full",
+      "maria-beatriz-mesquita-ximenes": "full"
      }
     }
    }
@@ -11018,6 +11104,39 @@
       "levi-magalhaes-pereira-castello-branco": "full",
       "vinicius-pimentel-nunes-portella-de-macedo": "full"
      }
+    }
+   },
+   "2026": {
+    "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/": {
+     "status": "text",
+     "found": {
+      "enzo-holanda-sampaio": "full",
+      "erick-akira-koga": "full",
+      "paulo-jonatas-de-oliveira-pimentel-leite": "full",
+      "rafael-alves-amiune": "full"
+     }
+    },
+    "https://ibero2026.oma.org.ar/es/resultados/": {
+     "status": "text",
+     "found": {
+      "enzo-holanda-sampaio": "full",
+      "erick-akira-koga": "full",
+      "paulo-jonatas-de-oliveira-pimentel-leite": "full",
+      "rafael-alves-amiune": "full"
+     }
+    },
+    "https://www.obm.org.br/2026/09/14/brasil-e-campeao-da-41a-olimpiada-ibero-americana-de-matematica/": {
+     "status": "text",
+     "found": {
+      "enzo-holanda-sampaio": "full",
+      "erick-akira-koga": "full",
+      "paulo-jonatas-de-oliveira-pimentel-leite": "full",
+      "rafael-alves-amiune": "full"
+     }
+    },
+    "https://www.unotv.com/nacional/jovenes-mexicanos-conquistan-4-medallas-y-el-subcampeonato-de-matematicas-en-argentina/": {
+     "status": "text",
+     "found": {}
     }
    }
   },

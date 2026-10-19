@@ -14,8 +14,10 @@ Provenance classes:
                 official/organizer data (olimpiadascientificas.org, pt.wikipedia,
                 mirrored official result tables).
   - "counts"  : corroborates medal counts only, no individual names.
-(No "official" class: the IOAA has no permanent official results database; host-year
-sites go offline. That absence is exactly why this trail matters.)
+  - "official": the organizer's own publication of the results (2026 on: the host's final
+                daily newsletter, hosted on the IOAA site's CDN).
+(The IOAA has no permanent official results database; host-year sites go offline.
+That absence is exactly why this trail matters.)
 
 Optional per-source "needle": string that verify_corroboration.py must find in the
 page (diacritics-insensitive). Sources with coverage=="full" are auto-checked against
@@ -151,11 +153,25 @@ SOURCES = {
             "gov.br (CNPq)", "primary", "full", "all five + medals (same gov.br domain as MCTI but a different agency)"),
         src("https://jtv.com.br/luca-pieroni-pimenta-ouro-olimpiada-internacional-astronomia-2025/",
             "jtv.com.br", "primary", "full", "Luca Pieroni Pimenta gold + full roster")],
+ 2026: [src("https://cdn.ioaastrophysics.org/assets/NEWS/2026/Newsletter/NEWSLETTER%20IOAA%20SO%2010.pdf",
+            "cdn.ioaastrophysics.org", "official", "full",
+            "host's final daily newsletter (Sao Khuê #10): gold/silver/bronze/HM lists with countries; all five Brazilians", needle="Godeiro"),
+        src("https://www.cnnbrasil.com.br/ciencia/brasil-conquista-medalhas-de-ouro-prata-e-tres-bronzes-na-olimpiada-internacional-de-astronomia/",
+            "cnnbrasil.com.br", "primary", "full", "CNN Brasil (2026-10-05 14:33): all five + per-student medals", needle="Spuri"),
+        src("https://diariodonordeste.verdesmares.com.br/ceara/alunos-do-ce-conquistam-medalhas-de-prata-e-bronze-em-olimpiada-de-astronomia-no-vietna-1.3796840",
+            "diariodonordeste.verdesmares.com.br", "primary", "full — names; medal split only for Eyke",
+            "press (2026-10-06): all five; Eyke gold, the four Ceará students 1S+3B together", needle="Spuri"),
+        src("https://noticiamarajo.com.br/marajo-2/estudante-do-para-conquista-ouro-em-olimpiada-de-astronomia-no-vietna/",
+            "noticiamarajo.com.br", "primary", "1/5", "press (Diário do Pará, 2026-10-07): Eyke gold + team 1S+3B", needle="Eyke"),
+        src("https://tribunadosertao.com.br/geral/2026/09/17/980610-cinco-estudantes-representam-o-brasil-na-olimpiada-internacional-de-astronomia-e-astrofisica-no-vietna",
+            "tribunadosertao.com.br", "primary", "full — pre-event roster", "OBA-sourced team announcement (2026-09-17)",
+            needle="Spuri", timing="pre")],
 }
 
 NOTES = {
  2007: "Shortfall: only two sources corroborate *both* students; the third names one. Stronger both-name sources (OBA, an INPE PDF) were offline at verification time (2026-05-30).",
  2016: "Weakest-sourced year: only PT-Wikipedia lists the roster live. OBA page (idconteudo=714) 404s, olimpiadascientificas stops at 2014, host/international sites name no Brazilians. The earlier \"Sciacca\" spelling (OBA-only) is therefore unverifiable and was reverted.",
+ 2026: "19th IOAA, Hanoi (Phenikaa University), 25 Sep-5 Oct: 1G+1S+3B, no guest team. The newsletter's extracted text prints the bronze and HM headings side by side; the list holding Godeiro, Soares Silva and De Araujo Santos has exactly 60 names and 60 countries (= the 60 bronzes), the next 22 (= HMs) has no Brazil. Diário do Nordeste quotes Biatriz on 'uma medalha de prata' - loose wording, the official list and CNN Brasil both give her bronze and Arthur silver. Official spelling 'Isaac Victor De Araujo Santos', press 'de Araújo' (kept). Eyke also in a winning mixed group-competition team. No OBA/Observatório Nacional results item yet (checked 2026-10-18). Not cited: boca.com.br (same day, 17 min after CNN Brasil, near-identical wording - a rewrite, not independent).",
  2021: "Medal-split dispute: dataset follows ON + OBA + PT-Wikipedia = 2 golds (Bruno=gold, Ualype=silver). Minority account (spacewatchafrica + Colégio Etapa, https://blog.etapa.com.br/noticias/ioaa-2021) = 1 gold, Bruno=silver, Ualype=bronze. Team of 10 undisputed. Definitive ioaa2021.com results PDF is offline (404).",
 }
 
@@ -195,6 +211,7 @@ def main():
         "olympiadId": "ioaa",
         "description": "Independent web sources confirming Brazilian IOAA participants + results, per edition.",
         "provenanceClasses": {
+            "official": "The organizer's own results publication (2026: host's final newsletter on the IOAA CDN).",
             "primary": "Genuinely independent reporting naming Brazilian competitors + results (gov.br agencies, OBA blog, ABC, FAPESP, Agência Brasil, press, schools).",
             "archive": "Result compilations naming the roster but likely derived from organizer data (olimpiadascientificas.org, pt.wikipedia, mirrored result tables).",
             "counts": "Corroborates medal counts only, no individual names.",

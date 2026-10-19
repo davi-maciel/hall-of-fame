@@ -3,7 +3,7 @@
 Brazilian students at the OIM. Part of the hall-of-fame data collection —
 one olympiad per folder, shared schema.
 
-Coverage: 1985–2025, every edition (no edition in 1986). Teams of up to 4.
+Coverage: 1985–2026, every edition (no edition in 1986). Teams of up to 4.
 
 ```
 data/raw/oim.json        canonical records (name, year, medal) — edit this file

@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-08-22T16:42:53+00:00",
   "summary": {
-    "PASS": 69,
+    "PASS": 73,
     "PASS-STATUS": 1
   },
   "results": [
@@ -564,6 +564,38 @@
       "cls": "primary",
       "status": "PASS",
       "detail": "needle 'Rafael Sena'"
+    },
+    {
+      "year": 2026,
+      "url": "https://app.graxaim.org/oibf/2026/page/barrier/awards/0",
+      "domain": "app.graxaim.org (official XXIX)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Stedile'"
+    },
+    {
+      "year": 2026,
+      "url": "https://app.graxaim.org/oibf/2026/open_page/delegacoes",
+      "domain": "app.graxaim.org (official XXIX)",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Stedile'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.sbfisica.org.br/v1/sbf/brasil-domina-olimpiada-ibero-americana-de-fisica/",
+      "domain": "sbfisica.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Stedile'"
+    },
+    {
+      "year": 2026,
+      "url": "https://uepb.edu.br/em-joao-pessoa-universidade-estadual-protagoniza-organizacao-da-olimpiada-ibero-americana-de-fisica/",
+      "domain": "uepb.edu.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Stedile'"
     }
   ]
 }

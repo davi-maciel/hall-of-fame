@@ -1,5 +1,65 @@
 {
   "students": {
+    "arthur-alencar-spuri": {
+      "id": "arthur-alencar-spuri",
+      "name": "Arthur Alencar Spuri",
+      "searchKey": "arthur alencar spuri",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2026,
+          "medal": "silver"
+        }
+      ]
+    },
+    "biatriz-soares-silva": {
+      "id": "biatriz-soares-silva",
+      "name": "Biatriz Soares Silva",
+      "searchKey": "biatriz soares silva",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "eyke-cardoso-de-souza-torres": {
+      "id": "eyke-cardoso-de-souza-torres",
+      "name": "Eyke Cardoso de Souza Torres",
+      "searchKey": "eyke cardoso de souza torres",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2026,
+          "medal": "gold"
+        }
+      ]
+    },
+    "isaac-victor-de-araujo-santos": {
+      "id": "isaac-victor-de-araujo-santos",
+      "name": "Isaac Victor de Araújo Santos",
+      "searchKey": "isaac victor de araujo santos",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
+    "jailson-henrique-godeiro-neto": {
+      "id": "jailson-henrique-godeiro-neto",
+      "name": "Jailson Henrique Godeiro Neto",
+      "searchKey": "jailson henrique godeiro neto",
+      "participations": [
+        {
+          "olympiad": "ioaa",
+          "year": 2026,
+          "medal": "bronze"
+        }
+      ]
+    },
     "francisco-carluccio-de-andrade": {
       "id": "francisco-carluccio-de-andrade",
       "name": "Francisco Carluccio de Andrade",
@@ -2839,11 +2899,71 @@
       "target": "lucas-amaral-jensen",
       "olympiad": "ioaa",
       "year": 2025
+    },
+    {
+      "source": "arthur-alencar-spuri",
+      "target": "biatriz-soares-silva",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "arthur-alencar-spuri",
+      "target": "eyke-cardoso-de-souza-torres",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "arthur-alencar-spuri",
+      "target": "isaac-victor-de-araujo-santos",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "arthur-alencar-spuri",
+      "target": "jailson-henrique-godeiro-neto",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "biatriz-soares-silva",
+      "target": "eyke-cardoso-de-souza-torres",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "biatriz-soares-silva",
+      "target": "isaac-victor-de-araujo-santos",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "biatriz-soares-silva",
+      "target": "jailson-henrique-godeiro-neto",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "isaac-victor-de-araujo-santos",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "eyke-cardoso-de-souza-torres",
+      "target": "jailson-henrique-godeiro-neto",
+      "olympiad": "ioaa",
+      "year": 2026
+    },
+    {
+      "source": "isaac-victor-de-araujo-santos",
+      "target": "jailson-henrique-godeiro-neto",
+      "olympiad": "ioaa",
+      "year": 2026
     }
   ],
   "metadata": {
-    "generatedAt": "2026-09-24T05:50:47.098590+00:00",
-    "studentCount": 88,
-    "edgeCount": 282
+    "generatedAt": "2026-10-19T04:33:13.134323+00:00",
+    "studentCount": 93,
+    "edgeCount": 292
   }
 }

@@ -2,15 +2,15 @@
   "olympiadId": "oim",
   "description": "Sources confirming Brazilian OIM contestants + results, per edition.",
   "provenanceClasses": {
-    "official": "(none online - OEI's historical OIM site is offline)",
+    "official": "Host-edition results pages (2026 on); OEI's historical OIM site is offline.",
     "primary": "OBM (national organizer) all-years results table and news; olimpiadascientificas.org mirror; NOIC; IMPA.",
-    "archive": "Wayback snapshots of OBM's former site (1985-2016 team pages)."
+    "archive": "Wayback snapshots of OBM's former site (1985-2016 team pages).",
+    "counts": "corroborates the team result only, no individual names."
   },
   "globalNotes": [
     "Teams of up to four (under 18, at most two participations). OBM's all-years results table is the naming source for every edition; it lists medals only (no honourable mentions or certificates), and for 1985/1989/1991/1992 fewer than four names - rosters for those years may be partial.",
     "rawName policy: OBM table forms with initials expanded from the archived OBM page, OLC and the IMO dataset (most-complete documented form); spellings aligned to the IMO dataset where the student is already there (~70 of 113 also appear in imo/).",
-    "medal null occurs once: Carlos Gustavo Tamm de Araújo Moreira 1990, hors concours (medalStatus).",
-    "Not added: 41st OIM 2026 (Buenos Aires) - team announced 2026-08-14, event not yet held on 2026-09-09."
+    "medal null occurs once: Carlos Gustavo Tamm de Araújo Moreira 1990, hors concours (medalStatus)."
   ],
   "years": [
     {
@@ -1457,6 +1457,52 @@
         }
       ],
       "note": "40th edition, Temuco; Brazil champion (3G+1S). Bruno Machado Feltran = the ipho/eupho/ijso/apmo contestant (São Paulo, OBM awardee)."
+    },
+    {
+      "year": 2026,
+      "namingSourceCount": 3,
+      "independentPrimaryCount": 3,
+      "meetsThreeNaming": true,
+      "meetsThreePrimary": true,
+      "sources": [
+        {
+          "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "timing": "post",
+          "coverage": "full",
+          "confirms": "national organizer results table (all 40 editions): names, city/state, medal",
+          "needle": "Amiune"
+        },
+        {
+          "url": "https://ibero2026.oma.org.ar/es/resultados/",
+          "domain": "ibero2026.oma.org.ar",
+          "cls": "official",
+          "timing": "post",
+          "coverage": "full",
+          "confirms": "host (OMA) results table: 4 names, per-problem scores, totals, medals",
+          "needle": "Pimentel Leite"
+        },
+        {
+          "url": "https://www.obm.org.br/2026/09/14/brasil-e-campeao-da-41a-olimpiada-ibero-americana-de-matematica/",
+          "domain": "obm.org.br",
+          "cls": "primary",
+          "timing": "post",
+          "coverage": "full",
+          "confirms": "OBM news: 4 names, states, points, medals; team champion",
+          "needle": "Amiune"
+        },
+        {
+          "url": "https://www.unotv.com/nacional/jovenes-mexicanos-conquistan-4-medallas-y-el-subcampeonato-de-matematicas-en-argentina/",
+          "domain": "unotv.com",
+          "cls": "counts",
+          "timing": "post",
+          "coverage": "team total only",
+          "confirms": "Mexican press: Brazil 1st with 123 points (= 33+33+30+27); no Brazilian names",
+          "needle": "123"
+        }
+      ],
+      "note": "41st edition, Buenos Aires, 6-13 Sep; Brazil champion (3G+1S, 123 points; Mexico 117, Spain 112). Koga and Sampaio tied for the top individual score (33). Per-name evidence rests on two organizations (host OMA + OBM); no IMPA/NOIC/press item naming the students found 2026-10-18 - third per-name source pending."
     }
   ]
 }

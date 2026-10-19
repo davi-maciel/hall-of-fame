@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-09-09T07:27:50+00:00",
   "summary": {
-    "PASS": 102,
+    "PASS": 106,
     "FAIL-HTTP": 16,
     "PASS-STATUS": 1
   },
@@ -957,6 +957,38 @@
       "cls": "primary",
       "status": "PASS",
       "detail": "needle 'Feltran'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/resultados-do-brasil-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2026,
+      "url": "https://ibero2026.oma.org.ar/es/resultados/",
+      "domain": "ibero2026.oma.org.ar",
+      "cls": "official",
+      "status": "PASS",
+      "detail": "needle 'Pimentel Leite'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.obm.org.br/2026/09/14/brasil-e-campeao-da-41a-olimpiada-ibero-americana-de-matematica/",
+      "domain": "obm.org.br",
+      "cls": "primary",
+      "status": "PASS",
+      "detail": "needle 'Amiune'"
+    },
+    {
+      "year": 2026,
+      "url": "https://www.unotv.com/nacional/jovenes-mexicanos-conquistan-4-medallas-y-el-subcampeonato-de-matematicas-en-argentina/",
+      "domain": "unotv.com",
+      "cls": "counts",
+      "status": "PASS",
+      "detail": "needle '123'"
     }
   ]
 }
